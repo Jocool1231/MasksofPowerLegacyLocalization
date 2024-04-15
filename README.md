@@ -20,4 +20,4 @@ A few rules:
   - **</>** a forward slash inside angle brackets indicates the end of a visual change in the text.
   - Anything within **{}** curly brackets is replaced with a variable.
 
-When you want to submit your changes, make a pull request, and if everything is in order it will be approved.
+When you want to submit your changes, make a pull request including the new file, and if everything is in order it will be approved.
