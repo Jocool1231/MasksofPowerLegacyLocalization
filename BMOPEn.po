@@ -1,17 +1,136 @@
-﻿# Game English translation.
+# Game English translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-04-15 22:43\n"
-"PO-Revision-Date: 2024-04-15 22:43\n"
+"POT-Creation-Date: 2024-04-15 23:39\n"
+"PO-Revision-Date: 2024-04-15 23:39\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	0468493B48A9266BB859499B68000096
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Interact.Tut_Interact.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_Interact.Tut_Interact.Text
+msgctxt ",0468493B48A9266BB859499B68000096"
+msgid "While aiming at it with the center of the screen, press <Key>{Action1}</> to pick up the mask."
+msgstr "While aiming at it with the center of the screen, press <Key>{Action1}</> to pick up the mask."
+
+#. Key:	0B0893CE4702BC05A4577B90C2A97E02
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_ProtoRefill.Tut_ProtoRefill.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_ProtoRefill.Tut_ProtoRefill.Text
+msgctxt ",0B0893CE4702BC05A4577B90C2A97E02"
+msgid "Stand in pools like these to refill your protodermis. Your mask must be disabled to use a pool. Disable your mask now with <Key>{Action1}</>."
+msgstr "Stand in pools like these to refill your protodermis. Your mask must be disabled to use a pool. Disable your mask now with <Key>{Action1}</>."
+
+#. Key:	0C1A97A84BBBDDBCE808FF8B0EDBEFEF
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_UseVahi.Tut_UseVahi.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_UseVahi.Tut_UseVahi.Text
+msgctxt ",0C1A97A84BBBDDBCE808FF8B0EDBEFEF"
+msgid "Press <Key>{Action1}</> to use the Vahi"
+msgstr "Press <Key>{Action1}</> to use the Vahi"
+
+#. Key:	116F760745835BB148500997E2063FBB
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Attack.Tut_Attack.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_Attack.Tut_Attack.Text
+msgctxt ",116F760745835BB148500997E2063FBB"
+msgid "<Key>{Action1}</> while in combat mode to execute a basic attack You may also press <Key>{Action2}</> to perform an elemental attack.\r\nNow defeat the beast."
+msgstr "<Key>{Action1}</> while in combat mode to execute a basic attack You may also press <Key>{Action2}</> to perform an elemental attack.\r\nNow defeat the beast."
+
+#. Key:	2191EB7E45C19DC7080ECDA512C376EF
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Sprint.Tut_Sprint.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_Sprint.Tut_Sprint.Text
+msgctxt ",2191EB7E45C19DC7080ECDA512C376EF"
+msgid "Press <Key>{Action1}</> to Sprint"
+msgstr "Press <Key>{Action1}</> to Sprint"
+
+#. Key:	280E2B994EEA3DB55E6BF4A34FDC4916
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_ToaWheel.Tut_ToaWheel.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_ToaWheel.Tut_ToaWheel.Text
+msgctxt ",280E2B994EEA3DB55E6BF4A34FDC4916"
+msgid "Hold <Key>{Action1}</> to open the Toa Wheel"
+msgstr "Hold <Key>{Action1}</> to open the Toa Wheel"
+
+#. Key:	2ED490024213D081630D518A64E49C0D
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Corrupted/Tut_ToaSwitchingCorrupted.Tut_ToaSwitchingCorrupted.Text
+#: /Game/BluePrints/Classes/Tutorial/Corrupted/Tut_ToaSwitchingCorrupted.Tut_ToaSwitchingCorrupted.Text
+msgctxt ",2ED490024213D081630D518A64E49C0D"
+msgid "<Makuta>You have no unity. You are alone. Release</> <Key>{Action1}</> <Makuta>to select a Toa.</> "
+msgstr "<Makuta>You have no unity. You are alone. Release</> <Key>{Action1}</> <Makuta>to select a Toa.</> "
+
+#. Key:	36A3A9BE4D7EA75E6A4A6B9A9E4405D5
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_UseMask.Tut_UseMask.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_UseMask.Tut_UseMask.Text
+msgctxt ",36A3A9BE4D7EA75E6A4A6B9A9E4405D5"
+msgid "Press <Key>{Action1}</> to use the mask"
+msgstr "Press <Key>{Action1}</> to use the mask"
+
+#. Key:	5660D4DC47F04A2CD914B5B4AF9A2189
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_ToaSwitching.Tut_ToaSwitching.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_ToaSwitching.Tut_ToaSwitching.Text
+msgctxt ",5660D4DC47F04A2CD914B5B4AF9A2189"
+msgid "Release <Key>{Action1}</> when hovered over your selection to switch toa"
+msgstr "Release <Key>{Action1}</> when hovered over your selection to switch toa"
+
+#. Key:	61472BF64780E4B3A80B8480CD92DF47
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_MapFragments.Tut_MapFragments.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_MapFragments.Tut_MapFragments.Text
+msgctxt ",61472BF64780E4B3A80B8480CD92DF47"
+msgid "This is the map, here you can zoom using the <Key>Scroll Wheel</>, drag with <Key>Left Click</>.\r\n\r\nEvery region has a quest that will award you with a map fragment, Allowing you to see that region in more detail.\r\nPress <Key>{Action1}</> now to exit the map."
+msgstr "This is the map, here you can zoom using the <Key>Scroll Wheel</>, drag with <Key>Left Click</>.\r\n\r\nEvery region has a quest that will award you with a map fragment, Allowing you to see that region in more detail.\r\nPress <Key>{Action1}</> now to exit the map."
+
+#. Key:	8287E89640525917B00D988C45BFAC15
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_WASD.Tut_WASD.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_WASD.Tut_WASD.Text
+msgctxt ",8287E89640525917B00D988C45BFAC15"
+msgid "Press <Key>{Action1} {Action2} {Action3} {Action4}</> to move"
+msgstr "Press <Key>{Action1} {Action2} {Action3} {Action4}</> to move"
+
+#. Key:	9747F1254A8E63D5BE070AB58DD15D52
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_CombatMode.Tut_CombatMode.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_CombatMode.Tut_CombatMode.Text
+msgctxt ",9747F1254A8E63D5BE070AB58DD15D52"
+msgid "<Key>You do not regenerate health!</>\r\nYou must find Meditation Points or use Consumables to regain health.\r\n\r\n\r\nPress <Key>{Action1}</> to enter combat mode"
+msgstr "<Key>You do not regenerate health!</>\r\nYou must find Meditation Points or use Consumables to regain health.\r\n\r\n\r\nPress <Key>{Action1}</> to enter combat mode"
+
+#. Key:	AE905E334E17E4589032ACBE316125C6
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_LookAround.Tut_LookAround.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_LookAround.Tut_LookAround.Text
+msgctxt ",AE905E334E17E4589032ACBE316125C6"
+msgid "Use <Key>{Action1} and {Action2}</> to look around"
+msgstr "Use <Key>{Action1} and {Action2}</> to look around"
+
+#. Key:	C68F656D4B26D007DE4C0FB00F546BC5
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Jump.Tut_Jump.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_Jump.Tut_Jump.Text
+msgctxt ",C68F656D4B26D007DE4C0FB00F546BC5"
+msgid "Press <Key>{Action1}</> to jump"
+msgstr "Press <Key>{Action1}</> to jump"
+
+#. Key:	C73A754C41078F722ABCC3B700F63613
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Crouch.Tut_Crouch.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_Crouch.Tut_Crouch.Text
+msgctxt ",C73A754C41078F722ABCC3B700F63613"
+msgid "Press <Key>{Action1}</> to Crouch"
+msgstr "Press <Key>{Action1}</> to Crouch"
+
+#. Key:	F3DEFD4542A725D4CED3B395C03E540E
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_UseMaskWheel.Tut_UseMaskWheel.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_UseMaskWheel.Tut_UseMaskWheel.Text
+msgctxt ",F3DEFD4542A725D4CED3B395C03E540E"
+msgid "Hold <Key>{Action1}</> to bring up the mask wheel and \r\nRelease <Key>{Action1}</> when hovering over the icon of your new mask."
+msgstr "Hold <Key>{Action1}</> to bring up the mask wheel and \r\nRelease <Key>{Action1}</> when hovering over the icon of your new mask."
+
+#. Key:	F4A5AC034D5547DD96E6E6900979B5BC
+#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_OpenMap.Tut_OpenMap.Text
+#: /Game/BluePrints/Classes/Tutorial/Tut_OpenMap.Tut_OpenMap.Text
+msgctxt ",F4A5AC034D5547DD96E6E6900979B5BC"
+msgid "Press <Key>{Action1}</> To open the map"
+msgstr "Press <Key>{Action1}</> To open the map"
 
 #. Key:	CodexPage_Akaku_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Akaku.Default__LocationEntry_Akaku_C.Location Description
@@ -20243,33 +20362,12 @@ msgctxt "ST_Names,Names_Yuma"
 msgid "Yuma"
 msgstr "Yuma"
 
-#. Key:	Tut_Attack
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Attack.Tut_Attack.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_Attack.Tut_Attack.Text
-msgctxt "Tutorial_Text,Tut_Attack"
-msgid "<Key>!H</> while in combat mode to execute a basic attack You may also press <Key>!J</> to perform an elemental attack.\r\nNow defeat the beast."
-msgstr "<Key>!H</> while in combat mode to execute a basic attack You may also press <Key>!J</> to perform an elemental attack.\r\nNow defeat the beast."
-
 #. Key:	Tut_CantSave
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Corrupted/Tut_CantSave.Tut_CantSave.Text
 #: /Game/BluePrints/Classes/Tutorial/Corrupted/Tut_CantSave.Tut_CantSave.Text
 msgctxt "Tutorial_Text,Tut_CantSave"
 msgid "<Makuta>Mata Nui sleeps. He has fallen. You can do nothing to save him.</>"
 msgstr "<Makuta>Mata Nui sleeps. He has fallen. You can do nothing to save him.</>"
-
-#. Key:	Tut_CombatMode
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_CombatMode.Tut_CombatMode.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_CombatMode.Tut_CombatMode.Text
-msgctxt "Tutorial_Text,Tut_CombatMode"
-msgid "<Key>You do not regenerate health!</>\r\nYou must find Meditation Points or use Consumables to regain health.\r\n\r\n\r\nPress <Key>!H</> to enter combat mode"
-msgstr "<Key>You do not regenerate health!</>\r\nYou must find Meditation Points or use Consumables to regain health.\r\n\r\n\r\nPress <Key>!H</> to enter combat mode"
-
-#. Key:	Tut_Crouch
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Crouch.Tut_Crouch.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_Crouch.Tut_Crouch.Text
-msgctxt "Tutorial_Text,Tut_Crouch"
-msgid "Press <Key>!H</> to Crouch"
-msgstr "Press <Key>!H</> to Crouch"
 
 #. Key:	Tut_Crush
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Corrupted/Tut_Crush.Tut_Crush.Text
@@ -20292,34 +20390,6 @@ msgctxt "Tutorial_Text,Tut_HealthStamina"
 msgid "These are your health and stamina bars, make sure you watch these values closely.\r\n0 stamina will result in not being able to run or attack.\r\n0 Health will result in a death."
 msgstr "These are your health and stamina bars, make sure you watch these values closely.\r\n0 stamina will result in not being able to run or attack.\r\n0 Health will result in a death."
 
-#. Key:	Tut_Interact
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Interact.Tut_Interact.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_Interact.Tut_Interact.Text
-msgctxt "Tutorial_Text,Tut_Interact"
-msgid "While aiming at it with the center of the screen, press <Key>!H</> to pick up the mask."
-msgstr "While aiming at it with the center of the screen, press <Key>!H</> to pick up the mask."
-
-#. Key:	Tut_Jump
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Jump.Tut_Jump.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_Jump.Tut_Jump.Text
-msgctxt "Tutorial_Text,Tut_Jump"
-msgid "Press <Key>!H</> to jump"
-msgstr "Press <Key>!H</> to jump"
-
-#. Key:	Tut_LookAround
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_LookAround.Tut_LookAround.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_LookAround.Tut_LookAround.Text
-msgctxt "Tutorial_Text,Tut_LookAround"
-msgid "Use <Key>!H and !J</> to look around"
-msgstr "Use <Key>!H and !J</> to look around"
-
-#. Key:	Tut_MapFragments
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_MapFragments.Tut_MapFragments.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_MapFragments.Tut_MapFragments.Text
-msgctxt "Tutorial_Text,Tut_MapFragments"
-msgid "This is the map, here you can zoom using the <Key>Scroll Wheel</>, drag with <Key>Left Click</>.\r\n\r\nEvery region has a quest that will award you with a map fragment, Allowing you to see that region in more detail.\r\nPress <Key>!H</> now to exit the map."
-msgstr "This is the map, here you can zoom using the <Key>Scroll Wheel</>, drag with <Key>Left Click</>.\r\n\r\nEvery region has a quest that will award you with a map fragment, Allowing you to see that region in more detail.\r\nPress <Key>!H</> now to exit the map."
-
 #. Key:	Tut_MaskPickupUI
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_MaskPickupUI.Tut_MaskPickupUI.Text
 #: /Game/BluePrints/Classes/Tutorial/Tut_MaskPickupUI.Tut_MaskPickupUI.Text
@@ -20341,82 +20411,12 @@ msgctxt "Tutorial_Text,Tut_NothingCanDo"
 msgid "<Makuta>You can do nothing to save them. You can do nothing to save yourself.</>"
 msgstr "<Makuta>You can do nothing to save them. You can do nothing to save yourself.</>"
 
-#. Key:	Tut_OpenMap
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_OpenMap.Tut_OpenMap.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_OpenMap.Tut_OpenMap.Text
-msgctxt "Tutorial_Text,Tut_OpenMap"
-msgid "Press <Key>!H</> To open the map"
-msgstr "Press <Key>!H</> To open the map"
-
-#. Key:	Tut_ProtoRefill
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_ProtoRefill.Tut_ProtoRefill.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_ProtoRefill.Tut_ProtoRefill.Text
-msgctxt "Tutorial_Text,Tut_ProtoRefill"
-msgid "Stand in pools like these to refill your protodermis. Your mask must be disabled to use a pool. Disable your mask now with <Key>!H</>."
-msgstr "Stand in pools like these to refill your protodermis. Your mask must be disabled to use a pool. Disable your mask now with <Key>!H</>."
-
 #. Key:	Tut_ProtoUI
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_ProtoUI.Tut_ProtoUI.Text
 #: /Game/BluePrints/Classes/Tutorial/Tut_ProtoUI.Tut_ProtoUI.Text
 msgctxt "Tutorial_Text,Tut_ProtoUI"
 msgid "As you use your mask you drain protodermis. This is a Resource needed to power your mask with no protodermis you can no longer use your masks."
 msgstr "As you use your mask you drain protodermis. This is a Resource needed to power your mask with no protodermis you can no longer use your masks."
-
-#. Key:	Tut_Sprint
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Sprint.Tut_Sprint.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_Sprint.Tut_Sprint.Text
-msgctxt "Tutorial_Text,Tut_Sprint"
-msgid "Press <Key>!H</> to Sprint"
-msgstr "Press <Key>!H</> to Sprint"
-
-#. Key:	Tut_ToaSwitching
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_ToaSwitching.Tut_ToaSwitching.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_ToaSwitching.Tut_ToaSwitching.Text
-msgctxt "Tutorial_Text,Tut_ToaSwitching"
-msgid "Release <Key>!H</> when hovered over your selection to switch toa"
-msgstr "Release <Key>!H</> when hovered over your selection to switch toa"
-
-#. Key:	Tut_ToaSwitchingCorrupted
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Corrupted/Tut_ToaSwitchingCorrupted.Tut_ToaSwitchingCorrupted.Text
-#: /Game/BluePrints/Classes/Tutorial/Corrupted/Tut_ToaSwitchingCorrupted.Tut_ToaSwitchingCorrupted.Text
-msgctxt "Tutorial_Text,Tut_ToaSwitchingCorrupted"
-msgid "<Makuta>You have no unity. You are alone. Release</> <Key>!H</> <Makuta>to select a Toa.</> "
-msgstr "<Makuta>You have no unity. You are alone. Release</> <Key>!H</> <Makuta>to select a Toa.</> "
-
-#. Key:	Tut_ToaWheel
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_ToaWheel.Tut_ToaWheel.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_ToaWheel.Tut_ToaWheel.Text
-msgctxt "Tutorial_Text,Tut_ToaWheel"
-msgid "Hold <Key>!H</> to open the Toa Wheel"
-msgstr "Hold <Key>!H</> to open the Toa Wheel"
-
-#. Key:	Tut_UseMask
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_UseMask.Tut_UseMask.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_UseMask.Tut_UseMask.Text
-msgctxt "Tutorial_Text,Tut_UseMask"
-msgid "Press <Key>!H</> to use the mask"
-msgstr "Press <Key>!H</> to use the mask"
-
-#. Key:	Tut_UseMaskWheel
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_UseMaskWheel.Tut_UseMaskWheel.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_UseMaskWheel.Tut_UseMaskWheel.Text
-msgctxt "Tutorial_Text,Tut_UseMaskWheel"
-msgid "Hold <Key>!H</> to bring up the mask wheel and \r\nRelease <Key>!H</> when hovering over the icon of your new mask."
-msgstr "Hold <Key>!H</> to bring up the mask wheel and \r\nRelease <Key>!H</> when hovering over the icon of your new mask."
-
-#. Key:	Tut_UseVahi
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_UseVahi.Tut_UseVahi.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_UseVahi.Tut_UseVahi.Text
-msgctxt "Tutorial_Text,Tut_UseVahi"
-msgid "Press <Key>!H</> to use the Vahi"
-msgstr "Press <Key>!H</> to use the Vahi"
-
-#. Key:	Tut_WASD
-#. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_WASD.Tut_WASD.Text
-#: /Game/BluePrints/Classes/Tutorial/Tut_WASD.Tut_WASD.Text
-msgctxt "Tutorial_Text,Tut_WASD"
-msgid "Press <Key>!H !J !K !L</> to move"
-msgstr "Press <Key>!H !J !K !L</> to move"
 
 #. Key:	SaveConversionLoading_Text
 #. SourceLocation:	/Game/BluePrints/UI/Loading.Loading_C:WidgetTree.TextBlock_4.Text
