@@ -4,7 +4,7 @@ This is a repo for translating the Bionicle Fan game, "Masks of Power: Legacy".
 ## How to Translate:
 It's quite simple, First download both files in the repo "NameGenders.ods" and "BMOPEn.po".
 
-(The Name Genders file is a refrence for character genders, in case your language needs that information!)
+_(The Name Genders file is a refrence for character genders, in case your language needs that information!)_
 
 Then rename your copy of "BMOPEn.po" to the relevant abbreviation for your language. (For example Spanish would be: "BMOPEs.po")
 
