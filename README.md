@@ -1,2 +1,2 @@
-# MasksofPowerLegacyLocalization
-A Repo to translate the Bionicle Fan game, "Masks of Power: Legacy".
+# Masks of Power: Legacy Localization
+This is a repo for translating the Bionicle Fan game, "Masks of Power: Legacy".
