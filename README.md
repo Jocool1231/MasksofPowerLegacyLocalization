@@ -19,11 +19,15 @@ A few rules:
 ## Formatting:
   - **$T** inserts the players's name into the scentence, this can be male or female depending on their current Toa.
 
-  - Style tags:
+Style tags:
 
-    - Example:
+ - Styling tags are used to change the look of text. They tell the text system to use a different font / size / material for the encapsulated piece. Styling tags do not support line breaks inside them.
+
+	- Example:
    
       		This is regular text. < Key >This is white text</> This is regular text again.
+
+Variables:
 
   - Anything within **{}** curly brackets is replaced with a variable, these need to remain verbatim in the translation.
 
