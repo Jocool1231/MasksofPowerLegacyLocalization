@@ -71,4 +71,4 @@ Variables:
 
     A more comprehensive list and more modifiers can be found here: https://docs.unrealengine.com/5.1/en-US/text-localization-in-unreal-engine/#textformatting
 
-We reccomend reading the Unreal Engine Text Localization documentation before translating: https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/Localization/Formatting/
+If you would like a more in depth look at localization in Unreal Engine, we reccomend reading the Unreal Localization documentation: https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/Localization/Formatting/
