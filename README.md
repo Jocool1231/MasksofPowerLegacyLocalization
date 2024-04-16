@@ -25,29 +25,30 @@ A few rules:
 
   - Anything within **{}** curly brackets is replaced with a variable, these need to remain verbatim in the translation.
 
-    - Example:
+	- Example:
    
-      “It’s {Character}’s Birthday”
+     		 “It’s {Character}’s Birthday”
       
-      {Character} needs to be retained in a translation.
+     		 {Character} needs to be retained in a translation.
       
-      “{Character} hat heute Geburtstag”
+     		 “{Character} hat heute Geburtstag”
   
-    - Variables can also be used with modifiers. 
+  	Variables can also be used with modifiers. 
 
-    -  Plural modifier example:
+   	- Plural modifier example:
    
-	      "{NumCats} {NumCats}|plural(one=cat,other=cats)"
+	     	"{NumCats} {NumCats}|plural(one=cat,other=cats)"
 
-	      NumCats = 1
+       		NumCats = 1
        
 	      	1 cat
        
-    	  NumCats = 2
+    	  	NumCats = 2
        
     	  	2 cats
        
     -  Gender modifier example:
+   
 	      “Like {Gender}|gender(He, She, They) {Gender}|gender(has, has, have) told me.”
 
     A more comprehensive list and more modifiers can be found here: https://docs.unrealengine.com/5.1/en-US/text-localization-in-unreal-engine/#textformatting
