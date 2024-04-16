@@ -12,6 +12,8 @@ After you've done that you can open the .po file in the text editor of your choi
 
 _(We reccomend trying Poedit! Found here: https://poedit.net/)_
 
+When you want to submit your changes, make a pull request including the new file, and if everything is in order it will be approved.
+
 A few rules: 
   - Only translate text next to **msgstr** tag.
   - Keep formatting intact and **untranslated**.
@@ -68,8 +70,5 @@ Variables:
 	      	“Like {Gender}|gender(He, She, They) {Gender}|gender(has, has, have) told me.”
 
     A more comprehensive list and more modifiers can be found here: https://docs.unrealengine.com/5.1/en-US/text-localization-in-unreal-engine/#textformatting
-
-
-When you want to submit your changes, make a pull request including the new file, and if everything is in order it will be approved.
 
 We reccomend reading the Unreal Engine Text Localization documentation before translating: https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/Localization/Formatting/
