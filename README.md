@@ -17,7 +17,17 @@ A few rules:
   - Keep formatting intact and **untranslated**.
 
 ## Formatting:
-  - **$T** inserts the players's name into the scentence, this can be male or female depending on their current Toa.
+Name tags:
+
+ - **$T** inserts the players's name into the scentence, this can be male or female depending on their current Toa.
+
+	- Example:
+   
+     		 "Welcome $T!"
+      
+     		 Would become,
+      
+     		 "Welcome Tahu!"
 
 Style tags:
 
