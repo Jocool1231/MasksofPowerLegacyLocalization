@@ -10,7 +10,7 @@ Then rename your copy of "BMOPEn.po" to the relevant abbreviation for your langu
 
 After you've done that you can open the .po file in the text editor of your choice and start translating! 
 
-_(We reccomend trying Poedit! Found here: https://poedit.net/)_
+_(We reccomend trying something like Poedit! Found here: https://poedit.net/)_
 
 When you want to submit your changes, make a pull request including the new file, and if everything is in order it will be approved.
 
