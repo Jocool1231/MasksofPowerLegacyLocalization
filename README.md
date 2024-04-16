@@ -20,8 +20,10 @@ A few rules:
   - **$T** inserts the players's name into the scentence, this can be male or female depending on their current Toa.
 
   - Style tags:
+
     - Example:
-      This is regular text. < Key >This is white text</> This is regular text again.
+   
+      		This is regular text. < Key >This is white text</> This is regular text again.
 
   - Anything within **{}** curly brackets is replaced with a variable, these need to remain verbatim in the translation.
 
