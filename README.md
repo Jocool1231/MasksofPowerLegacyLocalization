@@ -49,7 +49,7 @@ A few rules:
        
     -  Gender modifier example:
    
-	      “Like {Gender}|gender(He, She, They) {Gender}|gender(has, has, have) told me.”
+	      	“Like {Gender}|gender(He, She, They) {Gender}|gender(has, has, have) told me.”
 
     A more comprehensive list and more modifiers can be found here: https://docs.unrealengine.com/5.1/en-US/text-localization-in-unreal-engine/#textformatting
 
