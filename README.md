@@ -24,20 +24,29 @@ A few rules:
       This is regular text. < Key >This is white text</> This is regular text again.
 
   - Anything within **{}** curly brackets is replaced with a variable, these need to remain verbatim in the translation.
-    - Example: 
-      “It’s {Character}’s Birthday” 
-      {Character} needs to be retained in a translation. 
+
+    - Example:
+   
+      “It’s {Character}’s Birthday”
+      
+      {Character} needs to be retained in a translation.
+      
       “{Character} hat heute Geburtstag”
   
     - Variables can also be used with modifiers. 
 
     -  Plural modifier example:
+   
 	      "{NumCats} {NumCats}|plural(one=cat,other=cats)"
 
 	      NumCats = 1
+       
 	      	1 cat
+       
     	  NumCats = 2
+       
     	  	2 cats
+       
     -  Gender modifier example:
 	      “Like {Gender}|gender(He, She, They) {Gender}|gender(has, has, have) told me.”
 
