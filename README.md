@@ -23,7 +23,7 @@ A few rules:
     - Example:
       This is regular text. < Key >This is white text</> This is regular text again.
 
-  - Anything within **{}** curly brackets is replaced with a variable, these need to remain in the translation.
+  - Anything within **{}** curly brackets is replaced with a variable, these need to remain verbatim in the translation.
     - Example: 
       “It’s {Character}’s Birthday” 
       {Character} needs to be retained in a translation. 
