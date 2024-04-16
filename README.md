@@ -21,7 +21,7 @@ A few rules:
 
   - Style tags:
     - Example:
-      This is regular text. <text s=”Tiny”>This is small text</> This is regular text again.
+      This is regular text. <Key>This is white text</> This is regular text again.
 
   - Anything within **{}** curly brackets is replaced with a variable, these need to remain in the translation.
     - Example: 
