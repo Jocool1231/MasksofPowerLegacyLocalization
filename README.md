@@ -14,6 +14,8 @@ _(We reccomend trying something like Poedit! Found here: https://poedit.net/)_
 
 When you want to submit your changes, make a pull request including the new file, and if everything is in order it will be approved.
 
+If you spot a spelling mistake, or any other kind of issue, make an issue to report it!
+
 A few rules: 
   - Only translate text next to **msgstr** tag.
   - Keep formatting intact and **untranslated**.
