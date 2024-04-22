@@ -65,9 +65,9 @@ Variables:
        
     	  	2 cats
        
-    -  Gender modifier example:
+    -  Gender modifier example (You may replace words with this):
    
-	      	“Like {Gender}|gender(He, She, They) {Gender}|gender(has, has, have) told me.”
+	      	“Like {G}|gender(He, She, They) {G}|gender(has, has, have) told me.”
 
     A more comprehensive list and more modifiers can be found here: https://docs.unrealengine.com/5.1/en-US/text-localization-in-unreal-engine/#textformatting
 
