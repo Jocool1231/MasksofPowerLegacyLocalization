@@ -1,17 +1,38 @@
-# Game English translation.
+﻿# BMOPEn English translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Game\n"
-"POT-Creation-Date: 2024-04-15 23:52\n"
-"PO-Revision-Date: 2024-04-15 23:52\n"
+"Project-Id-Version: BMOPEn\n"
+"POT-Creation-Date: 2024-04-22 21:35\n"
+"PO-Revision-Date: 2024-04-22 21:35\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	19B06F514B86BC7ED6E859988BAF7C71
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.TextToDisplay
+#: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.TextToDisplay
+msgctxt ",19B06F514B86BC7ED6E859988BAF7C71"
+msgid "Komata Research Notes - The Artifact\r\n\r\nEntry 1 -\r\nI've just bought a strange looking stone sculpture from the fellow I met in Po-koro during the shifting festival last year. I found him outside Onu-koro and he seemed strangely eager to get rid of this object. I took a liking to it, given that it was nothing like anything I had previously seen on Mata-Nui. I'll begin my research when I return to Onu-koro.\r\n\r\nEntry 2 -\r\nIt's Alive! \r\nOr rather it was. It turns out this sculpture is no sculpture at all, it's a fossil of a once living creature!\r\nHowever I see no indication of the common signs we have come to associate with living creatures, no limbs, orifices, or servos of any kind. Perhaps this creature made it's home beneath the waves?\r\n\r\nEntry 3 -\r\nAfter consulting with some seers from Ko-koro, I believe we have made a connection between this fossil and the strange grey sculptures found around Mata-nui, I no not what this connection is, but the seers have assured me that the stars tell us there is one.\r\n\r\nEntry 4 - \r\nI have arrived at a circle of the aforementioned sculptures in the Onu-wahi wilds, upon inital examanation they seem to be ordinary sculptures. \r\nReturning to the fossil, I would like to retract my previous hypothesis of it residing under the ocean - I would instead infer that it came from under Mata-Nui's surface.\r\n\r\nI will elaborate on this potential conclusion tomorrow, as for now I must retire."
+msgstr "Komata Research Notes - The Artifact\r\n\r\nEntry 1 -\r\nI've just bought a strange looking stone sculpture from the fellow I met in Po-koro during the shifting festival last year. I found him outside Onu-koro and he seemed strangely eager to get rid of this object. I took a liking to it, given that it was nothing like anything I had previously seen on Mata-Nui. I'll begin my research when I return to Onu-koro.\r\n\r\nEntry 2 -\r\nIt's Alive! \r\nOr rather it was. It turns out this sculpture is no sculpture at all, it's a fossil of a once living creature!\r\nHowever I see no indication of the common signs we have come to associate with living creatures, no limbs, orifices, or servos of any kind. Perhaps this creature made it's home beneath the waves?\r\n\r\nEntry 3 -\r\nAfter consulting with some seers from Ko-koro, I believe we have made a connection between this fossil and the strange grey sculptures found around Mata-nui, I no not what this connection is, but the seers have assured me that the stars tell us there is one.\r\n\r\nEntry 4 - \r\nI have arrived at a circle of the aforementioned sculptures in the Onu-wahi wilds, upon inital examanation they seem to be ordinary sculptures. \r\nReturning to the fossil, I would like to retract my previous hypothesis of it residing under the ocean - I would instead infer that it came from under Mata-Nui's surface.\r\n\r\nI will elaborate on this potential conclusion tomorrow, as for now I must retire."
+
+#. Key:	A1B54CB84A9DEE47D16DF3A2406B226D
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.Name
+#: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.Name
+msgctxt ",A1B54CB84A9DEE47D16DF3A2406B226D"
+msgid "The Artifact from Below"
+msgstr "The Artifact from Below"
+
+#. Key:	FBDB3F984F8542FBFBDABC89DEC25A32
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.Description
+#: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.Description
+msgctxt ",FBDB3F984F8542FBFBDABC89DEC25A32"
+msgid "A collection of research notes from a curious matoran."
+msgstr "A collection of research notes from a curious matoran."
 
 #. Key:	CodexPage_Akaku_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Akaku.Default__LocationEntry_Akaku_C.Location Description
@@ -18912,6 +18933,13 @@ msgstr "Close"
 msgctxt "ST_Localization,UIConfirm"
 msgid "Confirm"
 msgstr "Confirm"
+
+#. Key:	UIContinuous
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIContinuous"
+msgid "Continuous"
+msgstr "Continuous"
 
 #. Key:	UIConvert
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
