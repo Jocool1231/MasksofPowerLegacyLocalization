@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPSv\n"
 "POT-Creation-Date: 2024-04-22 21:40\n"
-"PO-Revision-Date: 2024-04-24 22:33+0200\n"
+"PO-Revision-Date: 2024-04-25 00:44+0200\n"
 "Last-Translator: \n"
 "Language-Team: OniFox of Team Kanohi\n"
 "Language: sv\n"
@@ -548,7 +548,7 @@ msgstr ""
 #: Description
 msgctxt "CodexPage_Description,CodexPage_Quarry_Desc"
 msgid "The quarry is home to many beautiful and intricate carvings made by the Po-Matoran. Large statues made to represent each of the Toa lie here, carved by the Matoran in honor of the Legends that speak of them. Some Matoran speak of caverns beneath these statues, but many of these rumors are unconfirmed. They stand as a monument of honor and hope to the Toa."
-msgstr ""
+msgstr "Toaklyftan är hemmet för en massa vackra och komplicerade skulpteringar gjorda av Po-Matoranerna. Stora statyer som representerar varje Toa-hjälte finns här, skulpterade av Matoranerna för att hylla Legenden som talar om dem. Det går rykten mellan Matoraner att det finns gruvor under statyerna, men dessa rykten är obekräftade. Statyerna står här som ett monument och hopp för Toa-hjältarna."
 
 #. Key:	CodexPage_Rau_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Rau.Default__LocationEntry_Rau_C.Location Description
@@ -986,10 +986,9 @@ msgstr "Po-Wahi"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Quarry.Default__LocationEntry_Quarry_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Quarry.Default__LocationEntry_Quarry_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Quarry"
 msgid "The Quarry"
-msgstr "Stenbrottet"
+msgstr "Toaklyftan"
 
 #. Key:	CodexPage_StrangeCave
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_StrangeCave.Default__LocationEntry_StrangeCave_C.Location Name
@@ -19169,294 +19168,294 @@ msgstr "Prata med {NPC}"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Waikiru"
 msgid "Fragments of a First Mate's log from a ship named the 'Waikiru'"
-msgstr ""
+msgstr "Fragment av Förste styrmans journal från ett skepp vid namn 'Waikiru'"
 
 #. Key:	UIAutoSave
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIAutoSave"
 msgid "Auto Save"
-msgstr ""
+msgstr "Auto Sparfil"
 
 #. Key:	UIBack
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIBack"
 msgid "Back"
-msgstr ""
+msgstr "Tillbaka"
 
 #. Key:	UIBindFirst
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIBindFirst"
 msgid "Bind to First Slot"
-msgstr ""
+msgstr "Gör till Förbrukningsvara 1"
 
 #. Key:	UIBindSecond
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIBindSecond"
 msgid "Bind to Second Slot"
-msgstr ""
+msgstr "Gör till Förbrukningsvara 2"
 
 #. Key:	UIBorderless
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIBorderless"
 msgid "Borderless"
-msgstr ""
+msgstr "Kantlöst fönster"
 
 #. Key:	UICancel
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UICancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #. Key:	UIClose
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIClose"
 msgid "Close"
-msgstr ""
+msgstr "Stäng"
 
 #. Key:	UIConfirm
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIConfirm"
 msgid "Confirm"
-msgstr ""
+msgstr "Godkänn"
 
 #. Key:	UIContinuous
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIContinuous"
 msgid "Continuous"
-msgstr ""
+msgstr "Kontinuerlig"
 
 #. Key:	UIConvert
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIConvert"
 msgid "Convert"
-msgstr ""
+msgstr "Konvertera"
 
 #. Key:	UICredits
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UICredits"
 msgid "Credits"
-msgstr ""
+msgstr "Eftertexter"
 
 #. Key:	UICrush
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UICrush"
 msgid "Crush"
-msgstr ""
+msgstr "Krossa"
 
 #. Key:	UIDisabled
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIDisabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Inaktiverat"
 
 #. Key:	UIEnable
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIEnable"
 msgid "Enable"
-msgstr ""
+msgstr "Aktivera"
 
 #. Key:	UIEnabled
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIEnabled"
 msgid "Enabled"
-msgstr ""
+msgstr "Aktiverat"
 
 #. Key:	UIEpic
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIEpic"
 msgid "Epic"
-msgstr ""
+msgstr "Episkt"
 
 #. Key:	UIExit
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIExit"
 msgid "Exit"
-msgstr ""
+msgstr "Lämna"
 
 #. Key:	UIFullScreen
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIFullScreen"
 msgid "FullScreen"
-msgstr ""
+msgstr "Fullskärm"
 
 #. Key:	UIHigh
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIHigh"
 msgid "High"
-msgstr ""
+msgstr "Hög"
 
 #. Key:	UILoadGame
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UILoadGame"
 msgid "Load Game"
-msgstr ""
+msgstr "Ladda Spel"
 
 #. Key:	UILocked
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UILocked"
 msgid "(Locked)"
-msgstr ""
+msgstr "(Låst)"
 
 #. Key:	UILow
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UILow"
 msgid "Low"
-msgstr ""
+msgstr "Låg"
 
 #. Key:	UIMedium
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIMedium"
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 #. Key:	UIMultiple
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIMultiple"
 msgid "Multiple"
-msgstr ""
+msgstr "Flera"
 
 #. Key:	UINewGame
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UINewGame"
 msgid "New Game"
-msgstr ""
+msgstr "Nytt Spel"
 
 #. Key:	UINo
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UINo"
 msgid "No"
-msgstr ""
+msgstr "Nej"
 
 #. Key:	UINone
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UINone"
 msgid "None"
-msgstr ""
+msgstr "Inget"
 
 #. Key:	UIPlayerSave
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIPlayerSave"
 msgid "Player Save"
-msgstr ""
+msgstr "Manuell Sparfil"
 
 #. Key:	UIPowerMask
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIPowerMask"
 msgid "Power Mask"
-msgstr ""
+msgstr "Ladda Mask"
 
 #. Key:	UIQuestCompleted
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIQuestCompleted"
 msgid "Quest Completed"
-msgstr ""
+msgstr "Uppdrag Avslutat"
 
 #. Key:	UIQuestStarted
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIQuestStarted"
 msgid "Quest Started"
-msgstr ""
+msgstr "Börjar Uppdrag"
 
 #. Key:	UIQuit
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIQuit"
 msgid "Quit"
-msgstr ""
+msgstr "Sluta Spela"
 
 #. Key:	UIResettoDefault
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIResettoDefault"
 msgid "Reset to Default"
-msgstr ""
+msgstr "Återställ till Förinställningar"
 
 #. Key:	UISaveGame
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UISaveGame"
 msgid "Save Game"
-msgstr ""
+msgstr "Spara Spel"
 
 #. Key:	UISaveName
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UISaveName"
 msgid "Save Name:"
-msgstr ""
+msgstr "Sparfilsnamn:"
 
 #. Key:	UISaves
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UISaves"
 msgid "Saves"
-msgstr ""
+msgstr "Sparfiler"
 
 #. Key:	UISettings
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UISettings"
 msgid "Settings"
-msgstr ""
+msgstr "Inställningar"
 
 #. Key:	UIUse
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIUse"
 msgid "Use"
-msgstr ""
+msgstr "Använd"
 
 #. Key:	UIView
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIView"
 msgid "View"
-msgstr ""
+msgstr "Visa"
 
 #. Key:	UIWindowed
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIWindowed"
 msgid "Windowed"
-msgstr ""
+msgstr "Fönsterläge"
 
 #. Key:	UIYes
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIYes"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #. Key:	Names_Ahkmou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19498,7 +19497,7 @@ msgstr "Araka"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_BandMember"
 msgid "Band Member"
-msgstr ""
+msgstr "Bandmedlem"
 
 #. Key:	Names_Boat
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19512,7 +19511,7 @@ msgstr "Båt"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_CandleSalesman"
 msgid "Candle Salesman"
-msgstr ""
+msgstr "Ljusförsäljare"
 
 #. Key:	Names_CanyonNui-Jaga
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19533,14 +19532,14 @@ msgstr "Dameo"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_DockMaster"
 msgid "Dock Master Marka"
-msgstr ""
+msgstr "Hamnkapten Marka"
 
 #. Key:	Names_FestiveKo-Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_FestiveKo-Matoran"
 msgid "Festive Ko-Matoran"
-msgstr ""
+msgstr "Festlig Ko-Matoran"
 
 #. Key:	Names_Fikou-Nui
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19554,21 +19553,21 @@ msgstr "Fikou-Nui"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_FishSalesman"
 msgid "Fish Salesman"
-msgstr ""
+msgstr "Fiskförsäljare"
 
 #. Key:	Names_Flagmaker
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Flagmaker"
 msgid "Flagmaker"
-msgstr ""
+msgstr "Flaggmakare"
 
 #. Key:	Names_Ga-koroGuardswoman
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Ga-koroGuardswoman"
 msgid "Ga-koro Guardswoman"
-msgstr ""
+msgstr "Ga-Koro Väktare"
 
 #. Key:	Names_Ga-Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19582,7 +19581,7 @@ msgstr "Ga-Matoran"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Ga-Trader"
 msgid "Ga-Trader"
-msgstr ""
+msgstr "Ga-Försäljare"
 
 #. Key:	Names_Ga-Wahi
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19603,14 +19602,14 @@ msgstr "Gali"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Grinch"
 msgid "Not Very Festive Ko-Matoran"
-msgstr ""
+msgstr "Inte så Festlig Ko-Matoran"
 
 #. Key:	Names_GuardsmanIn-Training
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_GuardsmanIn-Training"
 msgid "Guardsman In-Training"
-msgstr ""
+msgstr "Praktikant Väktare"
 
 #. Key:	Names_Hahli
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19624,7 +19623,7 @@ msgstr "Hahli"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_HallucinatingLe-Matoran"
 msgid "Hallucinating Le-Matoran"
-msgstr ""
+msgstr "Hallucinerande Le-Matoran"
 
 #. Key:	Names_Harek
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19680,7 +19679,7 @@ msgstr "Haka Tarakava"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_InsaneMatoran"
 msgid "Insane Matoran"
-msgstr ""
+msgstr "Irrationell Matoran"
 
 #. Key:	Names_Ioka
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19764,7 +19763,7 @@ msgstr "Kauri"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_KewaMaster"
 msgid "Kewa Master"
-msgstr ""
+msgstr "Kewamästare"
 
 #. Key:	Names_Khalo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19799,21 +19798,21 @@ msgstr "Ko-Matoran"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Ko-MatoranAstronomer"
 msgid "Ko-Matoran Astronomer"
-msgstr ""
+msgstr "Ko-Matoran Astronom"
 
 #. Key:	Names_Ko-MatoranGuard
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Ko-MatoranGuard"
 msgid "Ko-Matoran Guard"
-msgstr ""
+msgstr "Ko-Matoran Vakt"
 
 #. Key:	Names_Ko-MatoranScholar
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Ko-MatoranScholar"
 msgid "Ko-Matoran Scholar"
-msgstr ""
+msgstr "Ko-Matoran Lärjunge"
 
 #. Key:	Names_Ko-Wahi
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19841,7 +19840,7 @@ msgstr "Kohua"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_KolhiiLover"
 msgid "Kolhii Lover"
-msgstr ""
+msgstr "Kolhii Älskare"
 
 #. Key:	Names_Komaru
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19911,7 +19910,7 @@ msgstr "Laru"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_LavaFarmer"
 msgid "Lava Farmer"
-msgstr ""
+msgstr "Lavabonde"
 
 #. Key:	Names_LavaNui-Jaga
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19953,7 +19952,7 @@ msgstr "Lewa"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_LockedOut"
 msgid "Locked Out Le-Matoran"
-msgstr ""
+msgstr "Utlöst Le-Matoran"
 
 #. Key:	Names_Macku
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19988,7 +19987,7 @@ msgstr "Makuta"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_MakutaStatue"
 msgid "Makuta Statue"
-msgstr ""
+msgstr "Makuta Staty"
 
 #. Key:	Names_Maren
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20002,7 +20001,7 @@ msgstr "Maren"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_MaskPoweringStation"
 msgid "Mask Powering Station"
-msgstr ""
+msgstr "Mask Laddningsstation"
 
 #. Key:	Names_Matatu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20023,7 +20022,7 @@ msgstr "Matoran"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_MatoranTransporter"
 msgid "Matoran Transporter"
-msgstr ""
+msgstr "Matoran Transportör"
 
 #. Key:	Names_Matoro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20037,7 +20036,7 @@ msgstr "Matoro"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_MeditationPoint"
 msgid "Meditation Point"
-msgstr ""
+msgstr "Meditationspunkt"
 
 #. Key:	Names_Metonu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20079,7 +20078,7 @@ msgstr "Muaka"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_NightWatchGuardsman"
 msgid "Night Watch Guardsman"
-msgstr ""
+msgstr "Nattväktare"
 
 #. Key:	Names_Niidok
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20142,7 +20141,7 @@ msgstr "Nuparu"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_OceanTarakava"
 msgid "Ocean Tarakava"
-msgstr ""
+msgstr "Havs Tarakava"
 
 #. Key:	Names_Okin
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20184,7 +20183,7 @@ msgstr "Onua"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Outcast"
 msgid "Outcast"
-msgstr ""
+msgstr "Utstött Matoran"
 
 #. Key:	Names_Pakari
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20212,7 +20211,7 @@ msgstr "Pauri"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_PlantMan"
 msgid "Plant Man"
-msgstr ""
+msgstr "Gräsmannen"
 
 #. Key:	Names_Po-Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20261,7 +20260,7 @@ msgstr "Pohatu"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_PoisonNui-Jaga"
 msgid "Repo Nui-Jaga"
-msgstr ""
+msgstr "Repo Nui-Jaga"
 
 #. Key:	Names_Rau
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20282,7 +20281,7 @@ msgstr "Reka"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_RiverTarakava"
 msgid "River Tarakava"
-msgstr ""
+msgstr "Flod Tarakava"
 
 #. Key:	Names_RukiFish
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20303,14 +20302,14 @@ msgstr "Ruru"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_SandTarakava"
 msgid "Sand Tarakava"
-msgstr ""
+msgstr "Sand Tarakava"
 
 #. Key:	Names_ScaredMatoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_ScaredMatoran"
 msgid "Scared Matoran"
-msgstr ""
+msgstr "Rädd Matoran"
 
 #. Key:	Names_Seltra
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20324,56 +20323,56 @@ msgstr "Seltra"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_ShadowToa"
 msgid "Shadow {ToaName}"
-msgstr "{ToaName}s skugga"
+msgstr "Skuggornas {ToaName}"
 
 #. Key:	Names_SingingMiner
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_SingingMiner"
 msgid "Singing Miner"
-msgstr ""
+msgstr "Sjungande Gruvarbetare"
 
 #. Key:	Names_SiteSupervisorKeeva
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_SiteSupervisorKeeva"
 msgid "Site Supervisor Keeva"
-msgstr ""
+msgstr "Plats Handledare Keeva"
 
 #. Key:	Names_StatueSalesman
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_StatueSalesman"
 msgid "Statue Salesman"
-msgstr ""
+msgstr "Staty Försäljare"
 
 #. Key:	Names_StrangeMatoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_StrangeMatoran"
 msgid "Strange Matoran"
-msgstr ""
+msgstr "Underlig Matoran"
 
 #. Key:	Names_Ta-KoroGuard
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Ta-KoroGuard"
 msgid "Ta-Koro Guard"
-msgstr ""
+msgstr "Ta-Koro Vakt"
 
 #. Key:	Names_Ta-koroGuardsman
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Ta-koroGuardsman"
 msgid "Ta-koro Guardsman"
-msgstr ""
+msgstr "Ta-Koro Väktare"
 
 #. Key:	Names_Ta-koroGuardsmanDaelen
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Ta-koroGuardsmanDaelen"
 msgid "Ta-koro Guardsman Daelen"
-msgstr ""
+msgstr "Ta-Koro Väktare Daelen"
 
 #. Key:	Names_Ta-Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20443,21 +20442,21 @@ msgstr "Taphal"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_TarakavaofFrost"
 msgid "Tarakava of the Frost"
-msgstr ""
+msgstr "Tarakava av Frosten"
 
 #. Key:	Names_TempleMaster
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_TempleMaster"
 msgid "Temple Master"
-msgstr ""
+msgstr "Tempelmästaren"
 
 #. Key:	Names_TheEnvironmentalist
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_TheEnvironmentalist"
 msgid "The Environmentalist"
-msgstr ""
+msgstr "Miljövännen"
 
 #. Key:	Names_Thuei
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20485,7 +20484,7 @@ msgstr "Toka"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Trader"
 msgid "Trader"
-msgstr ""
+msgstr "Försäljare"
 
 #. Key:	Names_TuragaMatau
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20548,14 +20547,14 @@ msgstr "Ussal"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_UssalOwner"
 msgid "Ussal Owner"
-msgstr ""
+msgstr "Ussal Ägare"
 
 #. Key:	Names_UssalWaxer
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_UssalWaxer"
 msgid "Ussal Waxer"
-msgstr ""
+msgstr "Ussal Vaxare"
 
 #. Key:	Names_Yuma
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20764,11 +20763,12 @@ msgstr ""
 #: /Game/BluePrints/UI/Loading.Loading_C:WidgetTree.TextBlock_4.Text
 msgctxt "UI_Text,SaveConversionLoading_Text"
 msgid "Processing"
-msgstr ""
+msgstr "Bearbetar"
 
 #. Key:	CreditsScroll
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/CreditsScroll.CreditsScroll_C:WidgetTree.RichTextBlock_47.Text
 #: /Game/BluePrints/UI/MainMenu/CreditsScroll.CreditsScroll_C:WidgetTree.RichTextBlock_47.Text
+#, fuzzy
 msgctxt "UIText,CreditsScroll"
 msgid ""
 "Bionicle: Masks Of Power \r\n"
@@ -20855,188 +20855,271 @@ msgid ""
 "\r\n"
 "Thank you for sticking with us this far, and may the great spirit guide you."
 msgstr ""
+"Bionicle: Masks Of Power \r\n"
+"<Key>=Legacy=</>\r\n"
+"\r\n"
+"\r\n"
+"Skapad av:\r\n"
+"<Key>Team Kanohi</>\r\n"
+"\r\n"
+"Legacy Skapare/Team Kanohi Grundare:\r\n"
+"<Key>Jordan (Jocool1231) Willis</>\r\n"
+"\r\n"
+"Programmerarer:\r\n"
+"<Key>Ian (y8u332) Willis</>\r\n"
+"<Key>Jordan (Jocool1231) Willis</>\r\n"
+"<Key>ASCII (NonLocality Software)</>\r\n"
+"\r\n"
+"Animatörer:\r\n"
+"<Key>The Scarlet One</>\r\n"
+"<Key>Frambo</>\r\n"
+"<Key>ONI 3d Arts</>\r\n"
+"<Key>Garmagic</>\r\n"
+"\r\n"
+"Konstnärer:\r\n"
+"<Key>Kluuucha (Original Logo)</>\r\n"
+"<Key>Bumblebeelow (New Logo)</>\r\n"
+"<Key>Dazalius (Last Minute Level design)</>\r\n"
+"\r\n"
+"Skribenter:\r\n"
+"<Key>Markle</>\r\n"
+"<Key>Shinebox</>\r\n"
+"<Key>Jordan (Jocool1231) Willis</>\r\n"
+"<Key>Ian (y8u332) Willis</>\r\n"
+"\r\n"
+"Musik & Ljudeffekter:\r\n"
+"<Key>Francisco Pérez</>\r\n"
+"<Key>Jordan (Jocool1231) Willis</>\r\n"
+"<Key>Toa Aletrax</>\r\n"
+"\r\n"
+"PR/Personal & Moderatorer:\r\n"
+"<Key>Jordan (Jocool1231) Willis</>\r\n"
+"<Key>Xeron</>\r\n"
+"<Key>Mid Blue</>\r\n"
+"<Key>Vahkiti</>\r\n"
+"\r\n"
+"Föredetta Medlemmar av Team Kanohi:\r\n"
+"<Key>Rowan (Mod)</>\r\n"
+"<Key>Lil (Mod)</>\r\n"
+"<Key>Robert Randall (Music)</>\r\n"
+"<Key>Louis ''Tek16'' Ginesy (Animation)</>\r\n"
+"<Key>That Gary Fella (UI)</>\r\n"
+"<Key>Philosophy101 (Modeling)</>\r\n"
+"<Key>Automatik (Textures)</>\r\n"
+"\r\n"
+"Tack till:\r\n"
+"<Key>FreeSound</>\r\n"
+"<Key>Ldraw.org</>\r\n"
+"<Key>Texures.com</>\r\n"
+"<Key>The BioPack, and all who created it</>\r\n"
+"<Key>Lehvak Nuva (Original Mask models)</>\r\n"
+"\r\n"
+"Speciellt tack till:\r\n"
+"\r\n"
+"Unreal Engine \r\n"
+"<Key>För att vara en fantastiskt, men frustrerande spelmotor.</>\r\n"
+"\r\n"
+"Lego \r\n"
+"<Key>För att ha skapat BIONICLE.</>\r\n"
+"\r\n"
+"Eljay av TTV\r\n"
+"<Key>För att ha hjälpt att skapat en fanbase för vårt spel.</>\r\n"
+"\r\n"
+"Unreal Slackers Discord Server\r\n"
+"<Key>För att ni vet hur Unreal Enigne funkar när ingen annan vet.</>\r\n"
+"\r\n"
+"The Bionicle Community\r\n"
+"<Key>Ni alla är FANTASTISKA!</>\r\n"
+"\r\n"
+"Alla content creators\r\n"
+"<Key>Vi älskar att se er spela Legacy.</>\r\n"
+"<Key>Fortsätt göra det!</>\r\n"
+"\r\n"
+"Och självklart våra lojala fans!\r\n"
+"\r\n"
+"Tack för att ni varit med oss. Må den store anden vägleda er."
 
 #. Key:	Dead_Descriptions
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Dead.Widget_Dead_C:WidgetTree.TextBlock_0.Text
 #: /Game/BluePrints/UI/Widget_Dead.Widget_Dead_C:WidgetTree.TextBlock_0.Text
 msgctxt "UIText,Dead_Descriptions"
 msgid "You have failed your quest\r\n"
-msgstr ""
+msgstr "Du har misslyckat ditt uppdrag\r\n"
 
 #. Key:	PausedAudioSettings_AmbientVolume
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.Enviroment.Text
 #: /Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.Enviroment.Text
 msgctxt "UIText,PausedAudioSettings_AmbientVolume"
 msgid "Ambient sounds"
-msgstr ""
+msgstr "Miljöljud:"
 
 #. Key:	PausedAudioSettings_MasterVolume
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.Master.Text
 #: /Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.Master.Text
 msgctxt "UIText,PausedAudioSettings_MasterVolume"
 msgid "Master:"
-msgstr ""
+msgstr "Allmänt:"
 
 #. Key:	PausedAudioSettings_MusicFreq
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.SFX_1.Text
 #: /Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.SFX_1.Text
 msgctxt "UIText,PausedAudioSettings_MusicFreq"
 msgid "Music Frequency:"
-msgstr ""
+msgstr "Musik Frekvens:"
 
 #. Key:	PausedAudioSettings_MusicVolume
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.Music.Text
 #: /Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.Music.Text
 msgctxt "UIText,PausedAudioSettings_MusicVolume"
 msgid "Music"
-msgstr ""
+msgstr "Musik:"
 
 #. Key:	PausedAudioSettings_SFXVolume
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.SFX.Text
 #: /Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.SFX.Text
 msgctxt "UIText,PausedAudioSettings_SFXVolume"
 msgid "Sound Effects"
-msgstr ""
+msgstr "Ljudeffekter:"
 
 #. Key:	Dead_LoadPreviousSave
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Dead.Widget_Dead_C:WidgetTree.TextBlock_3.Text
 #: /Game/BluePrints/UI/Widget_Dead.Widget_Dead_C:WidgetTree.TextBlock_3.Text
 msgctxt "UIText_Button,Dead_LoadPreviousSave"
 msgid "Load Previous save"
-msgstr ""
+msgstr "Ladda Tidigare sparfil"
 
 #. Key:	MaskPowerStation_PowerMaskButton
 #. SourceLocation:	/Game/BluePrints/UI/PowerMask.PowerMask_C:WidgetTree.Use.Text
 #: /Game/BluePrints/UI/PowerMask.PowerMask_C:WidgetTree.Use.Text
 msgctxt "UIText_Button,MaskPowerStation_PowerMaskButton"
 msgid "Power Mask"
-msgstr ""
+msgstr "Ladda Mask"
 
 #. Key:	MedMenu_MeditateButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Meditation.Widget_Meditation_C:WidgetTree.TextBlock_5.Text
 #: /Game/BluePrints/UI/Widget_Meditation.Widget_Meditation_C:WidgetTree.TextBlock_5.Text
 msgctxt "UIText_Button,MedMenu_MeditateButton"
 msgid "Meditate"
-msgstr ""
+msgstr "Meditera"
 
 #. Key:	NewGame_StartNewGame
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.TextBlock_133.Text
 #: /Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.TextBlock_133.Text
 msgctxt "UIText_Button,NewGame_StartNewGame"
 msgid "Start New Game"
-msgstr ""
+msgstr "Starta Nytt Spel"
 
 #. Key:	Pause_AudioSettingsButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_3.Text
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_3.Text
 msgctxt "UIText_Button,Pause_AudioSettingsButton"
 msgid "Audio Settings"
-msgstr ""
+msgstr "Ljudinställningar"
 
 #. Key:	Pause_DisplaySettingsButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_2.Text
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_2.Text
 msgctxt "UIText_Button,Pause_DisplaySettingsButton"
 msgid "Display Settings"
-msgstr ""
+msgstr "Skärminställningar"
 
 #. Key:	Pause_ExitButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextQuit.Text
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextQuit.Text
 msgctxt "UIText_Button,Pause_ExitButton"
 msgid "Exit to menu"
-msgstr ""
+msgstr "Tillbaka till Menyn"
 
 #. Key:	Pause_GraphicsSettingsButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextSettings.Text
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextSettings.Text
 msgctxt "UIText_Button,Pause_GraphicsSettingsButton"
 msgid "Graphics Settings"
-msgstr ""
+msgstr "Grafikinställningar"
 
 #. Key:	Pause_KeyBindingsButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock.Text
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock.Text
 msgctxt "UIText_Button,Pause_KeyBindingsButton"
 msgid "Key Binding"
-msgstr ""
+msgstr "Knappinställningar"
 
 #. Key:	Pause_LoadButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_0.Text
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_0.Text
 msgctxt "UIText_Button,Pause_LoadButton"
 msgid "Load"
-msgstr ""
+msgstr "Ladda Spel"
 
 #. Key:	Pause_ResumeButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextResume.Text
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextResume.Text
 msgctxt "UIText_Button,Pause_ResumeButton"
 msgid "Resume"
-msgstr ""
+msgstr "Fortsätt Spela"
 
 #. Key:	Pause_SaveButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_1.Text
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_1.Text
 msgctxt "UIText_Button,Pause_SaveButton"
 msgid "Save"
-msgstr ""
+msgstr "Spara Spel"
 
 #. Key:	Pause_StatsButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_5.Text
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_5.Text
 msgctxt "UIText_Button,Pause_StatsButton"
 msgid "Stats"
-msgstr ""
+msgstr "Statistik"
 
 #. Key:	Skip_Description
 #. SourceLocation:	/Game/BluePrints/UI/Skip.Skip_C:WidgetTree.RichTextBlock_71.Text
 #: /Game/BluePrints/UI/Skip.Skip_C:WidgetTree.RichTextBlock_71.Text
 msgctxt "UIText_Button,Skip_Description"
 msgid "Press any key to skip"
-msgstr ""
+msgstr "Tryck valfri knapp för att skippa"
 
 #. Key:	TabMenu_CodexTabButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock_0.Text
 #: /Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock_0.Text
 msgctxt "UIText_Button,TabMenu_CodexTabButton"
 msgid "Codex"
-msgstr ""
+msgstr "Codex"
 
 #. Key:	TabMenu_InvTabButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock.Text
 #: /Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock.Text
 msgctxt "UIText_Button,TabMenu_InvTabButton"
 msgid "Inventory"
-msgstr ""
+msgstr "Föremålsväska"
 
 #. Key:	TabMenu_Quest_TrackQuest
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock_145.Text
 #: /Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock_145.Text
 msgctxt "UIText_Button,TabMenu_Quest_TrackQuest"
 msgid "Track Quest"
-msgstr ""
+msgstr "Spåra Uppdrag"
 
 #. Key:	TabMenu_QuestTabButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock_2.Text
 #: /Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock_2.Text
 msgctxt "UIText_Button,TabMenu_QuestTabButton"
 msgid "Quests"
-msgstr ""
+msgstr "Uppdrag"
 
 #. Key:	TradeMenu_BuyItemButton
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.TextBlock_145.Text
 #: /Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.TextBlock_145.Text
 msgctxt "UIText_Button,TradeMenu_BuyItemButton"
 msgid "Buy Item"
-msgstr ""
+msgstr "Köp Föremål"
 
 #. Key:	TradeMenu_SellItemButton
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.TextBlock.Text
 #: /Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.TextBlock.Text
 msgctxt "UIText_Button,TradeMenu_SellItemButton"
 msgid "Sell Item"
-msgstr ""
+msgstr "Sälj Föremål"
 
 #. Key:	Cosmetics_BlackMask_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(10 - Value).DisplayNameMap
@@ -21044,7 +21127,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_BlackMask_Name"
 msgid "Black Mask"
-msgstr ""
+msgstr "Mystisk Komau"
 
 #. Key:	Cosmetics_CopperMask_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(5 - Value).DisplayNameMap
@@ -21052,7 +21135,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_CopperMask_Name"
 msgid "Copper Mask"
-msgstr ""
+msgstr "Kopparmask"
 
 #. Key:	Cosmetics_CrystalMask_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(11 - Value).DisplayNameMap
@@ -21060,7 +21143,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_CrystalMask_Name"
 msgid "Crystal Mask"
-msgstr ""
+msgstr "Kristallmask"
 
 #. Key:	Cosmetics_FestiveHat_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(4 - Value).DisplayNameMap
@@ -21068,7 +21151,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_FestiveHat_Name"
 msgid "Festive Hat"
-msgstr ""
+msgstr "Festlig Hatt"
 
 #. Key:	Cosmetics_GoldMask_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(1 - Value).DisplayNameMap
@@ -21076,7 +21159,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_GoldMask_Name"
 msgid "Golden Masks"
-msgstr ""
+msgstr "Guldmask"
 
 #. Key:	Cosmetics_GoldToa_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(8 - Value).DisplayNameMap
@@ -21084,7 +21167,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_GoldToa_Name"
 msgid "Gold Toa"
-msgstr ""
+msgstr "Guld Toa"
 
 #. Key:	Cosmetics_InfectedMask_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(3 - Value).DisplayNameMap
@@ -21092,7 +21175,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_InfectedMask_Name"
 msgid "Infected Masks"
-msgstr ""
+msgstr "Infekteradmask"
 
 #. Key:	Cosmetics_JackOLantern_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(12 - Value).DisplayNameMap
@@ -21100,7 +21183,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_JackOLantern_Name"
 msgid "Mask O' Lantern"
-msgstr ""
+msgstr "Alla Helgons Mask"
 
 #. Key:	Cosmetics_MaskOfTime_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(9 - Value).DisplayNameMap
@@ -21108,7 +21191,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_MaskOfTime_Name"
 msgid "The Mask of Time"
-msgstr ""
+msgstr "Tidsmasken"
 
 #. Key:	Cosmetics_NuvaPauldrons_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(2 - Value).DisplayNameMap
@@ -21116,7 +21199,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_NuvaPauldrons_Name"
 msgid "Nuva Pauldrons"
-msgstr ""
+msgstr "Nuva Axelvaddar"
 
 #. Key:	Cosmetics_OldPakari_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(0 - Value).DisplayNameMap
@@ -21124,7 +21207,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_OldPakari_Name"
 msgid "Older Pakari"
-msgstr ""
+msgstr "Gammal Pakari"
 
 #. Key:	Cosmetics_ProtoSteelMask_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(6 - Value).DisplayNameMap
@@ -21132,7 +21215,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_ProtoSteelMask_Name"
 msgid "ProtoSteel Mask"
-msgstr ""
+msgstr "Protostålmask"
 
 #. Key:	Cosmetics_VeryCoolHat_Name
 #. SourceLocation:	/Game/BluePrints/Classes/Cosmetics.Cosmetics.DisplayNameMap(7 - Value).DisplayNameMap
@@ -21140,56 +21223,56 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt "UIText_Cosmetics,Cosmetics_VeryCoolHat_Name"
 msgid "Very Cool Hat™"
-msgstr ""
+msgstr "Väldigt Cool Hatt™"
 
 #. Key:	CosmeticsMenu_EquippedCosmetics
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticsMenu.CosmeticsMenu_C:WidgetTree.TextBlock_1.Text
 #: /Game/BluePrints/UI/CosmeticsMenu.CosmeticsMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt "UIText_Description,CosmeticsMenu_EquippedCosmetics"
 msgid "Equipped Cosmetics"
-msgstr ""
+msgstr "Utrustad Kosmetika"
 
 #. Key:	CosmeticsMenu_NoUnlockedCosmetics
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticsMenu.CosmeticsMenu_C:WidgetTree.TextBlock_2.Text
 #: /Game/BluePrints/UI/CosmeticsMenu.CosmeticsMenu_C:WidgetTree.TextBlock_2.Text
 msgctxt "UIText_Description,CosmeticsMenu_NoUnlockedCosmetics"
 msgid "No Cosmetics Unlocked"
-msgstr ""
+msgstr "Ingen Kosmetika Upplåst"
 
 #. Key:	CosmeticsMenu_UnlockedCosmetics
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticsMenu.CosmeticsMenu_C:WidgetTree.TextBlock_0.Text
 #: /Game/BluePrints/UI/CosmeticsMenu.CosmeticsMenu_C:WidgetTree.TextBlock_0.Text
 msgctxt "UIText_Description,CosmeticsMenu_UnlockedCosmetics"
 msgid "Unlocked Cosmetics"
-msgstr ""
+msgstr "Upplåst Kosmetika"
 
 #. Key:	GaGateCtrlsWidget_EToExit
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_2.Text
 #: /Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_2.Text
 msgctxt "UIText_Description,GaGateCtrlsWidget_EToExit"
 msgid "E to exit"
-msgstr ""
+msgstr "Tryck 'E' för att Lämna"
 
 #. Key:	GaGateCtrlsWidget_PickupRocks
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_574.Text
 #: /Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_574.Text
 msgctxt "UIText_Description,GaGateCtrlsWidget_PickupRocks"
 msgid "Left click to pick up Rocks"
-msgstr ""
+msgstr "Vänsterklicka för att plocka upp Stenar"
 
 #. Key:	GaGateCtrlsWidget_RockDistance
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock.Text
 #: /Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock.Text
 msgctxt "UIText_Description,GaGateCtrlsWidget_RockDistance"
 msgid "Right Click while holding a rock to move it closer or farther"
-msgstr ""
+msgstr "Högerklicka medan du håller en sten för att dra den längre fram eller bort"
 
 #. Key:	GaGateCtrlsWidget_ScrollToZoom
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_1.Text
 #: /Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_1.Text
 msgctxt "UIText_Description,GaGateCtrlsWidget_ScrollToZoom"
 msgid "Middle Mouse button to rotate camera / scroll to change camera distance"
-msgstr ""
+msgstr "Mittenklicka för att rotera kameran / skrolla för att ändra distans på kameran"
 
 #. Key:	GiveMask_Description
 #. SourceLocation:	/Game/BluePrints/UI/Widget_GiveMask.Widget_GiveMask_C:GetText_0 [Script Bytecode]
@@ -21197,28 +21280,28 @@ msgstr ""
 #: Bytecode]
 msgctxt "UIText_Description,GiveMask_Description"
 msgid "Pick A Toa to recieve the {Mask}:"
-msgstr ""
+msgstr "Välj en Toa som ska få den här {Mask} masken:"
 
 #. Key:	Map_MarkerOpacity
 #. SourceLocation:	/Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock_56.Text
 #: /Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock_56.Text
 msgctxt "UIText_Description,Map_MarkerOpacity"
 msgid "Marker Opacity"
-msgstr ""
+msgstr "Opacitet på Markeringen"
 
 #. Key:	Map_MarkerSize
 #. SourceLocation:	/Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock.Text
 #: /Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock.Text
 msgctxt "UIText_Description,Map_MarkerSize"
 msgid "Marker Size"
-msgstr ""
+msgstr "Storlek på Markeringen"
 
 #. Key:	MapCtrlsWidget_DragToMove
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.ControlSchemes_MapWidget_C:WidgetTree.TextBlock.Text
 #: /Game/BluePrints/UI/ControlSchemes_MapWidget.ControlSchemes_MapWidget_C:WidgetTree.TextBlock.Text
 msgctxt "UIText_Description,MapCtrlsWidget_DragToMove"
 msgid "Left click and drag to move the map"
-msgstr ""
+msgstr "Vänsterklicka och dra för att flytta kartan"
 
 #. Key:	MapCtrlsWidget_InteractToExit
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.To Exit Preamble
@@ -21226,21 +21309,21 @@ msgstr ""
 #: Exit Preamble
 msgctxt "UIText_Description,MapCtrlsWidget_InteractToExit"
 msgid "{Key} to Exit"
-msgstr ""
+msgstr "Tryck '{Key}' för att Lämna"
 
 #. Key:	MapCtrlsWidget_ScrollToZoom
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.ControlSchemes_MapWidget_C:WidgetTree.TextBlock_1.Text
 #: /Game/BluePrints/UI/ControlSchemes_MapWidget.ControlSchemes_MapWidget_C:WidgetTree.TextBlock_1.Text
 msgctxt "UIText_Description,MapCtrlsWidget_ScrollToZoom"
 msgid "Scroll to zoom"
-msgstr ""
+msgstr "Skrolla för zooma"
 
 #. Key:	MaskPowerStation_AreYouSure
 #. SourceLocation:	/Game/BluePrints/UI/PowerMask.Default__PowerMask_C.PowerMaskDescription
 #: /Game/BluePrints/UI/PowerMask.Default__PowerMask_C.PowerMaskDescription
 msgctxt "UIText_Description,MaskPowerStation_AreYouSure"
 msgid "<Key>Powering this mask will use:</> {Amount} <Key>Wahae Mata Gel, are you sure?</>"
-msgstr ""
+msgstr "<Key>För att ladda den här masken behövs</> {Amount} <Key>Wahae Mata Gel. Vill du fortsätta?</>"
 
 #. Key:	MaskWheel_Akaku
 #. SourceLocation:	/Game/BluePrints/UI/MaskRadialMenu.MaskRadialMenu_C:ExecuteUbergraph_MaskRadialMenu [Script Bytecode]
@@ -21528,14 +21611,14 @@ msgstr "Gå Baklänges:"
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_40.Text
 msgctxt "UIText_Description,PausedControls_ConsumeSlot1"
 msgid "Consumable Slot 1:"
-msgstr "Förbrukbart Föremål 1:"
+msgstr "Förbrukningsvara 1:"
 
 #. Key:	PausedControls_ConsumeSlot2
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_41.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_41.Text
 msgctxt "UIText_Description,PausedControls_ConsumeSlot2"
 msgid "Consumable Slot 2:"
-msgstr "Förbrukbart Föremål 2:"
+msgstr "Förbrukningsvara 2:"
 
 #. Key:	PausedControls_Crouch
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_8.Text
@@ -21894,7 +21977,7 @@ msgstr "Övrigt:"
 #: /Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_15.Text
 msgctxt "UIText_Description,StatsMenu_Misc_CodexPagesGained"
 msgid "Codex Pages Gained:"
-msgstr "Codex-Posts Hittade:"
+msgstr "Codex-Sidor Hittade:"
 
 #. Key:	StatsMenu_Misc_CosmeticsGained
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_9.Text
@@ -22066,7 +22149,7 @@ msgstr "Sälj för: {Amount}"
 #: /Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.TraderTitle.Text
 msgctxt "UIText_Description,TradeMenu_TraderInv"
 msgid "Trader Inventory"
-msgstr "Handlarens Lager"
+msgstr "Försäljarens Lager"
 
 #. Key:	TradeMenu_YourInv
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.YourInventoryTitle.Text
@@ -22130,7 +22213,7 @@ msgstr "Inget"
 #: /Game/BluePrints/UI/CodexPageAdded.CodexPageAdded_C:WidgetTree.LocationDiscovered.Text
 msgctxt "UIText_Description,UICodexPageAdded_EntryGained"
 msgid "Codex Entry added"
-msgstr "Codex-post tillagd"
+msgstr "Codex-sida tillagd"
 
 #. Key:	UICodexPageAdded_ItemGained
 #. SourceLocation:	/Game/BluePrints/UI/CodexPageAdded.CodexPageAdded_C:ExecuteUbergraph_CodexPageAdded [Script Bytecode]
