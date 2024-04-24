@@ -13,7 +13,7 @@ After you've done that you can open the .po file in the text editor of your choi
 _(We recommend trying something like Poedit! Found here: https://poedit.net/)_
 
 When you want to submit your changes, make a pull request including the new file, and if everything is in order it will be approved.
-Make sure to make pull requests often! Especially when adding a new language to the repo.
+**Make sure to make pull requests often! Especially when adding a new language to the repo.**
 
 If you spot a spelling mistake, or any other kind of issue, make an issue to report it! (Including in the English version)
 
