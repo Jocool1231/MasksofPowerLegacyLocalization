@@ -4,13 +4,13 @@ This is a repo for translating the Bionicle Fan game, "Masks of Power: Legacy".
 ## How to Translate:
 It's quite simple, First download the file "BMOPEn.po".
 
-_(If your language needs gender information, you can find a refrence here: https://drive.google.com/file/d/1_z7j_OgCjw-ll-Mcsa49y06z3gQswmng/view?usp=sharing)_
+_(If your language needs gender information, you can find a reference here: https://drive.google.com/file/d/1_z7j_OgCjw-ll-Mcsa49y06z3gQswmng/view?usp=sharing)_
 
 Then rename your copy of "BMOPEn.po" to the relevant abbreviation for your language. (For example Spanish would be: "BMOPEs.po")
 
 After you've done that you can open the .po file in the text editor of your choice and start translating! 
 
-_(We reccomend trying something like Poedit! Found here: https://poedit.net/)_
+_(We recommend trying something like Poedit! Found here: https://poedit.net/)_
 
 When you want to submit your changes, make a pull request including the new file, and if everything is in order it will be approved.
 Make sure to make pull requests often! Especially when adding a new language to the repo.
