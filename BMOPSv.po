@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPSv\n"
 "POT-Creation-Date: 2024-04-22 21:40\n"
-"PO-Revision-Date: 2024-04-25 00:44+0200\n"
+"PO-Revision-Date: 2024-04-25 22:44+0200\n"
 "Last-Translator: \n"
 "Language-Team: OniFox of Team Kanohi\n"
 "Language: sv\n"
@@ -28,7 +28,7 @@ msgstr "Kanohi Akaku: den Mäktiga Masken av X-Ray Vision. Den här masken kan m
 #: Description
 msgctxt "CodexPage_Description,CodexPage_CanyonNuiJaga_Desc"
 msgid "Scorpion-like Rahi that are controlled by Makuta. The blue variant can be found primarily in Po-Wahi. They’re known to sneak up on travellers behind canyon walls, and swiftly attack those who are less attentive."
-msgstr "En Scorpion Rahi som är kontrollerad av Makuta. Den blåa varianten finns primärt inom Po-Wahi. De är kända för att smyga sig på vandrarer bakom kanjonväggar och snabbt anfalla dem som inte är uppmärksamma."
+msgstr "En Skorpion Rahi som kontrolleras av Makuta. Den blåa varianten finns främst i Po-Wahi. De är kända för att smyga sig på vandrarer bakom kanjonväggar och snabbt anfalla dem som inte är uppmärksamma."
 
 #. Key:	CodexPage_Docks_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Docks.Default__LocationEntry_Docks_C.Location Description
@@ -60,7 +60,7 @@ msgstr "En stor Spindel Rahi som befinner sig på olika platser av Mata Nui. De 
 #: Description
 msgctxt "CodexPage_Description,CodexPage_FireNuiJaga_Desc"
 msgid "Scorpion-like Rahi that are controlled by Makuta. The red variant can be found primarily in Ta-Wahi. They are larger than your standard Nui-Jaga, and are able to safely walk over Lava, making them harder to escape if they spot you."
-msgstr ""
+msgstr "En Skorpion Rahi som kontrolleras av Makuta. Den röda varianten finns främst i Ta-Wahi. De är större än vanliga Nui-Jaga och kan gå på lava utan problem, vilket gör dem svårare att fly ifrån när de får syn på dig."
 
 #. Key:	CodexPage_GaKini_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaKini.Default__LocationEntry_GaKini_C.Location Description
@@ -68,7 +68,7 @@ msgstr ""
 #: Description
 msgctxt "CodexPage_Description,CodexPage_GaKini_Desc"
 msgid "The Ga-Kini is the temple of Water. Lying partially submerged beneath the waters of Ga-Wahi, this temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta. It seems that only Turaga Nokama knows the secret to unlocking it."
-msgstr ""
+msgstr "Ga-Kini, Vattnets Tempel. Templet är gömt under vattnet av Ga-Wahi och innehåller en Makoki-Sten, en del av nyckeln som behövs för att låsa upp Makutas Håla. Bara Turaga Nokama vet hemligheten om hur man öppnar templet."
 
 #. Key:	CodexPage_Gakoro_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Gakoro.Default__LocationEntry_Gakoro_C.Location Description
@@ -76,7 +76,7 @@ msgstr ""
 #: Description
 msgctxt "CodexPage_Description,CodexPage_Gakoro_Desc"
 msgid "Ga-Koro, the village of Water. The entire village floats on top of great lily pads, allowing the Ga-Matoran easy access to the sea for fishing, swimming, and other activities. While being a peaceful and quiet village, the Ga-Matoran are still able to defend themselves when necessary. The gate which guards the village would be very difficult for any Rahi to open, and the village’s distance from land gives it a defensive advantage as well. While the Ga-Matoran are peaceful and kind, they’re far from helpless."
-msgstr ""
+msgstr "Ga-Koro, Vattnets By. Hela byn flyter ovanpå stora liljekuddar, vilket ger Ga-Matoranerna enkel tillgång till att fiska, simma, och andra aktiviteter. Trots vara en lugn och tyst by så är Ga-Matoranerna fortfarande kapabla med att skydda sig själva när det behövs. Porten som skyddar byn är väldigt svår för en Rahi att öppna och distansen från land ger extra fördelar till deras försvar. Trots att Ga-Matoranerna är fredliga och snälla så är dem inte hjälplösa."
 
 #. Key:	CodexPage_Gali_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Gali.Default__LocationEntry_Gali_C.Location Description
@@ -84,7 +84,7 @@ msgstr ""
 #: Description
 msgctxt "CodexPage_Description,CodexPage_Gali_Desc"
 msgid "Gali is the kind and caring Toa of water. She is often the one to settle disputes that often rise up between the other Toa. She takes it upon herself to hold the team together, staying focused on the three virtues even when she feels like lashing out as well. It is her who keeps the Toa united and focused on their goal of vanquishing the Makuta. Her elemental attack uses water to push away enemies on all sides. It’s useful if you find yourself overwhelmed while in battle."
-msgstr ""
+msgstr "Gali, Vattnets Toa. Hon är vänlig, omtänksam, samt gör sitt bästa med att hålla ihop laget och lösa konflikter mellan de andra Toa-hjältarna. Gali är den som håller dem enade och fokuserade på sitt mål att besegra Makuta. Hon håller sitt fokus på de tre dygderna även när hon själv känner för att ventilera ut sin frustration. Galis Element-Attack använder sig av Vatten för att trycka undan fiender omkring sig. En användbar attack om du blir överväldigad mitt i strid."
 
 #. Key:	CodexPage_GalisLanding_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GalisLanding.Default__LocationEntry_GalisLanding_C.Location Description
@@ -92,7 +92,7 @@ msgstr ""
 #: Description
 msgctxt "CodexPage_Description,CodexPage_GalisLanding_Desc"
 msgid "A strange vessel that has washed up onto the beach... nobody on the island is sure where it has come from. A village floating on the water can be seen in the distance, with a monument to a mask that is somehow… familiar."
-msgstr ""
+msgstr "Ett märkligt kärl har flytit upp på stranden... Ingen på ön vet vad dem kom ifrån. En by som flyter på havet är synlig från distans, med ett monument av en mask som känns... bekant."
 
 #. Key:	CodexPage_GaTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaTemple.Default__LocationEntry_GaTemple_C.Location Description
@@ -1169,14 +1169,14 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Ahkmou_PlayerResponse_1"
 msgid "Sure, let's trade."
-msgstr ""
+msgstr "Visst. Låt oss förhandla."
 
 #. Key:	DL_Ahkmou_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Ahkmou_PlayerResponse_2"
 msgid "What is a Comet?"
-msgstr ""
+msgstr "Vad är en Komet?"
 
 #. Key:	DL_Akamar2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar2.Default__DL_Akamar2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1190,7 +1190,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar3.Default__DL_Akamar3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akamar3_PlayerResponse_1"
 msgid "I... See..."
-msgstr ""
+msgstr "Jag... Förstår..."
 
 #. Key:	DL_Akamar4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar4.Default__DL_Akamar4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1204,7 +1204,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akamar_PlayerResponse_1"
 msgid "Yes?"
-msgstr ""
+msgstr "Ja?"
 
 #. Key:	DL_Akamar_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1246,7 +1246,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Akura.Default__DL_Akura_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akura_PlayerResponse_1"
 msgid "*Listen*"
-msgstr ""
+msgstr "*Lyssna*"
 
 #. Key:	DL_Akura_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Akura.Default__DL_Akura_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1295,7 +1295,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Komaru_Thanks.Default__DL_Allknowingmatoran_Komaru_Thanks_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_Komaru_Thanks_PlayerResponse_1"
 msgid "You're welcome."
-msgstr ""
+msgstr "Varsågod."
 
 #. Key:	DL_Allknowingmatoran_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran.Default__DL_Allknowingmatoran_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9947,14 +9947,14 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.DialogueText
 msgctxt "Dialogue_Text,DL_GALetterQuest1"
 msgid "Hello Toa! Do you have a moment?"
-msgstr ""
+msgstr "T-Toa $T! Har du tid?"
 
 #. Key:	DL_GALetterQuestExpos
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.DialogueText
 msgctxt "Dialogue_Text,DL_GALetterQuestExpos"
 msgid "Could you take this letter to Hewkii for me? He should be near Po-koro."
-msgstr ""
+msgstr "Skulle du kunna ge mitt bre- j-jag menar... ett brev till Hewkii åt mig?"
 
 #. Key:	DL_GALetterQuestHewkii
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.DialogueText
@@ -9975,7 +9975,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestStart.Default__DL_GALetterQuestStart_C.DialogueText
 msgctxt "Dialogue_Text,DL_GALetterQuestStart"
 msgid "That's private, I would take it to him myself but the astrologer has asked me to help with their star gazing."
-msgstr ""
+msgstr "Det är Privat! Erm... Förlåt, jag menar det är privat. Jag hade get det till honom själv, men vår astrolog har bett mig hjälpa till med deras stjärnskådning. Tack Toa $T!"
 
 #. Key:	DL_Gali1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Gali1.Default__DL_Gali1_C.DialogueText
@@ -10633,105 +10633,105 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_KapuraAdventures1.Default__DL_KapuraAdventures1_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraAdventures1"
 msgid "Did you hear the rumor about Kapura?"
-msgstr ""
+msgstr "Har du hört ryktena om Kapura?"
 
 #. Key:	DL_KapuraAdventures2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_KapuraAdventures2.Default__DL_KapuraAdventures2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_KapuraAdventures2.Default__DL_KapuraAdventures2_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraAdventures2"
 msgid "What'd the weirdo do now?"
-msgstr ""
+msgstr "Vad har den lavaskallen gjort nu?"
 
 #. Key:	DL_KapuraAdventures3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_KapuraAdventures3.Default__DL_KapuraAdventures3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_KapuraAdventures3.Default__DL_KapuraAdventures3_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraAdventures3"
 msgid "I heard from a friend of mine, Hewtinii; That Kapura is planning on walking around all of Mata-nui soon!"
-msgstr ""
+msgstr "Min vän Hewtinii berättade till mig att han planerat att vandra runt hela Mata-Nui snart!"
 
 #. Key:	DL_KapuraAdventures4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_KapuraAdventures4.Default__DL_KapuraAdventures4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_KapuraAdventures4.Default__DL_KapuraAdventures4_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraAdventures4"
 msgid "Huh, I guess he really is crazy then. Could that be related to why so many Po-matoran have been arriving here lately?"
-msgstr ""
+msgstr "Va? Har han en skruv lös eller vadå? Tror du det kan vara relaterat till alla Po-Matoranerna som dykt upp på sistone?"
 
 #. Key:	DL_KapuraAdventures5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_KapuraAdventures5.Default__DL_KapuraAdventures5_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_KapuraAdventures5.Default__DL_KapuraAdventures5_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraAdventures5"
 msgid "I'm not sure, It might be. Hah, maybe they mean to build a statue in his honor!"
-msgstr ""
+msgstr "Vem vet! Dem kanske tänker bygga en staty till hans ära!"
 
 #. Key:	DL_KapuraAdventures6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_KapuraAdventures6.Default__DL_KapuraAdventures6_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_KapuraAdventures6.Default__DL_KapuraAdventures6_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraAdventures6"
 msgid "HAH, That would be quite silly indeed!"
-msgstr ""
+msgstr "HAH! Det hade varit skrattretande!"
 
 #. Key:	DL_Kapuranotlost
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_Kapuranotlost.Default__DL_Kapuranotlost_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_Kapuranotlost.Default__DL_Kapuranotlost_C.DialogueText
 msgctxt "Dialogue_Text,DL_Kapuranotlost"
 msgid "No, I'm practicing."
-msgstr ""
+msgstr "Nej, jag tränar."
 
 #. Key:	DL_KapuraPo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraPo.Default__DL_KapuraPo_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraPo.Default__DL_KapuraPo_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraPo"
 msgid "Hello again Toa..."
-msgstr ""
+msgstr "Hey igen Toa..."
 
 #. Key:	DL_KapuraPo1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraPo1.Default__DL_KapuraPo1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraPo1.Default__DL_KapuraPo1_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraPo1"
 msgid "Yes, I am Kapura..."
-msgstr ""
+msgstr "Ja, jag är Kapura..."
 
 #. Key:	DL_KapuraPo2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraPo2.Default__DL_KapuraPo2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraPo2.Default__DL_KapuraPo2_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraPo2"
 msgid "I do not always practice Toa... Today I've decided to take in Mata-nui's beauty."
-msgstr ""
+msgstr "Jag tränar inte hela tiden Toa... Idag har jag valt att njuta av Mata Nuis skönhet."
 
 #. Key:	DL_KapuraWhatareyoudoing
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhatareyoudoing.Default__DL_KapuraWhatareyoudoing_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhatareyoudoing.Default__DL_KapuraWhatareyoudoing_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraWhatareyoudoing"
 msgid "I'm practicing... Vakama says even though I am slower then all the others I may be faster than them if I practice."
-msgstr ""
+msgstr "Jag tränar... Turaga Vakama säger att trots hur långsam jag är jämfört med andra så kan jag vara snabbare än dem om jag tränar."
 
 #. Key:	DL_KapuraWhereGa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereGa.Default__DL_KapuraWhereGa_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereGa.Default__DL_KapuraWhereGa_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraWhereGa"
 msgid "I like to travel... Ga-wahi is very wet... Vakama says that by practicing my skill I can travel large distances in a short time."
-msgstr ""
+msgstr "Jag gillar att resa... Ga-Wahi är väldigt blött... Vakama säger att om jag tränar så kan jag resa långt på väldigt kort tid."
 
 #. Key:	DL_KapuraWhereKo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereKo.Default__DL_KapuraWhereKo_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereKo.Default__DL_KapuraWhereKo_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraWhereKo"
 msgid "I like to travel... Ko-wahi is very serene, and a little too cold for me... Vakama says that by practicing my skill I can travel large distances in a short time."
-msgstr ""
+msgstr "Jag gillar att resa... Ko-Wahi är väldigt fridfullt... Vakama säger att om jag tränar så kan jag resa långt på väldigt kort tid."
 
 #. Key:	DL_KapuraWhereLe
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereLe.Default__DL_KapuraWhereLe_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereLe.Default__DL_KapuraWhereLe_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraWhereLe"
 msgid "I like to travel... Le-Wahi is very pretty. Vakama says that by practicing my skill I can travel large distances in a short time."
-msgstr ""
+msgstr "Jag gillar att resa... Le-Wahi är väldigt vackert... Vakama säger att om jag tränar så kan jag resa långt på väldigt kort tid."
 
 #. Key:	DL_KapuraWhereOnu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereOnu.Default__DL_KapuraWhereOnu_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereOnu.Default__DL_KapuraWhereOnu_C.DialogueText
 msgctxt "Dialogue_Text,DL_KapuraWhereOnu"
 msgid "Everyone lives on an island, it's only a matter of size..."
-msgstr ""
+msgstr "Alla bor på en ö... Det är bara storleken som varierar..."
 
 #. Key:	DL_KewaMaster
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_KewaMaster.Default__DL_KewaMaster_C.DialogueText
@@ -16794,546 +16794,546 @@ msgstr ""
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_AmanaVoloSphere.Item_AmanaVoloSphere.Name
 msgctxt "InvItem_Name,Item_AmanaVoloSphere"
 msgid "Amana Volo Sphere"
-msgstr ""
+msgstr "Amana Volo Sfär"
 
 #. Key:	Item_ArakaNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ArakaNote.Item_ArakaNote.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ArakaNote.Item_ArakaNote.Name
 msgctxt "InvItem_Name,Item_ArakaNote"
 msgid "Araka: Gone Shopping"
-msgstr ""
+msgstr "Araka: Ute och Handlar"
 
 #. Key:	Item_Blackmask
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Blackmask.Item_Blackmask.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Blackmask.Item_Blackmask.Name
 msgctxt "InvItem_Name,Item_Blackmask"
 msgid "The Black Mask"
-msgstr ""
+msgstr "Skuggansmask"
 
 #. Key:	Item_BrothersNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_BrothersNote.Item_BrothersNote.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_BrothersNote.Item_BrothersNote.Name
 msgctxt "InvItem_Name,Item_BrothersNote"
 msgid "The Note of the Brother"
-msgstr ""
+msgstr "Lappen om brodern"
 
 #. Key:	Item_Candle
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Candle.Item_Candle.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Candle.Item_Candle.Name
 msgctxt "InvItem_Name,Item_Candle"
 msgid "Carving Candle"
-msgstr ""
+msgstr "Stearinljus"
 
 #. Key:	Item_Comets
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Comets.Item_Comets.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Comets.Item_Comets.Name
 msgctxt "InvItem_Name,Item_Comets"
 msgid "Comet Kolhii Ball"
-msgstr ""
+msgstr "Komet Kolhii Boll"
 
 #. Key:	Item_CookBook
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_CookBook.Item_CookBook.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_CookBook.Item_CookBook.Name
 msgctxt "InvItem_Name,Item_CookBook"
 msgid "Manha's Special Recipes"
-msgstr ""
+msgstr "Manhas Specialrecept"
 
 #. Key:	Item_DoorKeyNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_DoorKeyNote.Item_DoorKeyNote.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_DoorKeyNote.Item_DoorKeyNote.Name
 msgctxt "InvItem_Name,Item_DoorKeyNote"
 msgid "Door Icon Key"
-msgstr ""
+msgstr "Dörrikon Nyckel"
 
 #. Key:	Item_FirstMateLog1
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog1.Item_FirstMateLog1.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog1.Item_FirstMateLog1.Name
 msgctxt "InvItem_Name,Item_FirstMateLog1"
 msgid "First Mate Dakk's Log #1"
-msgstr ""
+msgstr "Förste styrman Dakks Journal #1"
 
 #. Key:	Item_FirstMateLog2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog2.Item_FirstMateLog2.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog2.Item_FirstMateLog2.Name
 msgctxt "InvItem_Name,Item_FirstMateLog2"
 msgid "First Mate Dakk's Log #2"
-msgstr ""
+msgstr "Förste styrman Dakks Journal #2"
 
 #. Key:	Item_FirstMateLog3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog3.Item_FirstMateLog3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog3.Item_FirstMateLog3.Name
 msgctxt "InvItem_Name,Item_FirstMateLog3"
 msgid "First Mate Dakk's Log #3"
-msgstr ""
+msgstr "Förste styrman Dakks Journal #3"
 
 #. Key:	Item_FirstMateLog4
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog4.Item_FirstMateLog4.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog4.Item_FirstMateLog4.Name
 msgctxt "InvItem_Name,Item_FirstMateLog4"
 msgid "First Mate Dakk's Log #4"
-msgstr ""
+msgstr "Förste styrman Dakks Journal #4"
 
 #. Key:	Item_FirstMateLog5
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog5.Item_FirstMateLog5.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog5.Item_FirstMateLog5.Name
 msgctxt "InvItem_Name,Item_FirstMateLog5"
 msgid "First Mate Dakk's Log #5"
-msgstr ""
+msgstr "Förste styrman Dakks Journal #5"
 
 #. Key:	Item_FirstMateLog6
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog6.Item_FirstMateLog6.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog6.Item_FirstMateLog6.Name
 msgctxt "InvItem_Name,Item_FirstMateLog6"
 msgid "First Mate Dakk's Log #6"
-msgstr ""
+msgstr "Förste styrman Dakks Journal #6"
 
 #. Key:	Item_GaMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_GaMakoki.Item_GaMakoki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_GaMakoki.Item_GaMakoki.Name
 msgctxt "InvItem_Name,Item_GaMakoki"
 msgid "Ga Makoki Stone"
-msgstr ""
+msgstr "Ga Makoki-Stenen"
 
 #. Key:	Item_GlowCrystal
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GlowCrystal.Item_GlowCrystal.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GlowCrystal.Item_GlowCrystal.Name
 msgctxt "InvItem_Name,Item_GlowCrystal"
 msgid "Glow Crystal"
-msgstr ""
+msgstr "Glödkristall"
 
 #. Key:	Item_GoldBars
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldBars.Item_GoldBars.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldBars.Item_GoldBars.Name
 msgctxt "InvItem_Name,Item_GoldBars"
 msgid "Gold Bars"
-msgstr ""
+msgstr "Guldtackor"
 
 #. Key:	Item_GoldenMahi
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenMahi.Item_GoldenMahi.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenMahi.Item_GoldenMahi.Name
 msgctxt "InvItem_Name,Item_GoldenMahi"
 msgid "The Golden Mahi"
-msgstr ""
+msgstr "Den Gyllene Mahi"
 
 #. Key:	Item_GoldenRama
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRama.Item_GoldenRama.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRama.Item_GoldenRama.Name
 msgctxt "InvItem_Name,Item_GoldenRama"
 msgid "The Golden Rama"
-msgstr ""
+msgstr "Den Gyllene Rama"
 
 #. Key:	Item_GoldenRuki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRuki.Item_GoldenRuki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRuki.Item_GoldenRuki.Name
 msgctxt "InvItem_Name,Item_GoldenRuki"
 msgid "The Golden Ruki"
-msgstr ""
+msgstr "Den Gyllene Ruki"
 
 #. Key:	Item_GoldenStatue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenStatue.Item_GoldenStatue.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenStatue.Item_GoldenStatue.Name
 msgctxt "InvItem_Name,Item_GoldenStatue"
 msgid "The Golden Mata"
-msgstr ""
+msgstr "Den Gyllene Mata"
 
 #. Key:	Item_GoldenUssal
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenUssal.Item_GoldenUssal.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenUssal.Item_GoldenUssal.Name
 msgctxt "InvItem_Name,Item_GoldenUssal"
 msgid "The Golden Ussal"
-msgstr ""
+msgstr "Den Gyllene Ussal"
 
 #. Key:	Item_HauUnpowered
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_HauUnpowered.Item_HauUnpowered.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_HauUnpowered.Item_HauUnpowered.Name
 msgctxt "InvItem_Name,Item_HauUnpowered"
 msgid "Hau (Unpowered)"
-msgstr ""
+msgstr "Hau (Oladdad)"
 
 #. Key:	Item_InfectedMasks
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_InfectedMasks.Item_InfectedMasks.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_InfectedMasks.Item_InfectedMasks.Name
 msgctxt "InvItem_Name,Item_InfectedMasks"
 msgid "Infected Mask"
-msgstr ""
+msgstr "Infekterad Mask"
 
 #. Key:	Item_KakamaUnpowered
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_KakamaUnpowered.Item_KakamaUnpowered.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_KakamaUnpowered.Item_KakamaUnpowered.Name
 msgctxt "InvItem_Name,Item_KakamaUnpowered"
 msgid "Kakama (Unpowered)"
-msgstr ""
+msgstr "Kakama (Oladdad)"
 
 #. Key:	Item_KolhiiBall
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_KolhiiBall.Item_KolhiiBall.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_KolhiiBall.Item_KolhiiBall.Name
 msgctxt "InvItem_Name,Item_KolhiiBall"
 msgid "Kolhii Ball"
-msgstr ""
+msgstr "Kolhii Boll"
 
 #. Key:	Item_KoMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_KoMakoki.Item_KoMakoki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_KoMakoki.Item_KoMakoki.Name
 msgctxt "InvItem_Name,Item_KoMakoki"
 msgid "Ko Makoki Stone"
-msgstr ""
+msgstr "Ko Makoki-Stenen"
 
 #. Key:	Item_LeMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_LeMakoki.Item_LeMakoki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_LeMakoki.Item_LeMakoki.Name
 msgctxt "InvItem_Name,Item_LeMakoki"
 msgid "Le Makoki Stone"
-msgstr ""
+msgstr "Le Makoki-Stenen"
 
 #. Key:	Item_MahaiTea
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_MahaiTea.Item_MahaiTea.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_MahaiTea.Item_MahaiTea.Name
 msgctxt "InvItem_Name,Item_MahaiTea"
 msgid "Mahai Tea"
-msgstr ""
+msgstr "Mahai Te"
 
 #. Key:	Item_MarenMap1
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap1.Item_MarenMap1.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap1.Item_MarenMap1.Name
 msgctxt "InvItem_Name,Item_MarenMap1"
 msgid "Blackmask's Treasure Map #1"
-msgstr ""
+msgstr "Skuggansmasks Skattekarta #1"
 
 #. Key:	Item_MarenMap2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap2.Item_MarenMap2.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap2.Item_MarenMap2.Name
 msgctxt "InvItem_Name,Item_MarenMap2"
 msgid "Blackmask's Treasure Map #2"
-msgstr ""
+msgstr "Skuggansmasks Skattekarta #2"
 
 #. Key:	Item_MarenMap3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap3.Item_MarenMap3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap3.Item_MarenMap3.Name
 msgctxt "InvItem_Name,Item_MarenMap3"
 msgid "Blackmask's Treasure Map #3"
-msgstr ""
+msgstr "Skuggansmasks Skattekarta #3"
 
 #. Key:	Item_MarenMap4
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap4.Item_MarenMap4.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap4.Item_MarenMap4.Name
 msgctxt "InvItem_Name,Item_MarenMap4"
 msgid "Blackmask's Treasure Map #4"
-msgstr ""
+msgstr "Skuggansmasks Skattekarta #4"
 
 #. Key:	Item_MaskFinder
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskFinder.Item_MaskFinder.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskFinder.Item_MaskFinder.Name
 msgctxt "InvItem_Name,Item_MaskFinder"
 msgid "The Mask Finder"
-msgstr ""
+msgstr "Maskfinnaren"
 
 #. Key:	Item_MaskLocator
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskLocator.Item_MaskLocator.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskLocator.Item_MaskLocator.Name
 msgctxt "InvItem_Name,Item_MaskLocator"
 msgid "The Mask Finder"
-msgstr ""
+msgstr "Maskfinnaren"
 
 #. Key:	Item_MetallicProtodermisIngots
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Name
 msgctxt "InvItem_Name,Item_MetallicProtodermisIngots"
 msgid "Metallic Protodermis Ingots"
-msgstr ""
+msgstr "Metallisk Protodermistacka"
 
 #. Key:	Item_OnuMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_OnuMakoki.Item_OnuMakoki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_OnuMakoki.Item_OnuMakoki.Name
 msgctxt "InvItem_Name,Item_OnuMakoki"
 msgid "Onu Makoki Stone"
-msgstr ""
+msgstr "Onu Makoki-Stenen"
 
 #. Key:	Item_Pocketdermis
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_Pocketdermis.Item_Pocketdermis.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_Pocketdermis.Item_Pocketdermis.Name
 msgctxt "InvItem_Name,Item_Pocketdermis"
 msgid "Pocketdermis"
-msgstr ""
+msgstr "Fickdermis"
 
 #. Key:	Item_PoetNoteBurns
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteBurns.Item_PoetNoteBurns.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteBurns.Item_PoetNoteBurns.Name
 msgctxt "InvItem_Name,Item_PoetNoteBurns"
 msgid "Talok: The Ballad of Ta-koro Part 2"
-msgstr ""
+msgstr "Talok: Balladen om Ta-Koro: Del 2"
 
 #. Key:	Item_PoetNoteHot
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteHot.Item_PoetNoteHot.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteHot.Item_PoetNoteHot.Name
 msgctxt "InvItem_Name,Item_PoetNoteHot"
 msgid "Talok: The Ballad of Ta-koro Part 2"
-msgstr ""
+msgstr "Talok: Balladen om Ta-Koro: Del 2"
 
 #. Key:	Item_PoetNoteLight
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteLight.Item_PoetNoteLight.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteLight.Item_PoetNoteLight.Name
 msgctxt "InvItem_Name,Item_PoetNoteLight"
 msgid "Talok: The Ballad of Ta-koro Part 2"
-msgstr ""
+msgstr "Talok: Balladen om Ta-Koro: Del 2"
 
 #. Key:	Item_PoetNotePart1
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart1.Item_PoetNotePart1.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart1.Item_PoetNotePart1.Name
 msgctxt "InvItem_Name,Item_PoetNotePart1"
 msgid "Talok: The Ballad of Ta-koro Part 1"
-msgstr ""
+msgstr "Talok: Balladen om Ta-Koro: Del 1"
 
 #. Key:	Item_PoetNotePart3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart3.Item_PoetNotePart3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart3.Item_PoetNotePart3.Name
 msgctxt "InvItem_Name,Item_PoetNotePart3"
 msgid "Talok: The Ballad of Ta-koro Part 3"
-msgstr ""
+msgstr "Talok: Balladen om Ta-Koro: Del 3"
 
 #. Key:	Item_PoetNoteSmoke
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteSmoke.Item_PoetNoteSmoke.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteSmoke.Item_PoetNoteSmoke.Name
 msgctxt "InvItem_Name,Item_PoetNoteSmoke"
 msgid "Talok: The Ballad of Ta-koro Part 2"
-msgstr ""
+msgstr "Talok: Balladen om Ta-Koro: Del 2"
 
 #. Key:	Item_PoMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_PoMakoki.Item_PoMakoki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_PoMakoki.Item_PoMakoki.Name
 msgctxt "InvItem_Name,Item_PoMakoki"
 msgid "Po Makoki Stone"
-msgstr ""
+msgstr "Po Makoki-Stenen"
 
 #. Key:	Item_Pots
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Pots.Item_Pots.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Pots.Item_Pots.Name
 msgctxt "InvItem_Name,Item_Pots"
 msgid "Po-koro Pot"
-msgstr ""
+msgstr "Po-Koro Kruka"
 
 #. Key:	Item_ProtoCell
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCell.Item_ProtoCell.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCell.Item_ProtoCell.Name
 msgctxt "InvItem_Name,Item_ProtoCell"
 msgid "Protodermis Cell"
-msgstr ""
+msgstr "Protodermis Cell"
 
 #. Key:	Item_ProtoCharge
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCharge.Item_ProtoCharge.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCharge.Item_ProtoCharge.Name
 msgctxt "InvItem_Name,Item_ProtoCharge"
 msgid "Protodermis Charge"
-msgstr ""
+msgstr "Protodermis Laddning"
 
 #. Key:	Item_ResearchNotes
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.Name
 msgctxt "InvItem_Name,Item_ResearchNotes"
 msgid "The Artifact from Below"
-msgstr ""
+msgstr "Artefakten från Nedan"
 
 #. Key:	Item_RestorationGel
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_RestorationGel.Item_RestorationGel.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_RestorationGel.Item_RestorationGel.Name
 msgctxt "InvItem_Name,Item_RestorationGel"
 msgid "Restoration Gel"
-msgstr ""
+msgstr "Återställningsgel"
 
 #. Key:	Item_RockHat
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_RockHat.Item_RockHat.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_RockHat.Item_RockHat.Name
 msgctxt "InvItem_Name,Item_RockHat"
 msgid "Rock"
-msgstr ""
+msgstr "Sten"
 
 #. Key:	Item_ShoppingList
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ShoppingList.Item_ShoppingList.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ShoppingList.Item_ShoppingList.Name
 msgctxt "InvItem_Name,Item_ShoppingList"
 msgid "Metonu's Shopping List"
-msgstr ""
+msgstr "Metonus Köplista"
 
 #. Key:	Item_SouthernTipNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SouthernTipNote.Item_SouthernTipNote.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SouthernTipNote.Item_SouthernTipNote.Name
 msgctxt "InvItem_Name,Item_SouthernTipNote"
 msgid "Southern Tip Note"
-msgstr ""
+msgstr "Lapp från Södra Tippen"
 
 #. Key:	Item_StaffClass2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_StaffClass2.Item_StaffClass2.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_StaffClass2.Item_StaffClass2.Name
 msgctxt "InvItem_Name,Item_StaffClass2"
 msgid "Takoro Guard Staff Class 2"
-msgstr ""
+msgstr "Takoro Vakt Spjut Klass 2"
 
 #. Key:	Item_Statuette
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Statuette.Item_Statuette.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Statuette.Item_Statuette.Name
 msgctxt "InvItem_Name,Item_Statuette"
 msgid "Toa Statuette"
-msgstr ""
+msgstr "Toa Statyett"
 
 #. Key:	Item_StoneCarving
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_StoneCarving.Item_StoneCarving.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_StoneCarving.Item_StoneCarving.Name
 msgctxt "InvItem_Name,Item_StoneCarving"
 msgid "Mata-Nui Carving"
-msgstr ""
+msgstr "Mata-Nui Skulptur"
 
 #. Key:	Item_SwordStatueNotePart1
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart1.Item_SwordStatueNotePart1.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart1.Item_SwordStatueNotePart1.Name
 msgctxt "InvItem_Name,Item_SwordStatueNotePart1"
 msgid "The Legend of The Swords: Part 1"
-msgstr ""
+msgstr "Legenden om Svärden: Del 1"
 
 #. Key:	Item_SwordStatueNotePart2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart2.Item_SwordStatueNotePart2.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart2.Item_SwordStatueNotePart2.Name
 msgctxt "InvItem_Name,Item_SwordStatueNotePart2"
 msgid "The Legend of The Swords: Part 2"
-msgstr ""
+msgstr "Legenden om Svärden: Del 2"
 
 #. Key:	Item_SwordStatuesNotePart3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatuesNotePart3.Item_SwordStatuesNotePart3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatuesNotePart3.Item_SwordStatuesNotePart3.Name
 msgctxt "InvItem_Name,Item_SwordStatuesNotePart3"
 msgid "The Legend of The Swords: Part 3"
-msgstr ""
+msgstr "Legenden om Svärden: Del 3"
 
 #. Key:	Item_TaMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_TaMakoki.Item_TaMakoki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_TaMakoki.Item_TaMakoki.Name
 msgctxt "InvItem_Name,Item_TaMakoki"
 msgid "Ta Makoki Stone"
-msgstr ""
+msgstr "Ta Makoki-Stenen"
 
 #. Key:	Item_ThueiNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ThueiNote.Item_ThueiNote.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ThueiNote.Item_ThueiNote.Name
 msgctxt "InvItem_Name,Item_ThueiNote"
 msgid "'Out carving!'"
-msgstr ""
+msgstr "'Ute och skulpterar!'"
 
 #. Key:	Item_UnpoweredAkaku
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredAkaku.Item_UnpoweredAkaku.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredAkaku.Item_UnpoweredAkaku.Name
 msgctxt "InvItem_Name,Item_UnpoweredAkaku"
 msgid "Akaku (Unpowered)"
-msgstr ""
+msgstr "Akaku (Oladdad)"
 
 #. Key:	Item_UnpoweredHuna
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredHuna.Item_UnpoweredHuna.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredHuna.Item_UnpoweredHuna.Name
 msgctxt "InvItem_Name,Item_UnpoweredHuna"
 msgid "Huna (Unpowered)"
-msgstr ""
+msgstr "Huna (Oladdad)"
 
 #. Key:	Item_UnpoweredKaukau
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredKaukau.Item_UnpoweredKaukau.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredKaukau.Item_UnpoweredKaukau.Name
 msgctxt "InvItem_Name,Item_UnpoweredKaukau"
 msgid "Kaukau (Unpowered)"
-msgstr ""
+msgstr "Kaukau (Oladdad)"
 
 #. Key:	Item_UnpoweredKomau
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredKomau.Item_UnpoweredKomau.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredKomau.Item_UnpoweredKomau.Name
 msgctxt "InvItem_Name,Item_UnpoweredKomau"
 msgid "Komau (Unpowered)"
-msgstr ""
+msgstr "Komau (Oladdad)"
 
 #. Key:	Item_UnpoweredMahiki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMahiki.Item_UnpoweredMahiki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMahiki.Item_UnpoweredMahiki.Name
 msgctxt "InvItem_Name,Item_UnpoweredMahiki"
 msgid "Mahiki (Unpowered)"
-msgstr ""
+msgstr "Mahiki (Oladdad)"
 
 #. Key:	Item_UnpoweredMatatu
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMatatu.Item_UnpoweredMatatu.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMatatu.Item_UnpoweredMatatu.Name
 msgctxt "InvItem_Name,Item_UnpoweredMatatu"
 msgid "Matatu (Unpowered)"
-msgstr ""
+msgstr "Matatu (Oladdad)"
 
 #. Key:	Item_UnpoweredMiru
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMiru.Item_UnpoweredMiru.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMiru.Item_UnpoweredMiru.Name
 msgctxt "InvItem_Name,Item_UnpoweredMiru"
 msgid "Miru (Unpowered)"
-msgstr ""
+msgstr "Miru (Oladdad)"
 
 #. Key:	Item_UnpoweredPakari
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredPakari.Item_UnpoweredPakari.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredPakari.Item_UnpoweredPakari.Name
 msgctxt "InvItem_Name,Item_UnpoweredPakari"
 msgid "Pakari (Unpowered)"
-msgstr ""
+msgstr "Pakari (Oladdad)"
 
 #. Key:	Item_UnpoweredRau
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredRau.Item_UnpoweredRau.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredRau.Item_UnpoweredRau.Name
 msgctxt "InvItem_Name,Item_UnpoweredRau"
 msgid "Rau (Unpowered)"
-msgstr ""
+msgstr "Rau (Oladdad)"
 
 #. Key:	Item_UnpoweredRuru
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredRuru.Item_UnpoweredRuru.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredRuru.Item_UnpoweredRuru.Name
 msgctxt "InvItem_Name,Item_UnpoweredRuru"
 msgid "Ruru (Unpowered)"
-msgstr ""
+msgstr "Ruru (Oladdad)"
 
 #. Key:	Item_VuataMacaSeeds
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_VuataMacaSeeds.Item_VuataMacaSeeds.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_VuataMacaSeeds.Item_VuataMacaSeeds.Name
 msgctxt "InvItem_Name,Item_VuataMacaSeeds"
 msgid "Vuata Maca Seeds"
-msgstr ""
+msgstr "Vuata Maca Frön"
 
 #. Key:	Item_WaheCanister
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Item_WaheCanister.Item_WaheCanister.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Item_WaheCanister.Item_WaheCanister.Name
 msgctxt "InvItem_Name,Item_WaheCanister"
 msgid "Wahae-Mata Gel Canister"
-msgstr ""
+msgstr "Wahae-Mata Gel Kapsel"
 
 #. Key:	Item_WaheGel
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Item_WaheGel.Item_WaheGel.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Item_WaheGel.Item_WaheGel.Name
 msgctxt "InvItem_Name,Item_WaheGel"
 msgid "Wahe-Mata Gel"
-msgstr ""
+msgstr "Wahe-Mata Gel"
 
 #. Key:	Item_WhakaNui
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_WhakaNui.Item_WhakaNui.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_WhakaNui.Item_WhakaNui.Name
 msgctxt "InvItem_Name,Item_WhakaNui"
 msgid "Whakata Nui Cell"
-msgstr ""
+msgstr "Whakata Nui Cell"
 
 #. Key:	Item_Widgets
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Widgets.Item_Widgets.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Widgets.Item_Widgets.Name
 msgctxt "InvItem_Name,Item_Widgets"
 msgid "Widgets"
-msgstr ""
+msgstr "Widgets"
 
 #. Key:	Item_WoodStatue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Name
 msgctxt "InvItem_Name,Item_WoodStatue"
 msgid "Wood Head Statue"
-msgstr ""
+msgstr "Huvudstaty i Trä"
 
 #. Key:	Item_WorldMap
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Name
 msgctxt "InvItem_Name,Item_WorldMap"
 msgid "World Map"
-msgstr ""
+msgstr "Världskarta"
 
 #. Key:	Item_ArakaNote_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ArakaNote.Item_ArakaNote.TextToDisplay
@@ -17915,980 +17915,980 @@ msgstr ""
 #: /Game/BluePrints/Classes/Quests/Quest_Amongsttheburnttrees.Default__Quest_Amongsttheburnttrees_C.QuestName
 msgctxt "Quest_Name,Quest_Amongsttheburnttrees"
 msgid "Among the burnt trees"
-msgstr ""
+msgstr "Bland de Brända Träden"
 
 #. Key:	Quest_CalmCave
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.QuestName
 msgctxt "Quest_Name,Quest_CalmCave"
 msgid "A Calm Cave"
-msgstr ""
+msgstr "En Lugn Grotta"
 
 #. Key:	Quest_Challange
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.QuestName
 msgctxt "Quest_Name,Quest_Challange"
 msgid "The Challenge"
-msgstr ""
+msgstr "Utmaningen för Kopaka"
 
 #. Key:	Quest_CometHunt
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_CometHunt.Default__Quest_CometHunt_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_CometHunt.Default__Quest_CometHunt_C.QuestName
 msgctxt "Quest_Name,Quest_CometHunt"
 msgid "The Comet Hunt"
-msgstr ""
+msgstr "Jakten på Kometen"
 
 #. Key:	Quest_DangerOnTheHorizon
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_DangerOnTheHorizon.Default__Quest_DangerOnTheHorizon_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_DangerOnTheHorizon.Default__Quest_DangerOnTheHorizon_C.QuestName
 msgctxt "Quest_Name,Quest_DangerOnTheHorizon"
 msgid "Danger On The Horizon"
-msgstr ""
+msgstr "Fara på Horizonten"
 
 #. Key:	Quest_FindKumo
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FindKumo.Default__Quest_FindKumo_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_FindKumo.Default__Quest_FindKumo_C.QuestName
 msgctxt "Quest_Name,Quest_FindKumo"
 msgid "A Friend In Need"
-msgstr ""
+msgstr "En Vän i Fara"
 
 #. Key:	Quest_FrozenInWood
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FrozenInWood.Default__Quest_FrozenInWood_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_FrozenInWood.Default__Quest_FrozenInWood_C.QuestName
 msgctxt "Quest_Name,Quest_FrozenInWood"
 msgid "Frozen In Wood"
-msgstr ""
+msgstr "Frusen i Trä"
 
 #. Key:	Quest_FrozenTower
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FrozenTower.Default__Quest_FrozenTower_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_FrozenTower.Default__Quest_FrozenTower_C.QuestName
 msgctxt "Quest_Name,Quest_FrozenTower"
 msgid "The Frozen Tower"
-msgstr ""
+msgstr "Det Frusna Tornet"
 
 #. Key:	Quest_Gakoro
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Gakoro.Default__Quest_Gakoro_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Gakoro.Default__Quest_Gakoro_C.QuestName
 msgctxt "Quest_Name,Quest_Gakoro"
 msgid "The Village of Water"
-msgstr ""
+msgstr "Vattnets By"
 
 #. Key:	Quest_Gali
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Gali.Default__Quest_Gali_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Gali.Default__Quest_Gali_C.QuestName
 msgctxt "Quest_Name,Quest_Gali"
 msgid "The Toa of Water"
-msgstr ""
+msgstr "Vattnets Toa"
 
 #. Key:	Quest_GaMakokiStone
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_GaMakokiStone.Default__Quest_GaMakokiStone_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_GaMakokiStone.Default__Quest_GaMakokiStone_C.QuestName
 msgctxt "Quest_Name,Quest_GaMakokiStone"
 msgid "The Temple of Water"
-msgstr ""
+msgstr "Vattnets Tempel"
 
 #. Key:	Quest_Gorbo
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.QuestName
 msgctxt "Quest_Name,Quest_Gorbo"
 msgid "Gorbo: The Racer"
-msgstr ""
+msgstr "OANVÄNT UPPDRAG"
 
 #. Key:	Quest_Infestation
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.QuestName
 msgctxt "Quest_Name,Quest_Infestation"
 msgid "Infestation"
-msgstr ""
+msgstr "Pestkontroll"
 
 #. Key:	Quest_KiniNui
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KiniNui.Default__Quest_KiniNui_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KiniNui.Default__Quest_KiniNui_C.QuestName
 msgctxt "Quest_Name,Quest_KiniNui"
 msgid "The Kini-Nui"
-msgstr ""
+msgstr "Kini-Nuin"
 
 #. Key:	Quest_Kokoro
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Kokoro.Default__Quest_Kokoro_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Kokoro.Default__Quest_Kokoro_C.QuestName
 msgctxt "Quest_Name,Quest_Kokoro"
 msgid "The Village of Ice"
-msgstr ""
+msgstr "Isens By"
 
 #. Key:	Quest_KoMakokiStone
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.QuestName
 msgctxt "Quest_Name,Quest_KoMakokiStone"
 msgid "The Temple of Ice"
-msgstr ""
+msgstr "Isens Tempel"
 
 #. Key:	Quest_Kopaka
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Kopaka.Default__Quest_Kopaka_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Kopaka.Default__Quest_Kopaka_C.QuestName
 msgctxt "Quest_Name,Quest_Kopaka"
 msgid "The Toa of Ice"
-msgstr ""
+msgstr "Isens Toa"
 
 #. Key:	Quest_Lekoro
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Lekoro.Default__Quest_Lekoro_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Lekoro.Default__Quest_Lekoro_C.QuestName
 msgctxt "Quest_Name,Quest_Lekoro"
 msgid "The Village of Air"
-msgstr ""
+msgstr "Luftens By"
 
 #. Key:	Quest_LeMakokiStone
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_LeMakokiStone.Default__Quest_LeMakokiStone_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_LeMakokiStone.Default__Quest_LeMakokiStone_C.QuestName
 msgctxt "Quest_Name,Quest_LeMakokiStone"
 msgid "The Temple of Air"
-msgstr ""
+msgstr "Luftens Tempel"
 
 #. Key:	Quest_LeTemple
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_LeTemple.Default__Quest_LeTemple_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_LeTemple.Default__Quest_LeTemple_C.QuestName
 msgctxt "Quest_Name,Quest_LeTemple"
 msgid "A Temple in the Jungle"
-msgstr ""
+msgstr "Ett Tempel i Djungeln"
 
 #. Key:	Quest_Lewa
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Lewa.Default__Quest_Lewa_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Lewa.Default__Quest_Lewa_C.QuestName
 msgctxt "Quest_Name,Quest_Lewa"
 msgid "The Toa of Air"
-msgstr ""
+msgstr "Luftens Toa"
 
 #. Key:	Quest_MackusLetter
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.QuestName
 msgctxt "Quest_Name,Quest_MackusLetter"
 msgid "A Private Letter"
-msgstr ""
+msgstr "Ett Privat Brev"
 
 #. Key:	Quest_Mangaia
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.QuestName
 msgctxt "Quest_Name,Quest_Mangaia"
 msgid "The Makuta's Lair"
-msgstr ""
+msgstr "Makutas Håla"
 
 #. Key:	Quest_OnTheLine
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.QuestName
 msgctxt "Quest_Name,Quest_OnTheLine"
 msgid "On The Line"
-msgstr ""
+msgstr "Toa Söker Jobb"
 
 #. Key:	Quest_Onua
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Onua.Default__Quest_Onua_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Onua.Default__Quest_Onua_C.QuestName
 msgctxt "Quest_Name,Quest_Onua"
 msgid "The Toa of Earth"
-msgstr ""
+msgstr "Jordens Toa"
 
 #. Key:	Quest_Onukoro
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Onukoro.Default__Quest_Onukoro_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Onukoro.Default__Quest_Onukoro_C.QuestName
 msgctxt "Quest_Name,Quest_Onukoro"
 msgid "The Village of Earth"
-msgstr ""
+msgstr "Jordens By"
 
 #. Key:	Quest_OnuMakokiStone
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_OnuMakokiStone.Default__Quest_OnuMakokiStone_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_OnuMakokiStone.Default__Quest_OnuMakokiStone_C.QuestName
 msgctxt "Quest_Name,Quest_OnuMakokiStone"
 msgid "The Temple of Earth"
-msgstr ""
+msgstr "Jordens Tempel"
 
 #. Key:	Quest_Pohatu
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Pohatu.Default__Quest_Pohatu_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Pohatu.Default__Quest_Pohatu_C.QuestName
 msgctxt "Quest_Name,Quest_Pohatu"
 msgid "The Toa of Stone"
-msgstr ""
+msgstr "Stenens Toa"
 
 #. Key:	Quest_Pokoro
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Pokoro.Default__Quest_Pokoro_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Pokoro.Default__Quest_Pokoro_C.QuestName
 msgctxt "Quest_Name,Quest_Pokoro"
 msgid "The Village of Stone"
-msgstr ""
+msgstr "Stenens By"
 
 #. Key:	Quest_PoMakokiStone
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_PoMakokiStone.Default__Quest_PoMakokiStone_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_PoMakokiStone.Default__Quest_PoMakokiStone_C.QuestName
 msgctxt "Quest_Name,Quest_PoMakokiStone"
 msgid "The Temple of Stone"
-msgstr ""
+msgstr "Stenens Tempel"
 
 #. Key:	Quest_PoTemple
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.QuestName
 msgctxt "Quest_Name,Quest_PoTemple"
 msgid "A Temple Under the sands"
-msgstr ""
+msgstr "Ett Tempel täckt med sand"
 
 #. Key:	Quest_ProphetOfTheMakuta
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.QuestName
 msgctxt "Quest_Name,Quest_ProphetOfTheMakuta"
 msgid "Prophet Of The Makuta"
-msgstr ""
+msgstr "Makutas Profet"
 
 #. Key:	Quest_Protosteel
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.QuestName
 msgctxt "Quest_Name,Quest_Protosteel"
 msgid "The Secret of Protosteel"
-msgstr ""
+msgstr "Protostålens Hemlighet"
 
 #. Key:	Quest_Staff
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.QuestName
 msgctxt "Quest_Name,Quest_Staff"
 msgid "The Staff Scramble"
-msgstr ""
+msgstr "Rabalder om Spjut"
 
 #. Key:	Quest_Tahu
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Tahu.Default__Quest_Tahu_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Tahu.Default__Quest_Tahu_C.QuestName
 msgctxt "Quest_Name,Quest_Tahu"
 msgid "The Toa of Fire"
-msgstr ""
+msgstr "Eldens Toa"
 
 #. Key:	Quest_Takoro
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Takoro.Default__Quest_Takoro_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Takoro.Default__Quest_Takoro_C.QuestName
 msgctxt "Quest_Name,Quest_Takoro"
 msgid "The Village of Fire"
-msgstr ""
+msgstr "Eldens By"
 
 #. Key:	Quest_TaMakokiStone
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TaMakokiStone.Default__Quest_TaMakokiStone_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TaMakokiStone.Default__Quest_TaMakokiStone_C.QuestName
 msgctxt "Quest_Name,Quest_TaMakokiStone"
 msgid "The Temple of Fire"
-msgstr ""
+msgstr "Eldens Tempel"
 
 #. Key:	Quest_TempleLiberation
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.QuestName
 msgctxt "Quest_Name,Quest_TempleLiberation"
 msgid "Danger On The Horizon"
-msgstr ""
+msgstr "Liberation av Templet"
 
 #. Key:	Quest_TheGreatShiftingFestival
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheGreatShiftingFestival.Default__Quest_TheGreatShiftingFestival_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_TheGreatShiftingFestival.Default__Quest_TheGreatShiftingFestival_C.QuestName
 msgctxt "Quest_Name,Quest_TheGreatShiftingFestival"
 msgid "The Great Shifting Festival"
-msgstr ""
+msgstr "OANVÄNT UPPDRAG"
 
 #. Key:	Quest_TheLakeOfFrost
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.QuestName
 msgctxt "Quest_Name,Quest_TheLakeOfFrost"
 msgid "The Lake of The Frost"
-msgstr ""
+msgstr "Frostens Sjö"
 
 #. Key:	Quest_TheToaOfFire1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.QuestName
 msgctxt "Quest_Name,Quest_TheToaOfFire1"
 msgid "The Toa Of Fire"
-msgstr ""
+msgstr "Eldens Turaga"
 
 #. Key:	Quest_TheTuragaOfAir
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.QuestName
 msgctxt "Quest_Name,Quest_TheTuragaOfAir"
 msgid "The Turaga of Air"
-msgstr ""
+msgstr "Luftens Turaga"
 
 #. Key:	Quest_TheTuragaOfEarth
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.QuestName
 msgctxt "Quest_Name,Quest_TheTuragaOfEarth"
 msgid "The Turaga Of Earth"
-msgstr ""
+msgstr "Jordens Turaga"
 
 #. Key:	Quest_TheTuragaOfIce
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfIce.Default__Quest_TheTuragaOfIce_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfIce.Default__Quest_TheTuragaOfIce_C.QuestName
 msgctxt "Quest_Name,Quest_TheTuragaOfIce"
 msgid "The Turaga Of Ice"
-msgstr ""
+msgstr "Isens Turaga"
 
 #. Key:	Quest_TheTuragaOfStone
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.QuestName
 msgctxt "Quest_Name,Quest_TheTuragaOfStone"
 msgid "The Turaga Of Stone"
-msgstr ""
+msgstr "Stenens Turaga"
 
 #. Key:	Quest_TheTuragaOfWater
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.QuestName
 msgctxt "Quest_Name,Quest_TheTuragaOfWater"
 msgid "The Turaga Of Water"
-msgstr ""
+msgstr "Vattnets Turaga"
 
 #. Key:	Quest_Amongsttheburnttrees_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Amongsttheburnttrees.Default__Quest_Amongsttheburnttrees_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Amongsttheburnttrees.Default__Quest_Amongsttheburnttrees_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Amongsttheburnttrees_Objective_1"
 msgid "Talk to the Temple master of the Ta-wahi temple."
-msgstr ""
+msgstr "Prata med Tempelmästaren av Ta-Wahi Templet."
 
 #. Key:	Quest_CalmCave_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_CalmCave_Objective_1"
 msgid "Defeat all of the rahi."
-msgstr ""
+msgstr "Besegra alla Rahi."
 
 #. Key:	Quest_CalmCave_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_CalmCave_Objective_2"
 msgid "Talk to the Hiding matoran."
-msgstr ""
+msgstr "Prata med Matoranen som gömmer sig."
 
 #. Key:	Quest_Challange_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Challange_Objective_1"
 msgid "Speak to Podu at the tip of the Motara Desert."
-msgstr ""
+msgstr "Prata med Podu vid tippen av Motara Öknen."
 
 #. Key:	Quest_Challange_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Challange_Objective_2"
 msgid "Accept the Challange."
-msgstr ""
+msgstr "Acceptera utmaningen."
 
 #. Key:	Quest_Challange_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Challange_Objective_3"
 msgid "Beat Pohatu to Po-koro."
-msgstr ""
+msgstr "Tävla med Pohatu mot Po-Koro och vinn."
 
 #. Key:	Quest_CometHunt_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_CometHunt.Default__Quest_CometHunt_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_CometHunt.Default__Quest_CometHunt_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_CometHunt_Objective_1"
 msgid "Give Komeke a Comet."
-msgstr ""
+msgstr "Ge Komeke en Komet."
 
 #. Key:	Quest_DangerOnTheHorizon_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_DangerOnTheHorizon.Default__Quest_DangerOnTheHorizon_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_DangerOnTheHorizon.Default__Quest_DangerOnTheHorizon_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_DangerOnTheHorizon_Objective_1"
 msgid "Defeat the Tarakava guarding the Temple."
-msgstr ""
+msgstr "Besegra Tarakavan som övertagit Templet."
 
 #. Key:	Quest_FindKumo_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FindKumo.Default__Quest_FindKumo_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_FindKumo.Default__Quest_FindKumo_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_FindKumo_Objective_1"
 msgid "Find Kumo in Fau swamp Near the lake he fishes in."
-msgstr ""
+msgstr "Hitta Kumo i Fau träsket nära sjön han fiskar i."
 
 #. Key:	Quest_FrozenInWood_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FrozenInWood.Default__Quest_FrozenInWood_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_FrozenInWood.Default__Quest_FrozenInWood_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_FrozenInWood_Objective_1"
 msgid "Find the Protosteel Tool."
-msgstr ""
+msgstr "Hitta Protostålredskapet."
 
 #. Key:	Quest_FrozenTower_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FrozenTower.Default__Quest_FrozenTower_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_FrozenTower.Default__Quest_FrozenTower_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_FrozenTower_Objective_1"
 msgid "Defeat all of the rahi in the tower."
-msgstr ""
+msgstr "Besegra alla Rahi inuti tornet."
 
 #. Key:	Quest_Gakoro_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Gakoro.Default__Quest_Gakoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Gakoro.Default__Quest_Gakoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Gakoro_Objective_1"
 msgid "Travel to Ga-Koro and Speak to Hahli."
-msgstr ""
+msgstr "Ta dig till Ga-Koro och prata med Hahli."
 
 #. Key:	Quest_Gali_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Gali.Default__Quest_Gali_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Gali.Default__Quest_Gali_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Gali_Objective_1"
 msgid "Travel to Ga-Koro and Interact with the Suva."
-msgstr ""
+msgstr "Ta dig till Ga-Koro och interagera med Suvan."
 
 #. Key:	Quest_GaMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_GaMakokiStone.Default__Quest_GaMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_GaMakokiStone.Default__Quest_GaMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_GaMakokiStone_Objective_1"
 msgid "Speak to Nokama in Ga-koro"
-msgstr ""
+msgstr "Prata med Nokama i Ga-Koro."
 
 #. Key:	Quest_Gorbo_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Gorbo_Objective_1"
 msgid "Bring Jhoni and Gorbo safely to the Onu-Wahi Entrance."
-msgstr ""
+msgstr "Säkerled Jhoni och Gorbo till Onu-Wahi ingången."
 
 #. Key:	Quest_Gorbo_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Gorbo_Objective_2"
 msgid "Talk to Jhoni"
-msgstr ""
+msgstr "Prata med Jhoni."
 
 #. Key:	Quest_Infestation_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Infestation_Objective_1"
 msgid "Free the town of Nui-Jaga."
-msgstr ""
+msgstr "Befria staden från Nui-Jaga."
 
 #. Key:	Quest_KiniNui_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KiniNui.Default__Quest_KiniNui_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KiniNui.Default__Quest_KiniNui_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_KiniNui_Objective_1"
 msgid "Speak to the other Toa at the Kini-Nui."
-msgstr ""
+msgstr "Prata med de andra Toa vid Kini-Nuin."
 
 #. Key:	Quest_Kokoro_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Kokoro.Default__Quest_Kokoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Kokoro.Default__Quest_Kokoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Kokoro_Objective_1"
 msgid "Travel to Ko-Koro and find Matoro"
-msgstr ""
+msgstr "Ta dig till Ko-Koro och prata med Matoro."
 
 #. Key:	Quest_KoMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_KoMakokiStone_Objective_1"
 msgid "Return to Ko-koro and speak to Nuju."
-msgstr ""
+msgstr "Återvänd till Ko-Koro och prata med Nuju."
 
 #. Key:	Quest_KoMakokiStone_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_KoMakokiStone_Objective_2"
 msgid "Speak to Matoro."
-msgstr ""
+msgstr "Prata med Matoro."
 
 #. Key:	Quest_KoMakokiStone_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_KoMakokiStone_Objective_3"
 msgid "Meet Matoro at the Ko-Kini."
-msgstr ""
+msgstr "Möt Matoro vid Ko-Kinin."
 
 #. Key:	Quest_KoMakokiStone_Objective_5
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_KoMakokiStone_Objective_5"
 msgid "Speak to Matoro."
-msgstr ""
+msgstr "Prata med Matoro."
 
 #. Key:	Quest_KoMakokiStone_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_KoMakokiStone_Objective_6"
 msgid "Return to Ko-koro and speak to Nuju."
-msgstr ""
+msgstr "Återvänd till Ko-Koro och prata med Nuju."
 
 #. Key:	Quest_Kopaka_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Kopaka.Default__Quest_Kopaka_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Kopaka.Default__Quest_Kopaka_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Kopaka_Objective_1"
 msgid "Travel to Ko-Koro and Interact with the Suva."
-msgstr ""
+msgstr "Ta dig till Ko-Koro och interagera med Suvan."
 
 #. Key:	Quest_Lekoro_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Lekoro.Default__Quest_Lekoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Lekoro.Default__Quest_Lekoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Lekoro_Objective_1"
 msgid "Travel to Le-Koro and find Kongu"
-msgstr ""
+msgstr "Ta dig till Le-Koro och prata med Kongu."
 
 #. Key:	Quest_LeMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_LeMakokiStone.Default__Quest_LeMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_LeMakokiStone.Default__Quest_LeMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_LeMakokiStone_Objective_1"
 msgid "Return to Le-koro and speak to Matau."
-msgstr ""
+msgstr "Återvänd till Le-Koro och prata med Matau."
 
 #. Key:	Quest_LeTemple_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_LeTemple.Default__Quest_LeTemple_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_LeTemple.Default__Quest_LeTemple_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_LeTemple_Objective_1"
 msgid "Find the hidden tresure."
-msgstr ""
+msgstr "Hitta den gömda skatten"
 
 #. Key:	Quest_Lewa_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Lewa.Default__Quest_Lewa_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Lewa.Default__Quest_Lewa_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Lewa_Objective_1"
 msgid "Travel to Le-Koro and Interact with the Suva."
-msgstr ""
+msgstr "Ta dig till Le-Koro och interagera med Suvan."
 
 #. Key:	Quest_MackusLetter_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_MackusLetter_Objective_1"
 msgid "Give Hewkii the letter."
-msgstr ""
+msgstr "Ge Hewkii brevet."
 
 #. Key:	Quest_Mangaia_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Mangaia_Objective_1"
 msgid "Fight through the Mangaia."
-msgstr ""
+msgstr "Slåss genom Mangaia."
 
 #. Key:	Quest_Mangaia_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Mangaia_Objective_2"
 msgid "Fight through the Mangaia."
-msgstr ""
+msgstr "Slåss genom Mangaia."
 
 #. Key:	Quest_Mangaia_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Mangaia_Objective_3"
 msgid "Defeat the Shadow Toa."
-msgstr ""
+msgstr "Besegra Skuggornas Toa."
 
 #. Key:	Quest_OnTheLine_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnTheLine_Objective_1"
 msgid "Reka has told you to find Khalo, the local Jobmaster; He may have a way for you to earn the widgets."
-msgstr ""
+msgstr "Reka sa åt dig att hitta Khalo, den lokala Jobbmästaren. Han kanske vet ett sätt för dig att få dessa widgets."
 
 #. Key:	Quest_OnTheLine_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnTheLine_Objective_2"
 msgid "Jobmaster Khalo told you to investigate the Onu-Koro shipping center and determine the status of his shipment."
-msgstr ""
+msgstr "Jobbmästaren Khalo bad dig investigera Onu-Koros Fraktcenter för att se vad statusen på hans leverans är."
 
 #. Key:	Quest_OnTheLine_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnTheLine_Objective_3"
 msgid "Omak has told you the couriers with Khalo's shipment may be somewhere in the Pillar-Lands north-east of the shipment center."
-msgstr ""
+msgstr "Omak sa att budbärarna med Khalos leverans kanske är någonstans i Pelar-Landet nordöst om Fraktcentret."
 
 #. Key:	Quest_OnTheLine_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnTheLine_Objective_4"
 msgid "Jobmaster Khalo's shipment was filled with illegal ruki fish, confront him about this."
-msgstr ""
+msgstr "Jobbmästare Khalos leverans var fylld med illegala Ruki fiskar! Konfrontera honom om det."
 
 #. Key:	Quest_Onua_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Onua.Default__Quest_Onua_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Onua.Default__Quest_Onua_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Onua_Objective_1"
 msgid "Travel to Onu-Koro and Interact with the Suva."
-msgstr ""
+msgstr "Ta dig till Onu-Koro och interagera med Suvan."
 
 #. Key:	Quest_Onukoro_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Onukoro.Default__Quest_Onukoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Onukoro.Default__Quest_Onukoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Onukoro_Objective_1"
 msgid "Travel to Onu-Koro and find Onepu"
-msgstr ""
+msgstr "Ta dig till Onu-Koro och prata med Onepu."
 
 #. Key:	Quest_OnuMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_OnuMakokiStone.Default__Quest_OnuMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_OnuMakokiStone.Default__Quest_OnuMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnuMakokiStone_Objective_1"
 msgid "Speak to Whenua in Onu-koro"
-msgstr ""
+msgstr "Prata med Whenua i Onu-Koro."
 
 #. Key:	Quest_Pohatu_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Pohatu.Default__Quest_Pohatu_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Pohatu.Default__Quest_Pohatu_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Pohatu_Objective_1"
 msgid "Travel to Po-Koro and Interact with the Suva."
-msgstr ""
+msgstr "Ta dig till Po-Koro och interagera med Suvan."
 
 #. Key:	Quest_Pokoro_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Pokoro.Default__Quest_Pokoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Pokoro.Default__Quest_Pokoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Pokoro_Objective_1"
 msgid "Travel to Po-Koro and speak to Huki"
-msgstr ""
+msgstr "Ta dig till Po-Koro och prata med Hewkii."
 
 #. Key:	Quest_PoMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_PoMakokiStone.Default__Quest_PoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_PoMakokiStone.Default__Quest_PoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_PoMakokiStone_Objective_1"
 msgid "Speak to Onewa in Po-koro"
-msgstr ""
+msgstr "Prata med Onewa i Po-Koro."
 
 #. Key:	Quest_PoTemple_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_PoTemple_Objective_1"
 msgid "Find the tresure"
-msgstr ""
+msgstr "Hitta skatten."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_1"
 msgid "Find the cave."
-msgstr ""
+msgstr "Hitta grottan."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_2"
 msgid "Talk to the Matoran."
-msgstr ""
+msgstr "Prata med Matoranen."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_3"
 msgid "Complete the puzzle to escape."
-msgstr ""
+msgstr "Lös pusslet för att komma ut."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_4"
 msgid "Return to the strange matoran in le-koro and tell him of your findings."
-msgstr ""
+msgstr "Återvänd till den Underliga Matoranen i Le-Koro och berätta vad du har sett."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_5
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_5"
 msgid "Find and the Insane Matoran. There is a lock on the door to the cave he is hiding in, the strange matoran said the code would be Faith, Creation, Peace."
-msgstr ""
+msgstr "Hitta den Irrationella Matoranen. Den Underliga Matoranen sa han gömmer sig i en låst grotta. Koden är 'Tro, Skapelse, Fred'."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_6"
 msgid "Talk To The Insane Matoran"
-msgstr ""
+msgstr "Prata med den Irrationella Matoranen."
 
 #. Key:	Quest_Protosteel_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_1"
 msgid "Return to the Town"
-msgstr ""
+msgstr "Återvänd till staden."
 
 #. Key:	Quest_Protosteel_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_2"
 msgid "Discover what happened to the town."
-msgstr ""
+msgstr "Lista ut vad som hänt med staden."
 
 #. Key:	Quest_Protosteel_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_3"
 msgid "Find Kohi (He went to Ga-Koro to charter a boat)"
-msgstr ""
+msgstr "Hitta Kohi (Han gick till Ga-Koro för att låna en båt)."
 
 #. Key:	Quest_Protosteel_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_4"
 msgid "Pull the protosteel sword from the stone"
-msgstr ""
+msgstr "Dra Protostålsvärdet ut från stenen."
 
 #. Key:	Quest_Protosteel_Objective_5
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_5"
 msgid "Speak to Kohi"
-msgstr ""
+msgstr "Prata med Kohi."
 
 #. Key:	Quest_Protosteel_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_6"
 msgid "Visit Kohi's forge in Po-koro"
-msgstr ""
+msgstr "Hälsa på Kohi i sin Smedja i Po-Koro."
 
 #. Key:	Quest_Protosteel_Objective_7
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_7"
 msgid "Recive Kohi's Gift"
-msgstr ""
+msgstr "Ta emot Kohi's gåva."
 
 #. Key:	Quest_Staff_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Staff_Objective_1"
 msgid "Speak to Takar about the mix up."
-msgstr ""
+msgstr "Prata med Takar om den inkorrekta leveransen."
 
 #. Key:	Quest_Staff_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Staff_Objective_2"
 msgid "Get the Staff shipment back from Niidok."
-msgstr ""
+msgstr "Få tillbaks Spjut leveransen från Niidok."
 
 #. Key:	Quest_Staff_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Staff_Objective_3"
 msgid "Return to Takar and give him the shipment."
-msgstr ""
+msgstr "Återvänd till Takar och ge honom leveransen."
 
 #. Key:	Quest_Tahu_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Tahu.Default__Quest_Tahu_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Tahu.Default__Quest_Tahu_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Tahu_Objective_1"
 msgid "Travel to Ta-Koro and Interact with the Suva."
-msgstr ""
+msgstr "Ta dig till Ta-Koro och interagera med Suvan."
 
 #. Key:	Quest_Takoro_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Takoro.Default__Quest_Takoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Takoro.Default__Quest_Takoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Takoro_Objective_1"
 msgid "Travel to Ta-Koro and find Jala."
-msgstr ""
+msgstr "Ta dig till Ta-Koro och prata med Jaller."
 
 #. Key:	Quest_Takoro_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Takoro.Default__Quest_Takoro_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Takoro.Default__Quest_Takoro_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Takoro_Objective_2"
 msgid "Talk to Turaga Vakama."
-msgstr ""
+msgstr "Prata med Turaga Vakama."
 
 #. Key:	Quest_TaMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TaMakokiStone.Default__Quest_TaMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TaMakokiStone.Default__Quest_TaMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TaMakokiStone_Objective_1"
 msgid "Speak to Vakama."
-msgstr ""
+msgstr "Prata med Vakama."
 
 #. Key:	Quest_TempleLiberation_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TempleLiberation_Objective_1"
 msgid "Kill the Tarakava gaurding the Temple, The temple is more inland \"Behind Gali's Shrine\""
-msgstr ""
+msgstr "Besegra Tarakavan som övertagit Templet. Templet är längre inåt landet bakom klippan med Galis Helgedom."
 
 #. Key:	Quest_TheLakeOfFrost_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheLakeOfFrost_Objective_1"
 msgid "Find the cause of the river stoppage."
-msgstr ""
+msgstr "Hitta orsaken till varför floden är uttorkad."
 
 #. Key:	Quest_TheLakeOfFrost_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheLakeOfFrost_Objective_2"
 msgid "Defeat the \"Tarakava of the Frost\""
-msgstr ""
+msgstr "Besegra \"Tarakava av Frosten\"."
 
 #. Key:	Quest_TheLakeOfFrost_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheLakeOfFrost_Objective_3"
 msgid "Speak to the matoran."
-msgstr ""
+msgstr "Prata med Matoranen."
 
 #. Key:	Quest_TheLakeOfFrost_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheLakeOfFrost_Objective_4"
 msgid "Report to Dameo."
-msgstr ""
+msgstr "Rapportera till Dameo."
 
 #. Key:	Quest_TheToaOfFire1_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_1"
 msgid "Find Mask"
-msgstr ""
+msgstr "Hitta Masken."
 
 #. Key:	Quest_TheToaOfFire1_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_2"
 msgid "Pick Up Mask"
-msgstr ""
+msgstr "Plocka upp Masken."
 
 #. Key:	Quest_TheToaOfFire1_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_3"
 msgid "Use Mask Power"
-msgstr ""
+msgstr "Använd Maskkraften."
 
 #. Key:	Quest_TheToaOfFire1_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_4"
 msgid "Retrive Sword"
-msgstr ""
+msgstr "Hämta Svärdet."
 
 #. Key:	Quest_TheToaOfFire1_Objective_5
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_5"
 msgid "Defeat the Rahi"
-msgstr ""
+msgstr "Besegra Rahin."
 
 #. Key:	Quest_TheToaOfFire1_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_6"
 msgid "Investigate The Figure"
-msgstr ""
+msgstr "Investigera Figuren."
 
 #. Key:	Quest_TheToaOfFire1_Objective_7
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_7"
 msgid "Head to Ta Koro"
-msgstr ""
+msgstr "Gå till Ta-Koro."
 
 #. Key:	Quest_TheTuragaOfAir_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfAir_Objective_1"
 msgid "Find Matau."
-msgstr ""
+msgstr "Hitta Matau."
 
 #. Key:	Quest_TheTuragaOfAir_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfAir_Objective_2"
 msgid "Attack the tree to loose Matau."
-msgstr ""
+msgstr "Slår till träden för att lossa Matau."
 
 #. Key:	Quest_TheTuragaOfAir_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfAir_Objective_3"
 msgid "Talk To Matau."
-msgstr ""
+msgstr "Prata med Matau."
 
 #. Key:	Quest_TheTuragaOfEarth_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfEarth_Objective_1"
 msgid "Find Whenua and Speak to him."
-msgstr ""
+msgstr "Hitta Whenua och prata med honom."
 
 #. Key:	Quest_TheTuragaOfEarth_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfEarth_Objective_2"
 msgid "Push Whenua. (Attack him)"
-msgstr ""
+msgstr "Putta Whenua. (Attackera honom)"
 
 #. Key:	Quest_TheTuragaOfEarth_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfEarth_Objective_3"
 msgid "Speak to Whenua."
-msgstr ""
+msgstr "Prata med Whenua."
 
 #. Key:	Quest_TheTuragaOfIce_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfIce.Default__Quest_TheTuragaOfIce_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfIce.Default__Quest_TheTuragaOfIce_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfIce_Objective_1"
 msgid "Find and save Nuju."
-msgstr ""
+msgstr "Hitta och rädda Nuju."
 
 #. Key:	Quest_TheTuragaOfStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfStone_Objective_1"
 msgid "Find Onewa and Speak to him."
-msgstr ""
+msgstr "Hitta Onewa och prata med honom."
 
 #. Key:	Quest_TheTuragaOfStone_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfStone_Objective_2"
 msgid "Attack the pillar to make a ramp up for Onewa"
-msgstr ""
+msgstr "Slår ner pelaren för att göra en ramp åt Onewa."
 
 #. Key:	Quest_TheTuragaOfStone_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfStone_Objective_3"
 msgid "Talk To Onewa"
-msgstr ""
+msgstr "Prata med Onewa."
 
 #. Key:	Quest_TheTuragaOfWater_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfWater_Objective_1"
 msgid "Find Nokama."
-msgstr ""
+msgstr "Hitta Nokama."
 
 #. Key:	Quest_TheTuragaOfWater_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfWater_Objective_2"
 msgid "Defeat the Tarakava."
-msgstr ""
+msgstr "Besegra Tarakavan."
 
 #. Key:	Quest_TheTuragaOfWater_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfWater_Objective_3"
 msgid "Find Nokama and Speak to her."
-msgstr ""
+msgstr "Hitta Nokama och tala med henne."
 
 #. Key:	AnythingToDo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,AnythingToDo"
 msgid "Do you have anything for me to do?"
-msgstr ""
+msgstr "Har du något för mig att göra?"
 
 #. Key:	Anythingtoreport
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Anythingtoreport"
 msgid "Anything to report?"
-msgstr ""
+msgstr "Något att rapportera?"
 
 #. Key:	Areyoualright
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Areyoualright"
 msgid "Are you alright?"
-msgstr ""
+msgstr "Är du okej?"
 
 #. Key:	Areyoulost
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Areyoulost"
 msgid "Are you lost?"
-msgstr ""
+msgstr "Är du vilse?"
 
 #. Key:	Buildingforfun
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Buildingforfun"
 msgid "Are you just building this for fun?"
-msgstr ""
+msgstr "Bygger du det här bara för skojskull?"
 
 #. Key:	Bye!
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -19000,42 +19000,42 @@ msgstr ">"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Riverdriedup"
 msgid "Do you know why the river dried up?"
-msgstr ""
+msgstr "Vet du varför floden är uttorkad?"
 
 #. Key:	TakeLook
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,TakeLook"
 msgid "I'll take a look."
-msgstr ""
+msgstr "Jag ska kolla."
 
 #. Key:	ThankYou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,ThankYou"
 msgid "Thank you."
-msgstr ""
+msgstr "Tack."
 
 #. Key:	Thankyou!
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Thankyou!"
 msgid "Thank you!"
-msgstr ""
+msgstr "Tack!"
 
 #. Key:	Trade
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Trade"
 msgid "I'd like to trade."
-msgstr ""
+msgstr "Jag vill förhandla."
 
 #. Key:	Verywell
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Verywell"
 msgid "Very well."
-msgstr ""
+msgstr "Nåväl."
 
 #. Key:	What
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -19049,14 +19049,14 @@ msgstr "Va?"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Whatareyoudoing"
 msgid "What are you doing?"
-msgstr ""
+msgstr "Vad gör du?"
 
 #. Key:	Whatdoyoumean
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Whatdoyoumean"
 msgid "What do you mean?"
-msgstr ""
+msgstr "Vad menar du?"
 
 #. Key:	Whatisit
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -19091,7 +19091,7 @@ msgstr "Vem är du?"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,WillSee"
 msgid "I'll see what I can do."
-msgstr ""
+msgstr "Jag ska se vad jag kan göra."
 
 #. Key:	Gen_Climb
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -19133,21 +19133,21 @@ msgstr "Spak"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_MakokiDesc"
 msgid "A piece of a key used to enter the Makuta's Lair."
-msgstr ""
+msgstr "En del av en nyckel som öppnar Makutas Håla."
 
 #. Key:	Gen_ObtaintheMakokiStone
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_ObtaintheMakokiStone"
 msgid "Obtain the Makoki Stone."
-msgstr ""
+msgstr "Finn Makoki-Stenen."
 
 #. Key:	Gen_RestoryMyMemory
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_RestoryMyMemory"
 msgid "I can't remember... Where am I? There is a pull, a drive to begin walking - Perhaps I can find someone that can help restore my memory."
-msgstr ""
+msgstr "Jag minns inte... Vart är jag? Jag känner ett ryck, en vilja att börja gå - Jag kanske kan hitta någon som kan återställa mitt minne."
 
 #. Key:	Gen_Speak
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -19651,7 +19651,7 @@ msgstr "Hewtinii"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Huki"
 msgid "Huki"
-msgstr "Huki"
+msgstr "Hewkii"
 
 #. Key:	Names_Huna
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19693,7 +19693,7 @@ msgstr "Ioka"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Jala"
 msgid "Jala"
-msgstr "Jala"
+msgstr "Jaller"
 
 #. Key:	Names_Jautee
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
