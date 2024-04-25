@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2024-04-25 20:27\n"
-"PO-Revision-Date: 2024-04-25 20:27\n"
+"POT-Creation-Date: 2024-04-25 20:46\n"
+"PO-Revision-Date: 2024-04-25 20:46\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -17471,13 +17471,6 @@ msgctxt "Quest_Description,Quest_Lewa_Desc"
 msgid "You have gathered all your Masks of Power, head to the suva in Le-koro to gain your golden mask."
 msgstr "You have gathered all your Masks of Power, head to the suva in Le-koro to gain your golden mask."
 
-#. Key:	Quest_MackusLetter_Desc
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.Description
-#: /Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.Description
-msgctxt "Quest_Description,Quest_MackusLetter_Desc"
-msgid "Deliver A private letter from Macku to Hewkii."
-msgstr "Deliver A private letter from Macku to Hewkii."
-
 #. Key:	Quest_Mangaia_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Description
@@ -17750,13 +17743,6 @@ msgstr "A Temple in the Jungle"
 msgctxt "Quest_Name,Quest_Lewa"
 msgid "The Toa of Air"
 msgstr "The Toa of Air"
-
-#. Key:	Quest_MackusLetter
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.QuestName
-#: /Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.QuestName
-msgctxt "Quest_Name,Quest_MackusLetter"
-msgid "A Private Letter"
-msgstr "A Private Letter"
 
 #. Key:	Quest_Mangaia
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.QuestName
@@ -18100,13 +18086,6 @@ msgstr "Find the hidden tresure."
 msgctxt "Quest_Objective,Quest_Lewa_Objective_1"
 msgid "Travel to Le-Koro and Interact with the Suva."
 msgstr "Travel to Le-Koro and Interact with the Suva."
-
-#. Key:	Quest_MackusLetter_Objective_1
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-#: /Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-msgctxt "Quest_Objective,Quest_MackusLetter_Objective_1"
-msgid "Give Hewkii the letter."
-msgstr "Give Hewkii the letter."
 
 #. Key:	Quest_Mangaia_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
