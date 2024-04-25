@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPSv\n"
 "POT-Creation-Date: 2024-04-25 21:09\n"
-"PO-Revision-Date: 2024-04-25 21:09\n"
+"PO-Revision-Date: 2024-04-26 00:01+0200\n"
 "Last-Translator: \n"
 "Language-Team: OniFox of Team Kanohi\n"
 "Language: sv\n"
@@ -2409,56 +2409,56 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran1.Default__DL_GreavingMatoran1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GreavingMatoran1_PlayerResponse_1"
 msgid "Why are you out here?"
-msgstr ""
+msgstr "Vad gör du här ute?"
 
 #. Key:	DL_GreavingMatoran1_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran1.Default__DL_GreavingMatoran1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran1.Default__DL_GreavingMatoran1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GreavingMatoran1_PlayerResponse_2"
 msgid "I don't mean to disturb you."
-msgstr ""
+msgstr "Jag vill inte störa dig."
 
 #. Key:	DL_GreavingMatoran2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran2.Default__DL_GreavingMatoran2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran2.Default__DL_GreavingMatoran2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GreavingMatoran2_PlayerResponse_1"
 msgid "I found your note, you haven't forgiven him for leaving?"
-msgstr ""
+msgstr "Jag hittade din lapp. Du förlät honom inte för att han lämnade?"
 
 #. Key:	DL_GreavingMatoran2_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran2.Default__DL_GreavingMatoran2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran2.Default__DL_GreavingMatoran2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GreavingMatoran2_PlayerResponse_2"
 msgid "Sorry, I didn't mean to disturb you."
-msgstr ""
+msgstr "Förlåt jag ska inte störa dig."
 
 #. Key:	DL_GreavingMatoran3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GreavingMatoran3_PlayerResponse_1"
 msgid "I'll listen."
-msgstr ""
+msgstr "Jag lyssnar."
 
 #. Key:	DL_GreavingMatoran3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GreavingMatoran3_PlayerResponse_2"
 msgid "I'm sorry but I must be going."
-msgstr ""
+msgstr "Förlåt men jag måste bege mig av."
 
 #. Key:	DL_GreavingMatoran8_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran8.Default__DL_GreavingMatoran8_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran8.Default__DL_GreavingMatoran8_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GreavingMatoran8_PlayerResponse_1"
 msgid "I am so sorry."
-msgstr ""
+msgstr "Jag beklagar..."
 
 #. Key:	DL_GreavingMatoran9_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran9.Default__DL_GreavingMatoran9_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran9.Default__DL_GreavingMatoran9_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GreavingMatoran9_PlayerResponse_1"
 msgid "Makuta and his rahi are merciless."
-msgstr ""
+msgstr "Makuta och hans Rahi är hjärtlösa..."
 
 #. Key:	DL_Grinch1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_Grinch1.Default__DL_Grinch1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -10081,70 +10081,70 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran1.Default__DL_GreavingMatoran1_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran1"
 msgid "...I'm meditating, is there anything you need Toa?"
-msgstr ""
+msgstr "...Jag mediterar, vill du något Toa?"
 
 #. Key:	DL_GreavingMatoran10
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran10.Default__DL_GreavingMatoran10_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran10.Default__DL_GreavingMatoran10_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran10"
 msgid "Indeed they are. I hope you will stop them for Koha’s sake. Now leave me, I wish to remember my brother fondly."
-msgstr ""
+msgstr "Det är dem... Jag hoppas du får stopp på dem för Kohas skull. Lämna mig nu... Jag ösnakr att få minnas den bra tiden med min bror för mig själv, Toa $T."
 
 #. Key:	DL_GreavingMatoran2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran2.Default__DL_GreavingMatoran2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran2.Default__DL_GreavingMatoran2_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran2"
 msgid "Me and my brother lived out here, away from the hustle and bustle of Onu-koro. I still haven't forgiven him..."
-msgstr ""
+msgstr "Jag och min bror bodde här ute, långt ifrån bullrandet av Onu-Koro... Jag har fortfarande inte förlåtit honom..."
 
 #. Key:	DL_GreavingMatoran3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran3"
 msgid "That note was not meant for you Toa, but now that you've seen it I suppose I could tell you the story..."
-msgstr ""
+msgstr "Den lappen var inte menad för dig Toa... Men nu när du ändå sett den så kan jag berätta..."
 
 #. Key:	DL_GreavingMatoran4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran4.Default__DL_GreavingMatoran4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran4.Default__DL_GreavingMatoran4_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran4"
 msgid "Koha and I lived out here together, one day we got in an argument about the food and whether it would last. He was right, It didn't."
-msgstr ""
+msgstr "Koha och jag bodde här ute tillsammans. En dag bråkade vi om maten och ifall den skulle räcka för oss. Han hade rätt... Den räckte inte."
 
 #. Key:	DL_GreavingMatoran5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran5.Default__DL_GreavingMatoran5_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran5.Default__DL_GreavingMatoran5_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran5"
 msgid "But he had already left by then. The discussion was heated and he decided that he'd get more food from Onu-koro before out stores ran dry."
-msgstr ""
+msgstr "Men han hade redan gått innan dess. Vårt bråk slutade illa och han bestämde att ta sig till Onu-Koro för att skaffa mer innan vårt förråd tog slut."
 
 #. Key:	DL_GreavingMatoran6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran6.Default__DL_GreavingMatoran6_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran6.Default__DL_GreavingMatoran6_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran6"
 msgid "It wasn't a week later that they did, Koha was late and I was hungry - So I made my way to Onu-koro on my own."
-msgstr ""
+msgstr "Knappt en vecka senare tog maten slut och Koha var sen. Jag började bli hungrig... Så jag gick till Onu-Koro själv."
 
 #. Key:	DL_GreavingMatoran7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran7.Default__DL_GreavingMatoran7_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran7.Default__DL_GreavingMatoran7_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran7"
 msgid "I asked the vendors in the village if they had seen my brother, but no one had. I was worried but I assumed maybe we had just missed eachother."
-msgstr ""
+msgstr "Jag frågade byborna om de hade sett min bror, men ingen hade gjort det. Jag var orolig, men jag försökte vara optimistisk och tänkte vi kanske bara missade varandra, eller så gick han till Po-Koro istället."
 
 #. Key:	DL_GreavingMatoran8
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran8.Default__DL_GreavingMatoran8_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran8.Default__DL_GreavingMatoran8_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran8"
 msgid "A day later I returned to this island, and found a matoran washed up on the sand. When I turned him over I knew who it was, even without a mask I could tell it was my brother."
-msgstr ""
+msgstr "...En dag senare kom jag tillbaka till ön och jag såg något hade spolats upp på sanden... Det var en Matoran. När jag kom närmare så visste jag vem det var... Även utan sin mask så kunde jag se att det var min bror..."
 
 #. Key:	DL_GreavingMatoran9
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran9.Default__DL_GreavingMatoran9_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran9.Default__DL_GreavingMatoran9_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran9"
 msgid "He is burried down the path behind me, pay your respects if you wish."
-msgstr ""
+msgstr "...Jag begravde honom bakom vår grotta. Du kan säga några ord till honom om du känner för det."
 
 #. Key:	DL_Grinch
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_Grinch.Default__DL_Grinch_C.DialogueText
@@ -14316,12 +14316,11 @@ msgstr "...Du har rätt! Det är nästan som om det här skämtet inte funkar p�
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran6.Default__DL_SellerConsumablesHewtiniiGamatoran6_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran6"
 msgid "Låt oss göra det!"
-msgstr "Låt oss göra det!"
+msgstr "Oroa dig inte över det Toa $T! Låt oss bara låtsas som du aldrig frågade mig!"
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran7.Default__DL_SellerConsumablesHewtiniiGamatoran7_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran7.Default__DL_SellerConsumablesHewtiniiGamatoran7_C.DialogueText
-#, fuzzy
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran7"
 msgid "...I did it again, didn't I?"
 msgstr "Bra!"
