@@ -4,28 +4,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2024-04-25 20:15\n"
-"PO-Revision-Date: 2024-04-25 20:15\n"
+"POT-Creation-Date: 2024-04-25 20:22\n"
+"PO-Revision-Date: 2024-04-25 20:22\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#. Key:	1198064848FF7832E9C4A98926A02373
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
-#: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
-msgctxt ",1198064848FF7832E9C4A98926A02373"
-msgid "Reka, the Mask maker - needs 350 widgets to sell you a powered kakama."
-msgstr "Reka, the Mask maker - needs 350 widgets to sell you a powered kakama."
-
-#. Key:	965387524100FCBE4B0AA880F0356C54
-#. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location Description
-#: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location Description
-msgctxt ",965387524100FCBE4B0AA880F0356C54"
-msgid "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou-Nui as a threat."
-msgstr "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou-Nui as a threat."
 
 #. Key:	BC91919A426F1CC84C48ABB6F6253306
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -61,6 +47,13 @@ msgstr "These docks allow you to travel between multiple points on Mata Nui. The
 msgctxt "CodexPage_Description,CodexPage_Drifts_Desc"
 msgid "The Ko-Wahi drifts are an especially harsh and dangerous region of Ko-Wahi. Strong winds and thick snow make it nearly impossible to see. Some matoran use flags to try and navigate their way through the drifts, but even then you need to watch out for Rahi, which are known to attack travellers who make their way through. Make sure to exercise caution if you choose to make your way through."
 msgstr "The Ko-Wahi drifts are an especially harsh and dangerous region of Ko-Wahi. Strong winds and thick snow make it nearly impossible to see. Some matoran use flags to try and navigate their way through the drifts, but even then you need to watch out for Rahi, which are known to attack travellers who make their way through. Make sure to exercise caution if you choose to make your way through."
+
+#. Key:	CodexPage_FikouNui_Desc
+#. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location Description
+#: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location Description
+msgctxt "CodexPage_Description,CodexPage_FikouNui_Desc"
+msgid "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou-Nui as a threat."
+msgstr "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou-Nui as a threat."
 
 #. Key:	CodexPage_FireNuiJaga_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FireNuiJaga.Default__LocationEntry_FireNuiJaga_C.Location Description
@@ -17498,6 +17491,13 @@ msgstr "Deliver A private letter from Macku to Hewkii."
 msgctxt "Quest_Description,Quest_Mangaia_Desc"
 msgid "You have gathered all your Masks of Power, You've Found the Makoki stones, now you must face the ultimate test. Fight your way through the Makuta's beasts and defeat him once and for all."
 msgstr "You have gathered all your Masks of Power, You've Found the Makoki stones, now you must face the ultimate test. Fight your way through the Makuta's beasts and defeat him once and for all."
+
+#. Key:	Quest_OnTheLine_Desc
+#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
+#: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
+msgctxt "Quest_Description,Quest_OnTheLine_Desc"
+msgid "Reka, the Mask maker - needs 350 widgets to sell you a powered kakama."
+msgstr "Reka, the Mask maker - needs 350 widgets to sell you a powered kakama."
 
 #. Key:	Quest_Onua_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Onua.Default__Quest_Onua_C.Description
