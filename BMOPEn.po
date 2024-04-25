@@ -4,21 +4,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2024-04-25 20:22\n"
-"PO-Revision-Date: 2024-04-25 20:22\n"
+"POT-Creation-Date: 2024-04-25 20:27\n"
+"PO-Revision-Date: 2024-04-25 20:27\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#. Key:	BC91919A426F1CC84C48ABB6F6253306
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-#: /Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-msgctxt ",BC91919A426F1CC84C48ABB6F6253306"
-msgid "Defeat the Tarakava terrorising the Temple, The temple is more inland \"Behind Gali's Shrine\""
-msgstr "Defeat the Tarakava terrorising the Temple, The temple is more inland \"Behind Gali's Shrine\""
 
 #. Key:	CodexPage_Akaku_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Akaku.Default__LocationEntry_Akaku_C.Location Description
@@ -17569,13 +17562,6 @@ msgctxt "Quest_Description,Quest_TaMakokiStone_Desc"
 msgid "Turaga Vakama needs you to recover a part of an important key called the Makoki stone."
 msgstr "Turaga Vakama needs you to recover a part of an important key called the Makoki stone."
 
-#. Key:	Quest_TempleLiberation_Desc
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Description
-#: /Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Description
-msgctxt "Quest_Description,Quest_TempleLiberation_Desc"
-msgid "A small temple near Ga-koro has been taken over by Tarakava, the matoran would like it back."
-msgstr "A small temple near Ga-koro has been taken over by Tarakava, the matoran would like it back."
-
 #. Key:	Quest_TheLakeOfFrost_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Description
@@ -17876,13 +17862,6 @@ msgstr "The Village of Fire"
 msgctxt "Quest_Name,Quest_TaMakokiStone"
 msgid "The Temple of Fire"
 msgstr "The Temple of Fire"
-
-#. Key:	Quest_TempleLiberation
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.QuestName
-#: /Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.QuestName
-msgctxt "Quest_Name,Quest_TempleLiberation"
-msgid "Danger On The Horizon"
-msgstr "Danger On The Horizon"
 
 #. Key:	Quest_TheLakeOfFrost
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.QuestName
