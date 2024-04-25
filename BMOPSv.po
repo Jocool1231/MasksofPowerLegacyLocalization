@@ -1,10 +1,11 @@
+# BMOPSv Swedish translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPSv\n"
-"POT-Creation-Date: 2024-04-22 21:40\n"
-"PO-Revision-Date: 2024-04-25 22:44+0200\n"
+"POT-Creation-Date: 2024-04-25 21:09\n"
+"PO-Revision-Date: 2024-04-25 21:09\n"
 "Last-Translator: \n"
 "Language-Team: OniFox of Team Kanohi\n"
 "Language: sv\n"
@@ -51,7 +52,7 @@ msgstr "Driften av Ko-Wahi är en väldigt hård och farlig region inom ön. De 
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location
 #: Description
 msgctxt "CodexPage_Description,CodexPage_FikouNui_Desc"
-msgid "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou Nui as a threat."
+msgid "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou-Nui as a threat."
 msgstr "En stor Spindel Rahi som befinner sig på olika platser av Mata Nui. De här Rahi kan attackera väldigt snabbt, och anses att vara ett hot för andra Rahi också. Det är inte ovanligt att se en Fikou-Nui slåss med en Nui-Jaga eller andra Rahi när du utforskar ön."
 
 #. Key:	CodexPage_FireNuiJaga_Desc
@@ -2282,42 +2283,42 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GALetterQuest1_PlayerResponse_1"
 msgid "Yes, of course."
-msgstr ""
+msgstr "Ja, jag har tid."
 
 #. Key:	DL_GALetterQuest1_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GALetterQuest1_PlayerResponse_2"
 msgid "Sorry, not now."
-msgstr ""
+msgstr "Förlåt, inte nu."
 
 #. Key:	DL_GALetterQuestExpos_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GALetterQuestExpos_PlayerResponse_1"
 msgid "Sure, but what's in the letter?"
-msgstr ""
+msgstr "Självklart... vad står det i brevet?"
 
 #. Key:	DL_GALetterQuestExpos_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GALetterQuestExpos_PlayerResponse_2"
 msgid "I can't, not right now."
-msgstr ""
+msgstr "Jag kan inte just nu."
 
 #. Key:	DL_GALetterQuestHewkii_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GALetterQuestHewkii_PlayerResponse_1"
 msgid "Good, thank you!"
-msgstr ""
+msgstr "Det är bra!"
 
 #. Key:	DL_GALetterQuestHewkii_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GALetterQuestHewkii_PlayerResponse_2"
 msgid "Here, it's a letter from Macku."
-msgstr ""
+msgstr "Jag har ett brev till dig från Macku."
 
 #. Key:	DL_GeneralKokoranbyprotopool_2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_2.Default__DL_GeneralKokoranbyprotopool_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9961,21 +9962,21 @@ msgstr "Skulle du kunna ge mitt bre- j-jag menar... ett brev till Hewkii åt mig
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.DialogueText
 msgctxt "Dialogue_Text,DL_GALetterQuestHewkii"
 msgid "Hello Toa, How are you!"
-msgstr ""
+msgstr "Tjena Toa! Hur är läget?"
 
 #. Key:	DL_GALetterQuestHewkiiThankyou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkiiThankyou.Default__DL_GALetterQuestHewkiiThankyou_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkiiThankyou.Default__DL_GALetterQuestHewkiiThankyou_C.DialogueText
 msgctxt "Dialogue_Text,DL_GALetterQuestHewkiiThankyou"
 msgid "Thank you Toa! There should be a Koli match soon feel free to stop by! This letter says Macku will be there too."
-msgstr ""
+msgstr "Brev till mig? Tack Toa $T! Från Macku sa du? Hmm... H-Hon kommer hit?! O-Oh erm... jag menar... Det kommer vara en Kohlii Match snart och Macku- eller ehh... Några Ga-Matorarerna kommer hit för att se på, och Macku är en av dem! J-Ja så stod det..! ...T-Tack igen Toa! Jag måste förbereda mig för Mack- eeehhh- Matchen!"
 
 #. Key:	DL_GALetterQuestStart
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestStart.Default__DL_GALetterQuestStart_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestStart.Default__DL_GALetterQuestStart_C.DialogueText
 msgctxt "Dialogue_Text,DL_GALetterQuestStart"
 msgid "That's private, I would take it to him myself but the astrologer has asked me to help with their star gazing."
-msgstr "Det är Privat! Erm... Förlåt, jag menar det är privat. Jag hade get det till honom själv, men vår astrolog har bett mig hjälpa till med deras stjärnskådning. Tack Toa $T!"
+msgstr "Det är Privat!! Erm... Förlåt, jag menar det är privat. Jag hade get det till honom själv, men vår astrolog har bett mig hjälpa till med deras stjärnskådning. Tack Toa $T!"
 
 #. Key:	DL_Gali1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Gali1.Default__DL_Gali1_C.DialogueText
@@ -14310,13 +14311,20 @@ msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran5"
 msgid "I honestly do not know, but it made the rest of the conversation quite awkward..."
 msgstr "...Du har rätt! Det är nästan som om det här skämtet inte funkar på Svenska!"
 
+#. Key:	DL_SellerConsumablesHewtiniiGamatoran6
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran6.Default__DL_SellerConsumablesHewtiniiGamatoran6_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran6.Default__DL_SellerConsumablesHewtiniiGamatoran6_C.DialogueText
+msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran6"
+msgid "Låt oss göra det!"
+msgstr "Låt oss göra det!"
+
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran7.Default__DL_SellerConsumablesHewtiniiGamatoran7_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran7.Default__DL_SellerConsumablesHewtiniiGamatoran7_C.DialogueText
 #, fuzzy
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran7"
 msgid "...I did it again, didn't I?"
-msgstr "Oroa dig inte Toa $T! Bra!"
+msgstr "Bra!"
 
 #. Key:	DL_SellerConsumablesHewtiniiKapura1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura1.Default__DL_SellerConsumablesHewtiniiKapura1_C.DialogueText
@@ -17781,7 +17789,7 @@ msgstr ""
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
 msgctxt "Quest_Description,Quest_OnTheLine_Desc"
-msgid "Reka, the Mask maker - needs 150 widgets to sell you a powered kakama."
+msgid "Reka, the Mask maker - needs 350 widgets to sell you a powered kakama."
 msgstr ""
 
 #. Key:	Quest_Onua_Desc
@@ -22295,7 +22303,7 @@ msgstr "Du är en riktig Toa-hjälte! Du har fått den här kosmetikan för att 
 #: /Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton
 #: [Script Bytecode]
 msgctxt "UIText_Description_Cosmetics,Cosmetics_InfectedMasks_Description"
-msgid "Some poision from a Nui-jaga's stinger has gotten on your mask! (There is no drawback to wearing this)"
+msgid "Some poison from a Nui-jaga's stinger has gotten on your mask! (There is no drawback to wearing this)"
 msgstr "Gift från en Nui-Jagas tagg har kommit på din mask! Dock verkar det inte vara farligt för dig längre."
 
 #. Key:	Cosmetics_JackOLantern_Description

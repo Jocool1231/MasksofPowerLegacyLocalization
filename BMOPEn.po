@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2024-04-22 21:40\n"
-"PO-Revision-Date: 2024-04-22 21:40\n"
+"POT-Creation-Date: 2024-04-25 21:09\n"
+"PO-Revision-Date: 2024-04-25 21:09\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -45,8 +45,8 @@ msgstr "The Ko-Wahi drifts are an especially harsh and dangerous region of Ko-Wa
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_FikouNui_Desc"
-msgid "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou Nui as a threat."
-msgstr "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou Nui as a threat."
+msgid "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou-Nui as a threat."
+msgstr "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou-Nui as a threat."
 
 #. Key:	CodexPage_FireNuiJaga_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FireNuiJaga.Default__LocationEntry_FireNuiJaga_C.Location Description
@@ -2140,48 +2140,6 @@ msgstr "Thank you for the warning, "
 msgctxt "Dialogue_Response,DL_DamQuestStillHere_PlayerResponse_1"
 msgid "You started the town?"
 msgstr "You started the town?"
-
-#. Key:	DL_GALetterQuest1_PlayerResponse_1
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt "Dialogue_Response,DL_GALetterQuest1_PlayerResponse_1"
-msgid "Yes, of course."
-msgstr "Yes, of course."
-
-#. Key:	DL_GALetterQuest1_PlayerResponse_2
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt "Dialogue_Response,DL_GALetterQuest1_PlayerResponse_2"
-msgid "Sorry, not now."
-msgstr "Sorry, not now."
-
-#. Key:	DL_GALetterQuestExpos_PlayerResponse_1
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt "Dialogue_Response,DL_GALetterQuestExpos_PlayerResponse_1"
-msgid "Sure, but what's in the letter?"
-msgstr "Sure, but what's in the letter?"
-
-#. Key:	DL_GALetterQuestExpos_PlayerResponse_2
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt "Dialogue_Response,DL_GALetterQuestExpos_PlayerResponse_2"
-msgid "I can't, not right now."
-msgstr "I can't, not right now."
-
-#. Key:	DL_GALetterQuestHewkii_PlayerResponse_1
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt "Dialogue_Response,DL_GALetterQuestHewkii_PlayerResponse_1"
-msgid "Good, thank you!"
-msgstr "Good, thank you!"
-
-#. Key:	DL_GALetterQuestHewkii_PlayerResponse_2
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt "Dialogue_Response,DL_GALetterQuestHewkii_PlayerResponse_2"
-msgid "Here, it's a letter from Macku."
-msgstr "Here, it's a letter from Macku."
 
 #. Key:	DL_GeneralKokoranbyprotopool_2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_2.Default__DL_GeneralKokoranbyprotopool_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9806,41 +9764,6 @@ msgctxt "Dialogue_Text,DL_FishSeller"
 msgid "Fresh fish from Ga-koro! Only Five Widgets each!"
 msgstr "Fresh fish from Ga-koro! Only Five Widgets each!"
 
-#. Key:	DL_GALetterQuest1
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.DialogueText
-#: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.DialogueText
-msgctxt "Dialogue_Text,DL_GALetterQuest1"
-msgid "Hello Toa! Do you have a moment?"
-msgstr "Hello Toa! Do you have a moment?"
-
-#. Key:	DL_GALetterQuestExpos
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.DialogueText
-#: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.DialogueText
-msgctxt "Dialogue_Text,DL_GALetterQuestExpos"
-msgid "Could you take this letter to Hewkii for me? He should be near Po-koro."
-msgstr "Could you take this letter to Hewkii for me? He should be near Po-koro."
-
-#. Key:	DL_GALetterQuestHewkii
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.DialogueText
-#: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.DialogueText
-msgctxt "Dialogue_Text,DL_GALetterQuestHewkii"
-msgid "Hello Toa, How are you!"
-msgstr "Hello Toa, How are you!"
-
-#. Key:	DL_GALetterQuestHewkiiThankyou
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkiiThankyou.Default__DL_GALetterQuestHewkiiThankyou_C.DialogueText
-#: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkiiThankyou.Default__DL_GALetterQuestHewkiiThankyou_C.DialogueText
-msgctxt "Dialogue_Text,DL_GALetterQuestHewkiiThankyou"
-msgid "Thank you Toa! There should be a Koli match soon feel free to stop by! This letter says Macku will be there too."
-msgstr "Thank you Toa! There should be a Koli match soon feel free to stop by! This letter says Macku will be there too."
-
-#. Key:	DL_GALetterQuestStart
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestStart.Default__DL_GALetterQuestStart_C.DialogueText
-#: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestStart.Default__DL_GALetterQuestStart_C.DialogueText
-msgctxt "Dialogue_Text,DL_GALetterQuestStart"
-msgid "That's private, I would take it to him myself but the astrologer has asked me to help with their star gazing."
-msgstr "That's private, I would take it to him myself but the astrologer has asked me to help with their star gazing."
-
 #. Key:	DL_Gali1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Gali1.Default__DL_Gali1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Gali1.Default__DL_Gali1_C.DialogueText
@@ -14174,6 +14097,13 @@ msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran5"
 msgid "I honestly do not know, but it made the rest of the conversation quite awkward..."
 msgstr "I honestly do not know, but it made the rest of the conversation quite awkward..."
 
+#. Key:	DL_SellerConsumablesHewtiniiGamatoran6
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran6.Default__DL_SellerConsumablesHewtiniiGamatoran6_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran6.Default__DL_SellerConsumablesHewtiniiGamatoran6_C.DialogueText
+msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran6"
+msgid "Låt oss göra det!"
+msgstr "Låt oss göra det!"
+
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran7.Default__DL_SellerConsumablesHewtiniiGamatoran7_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran7.Default__DL_SellerConsumablesHewtiniiGamatoran7_C.DialogueText
@@ -17415,13 +17345,6 @@ msgctxt "Quest_Description,Quest_GaMakokiStone_Desc"
 msgid "Turaga Nokama has tasked you to find an ancient relic refered to as the Makoki Stone, one of six pieces used to unlock the makuta's domain."
 msgstr "Turaga Nokama has tasked you to find an ancient relic refered to as the Makoki Stone, one of six pieces used to unlock the makuta's domain."
 
-#. Key:	Quest_Gorbo_Desc
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Description
-#: /Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Description
-msgctxt "Quest_Description,Quest_Gorbo_Desc"
-msgid "Jhoni wants to take Gorbo the Ussal crab to Onu-koro to participate in the races. But he can't because that's not a feature yet."
-msgstr "Jhoni wants to take Gorbo the Ussal crab to Onu-koro to participate in the races. But he can't because that's not a feature yet."
-
 #. Key:	Quest_Infestation_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Description
@@ -17471,13 +17394,6 @@ msgctxt "Quest_Description,Quest_Lewa_Desc"
 msgid "You have gathered all your Masks of Power, head to the suva in Le-koro to gain your golden mask."
 msgstr "You have gathered all your Masks of Power, head to the suva in Le-koro to gain your golden mask."
 
-#. Key:	Quest_MackusLetter_Desc
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.Description
-#: /Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.Description
-msgctxt "Quest_Description,Quest_MackusLetter_Desc"
-msgid "Deliver A private letter from Macku to Hewkii."
-msgstr "Deliver A private letter from Macku to Hewkii."
-
 #. Key:	Quest_Mangaia_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Description
@@ -17489,8 +17405,8 @@ msgstr "You have gathered all your Masks of Power, You've Found the Makoki stone
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
 msgctxt "Quest_Description,Quest_OnTheLine_Desc"
-msgid "Reka, the Mask maker - needs 150 widgets to sell you a powered kakama."
-msgstr "Reka, the Mask maker - needs 150 widgets to sell you a powered kakama."
+msgid "Reka, the Mask maker - needs 350 widgets to sell you a powered kakama."
+msgstr "Reka, the Mask maker - needs 350 widgets to sell you a powered kakama."
 
 #. Key:	Quest_Onua_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Onua.Default__Quest_Onua_C.Description
@@ -17561,13 +17477,6 @@ msgstr "You have gathered all your Masks of Power, head to the suva in Ta-koro t
 msgctxt "Quest_Description,Quest_TaMakokiStone_Desc"
 msgid "Turaga Vakama needs you to recover a part of an important key called the Makoki stone."
 msgstr "Turaga Vakama needs you to recover a part of an important key called the Makoki stone."
-
-#. Key:	Quest_TempleLiberation_Desc
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Description
-#: /Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Description
-msgctxt "Quest_Description,Quest_TempleLiberation_Desc"
-msgid "A small temple near Ga-koro has been taken over by Tarakava, the matoran would like it back."
-msgstr "A small temple near Ga-koro has been taken over by Tarakava, the matoran would like it back."
 
 #. Key:	Quest_TheLakeOfFrost_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Description
@@ -17695,13 +17604,6 @@ msgctxt "Quest_Name,Quest_GaMakokiStone"
 msgid "The Temple of Water"
 msgstr "The Temple of Water"
 
-#. Key:	Quest_Gorbo
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.QuestName
-#: /Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.QuestName
-msgctxt "Quest_Name,Quest_Gorbo"
-msgid "Gorbo: The Racer"
-msgstr "Gorbo: The Racer"
-
 #. Key:	Quest_Infestation
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.QuestName
@@ -17764,13 +17666,6 @@ msgstr "A Temple in the Jungle"
 msgctxt "Quest_Name,Quest_Lewa"
 msgid "The Toa of Air"
 msgstr "The Toa of Air"
-
-#. Key:	Quest_MackusLetter
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.QuestName
-#: /Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.QuestName
-msgctxt "Quest_Name,Quest_MackusLetter"
-msgid "A Private Letter"
-msgstr "A Private Letter"
 
 #. Key:	Quest_Mangaia
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.QuestName
@@ -17876,20 +17771,6 @@ msgstr "The Village of Fire"
 msgctxt "Quest_Name,Quest_TaMakokiStone"
 msgid "The Temple of Fire"
 msgstr "The Temple of Fire"
-
-#. Key:	Quest_TempleLiberation
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.QuestName
-#: /Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.QuestName
-msgctxt "Quest_Name,Quest_TempleLiberation"
-msgid "Danger On The Horizon"
-msgstr "Danger On The Horizon"
-
-#. Key:	Quest_TheGreatShiftingFestival
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheGreatShiftingFestival.Default__Quest_TheGreatShiftingFestival_C.QuestName
-#: /Game/BluePrints/Classes/Quests/Quest_TheGreatShiftingFestival.Default__Quest_TheGreatShiftingFestival_C.QuestName
-msgctxt "Quest_Name,Quest_TheGreatShiftingFestival"
-msgid "The Great Shifting Festival"
-msgstr "The Great Shifting Festival"
 
 #. Key:	Quest_TheLakeOfFrost
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.QuestName
@@ -18038,20 +17919,6 @@ msgctxt "Quest_Objective,Quest_GaMakokiStone_Objective_1"
 msgid "Speak to Nokama in Ga-koro"
 msgstr "Speak to Nokama in Ga-koro"
 
-#. Key:	Quest_Gorbo_Objective_1
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-#: /Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-msgctxt "Quest_Objective,Quest_Gorbo_Objective_1"
-msgid "Bring Jhoni and Gorbo safely to the Onu-Wahi Entrance."
-msgstr "Bring Jhoni and Gorbo safely to the Onu-Wahi Entrance."
-
-#. Key:	Quest_Gorbo_Objective_2
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-#: /Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-msgctxt "Quest_Objective,Quest_Gorbo_Objective_2"
-msgid "Talk to Jhoni"
-msgstr "Talk to Jhoni"
-
 #. Key:	Quest_Infestation_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -18142,13 +18009,6 @@ msgstr "Find the hidden tresure."
 msgctxt "Quest_Objective,Quest_Lewa_Objective_1"
 msgid "Travel to Le-Koro and Interact with the Suva."
 msgstr "Travel to Le-Koro and Interact with the Suva."
-
-#. Key:	Quest_MackusLetter_Objective_1
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-#: /Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-msgctxt "Quest_Objective,Quest_MackusLetter_Objective_1"
-msgid "Give Hewkii the letter."
-msgstr "Give Hewkii the letter."
 
 #. Key:	Quest_Mangaia_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -18387,13 +18247,6 @@ msgstr "Talk to Turaga Vakama."
 msgctxt "Quest_Objective,Quest_TaMakokiStone_Objective_1"
 msgid "Speak to Vakama."
 msgstr "Speak to Vakama."
-
-#. Key:	Quest_TempleLiberation_Objective_1
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-#: /Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-msgctxt "Quest_Objective,Quest_TempleLiberation_Objective_1"
-msgid "Kill the Tarakava gaurding the Temple, The temple is more inland \"Behind Gali's Shrine\""
-msgstr "Kill the Tarakava gaurding the Temple, The temple is more inland \"Behind Gali's Shrine\""
 
 #. Key:	Quest_TheLakeOfFrost_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21682,8 +21535,8 @@ msgstr "You are a true Toa-hero! You have gained this by collecting every mask w
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
 #: /Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
 msgctxt "UIText_Description_Cosmetics,Cosmetics_InfectedMasks_Description"
-msgid "Some poision from a Nui-jaga's stinger has gotten on your mask! (There is no drawback to wearing this)"
-msgstr "Some poision from a Nui-jaga's stinger has gotten on your mask! (There is no drawback to wearing this)"
+msgid "Some poison from a Nui-jaga's stinger has gotten on your mask! (There is no drawback to wearing this)"
+msgstr "Some poison from a Nui-jaga's stinger has gotten on your mask! (There is no drawback to wearing this)"
 
 #. Key:	Cosmetics_JackOLantern_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
