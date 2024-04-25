@@ -4,14 +4,35 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2024-04-22 21:40\n"
-"PO-Revision-Date: 2024-04-22 21:40\n"
+"POT-Creation-Date: 2024-04-25 20:15\n"
+"PO-Revision-Date: 2024-04-25 20:15\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	1198064848FF7832E9C4A98926A02373
+#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
+#: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
+msgctxt ",1198064848FF7832E9C4A98926A02373"
+msgid "Reka, the Mask maker - needs 350 widgets to sell you a powered kakama."
+msgstr "Reka, the Mask maker - needs 350 widgets to sell you a powered kakama."
+
+#. Key:	965387524100FCBE4B0AA880F0356C54
+#. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location Description
+#: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location Description
+msgctxt ",965387524100FCBE4B0AA880F0356C54"
+msgid "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou-Nui as a threat."
+msgstr "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou-Nui as a threat."
+
+#. Key:	BC91919A426F1CC84C48ABB6F6253306
+#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
+#: /Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
+msgctxt ",BC91919A426F1CC84C48ABB6F6253306"
+msgid "Defeat the Tarakava terrorising the Temple, The temple is more inland \"Behind Gali's Shrine\""
+msgstr "Defeat the Tarakava terrorising the Temple, The temple is more inland \"Behind Gali's Shrine\""
 
 #. Key:	CodexPage_Akaku_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Akaku.Default__LocationEntry_Akaku_C.Location Description
@@ -40,13 +61,6 @@ msgstr "These docks allow you to travel between multiple points on Mata Nui. The
 msgctxt "CodexPage_Description,CodexPage_Drifts_Desc"
 msgid "The Ko-Wahi drifts are an especially harsh and dangerous region of Ko-Wahi. Strong winds and thick snow make it nearly impossible to see. Some matoran use flags to try and navigate their way through the drifts, but even then you need to watch out for Rahi, which are known to attack travellers who make their way through. Make sure to exercise caution if you choose to make your way through."
 msgstr "The Ko-Wahi drifts are an especially harsh and dangerous region of Ko-Wahi. Strong winds and thick snow make it nearly impossible to see. Some matoran use flags to try and navigate their way through the drifts, but even then you need to watch out for Rahi, which are known to attack travellers who make their way through. Make sure to exercise caution if you choose to make your way through."
-
-#. Key:	CodexPage_FikouNui_Desc
-#. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location Description
-#: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location Description
-msgctxt "CodexPage_Description,CodexPage_FikouNui_Desc"
-msgid "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou Nui as a threat."
-msgstr "Large spider-like Rahi that can be found in various places across Mata Nui. These Rahi can attack very quickly, and are even considered a danger by other rahi as well. It’s not uncommon to see them fighting with Nui-Jaga or other Rahi that see the Fikou Nui as a threat."
 
 #. Key:	CodexPage_FireNuiJaga_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FireNuiJaga.Default__LocationEntry_FireNuiJaga_C.Location Description
@@ -14174,6 +14188,13 @@ msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran5"
 msgid "I honestly do not know, but it made the rest of the conversation quite awkward..."
 msgstr "I honestly do not know, but it made the rest of the conversation quite awkward..."
 
+#. Key:	DL_SellerConsumablesHewtiniiGamatoran6
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran6.Default__DL_SellerConsumablesHewtiniiGamatoran6_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran6.Default__DL_SellerConsumablesHewtiniiGamatoran6_C.DialogueText
+msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran6"
+msgid "Låt oss göra det!"
+msgstr "Låt oss göra det!"
+
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran7.Default__DL_SellerConsumablesHewtiniiGamatoran7_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran7.Default__DL_SellerConsumablesHewtiniiGamatoran7_C.DialogueText
@@ -17415,13 +17436,6 @@ msgctxt "Quest_Description,Quest_GaMakokiStone_Desc"
 msgid "Turaga Nokama has tasked you to find an ancient relic refered to as the Makoki Stone, one of six pieces used to unlock the makuta's domain."
 msgstr "Turaga Nokama has tasked you to find an ancient relic refered to as the Makoki Stone, one of six pieces used to unlock the makuta's domain."
 
-#. Key:	Quest_Gorbo_Desc
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Description
-#: /Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Description
-msgctxt "Quest_Description,Quest_Gorbo_Desc"
-msgid "Jhoni wants to take Gorbo the Ussal crab to Onu-koro to participate in the races. But he can't because that's not a feature yet."
-msgstr "Jhoni wants to take Gorbo the Ussal crab to Onu-koro to participate in the races. But he can't because that's not a feature yet."
-
 #. Key:	Quest_Infestation_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Description
@@ -17484,13 +17498,6 @@ msgstr "Deliver A private letter from Macku to Hewkii."
 msgctxt "Quest_Description,Quest_Mangaia_Desc"
 msgid "You have gathered all your Masks of Power, You've Found the Makoki stones, now you must face the ultimate test. Fight your way through the Makuta's beasts and defeat him once and for all."
 msgstr "You have gathered all your Masks of Power, You've Found the Makoki stones, now you must face the ultimate test. Fight your way through the Makuta's beasts and defeat him once and for all."
-
-#. Key:	Quest_OnTheLine_Desc
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
-#: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
-msgctxt "Quest_Description,Quest_OnTheLine_Desc"
-msgid "Reka, the Mask maker - needs 150 widgets to sell you a powered kakama."
-msgstr "Reka, the Mask maker - needs 150 widgets to sell you a powered kakama."
 
 #. Key:	Quest_Onua_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Onua.Default__Quest_Onua_C.Description
@@ -17695,13 +17702,6 @@ msgctxt "Quest_Name,Quest_GaMakokiStone"
 msgid "The Temple of Water"
 msgstr "The Temple of Water"
 
-#. Key:	Quest_Gorbo
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.QuestName
-#: /Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.QuestName
-msgctxt "Quest_Name,Quest_Gorbo"
-msgid "Gorbo: The Racer"
-msgstr "Gorbo: The Racer"
-
 #. Key:	Quest_Infestation
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.QuestName
@@ -17884,13 +17884,6 @@ msgctxt "Quest_Name,Quest_TempleLiberation"
 msgid "Danger On The Horizon"
 msgstr "Danger On The Horizon"
 
-#. Key:	Quest_TheGreatShiftingFestival
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheGreatShiftingFestival.Default__Quest_TheGreatShiftingFestival_C.QuestName
-#: /Game/BluePrints/Classes/Quests/Quest_TheGreatShiftingFestival.Default__Quest_TheGreatShiftingFestival_C.QuestName
-msgctxt "Quest_Name,Quest_TheGreatShiftingFestival"
-msgid "The Great Shifting Festival"
-msgstr "The Great Shifting Festival"
-
 #. Key:	Quest_TheLakeOfFrost
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.QuestName
@@ -18037,20 +18030,6 @@ msgstr "Travel to Ga-Koro and Interact with the Suva."
 msgctxt "Quest_Objective,Quest_GaMakokiStone_Objective_1"
 msgid "Speak to Nokama in Ga-koro"
 msgstr "Speak to Nokama in Ga-koro"
-
-#. Key:	Quest_Gorbo_Objective_1
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-#: /Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-msgctxt "Quest_Objective,Quest_Gorbo_Objective_1"
-msgid "Bring Jhoni and Gorbo safely to the Onu-Wahi Entrance."
-msgstr "Bring Jhoni and Gorbo safely to the Onu-Wahi Entrance."
-
-#. Key:	Quest_Gorbo_Objective_2
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-#: /Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-msgctxt "Quest_Objective,Quest_Gorbo_Objective_2"
-msgid "Talk to Jhoni"
-msgstr "Talk to Jhoni"
 
 #. Key:	Quest_Infestation_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -18387,13 +18366,6 @@ msgstr "Talk to Turaga Vakama."
 msgctxt "Quest_Objective,Quest_TaMakokiStone_Objective_1"
 msgid "Speak to Vakama."
 msgstr "Speak to Vakama."
-
-#. Key:	Quest_TempleLiberation_Objective_1
-#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-#: /Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
-msgctxt "Quest_Objective,Quest_TempleLiberation_Objective_1"
-msgid "Kill the Tarakava gaurding the Temple, The temple is more inland \"Behind Gali's Shrine\""
-msgstr "Kill the Tarakava gaurding the Temple, The temple is more inland \"Behind Gali's Shrine\""
 
 #. Key:	Quest_TheLakeOfFrost_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21682,8 +21654,8 @@ msgstr "You are a true Toa-hero! You have gained this by collecting every mask w
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
 #: /Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
 msgctxt "UIText_Description_Cosmetics,Cosmetics_InfectedMasks_Description"
-msgid "Some poision from a Nui-jaga's stinger has gotten on your mask! (There is no drawback to wearing this)"
-msgstr "Some poision from a Nui-jaga's stinger has gotten on your mask! (There is no drawback to wearing this)"
+msgid "Some poison from a Nui-jaga's stinger has gotten on your mask! (There is no drawback to wearing this)"
+msgstr "Some poison from a Nui-jaga's stinger has gotten on your mask! (There is no drawback to wearing this)"
 
 #. Key:	Cosmetics_JackOLantern_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
