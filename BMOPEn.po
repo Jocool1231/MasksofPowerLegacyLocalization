@@ -4,14 +4,49 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2024-04-26 07:40\n"
-"PO-Revision-Date: 2024-04-26 07:40\n"
+"POT-Creation-Date: 2024-04-26 18:46\n"
+"PO-Revision-Date: 2024-04-26 18:46\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	Loading
+#. SourceLocation:	Config/DefaultGame.ini:104
+#: Config/DefaultGame.ini:104
+msgctxt "AsyncLoadingScreen,Loading"
+msgid "LOADING"
+msgstr "LOADING"
+
+#. Key:	AltKey
+#. SourceLocation:	Config/DefaultGame.ini:132
+#: Config/DefaultGame.ini:132
+msgctxt "AutoSettings,AltKey"
+msgid "Alt"
+msgstr "Alt"
+
+#. Key:	CmdKey
+#. SourceLocation:	Config/DefaultGame.ini:133
+#: Config/DefaultGame.ini:133
+msgctxt "AutoSettings,CmdKey"
+msgid "Cmd"
+msgstr "Cmd"
+
+#. Key:	CtrlKey
+#. SourceLocation:	Config/DefaultGame.ini:131
+#: Config/DefaultGame.ini:131
+msgctxt "AutoSettings,CtrlKey"
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#. Key:	ShiftKey
+#. SourceLocation:	Config/DefaultGame.ini:130
+#: Config/DefaultGame.ini:130
+msgctxt "AutoSettings,ShiftKey"
+msgid "Shift"
+msgstr "Shift"
 
 #. Key:	CodexPage_Akaku_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Akaku.Default__LocationEntry_Akaku_C.Location Description
@@ -16113,6 +16148,13 @@ msgctxt "Dialogue_Text,DL_YumaFishIntro_lewa"
 msgid "Fair enough I suppose... though if you ever have a change of appetite you know the salesman to buy from!"
 msgstr "Fair enough I suppose... though if you ever have a change of appetite you know the salesman to buy from!"
 
+#. Key:	Engine_ProjectDisplayTitle
+#. SourceLocation:	Config/DefaultGame.ini:11
+#: Config/DefaultGame.ini:11
+msgctxt "Engine_Project,Engine_ProjectDisplayTitle"
+msgid "Bionicle: Masks of Power"
+msgstr "Bionicle: Masks of Power"
+
 #. Key:	Item_AmanaVoloSphere_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_AmanaVoloSphere.Item_AmanaVoloSphere.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_AmanaVoloSphere.Item_AmanaVoloSphere.Description
@@ -17274,6 +17316,76 @@ msgstr "Akoga 22:3\r\n\r\nThey stood even taller than I could have imagined, for
 msgctxt "InvItem_NoteText,Item_ThueiNote_NoteDisplay"
 msgid "THUEI'S GOOD QUALITY CARVING SERVICE\r\n\r\nOut carving! If you're stopping by to ask about an order you placed, it will probably be finished in approximately 2-30 weeks depending on certain factors! Thank you!\r\n\r\n-Thuei"
 msgstr "THUEI'S GOOD QUALITY CARVING SERVICE\r\n\r\nOut carving! If you're stopping by to ask about an order you placed, it will probably be finished in approximately 2-30 weeks depending on certain factors! Thank you!\r\n\r\n-Thuei"
+
+#. Key:	Loading_Text
+#. SourceLocation:	Config/DefaultGame.ini:105
+#: Config/DefaultGame.ini:105
+msgctxt "Loading,Loading_Text"
+msgid "Loading..."
+msgstr "Loading..."
+
+#. Key:	Tip_AkakuZoom
+#. SourceLocation:	Config/DefaultGame.ini:105
+#: Config/DefaultGame.ini:105
+msgctxt "LoadingTip_Text,Tip_AkakuZoom"
+msgid "You can zoom while wearing the Akaku by pressing the assigned key (Default is Left ALT)."
+msgstr "You can zoom while wearing the Akaku by pressing the assigned key (Default is Left ALT)."
+
+#. Key:	Tip_CodexHints
+#. SourceLocation:	Config/DefaultGame.ini:105
+#: Config/DefaultGame.ini:105
+msgctxt "LoadingTip_Text,Tip_CodexHints"
+msgid "The Codex contains not only lore, but also Gameplay hints."
+msgstr "The Codex contains not only lore, but also Gameplay hints."
+
+#. Key:	Tip_MeditationStoneAutosave
+#. SourceLocation:	Config/DefaultGame.ini:105
+#: Config/DefaultGame.ini:105
+msgctxt "LoadingTip_Text,Tip_MeditationStoneAutosave"
+msgid "The game Autosaves when interacting with a meditation stone."
+msgstr "The game Autosaves when interacting with a meditation stone."
+
+#. Key:	Tip_MeditationStonesHeal
+#. SourceLocation:	Config/DefaultGame.ini:105
+#: Config/DefaultGame.ini:105
+msgctxt "LoadingTip_Text,Tip_MeditationStonesHeal"
+msgid "Meditation Stones Heal all Toa on interaction, there's no need to actually meditate for this effect."
+msgstr "Meditation Stones Heal all Toa on interaction, there's no need to actually meditate for this effect."
+
+#. Key:	Tip_MeditationStonesInteract
+#. SourceLocation:	Config/DefaultGame.ini:105
+#: Config/DefaultGame.ini:105
+msgctxt "LoadingTip_Text,Tip_MeditationStonesInteract"
+msgid "Press the interaction key while in meditation stone menu to quickly exit it."
+msgstr "Press the interaction key while in meditation stone menu to quickly exit it."
+
+#. Key:	Tip_ObjectivesAkaku
+#. SourceLocation:	Config/DefaultGame.ini:105
+#: Config/DefaultGame.ini:105
+msgctxt "LoadingTip_Text,Tip_ObjectivesAkaku"
+msgid "Quest objectives can be seen in the world when using the Akaku."
+msgstr "Quest objectives can be seen in the world when using the Akaku."
+
+#. Key:	Tip_Save
+#. SourceLocation:	Config/DefaultGame.ini:105
+#: Config/DefaultGame.ini:105
+msgctxt "LoadingTip_Text,Tip_Save"
+msgid "Remember to manually save OFTEN!"
+msgstr "Remember to manually save OFTEN!"
+
+#. Key:	Tip_SaveSlots
+#. SourceLocation:	Config/DefaultGame.ini:105
+#: Config/DefaultGame.ini:105
+msgctxt "LoadingTip_Text,Tip_SaveSlots"
+msgid "It's a good idea to Save in multiple slots."
+msgstr "It's a good idea to Save in multiple slots."
+
+#. Key:	Tip_UnderwaterElementalAttacks
+#. SourceLocation:	Config/DefaultGame.ini:105
+#: Config/DefaultGame.ini:105
+msgctxt "LoadingTip_Text,Tip_UnderwaterElementalAttacks"
+msgid "Elemental Attacks can be triggered in water."
+msgstr "Elemental Attacks can be triggered in water."
 
 #. Key:	Quest_Amongsttheburnttrees_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Amongsttheburnttrees.Default__Quest_Amongsttheburnttrees_C.Description
@@ -20607,13 +20719,6 @@ msgctxt "UIText_Description,CosmeticsMenu_UnlockedCosmetics"
 msgid "Unlocked Cosmetics"
 msgstr "Unlocked Cosmetics"
 
-#. Key:	EE7FE29D40C5B914B576D991860A68DC
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_6.Text
-#: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_6.Text
-msgctxt "UIText_Description,EE7FE29D40C5B914B576D991860A68DC"
-msgid "Language:"
-msgstr "Language:"
-
 #. Key:	GaGateCtrlsWidget_EToExit
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_2.Text
 #: /Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_2.Text
@@ -21068,6 +21173,13 @@ msgstr "Toggle HUD:"
 msgctxt "UIText_Description,PausedDisplaySettings_Compass"
 msgid "Compass:"
 msgstr "Compass:"
+
+#. Key:	PausedDisplaySettings_Language
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_6.Text
+#: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_6.Text
+msgctxt "UIText_Description,PausedDisplaySettings_Language"
+msgid "Language:"
+msgstr "Language:"
 
 #. Key:	PausedDisplaySettings_Resolution
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_0.Text
