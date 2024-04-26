@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2024-04-25 21:09\n"
-"PO-Revision-Date: 2024-04-25 21:09\n"
+"POT-Creation-Date: 2024-04-26 07:40\n"
+"PO-Revision-Date: 2024-04-26 07:40\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -20607,6 +20607,13 @@ msgctxt "UIText_Description,CosmeticsMenu_UnlockedCosmetics"
 msgid "Unlocked Cosmetics"
 msgstr "Unlocked Cosmetics"
 
+#. Key:	EE7FE29D40C5B914B576D991860A68DC
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_6.Text
+#: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_6.Text
+msgctxt "UIText_Description,EE7FE29D40C5B914B576D991860A68DC"
+msgid "Language:"
+msgstr "Language:"
+
 #. Key:	GaGateCtrlsWidget_EToExit
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_2.Text
 #: /Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_2.Text
@@ -21698,6 +21705,13 @@ msgstr "Pressing the bound 'Attack' button automatically enters combat mode and 
 msgctxt "UIText_ToolTip,PausedDisplaySettings_Compass_Tooltip"
 msgid "Toggle a compass that will lead you directly towards your objective. \r\nFor the directionally challenged."
 msgstr "Toggle a compass that will lead you directly towards your objective. \r\nFor the directionally challenged."
+
+#. Key:	PausedDisplaySettings_Language_Tooltip
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.ComboBox_Languages.ToolTipText
+#: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.ComboBox_Languages.ToolTipText
+msgctxt "UIText_ToolTip,PausedDisplaySettings_Language_Tooltip"
+msgid "Which language should the game be displayed in? (This option may require a restart)"
+msgstr "Which language should the game be displayed in? (This option may require a restart)"
 
 #. Key:	PausedDisplaySettings_Resolution_Tooltip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.BmopComboBoxSetting_Resolution.ToolTipText
