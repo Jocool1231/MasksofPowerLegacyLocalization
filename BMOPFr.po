@@ -1,7 +1,7 @@
 # Copyright Epic Games, Inc. All Rights Reserved.
 #
 msgid ""
-msgstr "Project-Id-Version: BMOPEn\nPOT-Creation-Date: 2024-04-26 07:40\nPO-Revision-Date: 2024-04-26 19:05+0200\nLast-Translator: \nLanguage-Team: \nLanguage: fr_FR\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n > 1);\nX-Generator: Poedit 3.4.2\n"
+msgstr "Project-Id-Version: BMOPEn\nPOT-Creation-Date: 2024-04-26 07:40\nPO-Revision-Date: 2024-04-26 19:15+0200\nLast-Translator: \nLanguage-Team: \nLanguage: fr_FR\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n > 1);\nX-Generator: Poedit 3.4.2\n"
 
 #. Key:	CodexPage_Akaku_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Akaku.Default__LocationEntry_Akaku_C.Location Description
@@ -705,7 +705,7 @@ msgstr ""
 #: Description
 msgctxt "CodexPage_Description,CodexPage_Whenua_Desc"
 msgid "Whenua is the Turaga of Onu-Koro. He is among the wisest of all the Turaga, looking to the past and the experiences that he’s seen to guide him in his decisions. The Onu-Matoran often come to him seeking advice, which he freely gives to any who ask him."
-msgstr ""
+msgstr "Whenua est le Turaga d'Onu-Koro. C'est un des Turaga les plus sages, cherchant dans le passé et les expériences qu'il a vécu pour le guider dans ses décisions. Les Onu-Matoran vont souvent le voir pour lui demander son avis, qu'il donne librement à ceux qui le demande."
 
 #. Key:	CodexPage_Docks
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Docks.Default__LocationEntry_Docks_C.Location Name
@@ -1033,7 +1033,7 @@ msgstr "L'Autel de Ta-Wahi"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_TealTarakava"
 msgid "River Tarakava"
-msgstr ""
+msgstr "Tarakava de Rivière"
 
 #. Key:	CodexPage_Telescope
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Telescope.Default__LocationEntry_Telescope_C.Location Name
@@ -1049,7 +1049,7 @@ msgstr "Le Grand Téléscope"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_TiroCanyon"
 msgid "Tiro Canyon"
-msgstr ""
+msgstr "Canyon de Tiro"
 
 #. Key:	CodexPage_Turaga
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Turaga.Default__LocationEntry_Turaga_C.Location Name
@@ -1073,7 +1073,7 @@ msgstr "Crabes Ussal"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_Volcano"
 msgid "The Mangai Volcano"
-msgstr ""
+msgstr "Le Volcan Mangai"
 
 #. Key:	CodexPage_Whagna
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Whagna.Default__LocationEntry_Whagna_C.Location Name
@@ -1088,14 +1088,14 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_Boat.Default__DL_Boat_C.SpeakerName
 msgctxt "Dialogue_Name,DL_Boat_SpeakerName"
 msgid "DockManager"
-msgstr ""
+msgstr "Responsable des Quais"
 
 #. Key:	DL_BoatManagerQuest_SpeakerName
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_BoatManagerQuest.Default__DL_BoatManagerQuest_C.SpeakerName
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_BoatManagerQuest.Default__DL_BoatManagerQuest_C.SpeakerName
 msgctxt "Dialogue_Name,DL_BoatManagerQuest_SpeakerName"
 msgid "DockManager"
-msgstr ""
+msgstr "Responsable des Quais"
 
 #. Key:	DL_OnewaTest_SpeakerName
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_OnewaTest.Default__DL_OnewaTest_C.SpeakerName
@@ -1179,7 +1179,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar3.Default__DL_Akamar3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akamar3_PlayerResponse_1"
 msgid "I... See..."
-msgstr ""
+msgstr "Je... Vois..."
 
 #. Key:	DL_Akamar4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar4.Default__DL_Akamar4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1235,7 +1235,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Akura.Default__DL_Akura_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akura_PlayerResponse_1"
 msgid "*Listen*"
-msgstr ""
+msgstr "*Écouter*"
 
 #. Key:	DL_Akura_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Akura.Default__DL_Akura_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1431,7 +1431,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFOddMatoran.Default__DL_Allknowingmatoran_WDYFOddMatoran_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_2"
 msgid "He called me a Liar."
-msgstr ""
+msgstr "Il m'a traité de menteur."
 
 #. Key:	DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFOddMatoran.Default__DL_Allknowingmatoran_WDYFOddMatoran_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2432,21 +2432,21 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard1.Default__DL_Guard1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Guard1_PlayerResponse_1"
 msgid "... I'm a Toa."
-msgstr ""
+msgstr "... Je suis un Toa."
 
 #. Key:	DL_Guard2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard2.Default__DL_Guard2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard2.Default__DL_Guard2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Guard2_PlayerResponse_1"
 msgid "I'm double your height."
-msgstr ""
+msgstr "Je fais deux fois ta taille."
 
 #. Key:	DL_Guard4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard4.Default__DL_Guard4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard4.Default__DL_Guard4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Guard4_PlayerResponse_1"
 msgid "I'm sure I can manage it."
-msgstr ""
+msgstr "Je suis sûr que je peux me débrouiller."
 
 #. Key:	DL_GuardCamp_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_GuardCamp.Default__DL_GuardCamp_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2628,7 +2628,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Huki1.Default__DL_Huki1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Huki1_PlayerResponse_1"
 msgid "Hello?"
-msgstr ""
+msgstr "Bonjour ?"
 
 #. Key:	DL_Huki3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Huki3.Default__DL_Huki3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2663,7 +2663,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Huki6.Default__DL_Huki6_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Huki6_PlayerResponse_2"
 msgid "Of course."
-msgstr ""
+msgstr "Bien sûr."
 
 #. Key:	DL_HukiMap_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_HukiMap.Default__DL_HukiMap_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2922,14 +2922,14 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturn.Default__DL_JobmasterReturn_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_JobmasterReturn_PlayerResponse_2"
 msgid "Not yet."
-msgstr ""
+msgstr "Pas encore."
 
 #. Key:	DL_JobmasterReturnFinal_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturnFinal.Default__DL_JobmasterReturnFinal_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturnFinal.Default__DL_JobmasterReturnFinal_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_JobmasterReturnFinal_PlayerResponse_1"
 msgid "Sorry."
-msgstr ""
+msgstr "Désolé."
 
 #. Key:	DL_JobmasterShipment_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipment.Default__DL_JobmasterShipment_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4413,7 +4413,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_Maren3.Default__DL_Maren3_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Maren3_PlayerResponse_3"
 msgid "I wish you luck, Maren."
-msgstr ""
+msgstr "Bonne chance, Maren."
 
 #. Key:	DL_MarenBlackmask1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_MarenBlackmask1.Default__DL_MarenBlackmask1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4441,7 +4441,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_MarenGaliStories.Default__DL_MarenGaliStories_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MarenGaliStories_PlayerResponse_2"
 msgid "Good sailing, Maren."
-msgstr ""
+msgstr "Bon vent, Maren."
 
 #. Key:	DL_MarenWelcomeBack_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_MarenWelcomeBack.Default__DL_MarenWelcomeBack_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4462,7 +4462,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_MarenWelcomeBack.Default__DL_MarenWelcomeBack_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MarenWelcomeBack_PlayerResponse_3"
 msgid "Good sailing, Maren."
-msgstr ""
+msgstr "Bon vent, Maren."
 
 #. Key:	DL_MarkleMasks_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_MarkleMasks.Default__DL_MarkleMasks_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4784,7 +4784,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKini1.Default__DL_MatoroKini1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MatoroKini1_PlayerResponse_1"
 msgid "I am ready."
-msgstr ""
+msgstr "Je suis prêt."
 
 #. Key:	DL_MatoroKini1_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKini1.Default__DL_MatoroKini1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4833,7 +4833,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniExplanation6.Default__DL_MatoroKiniExplanation6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MatoroKiniExplanation6_PlayerResponse_1"
 msgid "Excellent."
-msgstr ""
+msgstr "Excellent."
 
 #. Key:	DL_MatoroKiniExplanation7_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniExplanation7.Default__DL_MatoroKiniExplanation7_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4917,7 +4917,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_MatoroReturn.Default__DL_MatoroReturn_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MatoroReturn_PlayerResponse_1"
 msgid "Not yet no."
-msgstr ""
+msgstr "Pas encore, non."
 
 #. Key:	DL_MetalSeller_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_MetalSeller.Default__DL_MetalSeller_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4945,7 +4945,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_Metonu2.Default__DL_Metonu2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Metonu2_PlayerResponse_1"
 msgid "Hmm I see..."
-msgstr ""
+msgstr "Humm je vois..."
 
 #. Key:	DL_Metonu3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_Metonu3.Default__DL_Metonu3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4987,7 +4987,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuHaveMaterials.Default__DL_MetonuHaveMaterials_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MetonuHaveMaterials_PlayerResponse_3"
 msgid "Akaku"
-msgstr ""
+msgstr "Akaku"
 
 #. Key:	DL_MetonuMaterials_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuMaterials.Default__DL_MetonuMaterials_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5071,7 +5071,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Missing.Default__DL_Missing_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Missing_PlayerResponse_2"
 msgid "No."
-msgstr ""
+msgstr "Non."
 
 #. Key:	DL_Missing_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Missing.Default__DL_Missing_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5645,7 +5645,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu.Default__DL_Onepu_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Onepu_PlayerResponse_1"
 msgid "Hello Onepu..."
-msgstr ""
+msgstr "Bonjour Onepu..."
 
 #. Key:	DL_OnepuGiveMap_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuGiveMap.Default__DL_OnepuGiveMap_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5792,7 +5792,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaThankyou.Default__DL_OnewaThankyou_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_OnewaThankyou_PlayerResponse_1"
 msgid "Of course turaga."
-msgstr ""
+msgstr "Bien sûr turaga."
 
 #. Key:	DL_OnewaWhereHaveBeen_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaWhereHaveBeen.Default__DL_OnewaWhereHaveBeen_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6646,7 +6646,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayer.Default__DL_SadKolhiiPlayer_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_SadKolhiiPlayer_PlayerResponse_1"
 msgid "Hello?"
-msgstr ""
+msgstr "Bonjour ?"
 
 #. Key:	DL_SadKolhiiPlayerAlreadyHave_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerAlreadyHave.Default__DL_SadKolhiiPlayerAlreadyHave_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6744,7 +6744,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerFullPrice1.Default__DL_SadKolhiiPlayerFullPrice1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_SadKolhiiPlayerFullPrice1_PlayerResponse_1"
 msgid "Of course!"
-msgstr ""
+msgstr "Bien sûr !"
 
 #. Key:	DL_SadKolhiiPlayerFullPrice1_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerFullPrice1.Default__DL_SadKolhiiPlayerFullPrice1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7234,7 +7234,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_Selling1.Default__DL_Selling1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Selling1_PlayerResponse_1"
 msgid "*Listen*"
-msgstr ""
+msgstr "*Écouter*"
 
 #. Key:	DL_Seltra1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Seltra1.Default__DL_Seltra1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7346,7 +7346,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntro.Default__DL_ShipperIntro_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_ShipperIntro_PlayerResponse_3"
 msgid "*Leave without disturbing him*"
-msgstr ""
+msgstr "*Partir sans le déranger*"
 
 #. Key:	DL_ShipperIntroGetup_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroGetup.Default__DL_ShipperIntroGetup_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7717,7 +7717,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned6.Default__DL_TafallAbandoned6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_TafallAbandoned6_PlayerResponse_1"
 msgid "Taphal?"
-msgstr ""
+msgstr "Taphal ?"
 
 #. Key:	DL_TafallAbandoned7_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned7.Default__DL_TafallAbandoned7_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7941,7 +7941,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_Takua6.Default__DL_Takua6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Takua6_PlayerResponse_1"
 msgid "Good idea."
-msgstr ""
+msgstr "Bonne idée."
 
 #. Key:	DL_TakuaMask_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaMask.Default__DL_TakuaMask_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7962,7 +7962,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaSaved1.Default__DL_TakuaSaved1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_TakuaSaved1_PlayerResponse_1"
 msgid "Why?"
-msgstr ""
+msgstr "Pourquoi ?"
 
 #. Key:	DL_TakuaSaved2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaSaved2.Default__DL_TakuaSaved2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8011,14 +8011,14 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok35.Default__DL_Talok35_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Talok35_PlayerResponse_1"
 msgid "You're a poet?"
-msgstr ""
+msgstr "Tu es un poète ?"
 
 #. Key:	DL_Talok4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok4.Default__DL_Talok4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok4.Default__DL_Talok4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Talok4_PlayerResponse_1"
 msgid "What?"
-msgstr ""
+msgstr "Quoi ?"
 
 #. Key:	DL_Talok5_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok5.Default__DL_Talok5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
