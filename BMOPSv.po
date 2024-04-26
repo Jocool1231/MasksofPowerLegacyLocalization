@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPSv\n"
 "POT-Creation-Date: 2024-04-25 21:09\n"
-"PO-Revision-Date: 2024-04-26 00:06+0200\n"
+"PO-Revision-Date: 2024-04-26 21:24+0200\n"
 "Last-Translator: \n"
 "Language-Team: OniFox of Team Kanohi\n"
 "Language: sv\n"
@@ -1856,49 +1856,49 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerNeedMap.Default__DL_CartographerNeedMap_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerNeedMap_PlayerResponse_1"
 msgid "Here's 350."
-msgstr ""
+msgstr "Här har du 350."
 
 #. Key:	DL_CartographerNeedMap_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerNeedMap.Default__DL_CartographerNeedMap_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerNeedMap.Default__DL_CartographerNeedMap_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerNeedMap_PlayerResponse_2"
 msgid "Can't you give me it for free? I'm a Toa of legend."
-msgstr ""
+msgstr "Kan du inte ge mig det gratis? Jag är en Toa-hjälte."
 
 #. Key:	DL_CartographerNeedMap_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerNeedMap.Default__DL_CartographerNeedMap_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerNeedMap.Default__DL_CartographerNeedMap_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerNeedMap_PlayerResponse_3"
 msgid "I don't have 350 widgets. How can I get that much?"
-msgstr ""
+msgstr "Jag har inte 350 widgets. Hur ska jag fixa det?"
 
 #. Key:	DL_CartographerPillar_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerPillar.Default__DL_CartographerPillar_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerPillar.Default__DL_CartographerPillar_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerPillar_PlayerResponse_1"
 msgid "Tell me about Tiro Canyon."
-msgstr ""
+msgstr "Berätta om Tiro Kanjonen."
 
 #. Key:	DL_CartographerPillar_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerPillar.Default__DL_CartographerPillar_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerPillar.Default__DL_CartographerPillar_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerPillar_PlayerResponse_2"
 msgid "Tell me about the Motara Desert."
-msgstr ""
+msgstr "Berätta om Motara Öknen."
 
 #. Key:	DL_CartographerPillar_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerPillar.Default__DL_CartographerPillar_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerPillar.Default__DL_CartographerPillar_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerPillar_PlayerResponse_3"
 msgid "I had need of something else."
-msgstr ""
+msgstr "Jag behöver hjälp med nåt annat."
 
 #. Key:	DL_CartographerQuestStart_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerQuestStart.Default__DL_CartographerQuestStart_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerQuestStart.Default__DL_CartographerQuestStart_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerQuestStart_PlayerResponse_1"
 msgid "I'll be back."
-msgstr ""
+msgstr "Jag kommer tillbaka."
 
 #. Key:	DL_CartographerReturn_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerReturn.Default__DL_CartographerReturn_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -16444,7 +16444,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_HauUnpowered.Item_HauUnpowered.Description
 msgctxt "InvItem_Description,Item_HauUnpowered_Desc"
 msgid "The Hau great mask of Shielding, this mask is made for matoran and has no power. Perhaps there is a way to power it?"
-msgstr ""
+msgstr "Hau: Den Mäktiga Masken av Beskyddning. Den här masken är gjord för Matoraner och har ingen kraft i sig. Kanske finns ett sett att ladda den?"
 
 #. Key:	Item_InfectedMasks_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_InfectedMasks.Item_InfectedMasks.Description
@@ -16458,7 +16458,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_KakamaUnpowered.Item_KakamaUnpowered.Description
 msgctxt "InvItem_Description,Item_KakamaUnpowered_Desc"
 msgid "The Kakama great mask of Speed, this mask is made for matoran and has no power. Perhaps there is a way to power it?"
-msgstr ""
+msgstr "Kakama: Den Mäktiga Masken av Hastighet. Den här masken är gjord för Matoraner och har ingen kraft i sig. Kanske finns ett sett att ladda den?"
 
 #. Key:	Item_KolhiiBall_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_KolhiiBall.Item_KolhiiBall.Description
@@ -16605,196 +16605,196 @@ msgstr ""
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_RestorationGel.Item_RestorationGel.Description
 msgctxt "InvItem_Description,Item_RestorationGel_Desc"
 msgid "This green jiggly substance can be applied to damaged armor to repair it over time. Effects will not stack, lasts for 5 seconds."
-msgstr ""
+msgstr "Det här gröna gelé-liknande ämnet kan läggas på sår för att läka det med tiden. Effekten går inte att stapla och försvinner efter 5 sekunder."
 
 #. Key:	Item_RockHat_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_RockHat.Item_RockHat.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_RockHat.Item_RockHat.Description
 msgctxt "InvItem_Description,Item_RockHat_Desc"
 msgid "A strangely shaped rock."
-msgstr ""
+msgstr "En konstigt formad sten."
 
 #. Key:	Item_ShoppingList_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ShoppingList.Item_ShoppingList.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ShoppingList.Item_ShoppingList.Description
 msgctxt "InvItem_Description,Item_ShoppingList_Desc"
 msgid "A hastily scribbled note indicating the materials needed to create the Mask Finder."
-msgstr ""
+msgstr "En hastigt skriven lapp som indikerar materialen som behövs för att göra Maskfinnaren."
 
 #. Key:	Item_SouthernTipNote_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SouthernTipNote.Item_SouthernTipNote.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SouthernTipNote.Item_SouthernTipNote.Description
 msgctxt "InvItem_Description,Item_SouthernTipNote_Desc"
 msgid "A note found on the southern tip of the island."
-msgstr ""
+msgstr "En lapp som du hittade på den södra tippen av ön."
 
 #. Key:	Item_StaffClass2_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_StaffClass2.Item_StaffClass2.Description
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_StaffClass2.Item_StaffClass2.Description
 msgctxt "InvItem_Description,Item_StaffClass2_Desc"
 msgid "The standard staves used by the Ta-koro guard. Class 2s are slightly weaker and shorter than the superior Class 1s."
-msgstr ""
+msgstr "Standard spjuten som används av Ta-Koro vakterna. Klass 2 spjuten är svagare och kortare än Klass 1 spjuten."
 
 #. Key:	Item_Statuette_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Statuette.Item_Statuette.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Statuette.Item_Statuette.Description
 msgctxt "InvItem_Description,Item_Statuette_Desc"
 msgid "A Small rock carving of a Toa."
-msgstr ""
+msgstr "En liten stenskulptur av en Toa."
 
 #. Key:	Item_StoneCarving_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_StoneCarving.Item_StoneCarving.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_StoneCarving.Item_StoneCarving.Description
 msgctxt "InvItem_Description,Item_StoneCarving_Desc"
 msgid "Crudely carved stone in the shape of the great spirit."
-msgstr ""
+msgstr "En grovt skulpterad sten i formen av den store anden."
 
 #. Key:	Item_SwordStatueNotePart1_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart1.Item_SwordStatueNotePart1.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart1.Item_SwordStatueNotePart1.Description
 msgctxt "InvItem_Description,Item_SwordStatueNotePart1_Desc"
 msgid "Part one in a series of journal pages documenting Akoga's enlightenment."
-msgstr ""
+msgstr "Del ett av en journal som dokumenterar Akogas upplysning."
 
 #. Key:	Item_SwordStatueNotePart2_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart2.Item_SwordStatueNotePart2.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart2.Item_SwordStatueNotePart2.Description
 msgctxt "InvItem_Description,Item_SwordStatueNotePart2_Desc"
 msgid "Part two in a series of journal pages documenting Akoga's enlightenment."
-msgstr ""
+msgstr "Del två av en journal som dokumenterar Akogas upplysning."
 
 #. Key:	Item_SwordStatuesNotePart3_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatuesNotePart3.Item_SwordStatuesNotePart3.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatuesNotePart3.Item_SwordStatuesNotePart3.Description
 msgctxt "InvItem_Description,Item_SwordStatuesNotePart3_Desc"
 msgid "The final part in a series of journal pages documenting Akoga's enlightenment."
-msgstr ""
+msgstr "Sista delen av en journal som dokumenterar Akogas upplysning."
 
 #. Key:	Item_ThueiNote_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ThueiNote.Item_ThueiNote.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ThueiNote.Item_ThueiNote.Description
 msgctxt "InvItem_Description,Item_ThueiNote_Desc"
 msgid "A message found on the hut of an eccentric carver."
-msgstr ""
+msgstr "Ett meddelande som satt på hyttan av en excentrisk skulptör."
 
 #. Key:	Item_UnpoweredAkaku_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredAkaku.Item_UnpoweredAkaku.Description
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredAkaku.Item_UnpoweredAkaku.Description
 msgctxt "InvItem_Description,Item_UnpoweredAkaku_Desc"
 msgid "The Akaku great mask of X-ray Vision, this mask is made for matoran and has no power. Perhaps there is a way to power it?"
-msgstr ""
+msgstr "Akaku: Den Mäktiga Masken av X-Ray Vision. Den här masken är gjord för Matoraner och har ingen kraft i sig. Kanske finns ett sett att ladda den?"
 
 #. Key:	Item_UnpoweredHuna_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredHuna.Item_UnpoweredHuna.Description
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredHuna.Item_UnpoweredHuna.Description
 msgctxt "InvItem_Description,Item_UnpoweredHuna_Desc"
 msgid "The Huna Noble mask of Concealment, this mask is made for matoran and has no power. Perhaps there is a way to power it?"
-msgstr ""
+msgstr "Huna: Den Ädla Masken av Osynlighet. Den här masken är gjord för Matoraner och har ingen kraft i sig. Kanske finns ett sett att ladda den?"
 
 #. Key:	Item_UnpoweredKaukau_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredKaukau.Item_UnpoweredKaukau.Description
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredKaukau.Item_UnpoweredKaukau.Description
 msgctxt "InvItem_Description,Item_UnpoweredKaukau_Desc"
 msgid "The Kaukau great mask of Water Breathing, this mask is made for matoran and has no power. Perhaps there is a way to power it?"
-msgstr ""
+msgstr "Kaukau: Den Mäktiga Masken av Vattenandning. Den här masken är gjord för Matoraner och har ingen kraft i sig. Kanske finns ett sett att ladda den?"
 
 #. Key:	Item_UnpoweredKomau_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredKomau.Item_UnpoweredKomau.Description
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredKomau.Item_UnpoweredKomau.Description
 msgctxt "InvItem_Description,Item_UnpoweredKomau_Desc"
 msgid "The Komau Noble mask of Mind Control, this mask is made for matoran and has no power. Perhaps there is a way to power it?"
-msgstr ""
+msgstr "Komau: Den Ädla Masken av Hjärnkontroll. Den här masken är gjord för Matoraner och har ingen kraft i sig. Kanske finns ett sett att ladda den?"
 
 #. Key:	Item_UnpoweredMahiki_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMahiki.Item_UnpoweredMahiki.Description
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMahiki.Item_UnpoweredMahiki.Description
 msgctxt "InvItem_Description,Item_UnpoweredMahiki_Desc"
 msgid "The Mahiki Noble mask of Illusion, this mask is made for matoran and has no power. Perhaps there is a way to power it?"
-msgstr ""
+msgstr "Mahiki: Den Ädla Masken av Illusion. Den här masken är gjord för Matoraner och har ingen kraft i sig. Kanske finns ett sett att ladda den?"
 
 #. Key:	Item_UnpoweredMatatu_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMatatu.Item_UnpoweredMatatu.Description
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMatatu.Item_UnpoweredMatatu.Description
 msgctxt "InvItem_Description,Item_UnpoweredMatatu_Desc"
 msgid "The Matatu Noble mask of Telekinesis, this mask is made for matoran and has no power. Perhaps there is a way to power it?"
-msgstr ""
+msgstr "Matatu: Den Ädla Masken av Telekines. Den här masken är gjord för Matoraner och har ingen kraft i sig. Kanske finns ett sett att ladda den?"
 
 #. Key:	Item_UnpoweredMiru_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMiru.Item_UnpoweredMiru.Description
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMiru.Item_UnpoweredMiru.Description
 msgctxt "InvItem_Description,Item_UnpoweredMiru_Desc"
 msgid "The Miru Great mask of Levitation, this mask is made for matoran and has no power. Perhaps there is a way to power it?"
-msgstr ""
+msgstr "Miru: Den Mäktiga Masken av Levitering. Den här masken är gjord för Matoraner och har ingen kraft i sig. Kanske finns ett sett att ladda den?"
 
 #. Key:	Item_UnpoweredPakari_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredPakari.Item_UnpoweredPakari.Description
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredPakari.Item_UnpoweredPakari.Description
 msgctxt "InvItem_Description,Item_UnpoweredPakari_Desc"
 msgid "The Pakari Great mask of Strength, this mask is made for matoran and has no power. Perhaps there is a way to power it?"
-msgstr ""
+msgstr "Pakari: Den Mäktiga Masken av Styrka. Den här masken är gjord för Matoraner och har ingen kraft i sig. Kanske finns ett sett att ladda den?"
 
 #. Key:	Item_UnpoweredRau_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredRau.Item_UnpoweredRau.Description
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredRau.Item_UnpoweredRau.Description
 msgctxt "InvItem_Description,Item_UnpoweredRau_Desc"
 msgid "The Rau Noble mask of Translation, this mask is made for matoran and has no power. Perhaps there is a way to power it?"
-msgstr ""
+msgstr "Rau: Den Ädla Masken av Översättning. Den här masken är gjord för Matoraner och har ingen kraft i sig. Kanske finns ett sett att ladda den?"
 
 #. Key:	Item_UnpoweredRuru_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredRuru.Item_UnpoweredRuru.Description
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredRuru.Item_UnpoweredRuru.Description
 msgctxt "InvItem_Description,Item_UnpoweredRuru_Desc"
 msgid "The Ruru Noble mask of Night Vision, this mask is made for matoran and has no power. Perhaps there is a way to power it?"
-msgstr ""
+msgstr "Ruru: Den Ädla Masken av Nattseende. Den här masken är gjord för Matoraner och har ingen kraft i sig. Kanske finns ett sett att ladda den?"
 
 #. Key:	Item_VuataMacaSeeds_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_VuataMacaSeeds.Item_VuataMacaSeeds.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_VuataMacaSeeds.Item_VuataMacaSeeds.Description
 msgctxt "InvItem_Description,Item_VuataMacaSeeds_Desc"
 msgid "These seeds dropped from the rare Vuata Maca tree are said to help you recover from wounds."
-msgstr ""
+msgstr "Dessa frön som droppar från ett sällsynt Vuata Maca träd är sagt att kunna läka sår."
 
 #. Key:	Item_WaheCanister_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Item_WaheCanister.Item_WaheCanister.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Item_WaheCanister.Item_WaheCanister.Description
 msgctxt "InvItem_Description,Item_WaheCanister_Desc"
 msgid "This capsule of strange orange substance glows and pulsates with energy, it seems powerful. Crush it to add 50 Wahae Mata Gel to your inventory. The label reads: (Wahe Mata must be gently removed from canister before use!)"
-msgstr ""
+msgstr "Den här kapsel med orange ämne lyser och pulserar med stark energi. Krossa den för att lägga till 50 Wahe-Mata Gel i din föremålsväska. Ettiketen säger: (Wahe-Mata måste försiktigt tas ut ur kapseln innan användning!)"
 
 #. Key:	Item_WaheGel_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Item_WaheGel.Item_WaheGel.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Item_WaheGel.Item_WaheGel.Description
 msgctxt "InvItem_Description,Item_WaheGel_Desc"
 msgid "A strange orange substance that pulsates with power. Perhaps it can be used with something?"
-msgstr ""
+msgstr "Ett konstigt orange ämne som pulserar med kraft. Kanske kan användas till något?"
 
 #. Key:	Item_WhakaNui_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_WhakaNui.Item_WhakaNui.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_WhakaNui.Item_WhakaNui.Description
 msgctxt "InvItem_Description,Item_WhakaNui_Desc"
 msgid "This battery like device can give a temporary boost of energy to a Toa, allowing them to bounce back quicker after performing activites. Effects will not stack, lasts for 10 seconds."
-msgstr ""
+msgstr "Den här batteriliknande mojängen get dig en temporär ökning av energi till en Toa, vilket tillåter dem att återhämta sig snabbare efter att ha utfört en aktivitet. Effekten går into att stapla och försvinner efter 10 sekunder."
 
 #. Key:	Item_Widgets_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Widgets.Item_Widgets.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Widgets.Item_Widgets.Description
 msgctxt "InvItem_Description,Item_Widgets_Desc"
 msgid "These strange peices of metal seem to be used as a currency primarily by the Po-Matoran. Matorans from other cultures will accept widgets while trading, too."
-msgstr ""
+msgstr "Dessa märkliga metallbitar verkar vara en valuta som används primärt av Po-Matoraner, men Matoraner från de andra kulturerna kommer acceptera dem i förhandlingar också."
 
 #. Key:	Item_WoodStatue_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Description
 msgctxt "InvItem_Description,Item_WoodStatue_Desc"
 msgid "A small wooden likeness. Somewhat resembles a matoran's head."
-msgstr ""
+msgstr "En liten Trästaty. Liknar ett Matoranhuvud"
 
 #. Key:	Item_WorldMap_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Description
 msgctxt "InvItem_Description,Item_WorldMap_Desc"
 msgid "A full map of the Island of Mata-Nui."
-msgstr ""
+msgstr "En hel karta av ön Mata Nui."
 
 #. Key:	Item_AmanaVoloSphere
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_AmanaVoloSphere.Item_AmanaVoloSphere.Name
@@ -17172,7 +17172,7 @@ msgstr "Lapp från Södra Tippen"
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_StaffClass2.Item_StaffClass2.Name
 msgctxt "InvItem_Name,Item_StaffClass2"
 msgid "Takoro Guard Staff Class 2"
-msgstr "Takoro Vakt Spjut Klass 2"
+msgstr "Ta-Koro Vakt Spjut Klass 2"
 
 #. Key:	Item_Statuette
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Statuette.Item_Statuette.Name
@@ -17353,6 +17353,11 @@ msgid ""
 "\r\n"
 "-Araka Fireworks for all your celebratory needs"
 msgstr ""
+"Kommer vara borta ett tag för att fixa mer grejer till Shiftning Festivalen. Är tillbaks sen.\r\n"
+"\r\n"
+"STJÄL INTE MINA SAKER! JAG KOMMER RAPPORTERA DIG TILL NATTVAKTERNA!\r\n"
+"\r\n"
+"-Araka Fyrverkerier för alla dina festliga behov"
 
 #. Key:	Item_BrothersNote_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_BrothersNote.Item_BrothersNote.TextToDisplay
@@ -17365,6 +17370,11 @@ msgid ""
 "\r\n"
 "I will meditate on you now, and try to remember the good times."
 msgstr ""
+"Kära Koha.\r\n"
+"\r\n"
+"Förlåt mig broder. Jag erkänner att jag hade fel - men du behövde inte lämna.\r\n"
+"\r\n"
+"Jag mediterar för dig nu och försöker minnas den goda tiden."
 
 #. Key:	Item_FirstMateLog1_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog1.Item_FirstMateLog1.TextToDisplay
@@ -17471,6 +17481,11 @@ msgid ""
 "\r\n"
 "-Talok Poet-Nui, feat. The Toa Mata"
 msgstr ""
+"Talok: Balladen om Ta-Koro: Del 2\n"
+"\n"
+"Ahh Ta-Koro, vilken underbar stad. Från lavan nedan till facklorna ovan, den här staden brinner med liv.\n"
+"\n"
+"-Talok Poet-Nui, med Toa Mata"
 
 #. Key:	Item_PoetNoteHot_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteHot.Item_PoetNoteHot.TextToDisplay
@@ -17483,6 +17498,11 @@ msgid ""
 "\r\n"
 "-Talok Poet-Nui, feat. Toa Kopaka"
 msgstr ""
+"Talok: Balladen om Ta-Koro: Del 2\n"
+"\n"
+"Ahh Ta-Koro, vilken underbar stad. Från lavan nedan till facklorna ovan, det här stället är för varmt.\n"
+"\n"
+"-Talok Poet-Nui, med Toa Mata"
 
 #. Key:	Item_PoetNoteLight_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteLight.Item_PoetNoteLight.TextToDisplay
@@ -17495,6 +17515,11 @@ msgid ""
 "\r\n"
 "-Talok Poet-Nui, feat. The Toa Mata"
 msgstr ""
+"Talok: Balladen om Ta-Koro: Del 2\n"
+"\n"
+"Ahh Ta-Koro, vilken underbar stad. Från lavan nedan till facklorna ovan, vår stad är fylld med ljus.\n"
+"\n"
+"-Talok Poet-Nui, med Toa Mata"
 
 #. Key:	Item_PoetNotePart1_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart1.Item_PoetNotePart1.TextToDisplay
@@ -17507,6 +17532,11 @@ msgid ""
 "\r\n"
 "-Talok Poet-Nui"
 msgstr ""
+"Talok: Balladen om Ta-Koro: Del 1\r\n"
+"\r\n"
+"I grottan fylld med Lava, står staden ensam i centrum. Från lavan, kastas eld upp och målar dess väggar med sot. \r\n"
+"\r\n"
+"-Talok Poet-Nui"
 
 #. Key:	Item_PoetNotePart3_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart3.Item_PoetNotePart3.TextToDisplay
@@ -17519,6 +17549,11 @@ msgid ""
 "\r\n"
 "-Talok Poet-Nui"
 msgstr ""
+"Talok: Balladen om Ta-Koro: Del 3\r\n"
+"\r\n"
+"Medan vakterna patrulerar, kommer hettan koka. Nu när solnedgången faller bakom de brända träden, tror jag min tid i Ta-Koro har nått sitt slut.\r\n"
+"\r\n"
+"-Talok Poet-Nui"
 
 #. Key:	Item_PoetNoteSmoke_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteSmoke.Item_PoetNoteSmoke.TextToDisplay
@@ -17531,6 +17566,11 @@ msgid ""
 "\r\n"
 "-Talok Poet-Nui, feat. The Toa Mata"
 msgstr ""
+"Talok: Balladen om Ta-Koro: Del 2\r\n"
+"\r\n"
+"Ahh Ta-Koro, vilken underbar stad. Från lavan nedan till facklorna ovan, röken stiger och välkomnar solen.\r\n"
+"\r\n"
+"-Talok Poet-Nui, med Toa Mata"
 
 #. Key:	Item_ResearchNotes_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.TextToDisplay
@@ -17649,273 +17689,273 @@ msgstr ""
 #: /Game/BluePrints/Classes/Quests/Quest_Amongsttheburnttrees.Default__Quest_Amongsttheburnttrees_C.Description
 msgctxt "Quest_Description,Quest_Amongsttheburnttrees_Desc"
 msgid "A temple of worship in Ta-wahi has been overrun by rahi!"
-msgstr ""
+msgstr "Ett tempel för dyrkande i Ta-Wahi har blivit övertaget av Rahi!"
 
 #. Key:	Quest_CalmCave_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.Description
 msgctxt "Quest_Description,Quest_CalmCave_Desc"
 msgid "This Cave sanctuary is infested by rahi, Free it so that the matoran may return to their Temple."
-msgstr ""
+msgstr "Den här helgedomsgrottan har blivit infesterad av Rahi. Besegra det så Matoranerna kan återvända till grottan."
 
 #. Key:	Quest_Challange_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Description
 msgctxt "Quest_Description,Quest_Challange_Desc"
 msgid "Kopaka has been informed by a Po-matoran in Ko-koro that he has been summoned to the tip of Po-wahi for an urgent purpose."
-msgstr ""
+msgstr "Kopaka har blivit informerad av en Po-Matoran i Ko-Koro att han blivit kallad till tippen av Po-Wahi för ett angeläget syfte."
 
 #. Key:	Quest_CometHunt_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_CometHunt.Default__Quest_CometHunt_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_CometHunt.Default__Quest_CometHunt_C.Description
 msgctxt "Quest_Description,Quest_CometHunt_Desc"
 msgid "Komeke doesn't have the widgets to buy a Comet Kolhii ball, perhaps you could get one for him."
-msgstr ""
+msgstr "Komeke har inte tillräckligt med widgets för att köpa en Komet Kolhii boll. Du kanske kan fixa en åt honom."
 
 #. Key:	Quest_DangerOnTheHorizon_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_DangerOnTheHorizon.Default__Quest_DangerOnTheHorizon_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_DangerOnTheHorizon.Default__Quest_DangerOnTheHorizon_C.Description
 msgctxt "Quest_Description,Quest_DangerOnTheHorizon_Desc"
 msgid "A small temple near Ga-koro has been taken over by a Tarakava, the matoran would like it back."
-msgstr ""
+msgstr "Ett litet Tempel nära Ga-Koro har blivit övertaget av Tarakava. Matoranerna vill ha tillbaka det."
 
 #. Key:	Quest_FindKumo_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FindKumo.Default__Quest_FindKumo_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_FindKumo.Default__Quest_FindKumo_C.Description
 msgctxt "Quest_Description,Quest_FindKumo_Desc"
 msgid "A matoran by the name of Kumo got lost while collecting materials, and his friend is worried. You should be able to find Kumo in Fau swamp, on the lake with the \"Huge-big\" Boulder in it."
-msgstr ""
+msgstr "En Matoran vid namn Kumo har gått vilse när han samlade material och hans kompis är orolig. Du kanske kan hitta honom i Fau träsket, på sjön med det \"Enormt-stora\" stenblocket i sig."
 
 #. Key:	Quest_FrozenInWood_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FrozenInWood.Default__Quest_FrozenInWood_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_FrozenInWood.Default__Quest_FrozenInWood_C.Description
 msgctxt "Quest_Description,Quest_FrozenInWood_Desc"
 msgid "Kohi, a Protosteel Collector has requested that you find a Protosteel tool in the Jungles of Le-wahi, He said it would be found \"Frozen in Wood\" and is surrounded by a Nui-Jaga nest."
-msgstr ""
+msgstr "Protostålsamlaren Kohi har bett dig finna ett Protostålverktyg i djungeln av Le-Wahi. Han sa att den kommer finnas \"frusen i trä\" och är omringad av ett Nui-Jaga näste."
 
 #. Key:	Quest_FrozenTower_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FrozenTower.Default__Quest_FrozenTower_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_FrozenTower.Default__Quest_FrozenTower_C.Description
 msgctxt "Quest_Description,Quest_FrozenTower_Desc"
 msgid "The tower sanctuary in Ko-wahi has been taken over by rahi, free it so that the matoran may return."
-msgstr ""
+msgstr "Ko-Wahis Helgedomtorn har blivit övertaget av Rahi. Besegra dem så Matoranerna kan återvända."
 
 #. Key:	Quest_Gali_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Gali.Default__Quest_Gali_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Gali.Default__Quest_Gali_C.Description
 msgctxt "Quest_Description,Quest_Gali_Desc"
 msgid "You have gathered all your Masks of Power, head to the suva in Ga-koro to gain your golden mask."
-msgstr ""
+msgstr "Du har funnit alla Mäktiga Masker för Gali. Gå till Ga-Koro och få din guldmask från deras suva."
 
 #. Key:	Quest_GaMakokiStone_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_GaMakokiStone.Default__Quest_GaMakokiStone_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_GaMakokiStone.Default__Quest_GaMakokiStone_C.Description
 msgctxt "Quest_Description,Quest_GaMakokiStone_Desc"
 msgid "Turaga Nokama has tasked you to find an ancient relic refered to as the Makoki Stone, one of six pieces used to unlock the makuta's domain."
-msgstr ""
+msgstr "Turaga Nokama har gett dig ett uppdrag att finna en relik som kallas för en Makoki-sten. Det är en av sex bitar till nyckeln som öppnar vägen till Makutas Håla."
 
 #. Key:	Quest_Gorbo_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_Gorbo.Default__Quest_Gorbo_C.Description
 msgctxt "Quest_Description,Quest_Gorbo_Desc"
 msgid "Jhoni wants to take Gorbo the Ussal crab to Onu-koro to participate in the races. But he can't because that's not a feature yet."
-msgstr ""
+msgstr "Detta uppdrag finns inte i spelet."
 
 #. Key:	Quest_Infestation_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Description
 msgctxt "Quest_Description,Quest_Infestation_Desc"
 msgid "A small Mining village has been Infested by Nui-jaga!"
-msgstr ""
+msgstr "En liten Gruvby har blivit infesterad av Nui-Jaga!"
 
 #. Key:	Quest_KiniNui_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KiniNui.Default__Quest_KiniNui_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KiniNui.Default__Quest_KiniNui_C.Description
 msgctxt "Quest_Description,Quest_KiniNui_Desc"
 msgid "You have recovered all the Makoki stones, Retrieve the remaining Golden masks - Then join the other Toa at the Kini-Nui for the final battle. ($G/6 Gold Masks)"
-msgstr ""
+msgstr "Du har funnit alla Makoki-stenar. Samla de resterande Guldmaskerna och möt de andra Toa-hjältarna vid Kini-Nuin för den sista striden. ($G/6 Guldmasker)"
 
 #. Key:	Quest_KoMakokiStone_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Description
 msgctxt "Quest_Description,Quest_KoMakokiStone_Desc"
 msgid "Matoro has informed you of an ancient relic refered to as the Makoki Stone, one of six pieces used to unlock the makuta's domain."
-msgstr ""
+msgstr "Matoro har informerat dig om en relik som kallas för en Makoki-sten. Det är en av sex bitar till nyckeln som öppnar vägen till Makutas Håla."
 
 #. Key:	Quest_Kopaka_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Kopaka.Default__Quest_Kopaka_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Kopaka.Default__Quest_Kopaka_C.Description
 msgctxt "Quest_Description,Quest_Kopaka_Desc"
 msgid "You have gathered all your Masks of Power, head to the suva in Ko-koro to gain your golden mask."
-msgstr ""
+msgstr "Du har funnit alla Mäktiga Masker för Kopaka. Gå till Ko-Koro och få din guldmask från deras suva."
 
 #. Key:	Quest_LeMakokiStone_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_LeMakokiStone.Default__Quest_LeMakokiStone_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_LeMakokiStone.Default__Quest_LeMakokiStone_C.Description
 msgctxt "Quest_Description,Quest_LeMakokiStone_Desc"
 msgid "Matau has informed you of an ancient relic refered to as the Makoki Stone, one of six pieces used to unlock the makuta's domain."
-msgstr ""
+msgstr "Turaga Matau har informerat dig om en relik som kallas för en Makoki-sten. Det är en av sex bitar till nyckeln som öppnar vägen till Makutas Håla."
 
 #. Key:	Quest_LeTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_LeTemple.Default__Quest_LeTemple_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_LeTemple.Default__Quest_LeTemple_C.Description
 msgctxt "Quest_Description,Quest_LeTemple_Desc"
 msgid "There's a temple near the edge of the island in Le-wahi, you should explore it."
-msgstr ""
+msgstr "Det finns ett Tempel nära kanten av ön i Le-Wahi. Du borde utforska det."
 
 #. Key:	Quest_Lewa_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Lewa.Default__Quest_Lewa_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Lewa.Default__Quest_Lewa_C.Description
 msgctxt "Quest_Description,Quest_Lewa_Desc"
 msgid "You have gathered all your Masks of Power, head to the suva in Le-koro to gain your golden mask."
-msgstr ""
+msgstr "Du har funnit alla Mäktiga Masker för Lewa. Gå till Le-Koro och få din guldmask från deras suva."
 
 #. Key:	Quest_MackusLetter_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_MackusLetter.Default__Quest_MackusLetter_C.Description
 msgctxt "Quest_Description,Quest_MackusLetter_Desc"
 msgid "Deliver A private letter from Macku to Hewkii."
-msgstr ""
+msgstr "Leverera ett privat brev du fick från Macku till Hewkii."
 
 #. Key:	Quest_Mangaia_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Description
 msgctxt "Quest_Description,Quest_Mangaia_Desc"
 msgid "You have gathered all your Masks of Power, You've Found the Makoki stones, now you must face the ultimate test. Fight your way through the Makuta's beasts and defeat him once and for all."
-msgstr ""
+msgstr "Du har samlat alla Guldmasker och funnit Makoki-stenarna. Nu börjar ditt ultimata test! Ta dig igenom Makutas bestar och besegra honom en gång för alla."
 
 #. Key:	Quest_OnTheLine_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Description
 msgctxt "Quest_Description,Quest_OnTheLine_Desc"
 msgid "Reka, the Mask maker - needs 350 widgets to sell you a powered kakama."
-msgstr ""
+msgstr "Reka, Maskmakaren - behöver 350 widgets för att sälja dig en laddad Kakama."
 
 #. Key:	Quest_Onua_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Onua.Default__Quest_Onua_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Onua.Default__Quest_Onua_C.Description
 msgctxt "Quest_Description,Quest_Onua_Desc"
 msgid "You have gathered all your Masks of Power, head to the suva in Onu-koro to gain your golden mask."
-msgstr ""
+msgstr "Du har funnit alla Mäktiga Masker för Onua. Gå till Onu-Koro och få din guldmask från deras suva."
 
 #. Key:	Quest_OnuMakokiStone_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_OnuMakokiStone.Default__Quest_OnuMakokiStone_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_OnuMakokiStone.Default__Quest_OnuMakokiStone_C.Description
 msgctxt "Quest_Description,Quest_OnuMakokiStone_Desc"
 msgid "Turaga Whenua has tasked you to find an ancient relic refered to as the Makoki Stone, one of six pieces used to unlock the makuta's domain."
-msgstr ""
+msgstr "Turaga Whenua har gett dig ett uppdrag att finna en relik som kallas för en Makoki-sten. Det är en av sex bitar till nyckeln som öppnar vägen till Makutas Håla."
 
 #. Key:	Quest_Pohatu_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Pohatu.Default__Quest_Pohatu_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Pohatu.Default__Quest_Pohatu_C.Description
 msgctxt "Quest_Description,Quest_Pohatu_Desc"
 msgid "You have gathered all your Masks of Power, head to the suva in Po-koro to gain your golden mask."
-msgstr ""
+msgstr "Du har funnit alla Mäktiga Masker för Pohatu. Gå till Po-Koro och få din guldmask från deras suva."
 
 #. Key:	Quest_PoMakokiStone_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_PoMakokiStone.Default__Quest_PoMakokiStone_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_PoMakokiStone.Default__Quest_PoMakokiStone_C.Description
 msgctxt "Quest_Description,Quest_PoMakokiStone_Desc"
 msgid "Turaga Onewa has tasked you to find an ancient relic refered to as the Makoki Stone, one of six pieces used to unlock the makuta's domain."
-msgstr ""
+msgstr "Turaga Onewa har gett dig ett uppdrag att finna en relik som kallas för en Makoki-sten. Det är en av sex bitar till nyckeln som öppnar vägen till Makutas Håla."
 
 #. Key:	Quest_PoTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.Description
 msgctxt "Quest_Description,Quest_PoTemple_Desc"
 msgid "There's a strange temple in the desert, Explore it and see what might be hidden among it's tunnels."
-msgstr ""
+msgstr "Det är ett underligt Tempel i öknen. Utforska det och se vad som gömmer sig i dess tunnlar."
 
 #. Key:	Quest_ProphetOfTheMakuta_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Description
 msgctxt "Quest_Description,Quest_ProphetOfTheMakuta_Desc"
 msgid "A strange matoran has lead you in the direction of a cold and ominous cave on the south side of the Mangia. He said he saw the toa enter, but never leave; It's best to be careful."
-msgstr ""
+msgstr "En Underlig Matoran har gett dig riktningar åt en kall och olycksbådande grotta på södra sidan av Mangai Vulkanen. Han säger att han såg en Toa gå in men aldrig komma ut. Bäst att vara försiktig."
 
 #. Key:	Quest_Protosteel_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Description
 msgctxt "Quest_Description,Quest_Protosteel_Desc"
 msgid "The Po-Matoran Kohi has been seeking out rare tools cast in Protosteel, You've gathered the tool he wanted, return it to him."
-msgstr ""
+msgstr "Po-Matoranen Kohi har sökt efter sällsynta verktyg gjutna i Protostål. Du har verktygen han behöver, återvänd till honom."
 
 #. Key:	Quest_Staff_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Description
 msgctxt "Quest_Description,Quest_Staff_Desc"
 msgid "Quater Master Niidok has gotten the wrong shipment of staves, he has requested that you speak to Takar the staff seller about this. He has a shop just outside Ta-koro."
-msgstr ""
+msgstr "Kvartermästare Niidok har fått fel leverans av spjut och har bett dig prata med Spjutförsäljaren Takar om det. Hans affär ligger utanför Ta-Koro."
 
 #. Key:	Quest_Tahu_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Tahu.Default__Quest_Tahu_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Tahu.Default__Quest_Tahu_C.Description
 msgctxt "Quest_Description,Quest_Tahu_Desc"
 msgid "You have gathered all your Masks of Power, head to the suva in Ta-koro to gain your golden mask."
-msgstr ""
+msgstr "Du har funnit alla Mäktiga Masker för Tahu. Gå till Ta-Koro och få din guldmask från deras suva."
 
 #. Key:	Quest_TaMakokiStone_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TaMakokiStone.Default__Quest_TaMakokiStone_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TaMakokiStone.Default__Quest_TaMakokiStone_C.Description
 msgctxt "Quest_Description,Quest_TaMakokiStone_Desc"
 msgid "Turaga Vakama needs you to recover a part of an important key called the Makoki stone."
-msgstr ""
+msgstr "Turaga Vakama behöver din hjälp att återhämta en del av en viktig nyckel som kallas för en Makoki-sten."
 
 #. Key:	Quest_TempleLiberation_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_TempleLiberation.Default__Quest_TempleLiberation_C.Description
 msgctxt "Quest_Description,Quest_TempleLiberation_Desc"
 msgid "A small temple near Ga-koro has been taken over by Tarakava, the matoran would like it back."
-msgstr ""
+msgstr "Ett litet Tempel nära Ga-Koro har blivit övertaget av Tarakava. Matoranerna vill ha tillbaka det."
 
 #. Key:	Quest_TheLakeOfFrost_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Description
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Description
 msgctxt "Quest_Description,Quest_TheLakeOfFrost_Desc"
 msgid "Dameo has asked you to restore the flow of the river and by extension restore his fishing town."
-msgstr ""
+msgstr "Dameo har bett dig återställa flodens flöde och hans fiskestad i processen."
 
 #. Key:	Quest_TheToaOfFire1_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Description
 msgctxt "Quest_Description,Quest_TheToaOfFire1_Desc"
 msgid "Remember..."
-msgstr ""
+msgstr "Kom ihåg..."
 
 #. Key:	Quest_TheTuragaOfAir_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Description
 msgctxt "Quest_Description,Quest_TheTuragaOfAir_Desc"
 msgid "Turaga Matau has been missing for a while, Find him and help him get back to Le-koro."
-msgstr ""
+msgstr "Turaga Matau har varit borta ett tag. Hitta honom och hjälp honom hitta tillbaks till Le-Koro."
 
 #. Key:	Quest_TheTuragaOfEarth_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Description
 msgctxt "Quest_Description,Quest_TheTuragaOfEarth_Desc"
 msgid "Turaga Whenua has been missing for a while, Find him and help him get back to Onu-koro."
-msgstr ""
+msgstr "Turaga Whenua har varit borta ett tag. Hitta honom och hjälp honom hitta tillbaks till Onu-Koro."
 
 #. Key:	Quest_TheTuragaOfIce_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfIce.Default__Quest_TheTuragaOfIce_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfIce.Default__Quest_TheTuragaOfIce_C.Description
 msgctxt "Quest_Description,Quest_TheTuragaOfIce_Desc"
 msgid "Turaga Nuju got lost when passing through the drifts, find him and help him get back to Ko-koro."
-msgstr ""
+msgstr "Turaga Nuju har kommit vilse i drifterna. Hitta honom och hjälp honom hitta tillbaks till Ko-Koro."
 
 #. Key:	Quest_TheTuragaOfStone_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Description
 msgctxt "Quest_Description,Quest_TheTuragaOfStone_Desc"
 msgid "Turaga Onewa has been missing for a while, Find him and help him get back to Po-koro."
-msgstr ""
+msgstr "Turaga Onewa har varit borta ett tag. Hitta honom och hjälp honom hitta tillbaks till Po-Koro."
 
 #. Key:	Quest_TheTuragaOfWater_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Description
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Description
 msgctxt "Quest_Description,Quest_TheTuragaOfWater_Desc"
 msgid "Turaga Nokama has been missing for a while, Find her and ensure her safety."
-msgstr ""
+msgstr "Turaga Nokama har varit borta ett tag. Hitta henne och se till att hon är säker."
 
 #. Key:	Quest_Amongsttheburnttrees
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Amongsttheburnttrees.Default__Quest_Amongsttheburnttrees_C.QuestName
