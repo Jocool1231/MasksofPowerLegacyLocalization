@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPSv\n"
 "POT-Creation-Date: 2024-04-25 21:09\n"
-"PO-Revision-Date: 2024-04-26 21:24+0200\n"
+"PO-Revision-Date: 2024-04-27 02:23+0200\n"
 "Last-Translator: \n"
 "Language-Team: OniFox of Team Kanohi\n"
 "Language: sv\n"
@@ -16332,112 +16332,112 @@ msgstr ""
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_AmanaVoloSphere.Item_AmanaVoloSphere.Description
 msgctxt "InvItem_Description,Item_AmanaVoloSphere_Desc"
 msgid "Rare orbs full of a powerful essence that has the power to heal a great amount."
-msgstr ""
+msgstr "Sällsynta kulor fyllda med en stark juice som har kraften att hela väldigt mycket."
 
 #. Key:	Item_ArakaNote_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ArakaNote.Item_ArakaNote.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ArakaNote.Item_ArakaNote.Description
 msgctxt "InvItem_Description,Item_ArakaNote_Desc"
 msgid "A note left to inform any shoppers of Araka's absence."
-msgstr ""
+msgstr "En lapp lämnad för att informera kunder om Arakas frånvaro."
 
 #. Key:	Item_Blackmask_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Blackmask.Item_Blackmask.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Blackmask.Item_Blackmask.Description
 msgctxt "InvItem_Description,Item_Blackmask_Desc"
 msgid "A mysterious Komau covered in a strange black substance. It's cracked and doesn't work. The hypnotising material on the surface of the mask pulses slowly, as if breathing... "
-msgstr ""
+msgstr "En mysterisk Komau täckt med ett skummt svart ämne. Den är sprucken och kan inte användas längre. Det hypnotiserande materialet ovanpå masken pulserar långsamt, nästan som om det andas..."
 
 #. Key:	Item_BrothersNote_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_BrothersNote.Item_BrothersNote.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_BrothersNote.Item_BrothersNote.Description
 msgctxt "InvItem_Description,Item_BrothersNote_Desc"
 msgid "A poorly written note telling the tale of two matoran."
-msgstr ""
+msgstr "Ett skakigt skrivet brev menat mellan två Matoranbröder."
 
 #. Key:	Item_Candle_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Candle.Item_Candle.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Candle.Item_Candle.Description
 msgctxt "InvItem_Description,Item_Candle_Desc"
 msgid "A candle sitting atop a small carving of the great spirit."
-msgstr ""
+msgstr "Ett stearinljus som sitter ovanpå en liten skulptur av Den Stora Anden."
 
 #. Key:	Item_Comets_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Comets.Item_Comets.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Comets.Item_Comets.Description
 msgctxt "InvItem_Description,Item_Comets_Desc"
 msgid "A specal, enhanced, Kolhii ball for increased performance."
-msgstr ""
+msgstr "En speciell och förbättrad Kolhii boll för ökad prestation."
 
 #. Key:	Item_CookBook_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_CookBook.Item_CookBook.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_CookBook.Item_CookBook.Description
 msgctxt "InvItem_Description,Item_CookBook_Desc"
 msgid "A dusty old cookbook, the only one of it's kind."
-msgstr ""
+msgstr "En dammig gammal kokbok. Den enda av sin typ."
 
 #. Key:	Item_DoorKeyNote_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_DoorKeyNote.Item_DoorKeyNote.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_DoorKeyNote.Item_DoorKeyNote.Description
 msgctxt "InvItem_Description,Item_DoorKeyNote_Desc"
 msgid "A note showing designations of many symbols."
-msgstr ""
+msgstr "En lapp som visar beteckningar av flera symboler."
 
 #. Key:	Item_FirstMateLog2_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog2.Item_FirstMateLog2.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog2.Item_FirstMateLog2.Description
 msgctxt "InvItem_Description,Item_FirstMateLog2_Desc"
 msgid "Fragments of a First Mate's log from a ship named the 'Waikiru'"
-msgstr ""
+msgstr "Fragment av Förste styrman Dakks journal från shippet vid namn 'Waikiru'."
 
 #. Key:	Item_GlowCrystal_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GlowCrystal.Item_GlowCrystal.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GlowCrystal.Item_GlowCrystal.Description
 msgctxt "InvItem_Description,Item_GlowCrystal_Desc"
 msgid "A shard of green glow crystal, may be worth something."
-msgstr ""
+msgstr "En bit av en grön glödkristall som kanske är värt något."
 
 #. Key:	Item_GoldBars_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldBars.Item_GoldBars.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldBars.Item_GoldBars.Description
 msgctxt "InvItem_Description,Item_GoldBars_Desc"
 msgid "A stack of shiny gold bars."
-msgstr ""
+msgstr "En hög av guldtackor."
 
 #. Key:	Item_GoldenMahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenMahi.Item_GoldenMahi.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenMahi.Item_GoldenMahi.Description
 msgctxt "InvItem_Description,Item_GoldenMahi_Desc"
 msgid "A large golden Mahi figure. Hard to carry."
-msgstr ""
+msgstr "En stor staty av en Mahi tillverkad av rent guld. Väldigt svår att bära."
 
 #. Key:	Item_GoldenRama_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRama.Item_GoldenRama.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRama.Item_GoldenRama.Description
 msgctxt "InvItem_Description,Item_GoldenRama_Desc"
 msgid "It's a small statue of a Nui-Rama. Strangely, it seems to be made of solid gold. It's very heavy."
-msgstr ""
+msgstr "En liten staty av en Rahi tillverkad av rent guld. Den är ganska tung."
 
 #. Key:	Item_GoldenRuki_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRuki.Item_GoldenRuki.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRuki.Item_GoldenRuki.Description
 msgctxt "InvItem_Description,Item_GoldenRuki_Desc"
 msgid "A small golden figure of a Ruki."
-msgstr ""
+msgstr "En liten staty av en Ruki tillverkad av rent guld."
 
 #. Key:	Item_GoldenStatue_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenStatue.Item_GoldenStatue.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenStatue.Item_GoldenStatue.Description
 msgctxt "InvItem_Description,Item_GoldenStatue_Desc"
 msgid "A statue of Mata-Nui, made of solid gold."
-msgstr ""
+msgstr "En staty av Mata Nui tillverkad av rent guld."
 
 #. Key:	Item_GoldenUssal_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenUssal.Item_GoldenUssal.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenUssal.Item_GoldenUssal.Description
 msgctxt "InvItem_Description,Item_GoldenUssal_Desc"
 msgid "A small statue of an Ussal, made of solid gold."
-msgstr ""
+msgstr "En liten staty av en Ussal tillverkad av rent guld."
 
 #. Key:	Item_HauUnpowered_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_HauUnpowered.Item_HauUnpowered.Description
@@ -16451,7 +16451,7 @@ msgstr "Hau: Den Mäktiga Masken av Beskyddning. Den här masken är gjord för 
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_InfectedMasks.Item_InfectedMasks.Description
 msgctxt "InvItem_Description,Item_InfectedMasks_Desc"
 msgid "These masks seem to be under a strange power from makuta. Perhaps they are worth some widgets?"
-msgstr ""
+msgstr "Dessa masker verkade hålla en märklig kraft från Makuta som gör Rahi mer hotfulla. Nu är de dock kraftlösa och ofarliga så du kanske kan få widgets för dem."
 
 #. Key:	Item_KakamaUnpowered_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_KakamaUnpowered.Item_KakamaUnpowered.Description
@@ -16465,147 +16465,147 @@ msgstr "Kakama: Den Mäktiga Masken av Hastighet. Den här masken är gjord för
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_KolhiiBall.Item_KolhiiBall.Description
 msgctxt "InvItem_Description,Item_KolhiiBall_Desc"
 msgid "A standard Kolhii ball."
-msgstr ""
+msgstr "En vanlig Kolhii boll."
 
 #. Key:	Item_MahaiTea_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_MahaiTea.Item_MahaiTea.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_MahaiTea.Item_MahaiTea.Description
 msgctxt "InvItem_Description,Item_MahaiTea_Desc"
 msgid "Tea made from Mahai bark. It tastes very bitter, and quite earthy. The Matoran use this drink for a boost of energy. It would probably work on a Toa, too."
-msgstr ""
+msgstr "Te gjord på Mahai bark. Smakar bittert och ganska jordigt. Matoranerna dricker det för att få mer energi så det borde funka för en Toa-hjälte också."
 
 #. Key:	Item_MarenMap1_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap1.Item_MarenMap1.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap1.Item_MarenMap1.Description
 msgctxt "InvItem_Description,Item_MarenMap1_Desc"
 msgid "A map supposedly leading to a great treasure hidden by the legendary Ga-Matoran sailor Blackmask. 1/4"
-msgstr ""
+msgstr "En karta som tydligen leder till en stor skatt gömd av den legendariska Ga-Matoranen Svartmask. 1/4"
 
 #. Key:	Item_MarenMap2_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap2.Item_MarenMap2.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap2.Item_MarenMap2.Description
 msgctxt "InvItem_Description,Item_MarenMap2_Desc"
 msgid "A map supposedly leading to a great treasure hidden by the legendary Ga-Matoran sailor Blackmask. 2/4"
-msgstr ""
+msgstr "En karta som tydligen leder till en stor skatt gömd av den legendariska Ga-Matoranen Svartmask. 2/4"
 
 #. Key:	Item_MarenMap3_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap3.Item_MarenMap3.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap3.Item_MarenMap3.Description
 msgctxt "InvItem_Description,Item_MarenMap3_Desc"
 msgid "A map supposedly leading to a great treasure hidden by the legendary Ga-Matoran sailor Blackmask. 3/4"
-msgstr ""
+msgstr "En karta som tydligen leder till en stor skatt gömd av den legendariska Ga-Matoranen Svartmask. 3/4"
 
 #. Key:	Item_MarenMap4_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap4.Item_MarenMap4.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap4.Item_MarenMap4.Description
 msgctxt "InvItem_Description,Item_MarenMap4_Desc"
 msgid "A map supposedly leading to a great treasure hidden by the legendary Ga-Matoran sailor Blackmask. 4/4"
-msgstr ""
+msgstr "En karta som tydligen leder till en stor skatt gömd av den legendariska Ga-Matoranen Svartmask. 4/4"
 
 #. Key:	Item_MaskFinder_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskFinder.Item_MaskFinder.Description
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskFinder.Item_MaskFinder.Description
 msgctxt "InvItem_Description,Item_MaskFinder_Desc"
 msgid "A Small device crafted by Metonu, Designed by Nuparu, that can be used to find near by $M."
-msgstr ""
+msgstr "En liten enhet tillverkad av Metonu och designad av Nuparu. Kan användas för att hitta $M masker i din omgivning."
 
 #. Key:	Item_MaskLocator_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskLocator.Item_MaskLocator.Description
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskLocator.Item_MaskLocator.Description
 msgctxt "InvItem_Description,Item_MaskLocator_Desc"
 msgid "A Small device crafted by Metonu, Designed by Nuparu, that can be used to find near by $M."
-msgstr ""
+msgstr "En liten enhet tillverkad av Metonu och designad av Nuparu. Kan användas för att hitta $M masker i din omgivning."
 
 #. Key:	Item_MetallicProtodermisIngots_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Description
 msgctxt "InvItem_Description,Item_MetallicProtodermisIngots_Desc"
 msgid "Ingots of Metallic Protodermis. This material is extremely hard to make, and can be used in the creation of powerful tools."
-msgstr ""
+msgstr "Metalltackor av Protodermis. De här materialet är väldigt svårt att skapa och används för att göra kraftiga verktyg."
 
 #. Key:	Item_Pocketdermis_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_Pocketdermis.Item_Pocketdermis.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_Pocketdermis.Item_Pocketdermis.Description
 msgctxt "InvItem_Description,Item_Pocketdermis_Desc"
 msgid "A small bag of powdered Protodermis that your mask will draw energy from over time. Effects will not stack, lasts for 8 seconds."
-msgstr ""
+msgstr "En liten påse med Protodermis pulver som din mask kan dra energi från med tid. Effekten går into att stapla och slutar efter 8 sekunder."
 
 #. Key:	Item_PoetNoteBurns_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteBurns.Item_PoetNoteBurns.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteBurns.Item_PoetNoteBurns.Description
 msgctxt "InvItem_Description,Item_PoetNoteBurns_Desc"
 msgid "Part two in a series written by Talok the Great Poet, about Ta-koro."
-msgstr ""
+msgstr "Del två i en serie av poesi skriven av Talok: Den Stora Poeten av Ta-Koro."
 
 #. Key:	Item_PoetNoteHot_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteHot.Item_PoetNoteHot.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteHot.Item_PoetNoteHot.Description
 msgctxt "InvItem_Description,Item_PoetNoteHot_Desc"
 msgid "Part two in a series written by Talok the Great Poet, about Ta-koro."
-msgstr ""
+msgstr "Del två i en serie av poesi skriven av Talok: Den Stora Poeten av Ta-Koro."
 
 #. Key:	Item_PoetNoteLight_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteLight.Item_PoetNoteLight.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteLight.Item_PoetNoteLight.Description
 msgctxt "InvItem_Description,Item_PoetNoteLight_Desc"
 msgid "Part two in a series written by Talok the Great Poet, about Ta-koro."
-msgstr ""
+msgstr "Del två i en serie av poesi skriven av Talok: Den Stora Poeten av Ta-Koro."
 
 #. Key:	Item_PoetNotePart1_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart1.Item_PoetNotePart1.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart1.Item_PoetNotePart1.Description
 msgctxt "InvItem_Description,Item_PoetNotePart1_Desc"
 msgid "Part one in a series written by Talok the Great Poet, about Ta-koro."
-msgstr ""
+msgstr "Del ett i en serie av poesi skriven av Talok: Den Stora Poeten av Ta-Koro."
 
 #. Key:	Item_PoetNotePart3_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart3.Item_PoetNotePart3.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart3.Item_PoetNotePart3.Description
 msgctxt "InvItem_Description,Item_PoetNotePart3_Desc"
 msgid "Part three in a series written by Talok the Great Poet, about Ta-koro."
-msgstr ""
+msgstr "Del tre i en serie av poesi skriven av Talok: Den Stora Poeten av Ta-Koro."
 
 #. Key:	Item_PoetNoteSmoke_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteSmoke.Item_PoetNoteSmoke.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteSmoke.Item_PoetNoteSmoke.Description
 msgctxt "InvItem_Description,Item_PoetNoteSmoke_Desc"
 msgid "Part two in a series written by Talok the Great Poet, about Ta-koro."
-msgstr ""
+msgstr "Del två i en serie av poesi skriven av Talok: Den Stora Poeten av Ta-Koro."
 
 #. Key:	Item_Pots_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Pots.Item_Pots.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Pots.Item_Pots.Description
 msgctxt "InvItem_Description,Item_Pots_Desc"
 msgid "An expertly crafted pot, for all your potting needs."
-msgstr ""
+msgstr "En välarbetad kruka för alla dina krukväxtbehov."
 
 #. Key:	Item_ProtoCell_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCell.Item_ProtoCell.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCell.Item_ProtoCell.Description
 msgctxt "InvItem_Description,Item_ProtoCell_Desc"
 msgid "A small capsule filled with protodermis, can be crushed to absorb it's power."
-msgstr ""
+msgstr "En liten kapsel fylld med protodermis. Krossa den för att absorbera det."
 
 #. Key:	Item_ProtoCharge_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCharge.Item_ProtoCharge.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCharge.Item_ProtoCharge.Description
 msgctxt "InvItem_Description,Item_ProtoCharge_Desc"
 msgid "A large tank filled with a great sum of protodermis, can be smashed to absorb it's power."
-msgstr ""
+msgstr "En stor tank fylld med en stor mängd protodermis. Krossa den för att absorbera det."
 
 #. Key:	Item_ResearchNotes_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.Description
 msgctxt "InvItem_Description,Item_ResearchNotes_Desc"
 msgid "A collection of research notes from a curious matoran."
-msgstr ""
+msgstr "En samling av anteckningar från en nyfiken Matoran."
 
 #. Key:	Item_RestorationGel_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_RestorationGel.Item_RestorationGel.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_RestorationGel.Item_RestorationGel.Description
 msgctxt "InvItem_Description,Item_RestorationGel_Desc"
 msgid "This green jiggly substance can be applied to damaged armor to repair it over time. Effects will not stack, lasts for 5 seconds."
-msgstr "Det här gröna gelé-liknande ämnet kan läggas på sår för att läka det med tiden. Effekten går inte att stapla och försvinner efter 5 sekunder."
+msgstr "Det här gröna gelé-liknande ämnet kan läggas på sår för att läka det med tiden. Effekten går inte att stapla och slutar efter 5 sekunder."
 
 #. Key:	Item_RockHat_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_RockHat.Item_RockHat.Description
@@ -16647,7 +16647,7 @@ msgstr "En liten stenskulptur av en Toa."
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_StoneCarving.Item_StoneCarving.Description
 msgctxt "InvItem_Description,Item_StoneCarving_Desc"
 msgid "Crudely carved stone in the shape of the great spirit."
-msgstr "En grovt skulpterad sten i formen av den store anden."
+msgstr "En grovt skulpterad sten i formen av Den Stora Anden."
 
 #. Key:	Item_SwordStatueNotePart1_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart1.Item_SwordStatueNotePart1.Description
@@ -16773,7 +16773,7 @@ msgstr "Ett konstigt orange ämne som pulserar med kraft. Kanske kan användas t
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_WhakaNui.Item_WhakaNui.Description
 msgctxt "InvItem_Description,Item_WhakaNui_Desc"
 msgid "This battery like device can give a temporary boost of energy to a Toa, allowing them to bounce back quicker after performing activites. Effects will not stack, lasts for 10 seconds."
-msgstr "Den här batteriliknande mojängen get dig en temporär ökning av energi till en Toa, vilket tillåter dem att återhämta sig snabbare efter att ha utfört en aktivitet. Effekten går into att stapla och försvinner efter 10 sekunder."
+msgstr "Den här batteriliknande mojängen get dig en temporär ökning av energi till en Toa, vilket tillåter dem att återhämta sig snabbare efter att ha utfört en aktivitet. Effekten går into att stapla och slutar efter 10 sekunder."
 
 #. Key:	Item_Widgets_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Widgets.Item_Widgets.Description
@@ -16815,7 +16815,7 @@ msgstr "Araka: Ute och Handlar"
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Blackmask.Item_Blackmask.Name
 msgctxt "InvItem_Name,Item_Blackmask"
 msgid "The Black Mask"
-msgstr "Skuggansmask"
+msgstr "Svartmasks Kanohi"
 
 #. Key:	Item_BrothersNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_BrothersNote.Item_BrothersNote.Name
@@ -17004,28 +17004,28 @@ msgstr "Mahai Te"
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap1.Item_MarenMap1.Name
 msgctxt "InvItem_Name,Item_MarenMap1"
 msgid "Blackmask's Treasure Map #1"
-msgstr "Skuggansmasks Skattekarta #1"
+msgstr "Svartmasks Skattekarta #1"
 
 #. Key:	Item_MarenMap2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap2.Item_MarenMap2.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap2.Item_MarenMap2.Name
 msgctxt "InvItem_Name,Item_MarenMap2"
 msgid "Blackmask's Treasure Map #2"
-msgstr "Skuggansmasks Skattekarta #2"
+msgstr "Svartmasks Skattekarta #2"
 
 #. Key:	Item_MarenMap3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap3.Item_MarenMap3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap3.Item_MarenMap3.Name
 msgctxt "InvItem_Name,Item_MarenMap3"
 msgid "Blackmask's Treasure Map #3"
-msgstr "Skuggansmasks Skattekarta #3"
+msgstr "Svartmasks Skattekarta #3"
 
 #. Key:	Item_MarenMap4
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap4.Item_MarenMap4.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap4.Item_MarenMap4.Name
 msgctxt "InvItem_Name,Item_MarenMap4"
 msgid "Blackmask's Treasure Map #4"
-msgstr "Skuggansmasks Skattekarta #4"
+msgstr "Svartmasks Skattekarta #4"
 
 #. Key:	Item_MaskFinder
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskFinder.Item_MaskFinder.Name
@@ -17502,7 +17502,7 @@ msgstr ""
 "\n"
 "Ahh Ta-Koro, vilken underbar stad. Från lavan nedan till facklorna ovan, det här stället är för varmt.\n"
 "\n"
-"-Talok Poet-Nui, med Toa Mata"
+"-Talok Poet-Nui, med Toa Kopaka"
 
 #. Key:	Item_PoetNoteLight_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteLight.Item_PoetNoteLight.TextToDisplay
@@ -20815,7 +20815,6 @@ msgstr "Bearbetar"
 #. Key:	CreditsScroll
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/CreditsScroll.CreditsScroll_C:WidgetTree.RichTextBlock_47.Text
 #: /Game/BluePrints/UI/MainMenu/CreditsScroll.CreditsScroll_C:WidgetTree.RichTextBlock_47.Text
-#, fuzzy
 msgctxt "UIText,CreditsScroll"
 msgid ""
 "Bionicle: Masks Of Power \r\n"
@@ -20984,7 +20983,7 @@ msgstr ""
 "\r\n"
 "Och självklart våra lojala fans!\r\n"
 "\r\n"
-"Tack för att ni varit med oss. Må den store anden vägleda er."
+"Tack för att ni varit med oss. Må Den Stora Anden vägleda er."
 
 #. Key:	Dead_Descriptions
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Dead.Widget_Dead_C:WidgetTree.TextBlock_0.Text
