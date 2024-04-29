@@ -1,10 +1,9 @@
-﻿# Copyright Epic Games, Inc. All Rights Reserved.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2024-04-22 21:40\n"
-"PO-Revision-Date: 2024-04-23 01:39+0200\n"
+"PO-Revision-Date: 2024-04-28 19:05+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -274,208 +273,185 @@ msgstr "Dieser Tempel wurde von den Le-Matoranern erbaut, mit der Hilfe einiger 
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Lewa.Default__LocationEntry_Lewa_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Lewa.Default__LocationEntry_Lewa_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Lewa_Desc"
 msgid "Lewa is the carefree and fun loving Toa of air. He is the most energetic out of all the Toa, and his reckless attitude is more often than not what gets him in trouble. Lewa is often overconfident in his own ability as a Toa, taking risks and chances when he shouldn’t, and acting before thinking his actions through. It seems he still has much to learn about being a hero- but that doesn’t stop him from rushing off on his own anyway. His elemental attack shoots a narrow jet of air, which will knock enemies very far back. It doesn’t do all that much damage however, so it’s best for keeping Rahi at bay so you don’t get overwhelmed."
-msgstr "Lewa is the carefree and fun loving Toa of air. He is the most energetic out of all the Toa, and his reckless attitude is more often than not what gets him in trouble. Lewa is often overconfident in his own ability as a Toa, taking risks and chances when he shouldn’t, and acting before thinking his actions through. It seems he still has much to learn about being a hero- but that doesn’t stop him from rushing off on his own anyway. His elemental attack shoots a narrow jet of air, which will knock enemies very far back. It doesn’t do all that much damage however, so it’s best for keeping Rahi at bay so you don’t get overwhelmed."
+msgstr "Lewa ist der unbekümmerte und lebenslustige Toa der Luft. Er ist der energischste aller Toa, und seine rücksichtslose Einstellung bringt ihn oft in Schwierigkeiten. Lewa ist oft zu sehr von seinen eigenen Fähigkeiten als Toa überzeugt, geht Risiken und Chancen ein, wenn er es nicht sollte, und handelt, bevor er seine Handlungen durchdacht hat. Es scheint, dass er noch viel darüber lernen muss, wie man ein Held ist - aber das hält ihn nicht davon ab, trotzdem auf eigene Faust loszuziehen. Sein Elementarangriff verschießt einen schmalen Luftstrahl, der Feinde sehr weit zurückwirft. Er richtet allerdings nicht allzu viel Schaden an und ist daher am besten geeignet, um Rahi in Schach zu halten, damit man nicht überwältigt wird."
 
 #. Key:	CodexPage_LeWahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeWahi.Default__LocationEntry_LeWahi_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeWahi.Default__LocationEntry_LeWahi_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_LeWahi_Desc"
 msgid "The dense jungles of Le-Wahi make it a confusing and unwelcoming place for travellers. Being the largest area on Mata Nui, it’s all too easy to find yourself lost in the seemingly endless sea of trees. The Le-Matoran choose to stick to the treetops when they can, swinging on vines between the trees instead of travelling on the dangerous jungle floor."
-msgstr "The dense jungles of Le-Wahi make it a confusing and unwelcoming place for travellers. Being the largest area on Mata Nui, it’s all too easy to find yourself lost in the seemingly endless sea of trees. The Le-Matoran choose to stick to the treetops when they can, swinging on vines between the trees instead of travelling on the dangerous jungle floor."
+msgstr "Der dichte Dschungel von Le-Wahi macht es zu einem verwirrenden und unwillkommen Ort für Reisende. Da es sich um das größte Gebiet auf Mata Nui handelt, ist es nur allzu leicht, sich in dem scheinbar endlosen Meer von Bäumen zu verirren. Die Le-Matoraner halten sich lieber in den Baumkronen auf, wenn sie können, und schwingen sich an den Lianen zwischen den Bäumen, anstatt auf dem gefährlichen Dschungelboden zu reisen."
 
 #. Key:	CodexPage_LewasLanding_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LewasLanding.Default__LocationEntry_LewasLanding_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LewasLanding.Default__LocationEntry_LewasLanding_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_LewasLanding_Desc"
 msgid "A strange vessel that has washed up onto the beach... nobody on the island is sure where it has come from. Lush jungle lies all around, full of potential, energy, and life. What could lie within?"
-msgstr "A strange vessel that has washed up onto the beach... nobody on the island is sure where it has come from. Lush jungle lies all around, full of potential, energy, and life. What could lie within?"
+msgstr "Ein seltsames Gefäß, das an den Strand gespült wurde... niemand auf der Insel ist sich sicher, woher es gekommen ist. Ringsum liegt üppiger Dschungel, voller Potenzial, Energie und Leben. Was könnte sich darin verbergen?"
 
 #. Key:	CodexPage_Log_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Log.Default__LocationEntry_Log_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Log.Default__LocationEntry_Log_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Log_Desc"
 msgid "A massive log fallen on the shore of Le-Wahi. It’s just lying there, decaying. It was probably a living, healthy tree once, but not anymore. How was this tree so large? Where is the rest of it? Who hollowed it out? That was likely the Rahi of Makuta… but then again it may have just been one of the developers."
-msgstr "A massive log fallen on the shore of Le-Wahi. It’s just lying there, decaying. It was probably a living, healthy tree once, but not anymore. How was this tree so large? Where is the rest of it? Who hollowed it out? That was likely the Rahi of Makuta… but then again it may have just been one of the developers."
+msgstr "Ein massiver Baumstamm ist auf das Ufer von Le-Wahi gefallen. Er liegt einfach da und verrottet. Wahrscheinlich war es einmal ein lebendiger, gesunder Baum, aber jetzt nicht mehr. Wie konnte dieser Baum so groß werden? Wo ist der Rest? Wer hat ihn ausgehöhlt? Das waren wahrscheinlich die Rahi von Makuta... aber vielleicht war es auch nur einer der Entwickler."
 
 #. Key:	CodexPage_Mahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Mahi.Default__LocationEntry_Mahi_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Mahi.Default__LocationEntry_Mahi_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Mahi_Desc"
 msgid "A species of tame, goat-like Rahi that can be found primarily in Po-Wahi. These have been domesticated and trained by the Po-Matoran for use as livestock, as well as to help pull carts full of the heavy stone they bring into the city to carve. They are considered rather valuable to the Matoran, and are brought into the city to be traded in Po-Koro’s Bazaar."
-msgstr "A species of tame, goat-like Rahi that can be found primarily in Po-Wahi. These have been domesticated and trained by the Po-Matoran for use as livestock, as well as to help pull carts full of the heavy stone they bring into the city to carve. They are considered rather valuable to the Matoran, and are brought into the city to be traded in Po-Koro’s Bazaar."
+msgstr "Eine zahme, ziegenähnliche Rahi-Art, die vor allem in Po-Wahi zu finden ist. Sie wurden von den Po-Matoranern gezähmt und trainiert, um als Vieh zu dienen und Karren mit schweren Steinen zu ziehen, die sie in die Stadt bringen, um sie zu behauen. Sie werden von den Matoranern als ziemlich wertvoll angesehen und in die Stadt gebracht, um auf dem Basar von Po-Koro gehandelt zu werden."
 
 #. Key:	CodexPage_Mahiki_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Mahiki.Default__LocationEntry_Mahiki_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Mahiki.Default__LocationEntry_Mahiki_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Mahiki_Desc"
 msgid "The Kanohi Mahiki: the Noble Mask of Illusion. Spawn a clone next to you that will distract enemies for a time. (Warning: This mask can cause some bugs with enemy AI)"
-msgstr "The Kanohi Mahiki: the Noble Mask of Illusion. Spawn a clone next to you that will distract enemies for a time. (Warning: This mask can cause some bugs with enemy AI)"
+msgstr "Der Kanohi Mahiki: die edle Maske der Illusion. Lässt einen Klon neben dir erscheinen, der deine Feinde eine Zeit lang ablenkt. (Warnung: Diese Maske kann einige Fehler bei der Gegner-KI verursachen)"
 
 #. Key:	CodexPage_MapFragments_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_MapFragments.Default__LocationEntry_MapFragments_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_MapFragments.Default__LocationEntry_MapFragments_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_MapFragments_Desc"
 msgid "These fragments are created by Matoran to help them explore the island. Matoran who are familiar with particular regions of the island often make these maps, but are only able to chart out portions of the island accurately. If someone were to find fragments that cover the entire island, they’d be able to accurately and easily find their way around."
-msgstr "These fragments are created by Matoran to help them explore the island. Matoran who are familiar with particular regions of the island often make these maps, but are only able to chart out portions of the island accurately. If someone were to find fragments that cover the entire island, they’d be able to accurately and easily find their way around."
+msgstr "Diese Fragmente werden von Matoranern erstellt, um ihnen bei der Erkundung der Insel zu helfen. Matoraner, die mit bestimmten Regionen der Insel vertraut sind, erstellen diese Karten oft, können aber nur Teile der Insel genau abbilden. Wenn jemand Fragmente findet, die die gesamte Insel abdecken, kann er sich genauer und leichter zurechtfinden."
 
 #. Key:	CodexPage_Matanui_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matanui.Default__LocationEntry_Matanui_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matanui.Default__LocationEntry_Matanui_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Matanui_Desc"
 msgid "The island of Mata Nui. Named after the Great Spirit Mata Nui, this island paradise is home to the Matoran, Turaga, and- now that they have arrived- the Toa as well. The island is split into six elemental regions, where the six Matoran villages lie. As a Toa, it’s your duty to find all the Masks of Power hidden around the island, and rescue the Matoran from the evil shadow of Makuta."
-msgstr "The island of Mata Nui. Named after the Great Spirit Mata Nui, this island paradise is home to the Matoran, Turaga, and- now that they have arrived- the Toa as well. The island is split into six elemental regions, where the six Matoran villages lie. As a Toa, it’s your duty to find all the Masks of Power hidden around the island, and rescue the Matoran from the evil shadow of Makuta."
+msgstr "Die Insel Mata Nui. Benannt nach dem Großen Geist Mata Nui, ist dieses Inselparadies die Heimat der Matoraner, Turaga und - jetzt, wo sie angekommen sind - auch der Toa. Die Insel ist in sechs elementare Regionen aufgeteilt, in denen die sechs Matoraner-Dörfer liegen. Als Toa ist es deine Pflicht, alle Masken der Macht zu finden, die auf der Insel versteckt sind, und die Matoraner vor dem bösen Schatten von Makuta zu retten."
 
 #. Key:	CodexPage_Matatu_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matatu.Default__LocationEntry_Matatu_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matatu.Default__LocationEntry_Matatu_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Matatu_Desc"
 msgid "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull nearby items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
-msgstr "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull nearby items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
+msgstr "Die Kanohi Matatu: die edle Maske der Telekinese. Diese Maske ermöglicht es dir, Gegenstände aus großer Entfernung zu dir zu ziehen. Außerdem können Sie mit der Maske Ihre Feinde weiter zurückstoßen als zuvor."
 
 #. Key:	CodexPage_Matau_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matau.Default__LocationEntry_Matau_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matau.Default__LocationEntry_Matau_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Matau_Desc"
 msgid "Matau is the Turaga of Le-Koro. Known as the Singer of Le-Koro by the Le-Matoran, Matau has always led his village with a cheerful outlook, something that he has maintained through some of the toughest times the Matoran have had to face. Matau is seen as a friend and a mentor, and looked up to by all Le-Matoran."
-msgstr "Matau is the Turaga of Le-Koro. Known as the Singer of Le-Koro by the Le-Matoran, Matau has always led his village with a cheerful outlook, something that he has maintained through some of the toughest times the Matoran have had to face. Matau is seen as a friend and a mentor, and looked up to by all Le-Matoran."
+msgstr "Matau ist der Turaga von Le-Koro. Matau, der von den Le-Matoranern als Sänger von Le-Koro bezeichnet wird, hat sein Dorf immer mit einer heiteren Einstellung geführt, etwas dass er aufrecht erhalten hat, selbst während der härtesten Zeiten der Matoraner. Matau gilt als Freund und Mentor, zu dem alle Le-Matoraner aufblicken."
 
 #. Key:	CodexPage_Matoran_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matoran.Default__LocationEntry_Matoran_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matoran.Default__LocationEntry_Matoran_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Matoran_Desc"
 msgid "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
-msgstr "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
+msgstr "Die Matoraner sind die Bewohner von Mata Nui und dessen Dörfer und bilden das Herz der Insel. Sie sind in sechs verschiedene Elemente unterteilt: Feuer, Wasser, Stein, Luft, Erde und Eis, und jedes lebt in seinem entsprechenden Dorf. Es ist deine Pflicht als Toa, sie vor Makutas Bedrohungen zu schützen."
 
 #. Key:	CodexPage_MeditationPoints_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_MeditationPoints.Default__LocationEntry_MeditationPoints_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_MeditationPoints.Default__LocationEntry_MeditationPoints_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_MeditationPoints_Desc"
 msgid "These odd stones appear all around the island. Nobody knows exactly what they are or why they are here, but they act as places for frequent meditation for Matoran, Toa, and Turaga alike. You are able to use these stones to meditate, passing the time as you sit and ponder the will of Mata Nui."
-msgstr "These odd stones appear all around the island. Nobody knows exactly what they are or why they are here, but they act as places for frequent meditation for Matoran, Toa, and Turaga alike. You are able to use these stones to meditate, passing the time as you sit and ponder the will of Mata Nui."
+msgstr "Diese merkwürdigen Steine sind überall auf der Insel zu finden. Niemand weiß genau, was sie sind oder warum sie hier sind, aber sie dienen Matoranern, Toa und Turaga gleichermaßen als Orte für häufige Meditationen. Man kann diese Steine zum Meditieren benutzen und die Zeit vertreiben, während man über den Willen von Mata Nui nachdenkt."
 
 #. Key:	CodexPage_Miru_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Miru.Default__LocationEntry_Miru_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Miru.Default__LocationEntry_Miru_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Miru_Desc"
 msgid "The Kanohi Miru: the Great Mask of Levitation. This mask increases the height of your jump. It’s essential for traversing around the landscape of Mata Nui, and is useful for reaching areas that you normally wouldn’t be able to."
-msgstr "The Kanohi Miru: the Great Mask of Levitation. This mask increases the height of your jump. It’s essential for traversing around the landscape of Mata Nui, and is useful for reaching areas that you normally wouldn’t be able to."
+msgstr "Die Kanohi Miru: die Große Maske der Levitation. Diese Maske steigert die Höhe deines Sprungs. Sie ist unentbehrlich, um die Landschaft von Mata Nui zu durchqueren, und ist nützlich, um Bereiche zu erreichen, die man normalerweise nicht erreichen kann."
 
 #. Key:	CodexPage_Muaka_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Muaka.Default__LocationEntry_Muaka_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Muaka.Default__LocationEntry_Muaka_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Muaka_Desc"
 msgid "These fearsome beasts are the largest of Makuta’s Rahi. They can be found primarily in Ko-Wahi. Their necks are able to extend, allowing them to lunge for their prey and attack incredibly quickly. These Rahi are powerful, fast, and a danger to any who encounter them. Make sure to take caution when approaching them, and try to make sure they never approach you."
-msgstr "These fearsome beasts are the largest of Makuta’s Rahi. They can be found primarily in Ko-Wahi. Their necks are able to extend, allowing them to lunge for their prey and attack incredibly quickly. These Rahi are powerful, fast, and a danger to any who encounter them. Make sure to take caution when approaching them, and try to make sure they never approach you."
+msgstr "Diese furchterregenden Bestien sind die größten Rahi von Makuta. Man findet sie hauptsächlich in Ko-Wahi. Ihre Hälse sind ausfahrbar, so dass sie sich auf ihre Beute stürzen und unglaublich schnell angreifen können. Diese Rahi sind stark, schnell und eine Gefahr für jeden, der ihnen begegnet. Man sollte vorsichtig sein, wenn man sich ihnen nähert, und darauf achten, dass sie einen nicht zu Nahe kommen."
 
 #. Key:	CodexPage_Nokama_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Nokama.Default__LocationEntry_Nokama_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Nokama.Default__LocationEntry_Nokama_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Nokama_Desc"
 msgid "Nokama is the Turaga of Ga-Koro. Like her village, she is often seen as the kindest of the Turaga, and is often the first one to attempt to quell any disagreements that appear between the other Turaga. Her ability to approach any situation with an open mind is what has made her an effective leader of Ga-Koro."
-msgstr "Nokama is the Turaga of Ga-Koro. Like her village, she is often seen as the kindest of the Turaga, and is often the first one to attempt to quell any disagreements that appear between the other Turaga. Her ability to approach any situation with an open mind is what has made her an effective leader of Ga-Koro."
+msgstr "Nokama ist die Turaga von Ga-Koro. Wie ihr Dorf, wird auch sie häufig als freundlichste Turaga angesehen und ist oft die Erste, die versucht, jegliche Meinungsverschiedenheiten zwischen den anderen Turaga zu schlichten. Ihre Fähigkeit, jede Situation mit einem unvoreingenommen anzugehen, ist es, was sie zu einer effektiven Anführerin von Ga-Koro gemacht hat."
 
 #. Key:	CodexPage_NuiJaga_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiJaga.Default__LocationEntry_NuiJaga_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiJaga.Default__LocationEntry_NuiJaga_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_NuiJaga_Desc"
 msgid "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui,. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
-msgstr "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui,. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
+msgstr "Skorpionartige Rahi, die von Makuta kontrolliert werden. Die lila Variante kann überall auf Mata Nui gefunden werden. Sie verlassen sich auf ihre Anzahl und ihre mächtigen, gefährlichen Stacheln, um ihre Beute zu jagen. Wenn man ihren Stachel zittern und rasseln sieht, geh aus dem Weg - schnell."
 
 #. Key:	CodexPage_NuiRama_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiRama.Default__LocationEntry_NuiRama_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiRama.Default__LocationEntry_NuiRama_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_NuiRama_Desc"
 msgid "These insectoid Rahi can be found primarily in Le-Wahi. They’re not the most powerful Rahi on their own, but their speed and numbers can easily make up for it. They’ll fly directly at you if they spot you, and can be difficult to shake off. Make sure to keep an ear out for the buzzing of their wings."
-msgstr "These insectoid Rahi can be found primarily in Le-Wahi. They’re not the most powerful Rahi on their own, but their speed and numbers can easily make up for it. They’ll fly directly at you if they spot you, and can be difficult to shake off. Make sure to keep an ear out for the buzzing of their wings."
+msgstr "Diese insektenartigen Rahi sind hauptsächlich in Le-Wahi zu finden. Sie sind nicht die stärksten Rahi, aber ihre Geschwindigkeit und Anzahl machen das leicht wieder wett. Sie fliegen direkt auf einen zu, wenn sie dich entdecken, und können schwer abgeschüttelt werden. Achte darauf, das Summen ihrer Flügel zu hören."
 
 #. Key:	CodexPage_Nuju_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Nuju.Default__LocationEntry_Nuju_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Nuju.Default__LocationEntry_Nuju_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Nuju_Desc"
 msgid "Nuju is the Turaga of Ko-Koro. He speaks only in the language of Rahi, and requires his translator, Matoro, around at all times to interpret his speech. Whether it is by choice or necessity is a subject of speculation among the Ko-Matoran. But those who choose to put in the effort for a conversation with him are rewarded by the wisdom he shares."
-msgstr "Nuju is the Turaga of Ko-Koro. He speaks only in the language of Rahi, and requires his translator, Matoro, around at all times to interpret his speech. Whether it is by choice or necessity is a subject of speculation among the Ko-Matoran. But those who choose to put in the effort for a conversation with him are rewarded by the wisdom he shares."
+msgstr "Nuju ist der Turaga von Ko-Koro. Er spricht nur in der Sprache der Rahi und braucht immer seinen Übersetzer Matoro, um seine Sprache zu dolmetschen. Ob dies freiwillig oder aus Notwendigkeit geschieht, sind Spekulationen unter den Ko-Matoranern. Doch wer sich die Mühe macht, sich mit ihm zu unterhalten, wird mit der Weisheit belohnt, die er vermittelt."
 
 #. Key:	CodexPage_Onewa_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onewa.Default__LocationEntry_Onewa_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onewa.Default__LocationEntry_Onewa_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Onewa_Desc"
 msgid "Onewa is the Turaga of Po-Koro. He is known among the Po-Matoran and the other Turaga to be stubborn and inflexible in his decisions. To some, he may seem rude or insensitive. But this strength of character has guided the Po-Matoran through many trials, and he has earned respect for it."
-msgstr "Onewa is the Turaga of Po-Koro. He is known among the Po-Matoran and the other Turaga to be stubborn and inflexible in his decisions. To some, he may seem rude or insensitive. But this strength of character has guided the Po-Matoran through many trials, and he has earned respect for it."
+msgstr "Onewa ist der Turaga von Po-Koro. Er ist bei den Po-Matoran und den anderen Turaga dafür bekannt, dass er stur und unflexibel in seinen Entscheidungen ist. Auf manche mag er unhöflich oder unsensibel wirken. Aber diese Charakterstärke hat die Po-Matoraner durch viele Prüfungen geführt, und dafür hat er sich Respekt verdient."
 
 #. Key:	CodexPage_Onu-Koro_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onu-Koro.Default__LocationEntry_Onu-Koro_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onu-Koro.Default__LocationEntry_Onu-Koro_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Onu-Koro_Desc"
 msgid "Onu-Koro, the village of Earth. This village lies deep below Mata Nui, and has many tunnels that stretch out all across the island. It’s accessibility from different tunnels across the island has caused it to become a crossroads of sorts for Matoran of all kinds, and is home to the famous Onu-Koro Bazaar, where Matoran from all over the island come to sell their wares. As for the Onu-Matoran themselves, they mine Lightstones and Protodermis, and tend to spend most of their time underground. Ussal Crabs are commonly found here, used both by the Ussalry guard, and by Matoran for transport and sport."
-msgstr "Onu-Koro, the village of Earth. This village lies deep below Mata Nui, and has many tunnels that stretch out all across the island. It’s accessibility from different tunnels across the island has caused it to become a crossroads of sorts for Matoran of all kinds, and is home to the famous Onu-Koro Bazaar, where Matoran from all over the island come to sell their wares. As for the Onu-Matoran themselves, they mine Lightstones and Protodermis, and tend to spend most of their time underground. Ussal Crabs are commonly found here, used both by the Ussalry guard, and by Matoran for transport and sport."
+msgstr "Onu-Koro, das Dorf der Erde. Dieses Dorf liegt tief unter Mata Nui und hat viele Tunnel, die sich über die ganze Insel erstrecken. Da es von verschiedenen Tunneln auf der Insel aus erreichbar ist, hat es sich zu einer Art Knotenpunkt für Matoraner aller Art entwickelt und beherbergt den berühmten Onu-Koro-Basar, zu dem Matoraner von der ganzen Insel kommen, um ihre Waren zu verkaufen. Die Onu-Matoraner selbst bauen Lichtsteine und Protodermis ab und verbringen die meiste Zeit unter der Erde. Ussal-Krabben sind hier häufig anzutreffen und werden sowohl von der Ussalry-Garde als auch von den Matoranern als Transportmittel und zum Sport genutzt."
 
 #. Key:	CodexPage_Onu-Wahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onu-Wahi.Default__LocationEntry_Onu-Wahi_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onu-Wahi.Default__LocationEntry_Onu-Wahi_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Onu-Wahi_Desc"
 msgid "A vast network of tunnels that run beneath the entire island. The surface of Onu-Wahi has little in terms of development, as the Onu-Matoran largely prefer to live beneath the surface due to their poor eyesight in the bright sun. The majority of Onu-Wahi lies underground, within the caves and mines that are populated by the Onu-Matoran."
-msgstr "A vast network of tunnels that run beneath the entire island. The surface of Onu-Wahi has little in terms of development, as the Onu-Matoran largely prefer to live beneath the surface due to their poor eyesight in the bright sun. The majority of Onu-Wahi lies underground, within the caves and mines that are populated by the Onu-Matoran."
+msgstr "Ein riesiges Netz von Tunneln, das unter der gesamten Insel verläuft. Die Oberfläche von Onu-Wahi ist nur wenig entwickelt, da die Onu-Matoran aufgrund ihrer schlechten Sehkraft in der hellen Sonne lieber unter der Oberfläche leben. Der größte Teil von Onu-Wahi liegt unterirdisch, in den Höhlen und Minen, die von den Onu-Matoran bewohnt werden."
 
 #. Key:	CodexPage_Onua_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onua.Default__LocationEntry_Onua_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onua.Default__LocationEntry_Onua_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Onua_Desc"
 msgid "Onua is the wise and patient Toa of earth. While at first glance he may seem disconnected from the other Toa, That could not be further from the truth. Onua only speaks when he believes he has something worth saying. And when he does speak, it is impactful to the Toa team as a whole. Onua is noticeably shorter than the rest of the Toa, as his head is not in the same place as the rest of the Toa’s builds. His elemental attack launches a spiked piece of earth, which is useful for keeping your distance when dealing with enemies."
-msgstr "Onua is the wise and patient Toa of earth. While at first glance he may seem disconnected from the other Toa, That could not be further from the truth. Onua only speaks when he believes he has something worth saying. And when he does speak, it is impactful to the Toa team as a whole. Onua is noticeably shorter than the rest of the Toa, as his head is not in the same place as the rest of the Toa’s builds. His elemental attack launches a spiked piece of earth, which is useful for keeping your distance when dealing with enemies."
+msgstr "Onua ist der weise und geduldige Toa der Erde. Auch wenn er auf den ersten Blick nicht mit den anderen Toa verbunden zu sein scheint, könnte das nicht weiter von der Wahrheit entfernt sein. Onua spricht nur, wenn er glaubt, dass er etwas zu sagen hat, das es wert ist. Und wenn er spricht, ist es für das gesamte Toa-Team von Bedeutung. Onua ist deutlich kleiner als der Rest der Toa, denn sein Kopf befindet sich nicht an der gleichen Stelle wie der Körperbau der übrigen Toa. Sein Elementarangriff schleudert ein mit Stacheln versehenes Stück Erde, das nützlich ist, um auf Distanz zu bleiben, wenn man es mit Feinden zu tun hat."
 
 #. Key:	CodexPage_OnuasLanding_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuasLanding.Default__LocationEntry_OnuasLanding_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuasLanding.Default__LocationEntry_OnuasLanding_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_OnuasLanding_Desc"
 msgid "A strange vessel that has washed up onto the beach... nobody on the island is sure where it has come from. The land all around seems harsh and empty, but the land below is teeming with unseen life, waiting to be explored and discovered."
-msgstr "A strange vessel that has washed up onto the beach... nobody on the island is sure where it has come from. The land all around seems harsh and empty, but the land below is teeming with unseen life, waiting to be explored and discovered."
+msgstr "Ein seltsames Gefäß, das an den Strand gespült wurde... niemand auf der Insel ist sich sicher, woher es gekommen ist. Das Land rundherum scheint rau und leer zu sein, aber unter der Insel wimmelt es von unsichtbarem Leben, das darauf wartet, erforscht und entdeckt zu werden."
 
 #. Key:	CodexPage_OnuKini_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuKini.Default__LocationEntry_OnuKini_C.Location Description
@@ -490,163 +466,145 @@ msgstr "The Le-Kini is the temple of Air. Rahi are known to frequently attack th
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuTemple.Default__LocationEntry_OnuTemple_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuTemple.Default__LocationEntry_OnuTemple_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_OnuTemple_Desc"
 msgid "This temple lies above the ground in Po-Wahi, despite being made by the Onu-Matoran. It was constructed long, long ago- before the Onu-Wahi tunnels had been completed. Many Onu-Matoran still choose to make the difficult trek across the harsh, bright desert to pay tribute to Mata Nui- a testament to their faith and dedication."
-msgstr "This temple lies above the ground in Po-Wahi, despite being made by the Onu-Matoran. It was constructed long, long ago- before the Onu-Wahi tunnels had been completed. Many Onu-Matoran still choose to make the difficult trek across the harsh, bright desert to pay tribute to Mata Nui- a testament to their faith and dedication."
+msgstr "Dieser Tempel liegt oberhalb des Grundes in Po-Wahi, obwohl er von den Onu-Matoran erbaut wurde. Er wurde vor langer, langer Zeit gebaut - bevor die Onu-Wahi-Tunnel fertiggestellt wurden. Viele Onu-Matoran machen sich noch immer auf den beschwerlichen Weg durch die raue, helle Wüste, um Mata Nui zu huldigen - ein Beweis für ihren Glauben und ihre Hingabe."
 
 #. Key:	CodexPage_Overlook_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Overlook.Default__LocationEntry_Overlook_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Overlook.Default__LocationEntry_Overlook_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Overlook_Desc"
 msgid "This overlook was featured in the first ever trailer for Bionicle: Masks of Power. From this point, you are able to see over Ga, Po, Ko, and even Onu-Wahi. It’s a good thing there’s an Akaku right here so that you’re able to enjoy the view."
-msgstr "This overlook was featured in the first ever trailer for Bionicle: Masks of Power. From this point, you are able to see over Ga, Po, Ko, and even Onu-Wahi. It’s a good thing there’s an Akaku right here so that you’re able to enjoy the view."
+msgstr "Dieser Ausblick wurde im allerersten Trailer für Bionicle: Masken der Macht gezeigt. Von diesem Punkt aus kann man über Ga-, Po-, Ko- und sogar Onu-Wahi blicken. Gut, dass es genau hier eine Akaku gibt, damit du die Aussicht genießen kannst."
 
 #. Key:	CodexPage_Pakari_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Pakari.Default__LocationEntry_Pakari_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Pakari.Default__LocationEntry_Pakari_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Pakari_Desc"
 msgid "The Kanohi Pakari- the Great Mask of Strength. This mask will enhance your combat strength, and make all of your attacks deal more damage. It’s a powerful mask to use in combat, but can be risky if you choose to use it as opposed to something more defensive, like the Hau."
-msgstr "The Kanohi Pakari- the Great Mask of Strength. This mask will enhance your combat strength, and make all of your attacks deal more damage. It’s a powerful mask to use in combat, but can be risky if you choose to use it as opposed to something more defensive, like the Hau."
+msgstr "Die Kanohi Pakari - die große Maske der Stärke. Diese Maske erhöht deine Kampfkraft und sorgt dafür, dass alle deine Angriffe mehr Schaden verursachen. Sie ist eine mächtige Maske für den Kampf, kann aber riskant sein, wenn du sie im Gegensatz zu einer defensiveren Maske wie der Hau benutzt."
 
 #. Key:	CodexPage_Pohatu_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Pohatu.Default__LocationEntry_Pohatu_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Pohatu.Default__LocationEntry_Pohatu_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Pohatu_Desc"
 msgid "Pohatu is the friendly and cheerful Toa of stone. He makes it a priority to treat all of his fellow Toa with kindness and comradery- though he can sometimes be a little over-the-top about it. He demonstrates the same kindness to the Matoran as well, not treating them like inferiors, but equals. He can often be found playing Koli with the Po-Matoran. Pohatu’s set has the most unique design out of all the Toa, flipping the torso used for all of the Toa upside down. Due to this, Pohatu kicks to attack instead of swinging a weapon. His elemental attack causes a stone pillar to erupt from the ground beneath an enemy, hitting them and launching them into the air."
-msgstr "Pohatu is the friendly and cheerful Toa of stone. He makes it a priority to treat all of his fellow Toa with kindness and comradery- though he can sometimes be a little over-the-top about it. He demonstrates the same kindness to the Matoran as well, not treating them like inferiors, but equals. He can often be found playing Koli with the Po-Matoran. Pohatu’s set has the most unique design out of all the Toa, flipping the torso used for all of the Toa upside down. Due to this, Pohatu kicks to attack instead of swinging a weapon. His elemental attack causes a stone pillar to erupt from the ground beneath an enemy, hitting them and launching them into the air."
+msgstr "Pohatu ist der freundliche und fröhliche Toa des Stein. Er legt großen Wert darauf, alle seine Toa-Kollegen mit Freundlichkeit und Kameradschaft zu behandeln - auch wenn er dabei manchmal ein wenig übertreiben kann. Die gleiche Freundlichkeit bringt er auch den Matoranern entgegen, indem er sie nicht als Untergebene, sondern als Gleichberechtigte behandelt. Man kann ihn oft dabei beobachten, wie er mit den Po-Matoranern Koli spielt. Pohatus Set hat das einzigartigste Design aller Toa, da es den Torso, den alle Toa verwenden wird, auf den Kopf stellt. Dadurch kann Pohatu mit Tritten angreifen, anstatt eine Waffe zu schwingen. Sein Elementarangriff lässt eine Steinsäule aus dem Boden unter dem Feind hervorbrechen, die ihn trifft und in die Luft schleudert."
 
 #. Key:	CodexPage_PohatusLanding_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PohatusLanding.Default__LocationEntry_PohatusLanding_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PohatusLanding.Default__LocationEntry_PohatusLanding_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_PohatusLanding_Desc"
 msgid "A strange vessel that has washed up onto the beach... nobody on the island is sure where it has come from. Canyons dotted with intricate carvings can be seen in the distance, beckoning to be explored."
-msgstr "A strange vessel that has washed up onto the beach... nobody on the island is sure where it has come from. Canyons dotted with intricate carvings can be seen in the distance, beckoning to be explored."
+msgstr "Ein seltsames Gefäß, das an den Strand gespült wurde... niemand auf der Insel ist sich sicher, woher es kommt. In der Ferne sind Schluchten mit kunstvollen Schnitzereien zu sehen, die darauf warten, erforscht zu werden."
 
 #. Key:	CodexPage_PoisonNuiJaga_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoisonNuiJaga.Default__LocationEntry_PoisonNuiJaga_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoisonNuiJaga.Default__LocationEntry_PoisonNuiJaga_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_PoisonNuiJaga_Desc"
 msgid "Scorpion-like Rahi that are controlled by Makuta. The green variant can be found primarily in Le-Wahi. These Nui-Jaga are extremely fast, making them difficult to escape and even more difficult to avoid their relentless attacks. Take care that you don’t find yourself swarmed by a group of them."
-msgstr "Scorpion-like Rahi that are controlled by Makuta. The green variant can be found primarily in Le-Wahi. These Nui-Jaga are extremely fast, making them difficult to escape and even more difficult to avoid their relentless attacks. Take care that you don’t find yourself swarmed by a group of them."
+msgstr "Skorpionartige Rahi, die von Makuta kontrolliert werden. Die grüne Variante ist vor allem in Le-Wahi zu finden. Diese Nui-Jaga sind extrem schnell, was es schwierig macht, ihnen zu entkommen und noch schwieriger, ihren unerbittlichen Angriffen auszuweichen. Man sollte darauf achten, dass man nicht von einer Gruppe von ihnen umschwärmt wird."
 
 #. Key:	CodexPage_PoKini_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoKini.Default__LocationEntry_PoKini_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoKini.Default__LocationEntry_PoKini_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_PoKini_Desc"
 msgid "The Po-Kini is the temple of Stone. Hiding deep in the harsh Motara desert, this temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta. Turaga Onewa seems to know the secret to unlocking the temple."
-msgstr "The Po-Kini is the temple of Stone. Hiding deep in the harsh Motara desert, this temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta. Turaga Onewa seems to know the secret to unlocking the temple."
+msgstr "Der Po-Kini ist der Tempel des Steins. Tief in der rauen Motara-Wüste versteckt, beherbergt dieser Tempel einen Makoki-Stein - ein Fragment eines Schlüssels, der benötigt wird, um in das Versteck von Makuta zu gelangen. Turaga Onewa scheint das Geheimnis zu kennen, wie man den Tempel entschlüsselt."
 
 #. Key:	CodexPage_Pokoro_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Pokoro.Default__LocationEntry_Pokoro_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Pokoro.Default__LocationEntry_Pokoro_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Pokoro_Desc"
 msgid "Po-Koro, the village of Stone. This village is home to the best carvers on Mata Nui- a fact that is clear when you see the beautiful stone carvings that adorn the village and its surroundings. Merchants sell their wares in Po-Koro’s bazaar to whoever is strong enough to brave the harsh Po-Wahi deserts. Po-Koro is also seen as the home to the sport of Koli, seeing as it’s where the sport got its start. The sport’s popularity along with the bazaar make this city one of the liveliest on the island."
-msgstr "Po-Koro, the village of Stone. This village is home to the best carvers on Mata Nui- a fact that is clear when you see the beautiful stone carvings that adorn the village and its surroundings. Merchants sell their wares in Po-Koro’s bazaar to whoever is strong enough to brave the harsh Po-Wahi deserts. Po-Koro is also seen as the home to the sport of Koli, seeing as it’s where the sport got its start. The sport’s popularity along with the bazaar make this city one of the liveliest on the island."
+msgstr "Po-Koro, das Dorf des Steins. In diesem Dorf leben die besten Bildhauervon Mata Nui - eine Tatsache, die deutlich wird, wenn man die wunderschönen Steinschnitzereien sieht, die das Dorf und seine Umgebung schmücken. Auf dem Basar von Po-Koro verkaufen Händler ihre Waren an alle, die stark genug sind, um der rauen Po-Wahi-Wüste zu trotzen. Po-Koro gilt auch als die Heimat des Koli-Sports, da dieser hier seinen Ursprung hat. Die Popularität des Sports und der Basar machen diese Stadt zu einer der lebendigsten der Insel."
 
 #. Key:	CodexPage_PoTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoTemple.Default__LocationEntry_PoTemple_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoTemple.Default__LocationEntry_PoTemple_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_PoTemple_Desc"
 msgid "A temple built by the Po-Matoran carvers to honor the Great Spirit. Since the Po-Matoran are carvers and makers by nature, they couldn’t help but add all varieties of traps and puzzles inside of it. Is it overly complicated for a place of worship? Unnecessary? Frivolous? Perhaps, but ask any Po-Matoran and they would vehemently disagree. There’s even a Copper Mask of Victory offered to anyone who’s able to pass this trial."
-msgstr "A temple built by the Po-Matoran carvers to honor the Great Spirit. Since the Po-Matoran are carvers and makers by nature, they couldn’t help but add all varieties of traps and puzzles inside of it. Is it overly complicated for a place of worship? Unnecessary? Frivolous? Perhaps, but ask any Po-Matoran and they would vehemently disagree. There’s even a Copper Mask of Victory offered to anyone who’s able to pass this trial."
+msgstr "Ein Tempel, der von den Po-Matoran-Bildhauern zu Ehren des Großen Geistes gebaut wurde. Da die Po-Matoraner von Natur aus Bildhauer und Baumeister sind, konnten sie nicht umhin, alle Arten von Fallen und Rätseln in den Tempel einzubauen. Ist es zu kompliziert für einen Ort der Verehrung? Unnötig? Leichtsinnig? Vielleicht, aber frag irgendeinen Po-Matoraner und er wird Ihnen vehement widersprechen. Es gibt sogar eine kupferne Maske des Sieges, die jedem angeboten wird, der diese Prüfung bestehen kann."
 
 #. Key:	CodexPage_PoWahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoWahi.Default__LocationEntry_PoWahi_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoWahi.Default__LocationEntry_PoWahi_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_PoWahi_Desc"
 msgid "The deserts of Po-Wahi are unwelcoming to say the least. The rocky canyons can hide Rahi waiting to ambush unlucky travellers, and Motara desert to the north is a largely barren landscape. However, the Po-Matoran choose to brave these dangers regardless, adorning the rocky landscape with carvings and sculptures to give whatever life they can to the harsh environment around them."
-msgstr "The deserts of Po-Wahi are unwelcoming to say the least. The rocky canyons can hide Rahi waiting to ambush unlucky travellers, and Motara desert to the north is a largely barren landscape. However, the Po-Matoran choose to brave these dangers regardless, adorning the rocky landscape with carvings and sculptures to give whatever life they can to the harsh environment around them."
+msgstr "Die Wüsten von Po-Wahi sind, gelinde gesagt, nicht einladend. In den felsigen Schluchten können sich Rahi verstecken, die darauf warten, unglückliche Reisende zu überfallen, und die Motara-Wüste im Norden ist eine weitgehend karge Landschaft. Die Po-Matoraner trotzen diesen Gefahren trotzdem und schmücken die felsige Landschaft mit Schnitzereien und Skulpturen, um der rauen Umgebung so viel Leben wie möglich einzuhauchen."
 
 #. Key:	CodexPage_Quarry_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Quarry.Default__LocationEntry_Quarry_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Quarry.Default__LocationEntry_Quarry_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Quarry_Desc"
 msgid "The quarry is home to many beautiful and intricate carvings made by the Po-Matoran. Large statues made to represent each of the Toa lie here, carved by the Matoran in honor of the Legends that speak of them. Some Matoran speak of caverns beneath these statues, but many of these rumors are unconfirmed. They stand as a monument of honor and hope to the Toa."
-msgstr "The quarry is home to many beautiful and intricate carvings made by the Po-Matoran. Large statues made to represent each of the Toa lie here, carved by the Matoran in honor of the Legends that speak of them. Some Matoran speak of caverns beneath these statues, but many of these rumors are unconfirmed. They stand as a monument of honor and hope to the Toa."
+msgstr "Der Steinbruch beherbergt viele schöne und komplizierte Schnitzereien, die von den Po-Matoranern angefertigt wurden. Hier stehen große Statuen, die jeden der Toa darstellen und von den Matoranern zu Ehren der Legenden, die von ihnen erzählen, geschnitzt wurden. Einige Matoraner sprechen von Höhlen unter diesen Statuen, aber viele dieser Gerüchte sind unbestätigt. Sie stehen als Monument der Ehre und Hoffnung für die Toa."
 
 #. Key:	CodexPage_Rau_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Rau.Default__LocationEntry_Rau_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Rau.Default__LocationEntry_Rau_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Rau_Desc"
 msgid "The Kanohi Rau: the Noble Mask of Translation. This mask allows you to understand any written language. You can use this to translate matoran text that can be found all over the island of Mata Nui. Or, you could try deciphering the matoran text on your own if you know it well enough."
-msgstr "The Kanohi Rau: the Noble Mask of Translation. This mask allows you to understand any written language. You can use this to translate matoran text that can be found all over the island of Mata Nui. Or, you could try deciphering the matoran text on your own if you know it well enough."
+msgstr "Die Kanohi Rau: die edle Maske der Übersetzung. Diese Maske ermöglicht es dir, jede geschriebene Sprache zu verstehen. Du kannst sie benutzen, um matoranische Texte zu übersetzen, die überall auf der Insel Mata Nui zu finden sind. Oder du kannst versuchen, den matoranischen Text selbst zu entziffern, wenn du ihn gut genug kennst."
 
 #. Key:	CodexPage_Ruki_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ruki.Default__LocationEntry_Ruki_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ruki.Default__LocationEntry_Ruki_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Ruki_Desc"
 msgid "Small Rahi that can often be found swimming around the oceans of Ga-Wahi. They are peaceful creatures, and Matoran can often be found fishing for them. However, the rampant fishing that some Matoran do have caused some rare types of Ruki to become nearly extinct, making trading Ruki a heavily monitored activity in many Koros."
-msgstr "Small Rahi that can often be found swimming around the oceans of Ga-Wahi. They are peaceful creatures, and Matoran can often be found fishing for them. However, the rampant fishing that some Matoran do have caused some rare types of Ruki to become nearly extinct, making trading Ruki a heavily monitored activity in many Koros."
+msgstr "Kleine Rahi, die man oft in den Ozeanen von Ga-Wahi schwimmen sieht. Es sind friedliche Kreaturen und die Matoraner fischen oft nach ihnen. Allerdings hat der zügellose Fischfang, den einige Matoraner betreiben, dazu geführt, dass einige seltene Ruki-Arten fast ausgestorben sind, so dass der Handel mit Ruki in vielen Koros streng überwacht wird."
 
 #. Key:	CodexPage_Ruru_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ruru.Default__LocationEntry_Ruru_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ruru.Default__LocationEntry_Ruru_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Ruru_Desc"
 msgid "The Kanohi Ruru: the Noble Mask of Night Vision. This mask can provide a light to help you see in dark places. It’s especially useful if you find yourself lost at night, or if you need to make your way through a particularly dark cave."
-msgstr "The Kanohi Ruru: the Noble Mask of Night Vision. This mask can provide a light to help you see in dark places. It’s especially useful if you find yourself lost at night, or if you need to make your way through a particularly dark cave."
+msgstr "Die Kanohi Ruru: die edle Maske der Nachtsicht. Diese Maske kann dir ein Licht geben, das dir hilft, an dunklen Orten zu sehen. Sie ist besonders nützlich, wenn du dich nachts verirrt hast oder wenn du dir einen Weg durch eine besonders dunkle Höhle bahnen musst."
 
 #. Key:	CodexPage_SandTarakava_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_SandTarakava.Default__LocationEntry_SandTarakava_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_SandTarakava.Default__LocationEntry_SandTarakava_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_SandTarakava_Desc"
 msgid "These dangerous Rahi are known for their powerful forearms, which they use to swiftly attack their prey. The rare yellow variant is found primarily in Po-Wahi. The Sand Tarakava is considered to be especially rare by the Po-Matoran. Few have seen one, and even fewer have returned to tell the tale. They make up for being slightly slower with more powerful attacks, so it’s best to try and get out of the way instead of admiring them. "
-msgstr "These dangerous Rahi are known for their powerful forearms, which they use to swiftly attack their prey. The rare yellow variant is found primarily in Po-Wahi. The Sand Tarakava is considered to be especially rare by the Po-Matoran. Few have seen one, and even fewer have returned to tell the tale. They make up for being slightly slower with more powerful attacks, so it’s best to try and get out of the way instead of admiring them. "
+msgstr "Diese gefährlichen Rahi sind für ihre kräftigen Unterarme bekannt, mit denen sie ihre Beute schnell angreifen. Die seltene gelbe Variante ist vor allem in Po-Wahi zu finden. Der Sand-Tarakava gilt unter den Po-Matoranern als besonders selten. Nur wenige haben einen gesehen, und noch weniger sind zurückgekehrt, um davon zu berichten. Ihre etwas langsamere Lebensweise machen sie mit mächtigeren Angriffen wieder wett, weshalb man ihnen am besten aus dem Weg geht, anstatt sie zu bewundern. "
 
 #. Key:	CodexPage_StrangeCave_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_StrangeCave.Default__LocationEntry_StrangeCave_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_StrangeCave.Default__LocationEntry_StrangeCave_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_StrangeCave_Desc"
 msgid "An odd cave that appeared in the side of the Mangai Volcano. A certain Le-Matoran seems to have seen this place… but other than that it seems that nobody on the island knows this cave exists. All that is known for sure is that the presence of the Makuta is very, very strong here. I would turn back if I were you..."
-msgstr "An odd cave that appeared in the side of the Mangai Volcano. A certain Le-Matoran seems to have seen this place… but other than that it seems that nobody on the island knows this cave exists. All that is known for sure is that the presence of the Makuta is very, very strong here. I would turn back if I were you..."
+msgstr "Eine seltsame Höhle, die an der Seite des Mangai-Vulkans aufgetaucht ist. Ein gewisser Le-Matoraner scheint diesen Ort gesehen zu haben... aber abgesehen davon scheint niemand auf der Insel zu wissen, dass diese Höhle existiert. Das Einzige, was man mit Sicherheit weiß, ist, dass die Präsenz der Makuta hier sehr, sehr stark ist. Ich würde an eurer Stelle umkehren..."
 
 #. Key:	CodexPage_Ta-Wahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ta-Wahi.Default__LocationEntry_Ta-Wahi_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ta-Wahi.Default__LocationEntry_Ta-Wahi_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Ta-Wahi_Desc"
 msgid "A scorched and desolate landscape, this region is filled with lava which flows down from the Mangai volcano. Thrill-seeking Matoran can be found lava surfing here, while others farm cooled lava from which they craft tools. The charred forest is perhaps the most prominent area in the Wahi, acting as a constant, looming reminder of the power that Makuta has, and the ease at which he can take all that the Matoran hold dear."
-msgstr "A scorched and desolate landscape, this region is filled with lava which flows down from the Mangai volcano. Thrill-seeking Matoran can be found lava surfing here, while others farm cooled lava from which they craft tools. The charred forest is perhaps the most prominent area in the Wahi, acting as a constant, looming reminder of the power that Makuta has, and the ease at which he can take all that the Matoran hold dear."
+msgstr "Diese verbrannte und trostlose Landschaft ist mit Lava gefüllt, die vom Mangai-Vulkan herunterfließt. Nervenkitzel suchende Matoraner surfen hier auf der Lava, während andere die erkaltete Lava bewirtschaften und daraus Werkzeuge herstellen. Der verkohlte Wald ist vielleicht das auffälligste Gebiet in Wahi und erinnert ständig daran, welche Macht Makuta hat und wie leicht er sich alles nehmen kann, was den Matoranern lieb und teuer ist."
 
 #. Key:	CodexPage_Tahu_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Tahu.Default__LocationEntry_Tahu_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Tahu.Default__LocationEntry_Tahu_C.Location
 #: Description
-#, fuzzy
 msgctxt "CodexPage_Description,CodexPage_Tahu_Desc"
 msgid "Tahu is the fiery and headstrong Toa of fire. He is often the source of many of the disputes within his team of Toa, and can often come off as brash or disrespectful. However, in spite of his shortcomings, he is determined to help and protect the Matoran at any cost. Tahu is arguably the most recognizable bionicle set, with his mask, the Kanohi Hau, being an iconic piece of imagery. His elemental attack uses fire to propel you forward, allowing you to quickly get up close to attack an enemy."
-msgstr "Tahu is the fiery and headstrong Toa of fire. He is often the source of many of the disputes within his team of Toa, and can often come off as brash or disrespectful. However, in spite of his shortcomings, he is determined to help and protect the Matoran at any cost. Tahu is arguably the most recognizable bionicle set, with his mask, the Kanohi Hau, being an iconic piece of imagery. His elemental attack uses fire to propel you forward, allowing you to quickly get up close to attack an enemy."
+msgstr "Tahu ist der feurige und eigensinnige Toa des Feuers. Er ist oft die Ursache für viele Streitigkeiten innerhalb seines Toa-Teams und kann oft als forsch oder respektlos rüberkommen. Trotz seiner Unzulänglichkeiten ist er jedoch entschlossen, den Matoranern um jeden Preis zu helfen und sie zu schützen. Tahu ist wohl die bekannteste Bionicle-Figur, denn seine Maske, die Kanohi Hau, ist eine Ikone der Symbolik. Sein Elementarangriff nutzt Feuer, um dich vorwärts zu treiben, so dass du schnell nah an einen Feind herankommen kannst, um ihn anzugreifen."
 
 #. Key:	CodexPage_TahusLanding_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TahusLanding.Default__LocationEntry_TahusLanding_C.Location Description
@@ -778,7 +736,6 @@ msgstr "Whenua is the Turaga of Onu-Koro. He is among the wisest of all the Tura
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Docks.Default__LocationEntry_Docks_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Docks.Default__LocationEntry_Docks_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Docks"
 msgid "Docks"
 msgstr "Docks"
@@ -787,16 +744,14 @@ msgstr "Docks"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Drifts.Default__LocationEntry_Drifts_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Drifts.Default__LocationEntry_Drifts_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Drifts"
 msgid "The Drifts"
-msgstr "The Drifts"
+msgstr "Die Schneeverwehungen"
 
 #. Key:	CodexPage_GaKini
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaKini.Default__LocationEntry_GaKini_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaKini.Default__LocationEntry_GaKini_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_GaKini"
 msgid "Ga-Kini"
 msgstr "Ga-Kini"
@@ -805,7 +760,6 @@ msgstr "Ga-Kini"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Gakoro.Default__LocationEntry_Gakoro_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Gakoro.Default__LocationEntry_Gakoro_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Gakoro"
 msgid "Ga-Koro"
 msgstr "Ga-Koro"
@@ -814,25 +768,22 @@ msgstr "Ga-Koro"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GalisLanding.Default__LocationEntry_GalisLanding_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GalisLanding.Default__LocationEntry_GalisLanding_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_GalisLanding"
 msgid "Gali’s Landing"
-msgstr "Gali’s Landing"
+msgstr "Galis Landestelle"
 
 #. Key:	CodexPage_GaTemple
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaTemple.Default__LocationEntry_GaTemple_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaTemple.Default__LocationEntry_GaTemple_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_GaTemple"
 msgid "Temple of MataNui"
-msgstr "Temple of MataNui"
+msgstr "Tempel von Mata Nui"
 
 #. Key:	CodexPage_GaWahi
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaWahi.Default__LocationEntry_GaWahi_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaWahi.Default__LocationEntry_GaWahi_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_GaWahi"
 msgid "Ga-Wahi"
 msgstr "Ga-Wahi"
@@ -841,25 +792,22 @@ msgstr "Ga-Wahi"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GoldMask.Default__LocationEntry_GoldMask_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GoldMask.Default__LocationEntry_GoldMask_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_GoldMask"
 msgid "Gold Masks"
-msgstr "Gold Masks"
+msgstr "Goldene Masken"
 
 #. Key:	CodexPage_KiniNui
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KiniNui.Default__LocationEntry_KiniNui_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KiniNui.Default__LocationEntry_KiniNui_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_KiniNui"
 msgid "The Kini-Nui"
-msgstr "The Kini-Nui"
+msgstr "Der Kini-Nui"
 
 #. Key:	CodexPage_KoKini
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KoKini.Default__LocationEntry_KoKini_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KoKini.Default__LocationEntry_KoKini_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_KoKini"
 msgid "Ko-Kini"
 msgstr "Ko-Kini"
@@ -868,7 +816,6 @@ msgstr "Ko-Kini"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Kokoro.Default__LocationEntry_Kokoro_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Kokoro.Default__LocationEntry_Kokoro_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Kokoro"
 msgid "Ko-Koro"
 msgstr "Ko-Koro"
@@ -877,25 +824,22 @@ msgstr "Ko-Koro"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KopakasLanding.Default__LocationEntry_KopakasLanding_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KopakasLanding.Default__LocationEntry_KopakasLanding_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_KopakasLanding"
 msgid "Kopaka’s Landing"
-msgstr "Kopaka’s Landing"
+msgstr "Kopakas Landestelle"
 
 #. Key:	CodexPage_KoTower
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KoTower.Default__LocationEntry_KoTower_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KoTower.Default__LocationEntry_KoTower_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_KoTower"
 msgid "The Cold Tower"
-msgstr "The Cold Tower"
+msgstr "Der kalte Turm"
 
 #. Key:	CodexPage_KoWahi
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KoWahi.Default__LocationEntry_KoWahi_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KoWahi.Default__LocationEntry_KoWahi_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_KoWahi"
 msgid "Ko-Wahi"
 msgstr "Ko-Wahi"
@@ -904,7 +848,6 @@ msgstr "Ko-Wahi"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeKini.Default__LocationEntry_LeKini_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeKini.Default__LocationEntry_LeKini_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_LeKini"
 msgid "Le-Kini"
 msgstr "Le-Kini"
@@ -913,7 +856,6 @@ msgstr "Le-Kini"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Lekoro.Default__LocationEntry_Lekoro_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Lekoro.Default__LocationEntry_Lekoro_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Lekoro"
 msgid "Le-Koro"
 msgstr "Le-Koro"
@@ -922,16 +864,14 @@ msgstr "Le-Koro"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeTemple.Default__LocationEntry_LeTemple_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeTemple.Default__LocationEntry_LeTemple_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_LeTemple"
 msgid "The Le-Wahi Cave"
-msgstr "The Le-Wahi Cave"
+msgstr "Die Le-Wahi Höhle"
 
 #. Key:	CodexPage_LeWahi
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeWahi.Default__LocationEntry_LeWahi_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeWahi.Default__LocationEntry_LeWahi_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_LeWahi"
 msgid "Le-Wahi"
 msgstr "Le-Wahi"
@@ -940,34 +880,30 @@ msgstr "Le-Wahi"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LewasLanding.Default__LocationEntry_LewasLanding_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LewasLanding.Default__LocationEntry_LewasLanding_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_LewasLanding"
 msgid "Lewa’s Landing"
-msgstr "Lewa’s Landing"
+msgstr "Lewas Landestelle"
 
 #. Key:	CodexPage_Log
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Log.Default__LocationEntry_Log_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Log.Default__LocationEntry_Log_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Log"
 msgid "The Log"
-msgstr "The Log"
+msgstr "Der Baumstamm"
 
 #. Key:	CodexPage_MapFragments
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_MapFragments.Default__LocationEntry_MapFragments_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_MapFragments.Default__LocationEntry_MapFragments_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_MapFragments"
 msgid "Map Fragments"
-msgstr "Map Fragments"
+msgstr "Kartenfragmente"
 
 #. Key:	CodexPage_Matanui
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matanui.Default__LocationEntry_Matanui_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matanui.Default__LocationEntry_Matanui_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Matanui"
 msgid "Mata Nui"
 msgstr "Mata Nui"
@@ -976,7 +912,6 @@ msgstr "Mata Nui"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onu-Koro.Default__LocationEntry_Onu-Koro_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onu-Koro.Default__LocationEntry_Onu-Koro_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Onu-Koro"
 msgid "Onu-Koro"
 msgstr "Onu-Koro"
@@ -985,7 +920,6 @@ msgstr "Onu-Koro"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onu-Wahi.Default__LocationEntry_Onu-Wahi_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onu-Wahi.Default__LocationEntry_Onu-Wahi_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Onu-Wahi"
 msgid "Onu-Wahi"
 msgstr "Onu-Wahi"
@@ -994,16 +928,14 @@ msgstr "Onu-Wahi"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuasLanding.Default__LocationEntry_OnuasLanding_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuasLanding.Default__LocationEntry_OnuasLanding_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_OnuasLanding"
 msgid "Onua’s Landing"
-msgstr "Onua’s Landing"
+msgstr "Onuas Landestelle"
 
 #. Key:	CodexPage_OnuKini
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuKini.Default__LocationEntry_OnuKini_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuKini.Default__LocationEntry_OnuKini_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_OnuKini"
 msgid "Le-Kini"
 msgstr "Le-Kini"
@@ -1012,34 +944,30 @@ msgstr "Le-Kini"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuTemple.Default__LocationEntry_OnuTemple_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuTemple.Default__LocationEntry_OnuTemple_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_OnuTemple"
 msgid "The Onu-Wahi Temple"
-msgstr "The Onu-Wahi Temple"
+msgstr "Der Onu-Wahi Tempel"
 
 #. Key:	CodexPage_Overlook
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Overlook.Default__LocationEntry_Overlook_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Overlook.Default__LocationEntry_Overlook_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Overlook"
 msgid "The Overlook"
-msgstr "The Overlook"
+msgstr "Der Ausblick"
 
 #. Key:	CodexPage_PohatusLanding
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PohatusLanding.Default__LocationEntry_PohatusLanding_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PohatusLanding.Default__LocationEntry_PohatusLanding_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_PohatusLanding"
 msgid "Pohatu’s Landing"
-msgstr "Pohatu’s Landing"
+msgstr "Pohatus Landestelle"
 
 #. Key:	CodexPage_PoKini
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoKini.Default__LocationEntry_PoKini_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoKini.Default__LocationEntry_PoKini_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_PoKini"
 msgid "Po-Kini"
 msgstr "Po-Kini"
@@ -1048,7 +976,6 @@ msgstr "Po-Kini"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Pokoro.Default__LocationEntry_Pokoro_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Pokoro.Default__LocationEntry_Pokoro_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Pokoro"
 msgid "Po-Koro"
 msgstr "Po-Koro"
@@ -1057,16 +984,14 @@ msgstr "Po-Koro"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoTemple.Default__LocationEntry_PoTemple_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoTemple.Default__LocationEntry_PoTemple_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_PoTemple"
 msgid "The Hidden Temple"
-msgstr "The Hidden Temple"
+msgstr "Der versteckte Tempel"
 
 #. Key:	CodexPage_PoWahi
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoWahi.Default__LocationEntry_PoWahi_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoWahi.Default__LocationEntry_PoWahi_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_PoWahi"
 msgid "Po-Wahi"
 msgstr "Po-Wahi"
@@ -1075,25 +1000,22 @@ msgstr "Po-Wahi"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Quarry.Default__LocationEntry_Quarry_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Quarry.Default__LocationEntry_Quarry_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Quarry"
 msgid "The Quarry"
-msgstr "The Quarry"
+msgstr "Der Steinbruch"
 
 #. Key:	CodexPage_StrangeCave
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_StrangeCave.Default__LocationEntry_StrangeCave_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_StrangeCave.Default__LocationEntry_StrangeCave_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_StrangeCave"
 msgid "The Cave of Doom"
-msgstr "The Cave of Doom"
+msgstr "Die Höhle des Unheils"
 
 #. Key:	CodexPage_Ta-Wahi
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ta-Wahi.Default__LocationEntry_Ta-Wahi_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ta-Wahi.Default__LocationEntry_Ta-Wahi_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Ta-Wahi"
 msgid "Ta-Wahi"
 msgstr "Ta-Wahi"
@@ -1102,16 +1024,14 @@ msgstr "Ta-Wahi"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TahusLanding.Default__LocationEntry_TahusLanding_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TahusLanding.Default__LocationEntry_TahusLanding_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_TahusLanding"
 msgid "Tahu’s Landing"
-msgstr "Tahu’s Landing"
+msgstr "Tahus Landestelle"
 
 #. Key:	CodexPage_TaKini
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TaKini.Default__LocationEntry_TaKini_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TaKini.Default__LocationEntry_TaKini_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_TaKini"
 msgid "Ta-Kini"
 msgstr "Ta-Kini"
@@ -1120,7 +1040,6 @@ msgstr "Ta-Kini"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Takoro.Default__LocationEntry_Takoro_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Takoro.Default__LocationEntry_Takoro_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Takoro"
 msgid "Ta-Koro"
 msgstr "Ta-Koro"
@@ -1129,34 +1048,30 @@ msgstr "Ta-Koro"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TaTemple.Default__LocationEntry_TaTemple_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TaTemple.Default__LocationEntry_TaTemple_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_TaTemple"
 msgid "The Ta-wahi Shrine"
-msgstr "The Ta-wahi Shrine"
+msgstr "Der Ta-Wahi Schrein"
 
 #. Key:	CodexPage_TealTarakava
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TealTarakava.Default__LocationEntry_TealTarakava_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TealTarakava.Default__LocationEntry_TealTarakava_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_TealTarakava"
 msgid "River Tarakava"
-msgstr "River Tarakava"
+msgstr "Fluss-Tarakava"
 
 #. Key:	CodexPage_Telescope
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Telescope.Default__LocationEntry_Telescope_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Telescope.Default__LocationEntry_Telescope_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Telescope"
 msgid "The Great Telescope"
-msgstr "The Great Telescope"
+msgstr "Das große Teleskop"
 
 #. Key:	CodexPage_TiroCanyon
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TiroCanyon.Default__LocationEntry_TiroCanyon_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TiroCanyon.Default__LocationEntry_TiroCanyon_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_TiroCanyon"
 msgid "Tiro Canyon"
 msgstr "Tiro Canyon"
@@ -1165,7 +1080,6 @@ msgstr "Tiro Canyon"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Turaga.Default__LocationEntry_Turaga_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Turaga.Default__LocationEntry_Turaga_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Turaga"
 msgid "Turaga"
 msgstr "Turaga"
@@ -1174,49 +1088,43 @@ msgstr "Turaga"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ussal.Default__LocationEntry_Ussal_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ussal.Default__LocationEntry_Ussal_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Ussal"
 msgid "Ussal Crabs"
-msgstr "Ussal Crabs"
+msgstr "Ussal-Krabben"
 
 #. Key:	CodexPage_Volcano
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Volcano.Default__LocationEntry_Volcano_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Volcano.Default__LocationEntry_Volcano_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Volcano"
 msgid "The Mangai Volcano"
-msgstr "The Mangai Volcano"
+msgstr "Der Mangai Vulkan"
 
 #. Key:	CodexPage_Whagna
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Whagna.Default__LocationEntry_Whagna_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Whagna.Default__LocationEntry_Whagna_C.Location
 #: Name
-#, fuzzy
 msgctxt "CodexPage_Name,CodexPage_Whagna"
 msgid "Whagna Village"
-msgstr "Whagna Village"
+msgstr "Whagna Dorf"
 
 #. Key:	DL_Boat_SpeakerName
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_Boat.Default__DL_Boat_C.SpeakerName
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_Boat.Default__DL_Boat_C.SpeakerName
-#, fuzzy
 msgctxt "Dialogue_Name,DL_Boat_SpeakerName"
 msgid "DockManager"
-msgstr "DockManager"
+msgstr "Dockverwalter"
 
 #. Key:	DL_BoatManagerQuest_SpeakerName
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_BoatManagerQuest.Default__DL_BoatManagerQuest_C.SpeakerName
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_BoatManagerQuest.Default__DL_BoatManagerQuest_C.SpeakerName
-#, fuzzy
 msgctxt "Dialogue_Name,DL_BoatManagerQuest_SpeakerName"
 msgid "DockManager"
-msgstr "DockManager"
+msgstr "Dockverwalter"
 
 #. Key:	DL_OnewaTest_SpeakerName
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_OnewaTest.Default__DL_OnewaTest_C.SpeakerName
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_OnewaTest.Default__DL_OnewaTest_C.SpeakerName
-#, fuzzy
 msgctxt "Dialogue_Name,DL_OnewaTest_SpeakerName"
 msgid "Turaga Onewa"
 msgstr "Turaga Onewa"
@@ -1224,7 +1132,6 @@ msgstr "Turaga Onewa"
 #. Key:	DL_WhenuaTest_SpeakerName
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_WhenuaTest.Default__DL_WhenuaTest_C.SpeakerName
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_WhenuaTest.Default__DL_WhenuaTest_C.SpeakerName
-#, fuzzy
 msgctxt "Dialogue_Name,DL_WhenuaTest_SpeakerName"
 msgid "Turaga Whenua"
 msgstr "Turaga Whenua"
@@ -1280,18 +1187,16 @@ msgstr "Hmm... No I've heard of them some other way, I just can't remember how."
 #. Key:	DL_Ahkmou_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Ahkmou_PlayerResponse_1"
 msgid "Sure, let's trade."
-msgstr "Sure, let's trade."
+msgstr "Sicher, lass uns handeln."
 
 #. Key:	DL_Ahkmou_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Ahkmou_PlayerResponse_2"
 msgid "What is a Comet?"
-msgstr "What is a Comet?"
+msgstr "Was ist ein Komet?"
 
 #. Key:	DL_Akamar2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar2.Default__DL_Akamar2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1320,10 +1225,9 @@ msgstr "Right... Thank you... I think."
 #. Key:	DL_Akamar_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Akamar_PlayerResponse_1"
 msgid "Yes?"
-msgstr "Yes?"
+msgstr "Ja?"
 
 #. Key:	DL_Akamar_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1360,18 +1264,16 @@ msgstr "I'm sure you will find plenty of work in Po-koro when you get there, goo
 #. Key:	DL_AkamarBuddy_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_AkamarBuddy.Default__DL_AkamarBuddy_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_AkamarBuddy.Default__DL_AkamarBuddy_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_AkamarBuddy_PlayerResponse_2"
 msgid "I'm well thank you."
-msgstr "I'm well thank you."
+msgstr "Mir geht es gut, danke."
 
 #. Key:	DL_Akura_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Akura.Default__DL_Akura_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Akura.Default__DL_Akura_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Akura_PlayerResponse_1"
 msgid "*Listen*"
-msgstr "*Listen*"
+msgstr "*Zuhören*"
 
 #. Key:	DL_Akura_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Akura.Default__DL_Akura_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1448,10 +1350,9 @@ msgstr "What where you talking about, \"Equality\"?"
 #. Key:	DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_2"
 msgid "You're welcome."
-msgstr "You're welcome."
+msgstr "Gern geschehen."
 
 #. Key:	DL_Allknowingmatoran_Visions_2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Visions_2.Default__DL_Allknowingmatoran_Visions_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -16008,10 +15909,9 @@ msgstr "Huh? Oh, hello Toa... >snif<"
 #. Key:	DL_SadKolhiiPlayer2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayer2.Default__DL_SadKolhiiPlayer2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayer2.Default__DL_SadKolhiiPlayer2_C.DialogueText
-#, fuzzy
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayer2"
 msgid "No..."
-msgstr "No..."
+msgstr "Nein..."
 
 #. Key:	DL_SadKolhiiPlayerAlreadyHave
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerAlreadyHave.Default__DL_SadKolhiiPlayerAlreadyHave_C.DialogueText
@@ -21670,15 +21570,13 @@ msgstr "Are you just building this for fun?"
 #. Key:	Bye!
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
-#, fuzzy
 msgctxt "ST_DialogueGeneralLocalization,Bye!"
 msgid "Bye!"
-msgstr "Bye!"
+msgstr "Auf Wiedersehen!"
 
 #. Key:	Ellipsis
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
-#, fuzzy
 msgctxt "ST_DialogueGeneralLocalization,Ellipsis"
 msgid "..."
 msgstr "..."
@@ -21686,42 +21584,37 @@ msgstr "..."
 #. Key:	Goodbye
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
-#, fuzzy
 msgctxt "ST_DialogueGeneralLocalization,Goodbye"
 msgid "Goodbye."
-msgstr "Goodbye."
+msgstr "Auf Wiedersehen."
 
 #. Key:	GoodbyeElipsis
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
-#, fuzzy
 msgctxt "ST_DialogueGeneralLocalization,GoodbyeElipsis"
 msgid "Goodbye..."
-msgstr "Goodbye..."
+msgstr "Auf Wiedersehen..."
 
 #. Key:	HelloToaElipsis
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
-#, fuzzy
 msgctxt "ST_DialogueGeneralLocalization,HelloToaElipsis"
 msgid "Hello Toa..."
-msgstr "Hello Toa..."
+msgstr "Hallo Toa..."
 
 #. Key:	ISee
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
-#, fuzzy
 msgctxt "ST_DialogueGeneralLocalization,ISee"
 msgid "I see."
-msgstr "I see."
+msgstr "Ich verstehe."
 
 #. Key:	Isee...
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
-#, fuzzy
 msgctxt "ST_DialogueGeneralLocalization,Isee..."
 msgid "I see..."
-msgstr "I see..."
+msgstr "Ich verstehe..."
 
 #. Key:	Issomethingthematter
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -21742,18 +21635,16 @@ msgstr "It was no trouble."
 #. Key:	IWill
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
-#, fuzzy
 msgctxt "ST_DialogueGeneralLocalization,IWill"
 msgid "I will."
-msgstr "I will."
+msgstr "Werde ich."
 
 #. Key:	Leave
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
-#, fuzzy
 msgctxt "ST_DialogueGeneralLocalization,Leave"
 msgid "*Leave*"
-msgstr "*Leave*"
+msgstr "*Gehen*"
 
 #. Key:	Nothankyou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -21774,7 +21665,6 @@ msgstr "Perhaps another time."
 #. Key:	QuestionMarks
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
-#, fuzzy
 msgctxt "ST_DialogueGeneralLocalization,QuestionMarks"
 msgid "???"
 msgstr "???"
@@ -21782,7 +21672,6 @@ msgstr "???"
 #. Key:	RightArrow
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
-#, fuzzy
 msgctxt "ST_DialogueGeneralLocalization,RightArrow"
 msgid ">"
 msgstr ">"
@@ -21918,10 +21807,9 @@ msgstr "Cosmetics Bench"
 #. Key:	Gen_Door
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
-#, fuzzy
 msgctxt "ST_GeneralLocalization,Gen_Door"
 msgid "Door"
-msgstr "Door"
+msgstr "Tür"
 
 #. Key:	Gen_Interact
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -21934,10 +21822,9 @@ msgstr "Interact with {Facing}"
 #. Key:	Gen_Lever
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
-#, fuzzy
 msgctxt "ST_GeneralLocalization,Gen_Lever"
 msgid "Lever"
-msgstr "Lever"
+msgstr "Schalter"
 
 #. Key:	Gen_MakokiDesc
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -21990,18 +21877,16 @@ msgstr "Fragments of a First Mate's log from a ship named the 'Waikiru'"
 #. Key:	UIAutoSave
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
-#, fuzzy
 msgctxt "ST_Localization,UIAutoSave"
 msgid "Auto Save"
-msgstr "Auto Save"
+msgstr "Automatisches speichern"
 
 #. Key:	UIBack
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
-#, fuzzy
 msgctxt "ST_Localization,UIBack"
 msgid "Back"
-msgstr "Back"
+msgstr "Zurück"
 
 #. Key:	UIBindFirst
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22982,7 +22867,6 @@ msgstr "Meditation Point"
 #. Key:	Names_Metonu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Metonu"
 msgid "Metonu"
 msgstr "Metonu"
@@ -22990,7 +22874,6 @@ msgstr "Metonu"
 #. Key:	Names_Midak
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Midak"
 msgid "Midak"
 msgstr "Midak"
@@ -23030,7 +22913,6 @@ msgstr "Night Watch Guardsman"
 #. Key:	Names_Niidok
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Niidok"
 msgid "Niidok"
 msgstr "Niidok"
@@ -23038,7 +22920,6 @@ msgstr "Niidok"
 #. Key:	Names_Nixie
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Nixie"
 msgid "Nixie"
 msgstr "Nixie"
@@ -23046,7 +22927,6 @@ msgstr "Nixie"
 #. Key:	Names_Nobua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Nobua"
 msgid "Nobua"
 msgstr "Nobua"
@@ -23054,7 +22934,6 @@ msgstr "Nobua"
 #. Key:	Names_Nui-Jaga
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Nui-Jaga"
 msgid "Nui-Jaga"
 msgstr "Nui-Jaga"
@@ -23062,7 +22941,6 @@ msgstr "Nui-Jaga"
 #. Key:	Names_Nui-Rama
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Nui-Rama"
 msgid "Nui-Rama"
 msgstr "Nui-Rama"
@@ -23070,7 +22948,6 @@ msgstr "Nui-Rama"
 #. Key:	Names_Numai
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Numai"
 msgid "Numai"
 msgstr "Numai"
@@ -23078,7 +22955,6 @@ msgstr "Numai"
 #. Key:	Names_Nuno
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Nuno"
 msgid "Nuno"
 msgstr "Nuno"
@@ -23086,7 +22962,6 @@ msgstr "Nuno"
 #. Key:	Names_Nuparu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Nuparu"
 msgid "Nuparu"
 msgstr "Nuparu"
@@ -23102,7 +22977,6 @@ msgstr "Ocean Tarakava"
 #. Key:	Names_Okin
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Okin"
 msgid "Okin"
 msgstr "Okin"
@@ -23110,7 +22984,6 @@ msgstr "Okin"
 #. Key:	Names_Omak
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Omak"
 msgid "Omak"
 msgstr "Omak"
@@ -23118,7 +22991,6 @@ msgstr "Omak"
 #. Key:	Names_Onepu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Onepu"
 msgid "Onepu"
 msgstr "Onepu"
@@ -23126,7 +22998,6 @@ msgstr "Onepu"
 #. Key:	Names_Onu-Wahi
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Onu-Wahi"
 msgid "Onu-Wahi"
 msgstr "Onu-Wahi"
@@ -23134,7 +23005,6 @@ msgstr "Onu-Wahi"
 #. Key:	Names_Onua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Onua"
 msgid "Onua"
 msgstr "Onua"
@@ -23150,7 +23020,6 @@ msgstr "Outcast"
 #. Key:	Names_Pakari
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Pakari"
 msgid "Pakari"
 msgstr "Pakari"
@@ -23158,7 +23027,6 @@ msgstr "Pakari"
 #. Key:	Names_Parhi
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Parhi"
 msgid "Parhi"
 msgstr "Parhi"
@@ -23166,7 +23034,6 @@ msgstr "Parhi"
 #. Key:	Names_Pauri
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Pauri"
 msgid "Pauri"
 msgstr "Pauri"
@@ -23182,15 +23049,13 @@ msgstr "Plant Man"
 #. Key:	Names_Po-Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Po-Matoran"
 msgid "Po-Matoran"
-msgstr "Po-Matoran"
+msgstr "Po-Matoraner"
 
 #. Key:	Names_Po-Wahi
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Po-Wahi"
 msgid "Po-Wahi"
 msgstr "Po-Wahi"
@@ -23198,7 +23063,6 @@ msgstr "Po-Wahi"
 #. Key:	Names_Poari
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Poari"
 msgid "Poari"
 msgstr "Poari"
@@ -23206,7 +23070,6 @@ msgstr "Poari"
 #. Key:	Names_Podu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Podu"
 msgid "Podu"
 msgstr "Podu"
@@ -23214,7 +23077,6 @@ msgstr "Podu"
 #. Key:	Names_Poekae
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Poekae"
 msgid "Poekae"
 msgstr "Poekae"
@@ -23222,7 +23084,6 @@ msgstr "Poekae"
 #. Key:	Names_Pohatu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Pohatu"
 msgid "Pohatu"
 msgstr "Pohatu"
@@ -23238,7 +23099,6 @@ msgstr "Repo Nui-Jaga"
 #. Key:	Names_Rau
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Rau"
 msgid "Rau"
 msgstr "Rau"
@@ -23246,7 +23106,6 @@ msgstr "Rau"
 #. Key:	Names_Reka
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Reka"
 msgid "Reka"
 msgstr "Reka"
@@ -23262,7 +23121,6 @@ msgstr "River Tarakava"
 #. Key:	Names_RukiFish
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_RukiFish"
 msgid "Ruki"
 msgstr "Ruki"
@@ -23270,7 +23128,6 @@ msgstr "Ruki"
 #. Key:	Names_Ruru
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Ruru"
 msgid "Ruru"
 msgstr "Ruru"
@@ -23278,7 +23135,6 @@ msgstr "Ruru"
 #. Key:	Names_SandTarakava
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_SandTarakava"
 msgid "Sand Tarakava"
 msgstr "Sand Tarakava"
@@ -23286,15 +23142,13 @@ msgstr "Sand Tarakava"
 #. Key:	Names_ScaredMatoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_ScaredMatoran"
 msgid "Scared Matoran"
-msgstr "Scared Matoran"
+msgstr "Verängstigter Matoraner"
 
 #. Key:	Names_Seltra
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Seltra"
 msgid "Seltra"
 msgstr "Seltra"
@@ -23302,10 +23156,9 @@ msgstr "Seltra"
 #. Key:	Names_ShadowToa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_ShadowToa"
 msgid "Shadow {ToaName}"
-msgstr "Shadow {ToaName}"
+msgstr "Schatten- {ToaName}"
 
 #. Key:	Names_SingingMiner
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -23366,15 +23219,13 @@ msgstr "Ta-koro Guardsman Daelen"
 #. Key:	Names_Ta-Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Ta-Matoran"
 msgid "Ta-Matoran"
-msgstr "Ta-Matoran"
+msgstr "Ta-Matoraner"
 
 #. Key:	Names_Tafall
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Tafall"
 msgid "Tafall"
 msgstr "Tafall"
@@ -23382,7 +23233,6 @@ msgstr "Tafall"
 #. Key:	Names_Tahu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Tahu"
 msgid "Tahu"
 msgstr "Tahu"
@@ -23390,7 +23240,6 @@ msgstr "Tahu"
 #. Key:	Names_Taipu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Taipu"
 msgid "Taipu"
 msgstr "Taipu"
@@ -23398,7 +23247,6 @@ msgstr "Taipu"
 #. Key:	Names_Takar
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Takar"
 msgid "Takar"
 msgstr "Takar"
@@ -23406,7 +23254,6 @@ msgstr "Takar"
 #. Key:	Names_Takua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Takua"
 msgid "Takua"
 msgstr "Takua"
@@ -23414,7 +23261,6 @@ msgstr "Takua"
 #. Key:	Names_Talok
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Talok"
 msgid "Talok"
 msgstr "Talok"
@@ -23422,7 +23268,6 @@ msgstr "Talok"
 #. Key:	Names_Tamaru
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Tamaru"
 msgid "Tamaru"
 msgstr "Tamaru"
@@ -23430,7 +23275,6 @@ msgstr "Tamaru"
 #. Key:	Names_Taphal
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Taphal"
 msgid "Taphal"
 msgstr "Taphal"
@@ -23462,7 +23306,6 @@ msgstr "The Environmentalist"
 #. Key:	Names_Thuei
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Thuei"
 msgid "Thuei"
 msgstr "Thuei"
@@ -23470,7 +23313,6 @@ msgstr "Thuei"
 #. Key:	Names_Toa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Toa"
 msgid "Toa"
 msgstr "Toa"
@@ -23478,7 +23320,6 @@ msgstr "Toa"
 #. Key:	Names_Toka
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Toka"
 msgid "Toka"
 msgstr "Toka"
@@ -23486,15 +23327,13 @@ msgstr "Toka"
 #. Key:	Names_Trader
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Trader"
 msgid "Trader"
-msgstr "Trader"
+msgstr "Händler"
 
 #. Key:	Names_TuragaMatau
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_TuragaMatau"
 msgid "Turaga Matau"
 msgstr "Turaga Matau"
@@ -23502,7 +23341,6 @@ msgstr "Turaga Matau"
 #. Key:	Names_TuragaNokama
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_TuragaNokama"
 msgid "Turaga Nokama"
 msgstr "Turaga Nokama"
@@ -23510,7 +23348,6 @@ msgstr "Turaga Nokama"
 #. Key:	Names_TuragaNuju
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_TuragaNuju"
 msgid "Turaga Nuju"
 msgstr "Turaga Nuju"
@@ -23518,7 +23355,6 @@ msgstr "Turaga Nuju"
 #. Key:	Names_TuragaOnewa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_TuragaOnewa"
 msgid "Turaga Onewa"
 msgstr "Turaga Onewa"
@@ -23526,7 +23362,6 @@ msgstr "Turaga Onewa"
 #. Key:	Names_TuragaVakama
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_TuragaVakama"
 msgid "Turaga Vakama"
 msgstr "Turaga Vakama"
@@ -23534,7 +23369,6 @@ msgstr "Turaga Vakama"
 #. Key:	Names_TuragaWhenua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_TuragaWhenua"
 msgid "Turaga Whenua"
 msgstr "Turaga Whenua"
@@ -23542,7 +23376,6 @@ msgstr "Turaga Whenua"
 #. Key:	Names_Ukkar
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Ukkar"
 msgid "Ukkar"
 msgstr "Ukkar"
@@ -23550,7 +23383,6 @@ msgstr "Ukkar"
 #. Key:	Names_Ussal
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Ussal"
 msgid "Ussal"
 msgstr "Ussal"
@@ -23558,10 +23390,9 @@ msgstr "Ussal"
 #. Key:	Names_UssalOwner
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_UssalOwner"
 msgid "Ussal Owner"
-msgstr "Ussal Owner"
+msgstr "Ussal Besitzer"
 
 #. Key:	Names_UssalWaxer
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -23574,7 +23405,6 @@ msgstr "Ussal Waxer"
 #. Key:	Names_Yuma
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Yuma"
 msgid "Yuma"
 msgstr "Yuma"
@@ -24036,18 +23866,16 @@ msgstr "Music Frequency:"
 #. Key:	PausedAudioSettings_MusicVolume
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.Music.Text
 #: /Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.Music.Text
-#, fuzzy
 msgctxt "UIText,PausedAudioSettings_MusicVolume"
 msgid "Music"
-msgstr "Music"
+msgstr "Musik"
 
 #. Key:	PausedAudioSettings_SFXVolume
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.SFX.Text
 #: /Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.SFX.Text
-#, fuzzy
 msgctxt "UIText,PausedAudioSettings_SFXVolume"
 msgid "Sound Effects"
-msgstr "Sound Effects"
+msgstr "Soundeffekte"
 
 #. Key:	Dead_LoadPreviousSave
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Dead.Widget_Dead_C:WidgetTree.TextBlock_3.Text
@@ -24124,26 +23952,23 @@ msgstr "Key Binding"
 #. Key:	Pause_LoadButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_0.Text
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_0.Text
-#, fuzzy
 msgctxt "UIText_Button,Pause_LoadButton"
 msgid "Load"
-msgstr "Load"
+msgstr "Laden"
 
 #. Key:	Pause_ResumeButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextResume.Text
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextResume.Text
-#, fuzzy
 msgctxt "UIText_Button,Pause_ResumeButton"
 msgid "Resume"
-msgstr "Resume"
+msgstr "Fortsetzen"
 
 #. Key:	Pause_SaveButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_1.Text
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_1.Text
-#, fuzzy
 msgctxt "UIText_Button,Pause_SaveButton"
 msgid "Save"
-msgstr "Save"
+msgstr "Speichern"
 
 #. Key:	Pause_StatsButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_5.Text
