@@ -381,8 +381,8 @@ msgstr "Nokama is the Turaga of Ga-Koro. Like her village, she is often seen as 
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiJaga.Default__LocationEntry_NuiJaga_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiJaga.Default__LocationEntry_NuiJaga_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_NuiJaga_Desc"
-msgid "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui,. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
-msgstr "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui,. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
+msgid "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
+msgstr "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
 
 #. Key:	CodexPage_NuiRama_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiRama.Default__LocationEntry_NuiRama_C.Location Description
