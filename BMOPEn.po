@@ -437,8 +437,8 @@ msgstr "A strange vessel that has washed up onto the beach... nobody on the isla
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuKini.Default__LocationEntry_OnuKini_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuKini.Default__LocationEntry_OnuKini_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_OnuKini_Desc"
-msgid "The Onu-Kini is the temple of Earth. While it lies on the surface of Onu-Wahi, the temple is still subject to the frequent tremors that occur in the caves that occur beneath the surface. The temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta."
-msgstr "The Onu-Kini is the temple of Earth. While it lies on the surface of Onu-Wahi, the temple is still subject to the frequent tremors that occur in the caves that occur beneath the surface. The temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta."
+msgid "The Onu-Kini is the temple of Earth. While it lies on the surface of Onu-Wahi, the temple is still subject to the frequent tremors that occur in the caves beneath the surface. The temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta."
+msgstr "The Onu-Kini is the temple of Earth. While it lies on the surface of Onu-Wahi, the temple is still subject to the frequent tremors that occur in the caves beneath the surface. The temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta."
 
 #. Key:	CodexPage_OnuTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuTemple.Default__LocationEntry_OnuTemple_C.Location Description
