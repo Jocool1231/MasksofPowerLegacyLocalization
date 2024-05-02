@@ -346,8 +346,8 @@ msgstr "Matau is the Turaga of Le-Koro. Known as the Singer of Le-Koro by the Le
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matoran.Default__LocationEntry_Matoran_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matoran.Default__LocationEntry_Matoran_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_Matoran_Desc"
-msgid "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
-msgstr "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
+msgid "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island. They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
+msgstr "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island. They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
 
 #. Key:	CodexPage_MeditationPoints_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_MeditationPoints.Default__LocationEntry_MeditationPoints_C.Location Description
