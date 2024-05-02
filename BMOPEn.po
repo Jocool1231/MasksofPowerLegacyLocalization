@@ -332,8 +332,8 @@ msgstr "The island of Mata Nui. Named after the Great Spirit Mata Nui, this isla
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matatu.Default__LocationEntry_Matatu_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matatu.Default__LocationEntry_Matatu_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_Matatu_Desc"
-msgid "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull nearby items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
-msgstr "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull nearby items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
+msgid "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
+msgstr "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
 
 #. Key:	CodexPage_Matau_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matau.Default__LocationEntry_Matau_C.Location Description
