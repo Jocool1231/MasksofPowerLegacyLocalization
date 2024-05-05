@@ -703,8 +703,8 @@ msgstr "Gali’s Landing"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaTemple.Default__LocationEntry_GaTemple_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaTemple.Default__LocationEntry_GaTemple_C.Location Name
 msgctxt "CodexPage_Name,CodexPage_GaTemple"
-msgid "Temple of MataNui"
-msgstr "Temple of MataNui"
+msgid "Temple of Mata Nui"
+msgstr "Temple of Mata Nui"
 
 #. Key:	CodexPage_GaWahi
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaWahi.Default__LocationEntry_GaWahi_C.Location Name
