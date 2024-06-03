@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2024-04-22 21:40\n"
-"PO-Revision-Date: 2024-05-05 19:26+0200\n"
+"PO-Revision-Date: 2024-06-02 01:08+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. Key:	CodexPage_Akaku_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Akaku.Default__LocationEntry_Akaku_C.Location Description
@@ -2196,42 +2196,37 @@ msgstr "Hebe den Damm auf."
 #. Key:	DL_DamMaster6_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamMaster6.Default__DL_DamMaster6_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamMaster6.Default__DL_DamMaster6_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_DamMaster6_PlayerResponse_2"
 msgid "I suppose you could leave it as is."
-msgstr "I suppose you could leave it as is."
+msgstr "Ich nehme an, du könntest es so lassen, wie es ist."
 
 #. Key:	DL_DamMasterLeave_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamMasterLeave.Default__DL_DamMasterLeave_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamMasterLeave.Default__DL_DamMasterLeave_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_DamMasterLeave_PlayerResponse_1"
 msgid "In future don't do this in secret, and less dangerously please."
-msgstr "In future don't do this in secret, and less dangerously please."
+msgstr "Tun so etwas in der Zukunft nicht mehr im Geheimen und bitte weniger gefährlich."
 
 #. Key:	DL_DamMasterLift_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamMasterLift.Default__DL_DamMasterLift_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamMasterLift.Default__DL_DamMasterLift_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_DamMasterLift_PlayerResponse_1"
 msgid "But the village will be very greatful I'm sure."
-msgstr "But the village will be very greatful I'm sure."
+msgstr "Aber das Dorf wird sehr dankbar sein, da bin ich mir sicher."
 
 #. Key:	DL_DamQuestFishing_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestFishing.Default__DL_DamQuestFishing_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestFishing.Default__DL_DamQuestFishing_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_DamQuestFishing_PlayerResponse_1"
 msgid "Why are you still here then?"
-msgstr "Why are you still here then?"
+msgstr "Warum bist du dann noch hier?"
 
 #. Key:	DL_DamQuestIntro2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestIntro2.Default__DL_DamQuestIntro2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestIntro2.Default__DL_DamQuestIntro2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_DamQuestIntro2_PlayerResponse_1"
 msgid "What's wrong little one?"
-msgstr "What's wrong little one?"
+msgstr "Was ist los, Kleiner?"
 
 #. Key:	DL_DamQuestIntro3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestIntro3.Default__DL_DamQuestIntro3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2243,258 +2238,226 @@ msgstr "Früher?"
 #. Key:	DL_DamQuestIntro4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestIntro4.Default__DL_DamQuestIntro4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestIntro4.Default__DL_DamQuestIntro4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_DamQuestIntro4_PlayerResponse_1"
 msgid "Why are you still here then?"
-msgstr "Why are you still here then?"
+msgstr "Warum bist du dann noch hier?"
 
 #. Key:	DL_DamQuestIntro4_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestIntro4.Default__DL_DamQuestIntro4_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestIntro4.Default__DL_DamQuestIntro4_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_DamQuestIntro4_PlayerResponse_2"
 msgid "Why didn't you just start fishing down in the ocean?"
-msgstr "Why didn't you just start fishing down in the ocean?"
+msgstr "Warum hast du nicht einfach angefangen, unten am Meer zu fischen?"
 
 #. Key:	DL_DamQuestIntro_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestIntro.Default__DL_DamQuestIntro_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestIntro.Default__DL_DamQuestIntro_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_DamQuestIntro_PlayerResponse_1"
 msgid "Of the fish?"
-msgstr "Of the fish?"
+msgstr "Von den Fischen?"
 
 #. Key:	DL_DamQuestIntro_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestIntro.Default__DL_DamQuestIntro_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestIntro.Default__DL_DamQuestIntro_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_DamQuestIntro_PlayerResponse_2"
 msgid "*Quietly walk away*"
-msgstr "*Quietly walk away*"
+msgstr "*Geh leise weg*"
 
 #. Key:	DL_DamQuestMyth_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestMyth.Default__DL_DamQuestMyth_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestMyth.Default__DL_DamQuestMyth_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_DamQuestMyth_PlayerResponse_1"
 msgid "Thank you for the warning, "
-msgstr "Thank you for the warning, "
+msgstr "Danke für die Warnung, "
 
 #. Key:	DL_DamQuestStillHere_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestStillHere.Default__DL_DamQuestStillHere_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestStillHere.Default__DL_DamQuestStillHere_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_DamQuestStillHere_PlayerResponse_1"
 msgid "You started the town?"
-msgstr "You started the town?"
+msgstr "Du hast die Stadt gegründet?"
 
 #. Key:	DL_GALetterQuest1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GALetterQuest1_PlayerResponse_1"
 msgid "Yes, of course."
-msgstr "Yes, of course."
+msgstr "Ja natürlich."
 
 #. Key:	DL_GALetterQuest1_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuest1.Default__DL_GALetterQuest1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GALetterQuest1_PlayerResponse_2"
 msgid "Sorry, not now."
-msgstr "Sorry, not now."
+msgstr "Tut mir leid, nicht jetzt."
 
 #. Key:	DL_GALetterQuestExpos_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GALetterQuestExpos_PlayerResponse_1"
 msgid "Sure, but what's in the letter?"
-msgstr "Sure, but what's in the letter?"
+msgstr "Sicher, aber was steht in dem Brief?"
 
 #. Key:	DL_GALetterQuestExpos_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestExpos.Default__DL_GALetterQuestExpos_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GALetterQuestExpos_PlayerResponse_2"
 msgid "I can't, not right now."
-msgstr "I can't, not right now."
+msgstr "Ich kann nicht im Moment."
 
 #. Key:	DL_GALetterQuestHewkii_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GALetterQuestHewkii_PlayerResponse_1"
 msgid "Good, thank you!"
-msgstr "Good, thank you!"
+msgstr "Gut, danke!"
 
 #. Key:	DL_GALetterQuestHewkii_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/LetterToHewkii/DL_GALetterQuestHewkii.Default__DL_GALetterQuestHewkii_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GALetterQuestHewkii_PlayerResponse_2"
 msgid "Here, it's a letter from Macku."
-msgstr "Here, it's a letter from Macku."
+msgstr "Hier ist es ein Brief von Macku."
 
 #. Key:	DL_GeneralKokoranbyprotopool_2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_2.Default__DL_GeneralKokoranbyprotopool_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_2.Default__DL_GeneralKokoranbyprotopool_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GeneralKokoranbyprotopool_2_PlayerResponse_1"
 msgid "Fair Enough."
-msgstr "Fair Enough."
+msgstr "Na gut."
 
 #. Key:	DL_GeneralKokoranbyprotopool_3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_3.Default__DL_GeneralKokoranbyprotopool_3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_3.Default__DL_GeneralKokoranbyprotopool_3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GeneralKokoranbyprotopool_3_PlayerResponse_1"
 msgid "Why are you lying by this Protodermis pool?"
-msgstr "Why are you lying by this Protodermis pool?"
+msgstr "Warum liegst du an diesem Protodermis-Pool?"
 
 #. Key:	DL_GeneralKokoranbyprotopool_3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_3.Default__DL_GeneralKokoranbyprotopool_3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_3.Default__DL_GeneralKokoranbyprotopool_3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GeneralKokoranbyprotopool_3_PlayerResponse_2"
 msgid "Well, thank you."
-msgstr "Well, thank you."
+msgstr "Nun, danke."
 
 #. Key:	DL_GeneralKokoranbyprotopool_4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_4.Default__DL_GeneralKokoranbyprotopool_4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_4.Default__DL_GeneralKokoranbyprotopool_4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GeneralKokoranbyprotopool_4_PlayerResponse_1"
 msgid "Hmm, I see."
-msgstr "Hmm, I see."
+msgstr "Hmm, ich verstehe."
 
 #. Key:	DL_GeneralKokoranbyprotopool_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool.Default__DL_GeneralKokoranbyprotopool_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool.Default__DL_GeneralKokoranbyprotopool_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GeneralKokoranbyprotopool_PlayerResponse_1"
 msgid "What's the device in that hut?"
-msgstr "What's the device in that hut?"
+msgstr "Was ist das für ein Gerät in dieser Hütte?"
 
 #. Key:	DL_GeneralKokoranbyprotopool_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool.Default__DL_GeneralKokoranbyprotopool_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool.Default__DL_GeneralKokoranbyprotopool_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GeneralKokoranbyprotopool_PlayerResponse_2"
 msgid "Why are you lying by this Protodermis pool?"
-msgstr "Why are you lying by this Protodermis pool?"
+msgstr "Warum liegst du an diesem Protodermis-Pool?"
 
 #. Key:	DL_GeneralKokoranbyprotopool_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool.Default__DL_GeneralKokoranbyprotopool_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool.Default__DL_GeneralKokoranbyprotopool_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GeneralKokoranbyprotopool_PlayerResponse_3"
 msgid "Well, thank you."
-msgstr "Well, thank you."
+msgstr "Nun, danke."
 
 #. Key:	DL_GeneralKokoranGreeting_4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranGreeting_4.Default__DL_GeneralKokoranGreeting_4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranGreeting_4.Default__DL_GeneralKokoranGreeting_4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GeneralKokoranGreeting_4_PlayerResponse_1"
 msgid "What's gone?"
-msgstr "What's gone?"
+msgstr "Was ist weg?"
 
 #. Key:	DL_GiveHat1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_GiveHat1.Default__DL_GiveHat1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_GiveHat1.Default__DL_GiveHat1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GiveHat1_PlayerResponse_1"
 msgid "Hmm, Interesting. What are the hats for though?"
-msgstr "Hmm, Interesting. What are the hats for though?"
+msgstr "Hmm, interessant. Aber wofür sind die Hüte?"
 
 #. Key:	DL_GiveHat2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_GiveHat2.Default__DL_GiveHat2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_GiveHat2.Default__DL_GiveHat2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GiveHat2_PlayerResponse_1"
 msgid "Sure, I'll have one!"
-msgstr "Sure, I'll have one!"
+msgstr "Klar, ich nehm einen!"
 
 #. Key:	DL_GiveHat2_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_GiveHat2.Default__DL_GiveHat2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_GiveHat2.Default__DL_GiveHat2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GiveHat2_PlayerResponse_2"
 msgid "No thank you, not right now."
-msgstr "No thank you, not right now."
+msgstr "Nein danke, nicht jetzt."
 
 #. Key:	DL_GiveHat_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_GiveHat.Default__DL_GiveHat_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_GiveHat.Default__DL_GiveHat_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GiveHat_PlayerResponse_1"
 msgid "What's happening today?"
-msgstr "What's happening today?"
+msgstr "Was passiert heute?"
 
 #. Key:	DL_GreavingMatoran1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran1.Default__DL_GreavingMatoran1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran1.Default__DL_GreavingMatoran1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GreavingMatoran1_PlayerResponse_1"
 msgid "Why are you out here?"
-msgstr "Why are you out here?"
+msgstr "Warum bist du hier draußen?"
 
 #. Key:	DL_GreavingMatoran1_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran1.Default__DL_GreavingMatoran1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran1.Default__DL_GreavingMatoran1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GreavingMatoran1_PlayerResponse_2"
 msgid "I don't mean to disturb you."
-msgstr "I don't mean to disturb you."
+msgstr "Ich will dich nicht stören."
 
 #. Key:	DL_GreavingMatoran2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran2.Default__DL_GreavingMatoran2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran2.Default__DL_GreavingMatoran2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GreavingMatoran2_PlayerResponse_1"
 msgid "I found your note, you haven't forgiven him for leaving?"
-msgstr "I found your note, you haven't forgiven him for leaving?"
+msgstr "Ich habe deine Notiz gefunden, du hast ihm nicht verziehen, dass er gegangen ist?"
 
 #. Key:	DL_GreavingMatoran2_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran2.Default__DL_GreavingMatoran2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran2.Default__DL_GreavingMatoran2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GreavingMatoran2_PlayerResponse_2"
 msgid "Sorry, I didn't mean to disturb you."
-msgstr "Sorry, I didn't mean to disturb you."
+msgstr "Tut mir leid, ich wollte nicht stören."
 
 #. Key:	DL_GreavingMatoran3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GreavingMatoran3_PlayerResponse_1"
 msgid "I'll listen."
-msgstr "I'll listen."
+msgstr "Ich höre."
 
 #. Key:	DL_GreavingMatoran3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GreavingMatoran3_PlayerResponse_2"
 msgid "I'm sorry but I must be going."
-msgstr "I'm sorry but I must be going."
+msgstr "Tut mir leid, aber ich muss gehen."
 
 #. Key:	DL_GreavingMatoran8_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran8.Default__DL_GreavingMatoran8_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran8.Default__DL_GreavingMatoran8_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GreavingMatoran8_PlayerResponse_1"
 msgid "I am so sorry."
-msgstr "I am so sorry."
+msgstr "Es tut mir so leid."
 
 #. Key:	DL_GreavingMatoran9_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran9.Default__DL_GreavingMatoran9_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran9.Default__DL_GreavingMatoran9_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GreavingMatoran9_PlayerResponse_1"
 msgid "Makuta and his rahi are merciless."
-msgstr "Makuta and his rahi are merciless."
+msgstr "Makuta und seine Rahi sind gnadenlos."
 
 #. Key:	DL_Grinch1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_Grinch1.Default__DL_Grinch1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2507,42 +2470,37 @@ msgstr "Well, I'm sorry you don't like the festivities, but it's not like you ca
 #. Key:	DL_Grinch2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_Grinch2.Default__DL_Grinch2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_Grinch2.Default__DL_Grinch2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Grinch2_PlayerResponse_1"
 msgid "Goodbye?"
-msgstr "Goodbye?"
+msgstr "Auf Wiedersehen?"
 
 #. Key:	DL_Grinch_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_Grinch.Default__DL_Grinch_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_Grinch.Default__DL_Grinch_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Grinch_PlayerResponse_1"
 msgid "Why are you not celebrating?"
-msgstr "Why are you not celebrating?"
+msgstr "Warum feierst du nicht?"
 
 #. Key:	DL_Guard1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard1.Default__DL_Guard1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard1.Default__DL_Guard1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Guard1_PlayerResponse_1"
 msgid "... I'm a Toa."
-msgstr "... I'm a Toa."
+msgstr "... Ich bin ein Toa."
 
 #. Key:	DL_Guard2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard2.Default__DL_Guard2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard2.Default__DL_Guard2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Guard2_PlayerResponse_1"
 msgid "I'm double your height."
-msgstr "I'm double your height."
+msgstr "Ich bin doppelt so groß wie du."
 
 #. Key:	DL_Guard4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard4.Default__DL_Guard4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard4.Default__DL_Guard4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Guard4_PlayerResponse_1"
 msgid "I'm sure I can manage it."
-msgstr "I'm sure I can manage it."
+msgstr "Ich bin sicher, dass ich es schaffen kann."
 
 #. Key:	DL_GuardCamp_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_GuardCamp.Default__DL_GuardCamp_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2555,18 +2513,16 @@ msgstr "This camp isn't very \"forward\"."
 #. Key:	DL_GuardCamp_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_GuardCamp.Default__DL_GuardCamp_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_GuardCamp.Default__DL_GuardCamp_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GuardCamp_PlayerResponse_2"
 msgid "Where is everyone?"
-msgstr "Where is everyone?"
+msgstr "Wo sind alle hin?"
 
 #. Key:	DL_GuardCampForward_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_GuardCampForward.Default__DL_GuardCampForward_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_GuardCampForward.Default__DL_GuardCampForward_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GuardCampForward_PlayerResponse_1"
 msgid "Where is everyone?"
-msgstr "Where is everyone?"
+msgstr "Wo sind alle hin?"
 
 #. Key:	DL_GuardCampWhere_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_GuardCampWhere.Default__DL_GuardCampWhere_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2579,34 +2535,30 @@ msgstr "This camp isn't very \"forward\"."
 #. Key:	DL_GuardCampWhere_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_GuardCampWhere.Default__DL_GuardCampWhere_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_GuardCampWhere.Default__DL_GuardCampWhere_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GuardCampWhere_PlayerResponse_2"
 msgid "Hmm, alright."
-msgstr "Hmm, alright."
+msgstr "Hmm, in Ordnung."
 
 #. Key:	DL_GuardPicking2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPicking2.Default__DL_GuardPicking2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPicking2.Default__DL_GuardPicking2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GuardPicking2_PlayerResponse_1"
 msgid "I see, carry on."
-msgstr "I see, carry on."
+msgstr "Ich verstehe. Weiter."
 
 #. Key:	DL_GuardPicking_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPicking.Default__DL_GuardPicking_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPicking.Default__DL_GuardPicking_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GuardPicking_PlayerResponse_1"
 msgid "What's the matter?"
-msgstr "What's the matter?"
+msgstr "Was ist los?"
 
 #. Key:	DL_GuardPickingSheilds1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPickingSheilds1.Default__DL_GuardPickingSheilds1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPickingSheilds1.Default__DL_GuardPickingSheilds1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GuardPickingSheilds1_PlayerResponse_1"
 msgid "Very funny."
-msgstr "Very funny."
+msgstr "Sehr witzig."
 
 #. Key:	DL_GuardPickingSheilds_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPickingSheilds.Default__DL_GuardPickingSheilds_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2619,90 +2571,79 @@ msgstr "Uhh, those are placks."
 #. Key:	DL_GuardPickingSheilds_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPickingSheilds.Default__DL_GuardPickingSheilds_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPickingSheilds.Default__DL_GuardPickingSheilds_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GuardPickingSheilds_PlayerResponse_2"
 msgid "They all just look red to me."
-msgstr "They all just look red to me."
+msgstr "Sie sehen für mich alle rot aus."
 
 #. Key:	DL_GuardPickingSheildsTahu_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPickingSheildsTahu.Default__DL_GuardPickingSheildsTahu_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPickingSheildsTahu.Default__DL_GuardPickingSheildsTahu_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_GuardPickingSheildsTahu_PlayerResponse_1"
 msgid "They're the same size as you..."
-msgstr "They're the same size as you..."
+msgstr "Sie haben die gleiche Größe wie du..."
 
 #. Key:	DL_Hahli1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli1.Default__DL_Hahli1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli1.Default__DL_Hahli1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Hahli1_PlayerResponse_1"
 msgid "I'm sorry, my memory is a little fuzzy who are you?"
-msgstr "I'm sorry, my memory is a little fuzzy who are you?"
+msgstr "Tut mir leid, mein Gedächtnis ist ein wenig verschwommen, wer bist du?"
 
 #. Key:	DL_Hahli2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli2.Default__DL_Hahli2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli2.Default__DL_Hahli2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Hahli2_PlayerResponse_1"
 msgid "Greetings Hahli, what is this you said about a Turaga?"
-msgstr "Greetings Hahli, what is this you said about a Turaga?"
+msgstr "Grüße Hahli, was hast du über einen Turaga gesagt?"
 
 #. Key:	DL_Hahli3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli3.Default__DL_Hahli3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli3.Default__DL_Hahli3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Hahli3_PlayerResponse_1"
 msgid "Well that's not good. Any way I can help?"
-msgstr "Well that's not good. Any way I can help?"
+msgstr "Nun, das ist nicht gut. Wie kann ich helfen?"
 
 #. Key:	DL_Hahli3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli3.Default__DL_Hahli3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli3.Default__DL_Hahli3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Hahli3_PlayerResponse_2"
 msgid "Well that's not good. Any way I can help?"
-msgstr "Well that's not good. Any way I can help?"
+msgstr "Nun, das ist nicht gut. Wie kann ich helfen?"
 
 #. Key:	DL_Hahli4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli4.Default__DL_Hahli4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli4.Default__DL_Hahli4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Hahli4_PlayerResponse_1"
 msgid "I'll see what I can do."
-msgstr "I'll see what I can do."
+msgstr "Ich werde sehen, was ich tun kann."
 
 #. Key:	DL_Hahli5_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli5.Default__DL_Hahli5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli5.Default__DL_Hahli5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Hahli5_PlayerResponse_1"
 msgid "Not yet, I'm working on it."
-msgstr "Not yet, I'm working on it."
+msgstr "Noch nicht, ich arbeite daran."
 
 #. Key:	DL_Hahli6_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli6.Default__DL_Hahli6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli6.Default__DL_Hahli6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Hahli6_PlayerResponse_1"
 msgid "You have my word."
-msgstr "You have my word."
+msgstr "Du hast mein Wort."
 
 #. Key:	DL_HahliGiveMap_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_HahliGiveMap.Default__DL_HahliGiveMap_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_HahliGiveMap.Default__DL_HahliGiveMap_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_HahliGiveMap_PlayerResponse_1"
 msgid "I'll see what I can do."
-msgstr "I'll see what I can do."
+msgstr "Ich werde sehen, was ich tun kann."
 
 #. Key:	DL_HalloweenMan1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Halloween/DL_HalloweenMan1.Default__DL_HalloweenMan1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Halloween/DL_HalloweenMan1.Default__DL_HalloweenMan1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_HalloweenMan1_PlayerResponse_1"
 msgid "What do you mean?"
-msgstr "What do you mean?"
+msgstr "Was meinst du?"
 
 #. Key:	DL_HalloweenMan2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Halloween/DL_HalloweenMan2.Default__DL_HalloweenMan2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -22617,7 +22558,6 @@ msgstr "Macku"
 #. Key:	Names_Mahi
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Mahi"
 msgid "Mahi"
 msgstr "Mahi"
@@ -22625,7 +22565,6 @@ msgstr "Mahi"
 #. Key:	Names_Mahiki
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Mahiki"
 msgid "Mahiki"
 msgstr "Mahiki"
@@ -22633,7 +22572,6 @@ msgstr "Mahiki"
 #. Key:	Names_Makuta
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Makuta"
 msgid "Makuta"
 msgstr "Makuta"
@@ -22641,15 +22579,13 @@ msgstr "Makuta"
 #. Key:	Names_MakutaStatue
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_MakutaStatue"
 msgid "Makuta Statue"
-msgstr "Makuta Statue"
+msgstr "Makuta-Statue"
 
 #. Key:	Names_Maren
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Maren"
 msgid "Maren"
 msgstr "Maren"
@@ -22665,7 +22601,6 @@ msgstr "Mask Powering Station"
 #. Key:	Names_Matatu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Matatu"
 msgid "Matatu"
 msgstr "Matatu"
@@ -22673,23 +22608,20 @@ msgstr "Matatu"
 #. Key:	Names_Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Matoran"
 msgid "Matoran"
-msgstr "Matoran"
+msgstr "Matoraner"
 
 #. Key:	Names_MatoranTransporter
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_MatoranTransporter"
 msgid "Matoran Transporter"
-msgstr "Matoran Transporter"
+msgstr "Matoranischer Transporter"
 
 #. Key:	Names_Matoro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Matoro"
 msgid "Matoro"
 msgstr "Matoro"
@@ -22697,10 +22629,9 @@ msgstr "Matoro"
 #. Key:	Names_MeditationPoint
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_MeditationPoint"
 msgid "Meditation Point"
-msgstr "Meditation Point"
+msgstr "Meditationspunkt"
 
 #. Key:	Names_Metonu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -22719,15 +22650,13 @@ msgstr "Midak"
 #. Key:	Names_Miner
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Miner"
 msgid "Miner"
-msgstr "Miner"
+msgstr "Bergarbeiter"
 
 #. Key:	Names_Miru
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Miru"
 msgid "Miru"
 msgstr "Miru"
@@ -22735,7 +22664,6 @@ msgstr "Miru"
 #. Key:	Names_Muaka
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Muaka"
 msgid "Muaka"
 msgstr "Muaka"
@@ -22743,10 +22671,9 @@ msgstr "Muaka"
 #. Key:	Names_NightWatchGuardsman
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_NightWatchGuardsman"
 msgid "Night Watch Guardsman"
-msgstr "Night Watch Guardsman"
+msgstr "Nachtwächter-Wachmann"
 
 #. Key:	Names_Niidok
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -22807,10 +22734,9 @@ msgstr "Nuparu"
 #. Key:	Names_OceanTarakava
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_OceanTarakava"
 msgid "Ocean Tarakava"
-msgstr "Ocean Tarakava"
+msgstr "Ozean Tarakava"
 
 #. Key:	Names_Okin
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -22850,10 +22776,9 @@ msgstr "Onua"
 #. Key:	Names_Outcast
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Outcast"
 msgid "Outcast"
-msgstr "Outcast"
+msgstr "Ausgestoßener"
 
 #. Key:	Names_Pakari
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -22879,10 +22804,9 @@ msgstr "Pauri"
 #. Key:	Names_PlantMan
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_PlantMan"
 msgid "Plant Man"
-msgstr "Plant Man"
+msgstr "Pflanzenmann"
 
 #. Key:	Names_Po-Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -22929,7 +22853,6 @@ msgstr "Pohatu"
 #. Key:	Names_PoisonNui-Jaga
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_PoisonNui-Jaga"
 msgid "Repo Nui-Jaga"
 msgstr "Repo Nui-Jaga"
@@ -22951,10 +22874,9 @@ msgstr "Reka"
 #. Key:	Names_RiverTarakava
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_RiverTarakava"
 msgid "River Tarakava"
-msgstr "River Tarakava"
+msgstr "Fluss-Tarakava"
 
 #. Key:	Names_RukiFish
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -23001,58 +22923,51 @@ msgstr "Schatten- {ToaName}"
 #. Key:	Names_SingingMiner
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_SingingMiner"
 msgid "Singing Miner"
-msgstr "Singing Miner"
+msgstr "Singender Bergmann"
 
 #. Key:	Names_SiteSupervisorKeeva
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_SiteSupervisorKeeva"
 msgid "Site Supervisor Keeva"
-msgstr "Site Supervisor Keeva"
+msgstr "Bauleiterin Keeva"
 
 #. Key:	Names_StatueSalesman
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_StatueSalesman"
 msgid "Statue Salesman"
-msgstr "Statue Salesman"
+msgstr "Statuen-Verkäufer"
 
 #. Key:	Names_StrangeMatoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_StrangeMatoran"
 msgid "Strange Matoran"
-msgstr "Strange Matoran"
+msgstr "Seltsamer Matoraner"
 
 #. Key:	Names_Ta-KoroGuard
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Ta-KoroGuard"
 msgid "Ta-Koro Guard"
-msgstr "Ta-Koro Guard"
+msgstr "Ta-Koro-Wache"
 
 #. Key:	Names_Ta-koroGuardsman
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Ta-koroGuardsman"
 msgid "Ta-koro Guardsman"
-msgstr "Ta-koro Guardsman"
+msgstr "Ta-koro Wachmann"
 
 #. Key:	Names_Ta-koroGuardsmanDaelen
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_Ta-koroGuardsmanDaelen"
 msgid "Ta-koro Guardsman Daelen"
-msgstr "Ta-koro Guardsman Daelen"
+msgstr "Ta-koro Wachmann Daelen"
 
 #. Key:	Names_Ta-Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -23120,26 +23035,23 @@ msgstr "Taphal"
 #. Key:	Names_TarakavaofFrost
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_TarakavaofFrost"
 msgid "Tarakava of the Frost"
-msgstr "Tarakava of the Frost"
+msgstr "Tarakava des Frosts"
 
 #. Key:	Names_TempleMaster
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_TempleMaster"
 msgid "Temple Master"
-msgstr "Temple Master"
+msgstr "Tempelmeister"
 
 #. Key:	Names_TheEnvironmentalist
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
-#, fuzzy
 msgctxt "ST_Names,Names_TheEnvironmentalist"
 msgid "The Environmentalist"
-msgstr "The Environmentalist"
+msgstr "Der Umweltschützer"
 
 #. Key:	Names_Thuei
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
