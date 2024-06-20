@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPPl\n"
 "POT-Creation-Date: 2024-04-30 22:44\n"
-"PO-Revision-Date: 2024-06-10 21:13+0200\n"
+"PO-Revision-Date: 2024-06-20 21:53+0200\n"
 "Last-Translator: Andrzej Szary\n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -1156,133 +1156,133 @@ msgstr "Turaga Whenua"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man1.Default__DL_420man1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_420man1_PlayerResponse_1"
 msgid "Are you alright, you seem... Strange."
-msgstr ""
+msgstr "Czy wszystko w porządku? Wyglądasz... Dziwnie."
 
 #. Key:	DL_420man2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man2.Default__DL_420man2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man2.Default__DL_420man2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_420man2_PlayerResponse_1"
 msgid "Okay, I guess I'll leave you to it then."
-msgstr ""
+msgstr "No dobrze, w takim razie zostawię to Tobie."
 
 #. Key:	DL_420man_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man.Default__DL_420man_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man.Default__DL_420man_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_420man_PlayerResponse_1"
 msgid "No, I am a Toa. What are you doing up here?"
-msgstr ""
+msgstr "Nie, jestem Toa. Co robisz tutaj na górze?"
 
 #. Key:	DL_Ahkmou1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou1.Default__DL_Ahkmou1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou1.Default__DL_Ahkmou1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Ahkmou1_PlayerResponse_1"
 msgid "Why are there little bits of green on them?"
-msgstr ""
+msgstr "Dlaczego są na nich małe zielone drobinki?"
 
 #. Key:	DL_Ahkmou1_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou1.Default__DL_Ahkmou1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou1.Default__DL_Ahkmou1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Ahkmou1_PlayerResponse_2"
 msgid "Hmm I feel like I've heard of them..."
-msgstr ""
+msgstr "Hmm, mam wrażenie, że już o nich {G}|gender(słyszałem, słyszałam)..."
 
 #. Key:	DL_Ahkmou3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou3.Default__DL_Ahkmou3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou3.Default__DL_Ahkmou3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Ahkmou3_PlayerResponse_1"
 msgid "Hmm... No I've heard of them some other way, I just can't remember how."
-msgstr ""
+msgstr "Hmm... Nie, {G}|gender(słyszałem, słyszałam) o nich w innych okolicznościach, tylko nie pamiętam jakich."
 
 #. Key:	DL_Ahkmou_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Ahkmou_PlayerResponse_1"
 msgid "Sure, let's trade."
-msgstr ""
+msgstr "Jasne, pohandlujmy."
 
 #. Key:	DL_Ahkmou_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Ahkmou_PlayerResponse_2"
 msgid "What is a Comet?"
-msgstr ""
+msgstr "Co to Kometa?"
 
 #. Key:	DL_Akamar2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar2.Default__DL_Akamar2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar2.Default__DL_Akamar2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akamar2_PlayerResponse_1"
 msgid "You've done good work here craftsman."
-msgstr ""
+msgstr "Odwaliłeś kawał dobrej roboty, rzemieślniku."
 
 #. Key:	DL_Akamar3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar3.Default__DL_Akamar3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar3.Default__DL_Akamar3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akamar3_PlayerResponse_1"
 msgid "I... See..."
-msgstr ""
+msgstr "Ja... Widzę..."
 
 #. Key:	DL_Akamar4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar4.Default__DL_Akamar4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar4.Default__DL_Akamar4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akamar4_PlayerResponse_1"
 msgid "Right... Thank you... I think."
-msgstr ""
+msgstr "Racja... Dziękuję... Tak myślę."
 
 #. Key:	DL_Akamar_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akamar_PlayerResponse_1"
 msgid "Yes?"
-msgstr ""
+msgstr "Tak?"
 
 #. Key:	DL_Akamar_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akamar_PlayerResponse_2"
 msgid "You've done a fine job here, my city has never looked so lively!"
-msgstr ""
+msgstr "Odwaliłeś kawał dobrej roboty, moje miasto nigdy nie wyglądało tak żywo!"
 
 #. Key:	DL_Akamar_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akamar_PlayerResponse_3"
 msgid "About what you said before, who's... future, are you working on?"
-msgstr ""
+msgstr "Na temat tego co powiedziałeś wcześniej, nad czyją... przyszłością pracujesz?"
 
 #. Key:	DL_AkamarBuddy2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_AkamarBuddy2.Default__DL_AkamarBuddy2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_AkamarBuddy2.Default__DL_AkamarBuddy2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_AkamarBuddy2_PlayerResponse_1"
 msgid "Ahh, you did a good job on Po-Koro, I'm sorry he doesn't need you anymore."
-msgstr ""
+msgstr "Ahh, wykonałeś dobrą robotę w Po-Koro, przykro mi, że więcej cię nie potrzebuje."
 
 #. Key:	DL_AkamarBuddy3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_AkamarBuddy3.Default__DL_AkamarBuddy3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_AkamarBuddy3.Default__DL_AkamarBuddy3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_AkamarBuddy3_PlayerResponse_1"
 msgid "I'm sure you will find plenty of work in Po-Koro when you get there, good luck little one."
-msgstr ""
+msgstr "Jestem pewny, że znajdziesz masę roboty w Po-Koro, kiedy już tam dotrzesz. Powodzenia, mały."
 
 #. Key:	DL_AkamarBuddy_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_AkamarBuddy.Default__DL_AkamarBuddy_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_AkamarBuddy.Default__DL_AkamarBuddy_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_AkamarBuddy_PlayerResponse_2"
 msgid "I'm well thank you."
-msgstr ""
+msgstr "Czuję się dobrze, dzięki."
 
 #. Key:	DL_Akura_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Akura.Default__DL_Akura_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Akura.Default__DL_Akura_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akura_PlayerResponse_1"
 msgid "*Listen*"
-msgstr ""
+msgstr "*Słuchaj*"
 
 #. Key:	DL_Akura_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Akura.Default__DL_Akura_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Akura.Default__DL_Akura_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akura_PlayerResponse_2"
 msgid "Sorry, didn't mean to bother you."
-msgstr ""
+msgstr "Przepraszam, nie {G}|gender(chciałem, chciałam) Ci przeszkadzać."
 
 #. Key:	DL_Allknowingmatoran_2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_2.Default__DL_Allknowingmatoran_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1548,42 +1548,42 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_Boat.Default__DL_Boat_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Boat_PlayerResponse_1"
 msgid "Yes, I have."
-msgstr ""
+msgstr "Tak, mam."
 
 #. Key:	DL_Boat_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_Boat.Default__DL_Boat_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_Boat.Default__DL_Boat_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Boat_PlayerResponse_2"
 msgid "No sorry not now."
-msgstr ""
+msgstr "Przykro mi, ale nie teraz."
 
 #. Key:	DL_BoatManager2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager2.Default__DL_BoatManager2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager2.Default__DL_BoatManager2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_BoatManager2_PlayerResponse_1"
 msgid "I'm looking for a Matoran named Kohi, I'm told he booked a boat here."
-msgstr ""
+msgstr "Szukam Matoranina imieniem Kohi. Podobno zarezerowował tutaj łódź."
 
 #. Key:	DL_BoatManager2_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager2.Default__DL_BoatManager2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager2.Default__DL_BoatManager2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_BoatManager2_PlayerResponse_2"
 msgid "Your accent, it's quite different from others I've heard."
-msgstr ""
+msgstr "Twój akcent różni się od innych, które słyszałem."
 
 #. Key:	DL_BoatManager3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager3.Default__DL_BoatManager3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager3.Default__DL_BoatManager3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_BoatManager3_PlayerResponse_1"
 msgid "Right..."
-msgstr ""
+msgstr "Racja..."
 
 #. Key:	DL_BoatManager_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager.Default__DL_BoatManager_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager.Default__DL_BoatManager_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_BoatManager_PlayerResponse_1"
 msgid "Uhhhhh..."
-msgstr ""
+msgstr "Uhhhh..."
 
 #. Key:	DL_BoatManagerKohi2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManagerKohi2.Default__DL_BoatManagerKohi2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1597,84 +1597,84 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManagerKohi3.Default__DL_BoatManagerKohi3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_BoatManagerKohi3_PlayerResponse_1"
 msgid "Right, Thank you."
-msgstr ""
+msgstr "Racja, dziękuję."
 
 #. Key:	DL_BoatManagerKohi_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManagerKohi.Default__DL_BoatManagerKohi_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManagerKohi.Default__DL_BoatManagerKohi_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_BoatManagerKohi_PlayerResponse_1"
 msgid "Did he say where he was headed next?"
-msgstr ""
+msgstr "Czy powiedział, dokąd zmierza?"
 
 #. Key:	DL_BoatManagerQuest_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_BoatManagerQuest.Default__DL_BoatManagerQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_BoatManagerQuest.Default__DL_BoatManagerQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_BoatManagerQuest_PlayerResponse_1"
 msgid "Yes, I have."
-msgstr ""
+msgstr "Tak, mam."
 
 #. Key:	DL_BoatManagerQuest_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_BoatManagerQuest.Default__DL_BoatManagerQuest_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_BoatManagerQuest.Default__DL_BoatManagerQuest_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_BoatManagerQuest_PlayerResponse_2"
 msgid "No sorry not now."
-msgstr ""
+msgstr "Przykro mi, ale nie teraz."
 
 #. Key:	DL_Candles1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_Candles1.Default__DL_Candles1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_Candles1.Default__DL_Candles1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Candles1_PlayerResponse_1"
 msgid "A candle shop? I saw a store like this in Onu-Koro, any relation?"
-msgstr ""
+msgstr "Sklep ze świeczkami? {G}|gender(Słyszałem, Słyszałam) o sklepie jak ten w Onu-Koro. Jakieś powiązanie?"
 
 #. Key:	DL_Candles1_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_Candles1.Default__DL_Candles1_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_Candles1.Default__DL_Candles1_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Candles1_PlayerResponse_3"
 msgid "I'm just looking."
-msgstr ""
+msgstr "Tylko się rozglądam."
 
 #. Key:	DL_Candles2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_Candles2.Default__DL_Candles2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_Candles2.Default__DL_Candles2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Candles2_PlayerResponse_1"
 msgid "Why not? What is this company?"
-msgstr ""
+msgstr "Dlaczego nie? Co to za firma?"
 
 #. Key:	DL_Candles2_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_Candles2.Default__DL_Candles2_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_Candles2.Default__DL_Candles2_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Candles2_PlayerResponse_3"
 msgid "I'll be leaving now."
-msgstr ""
+msgstr "Już pójdę."
 
 #. Key:	DL_CandlesCompany_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_CandlesCompany.Default__DL_CandlesCompany_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_CandlesCompany.Default__DL_CandlesCompany_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CandlesCompany_PlayerResponse_2"
 msgid "Hmm distressing..."
-msgstr ""
+msgstr "Hmm, niepokojące..."
 
 #. Key:	DL_CandleSeller_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_CandleSeller.Default__DL_CandleSeller_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_CandleSeller.Default__DL_CandleSeller_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CandleSeller_PlayerResponse_1"
 msgid "I'll buy some!"
-msgstr ""
+msgstr "Kupię trochę!"
 
 #. Key:	DL_CartographerHowWidgets_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerHowWidgets.Default__DL_CartographerHowWidgets_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerHowWidgets.Default__DL_CartographerHowWidgets_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerHowWidgets_PlayerResponse_1"
 msgid "Thank you, i'll go consult with Khalo."
-msgstr ""
+msgstr "Dziękuję, pojdę skonsultować to z Khalo."
 
 #. Key:	DL_CartographerHowWidgets_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerHowWidgets.Default__DL_CartographerHowWidgets_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerHowWidgets.Default__DL_CartographerHowWidgets_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerHowWidgets_PlayerResponse_2"
 msgid "I guess I don't need it that badly."
-msgstr ""
+msgstr "Chyba nie potrzebuję tego, aż tak bardzo."
 
 #. Key:	DL_CartographerIntro_2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerIntro_2.Default__DL_CartographerIntro_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1751,63 +1751,64 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerPillar.Default__DL_CartographerPillar_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerPillar_PlayerResponse_1"
 msgid "Tell me about Tiro Canyon."
-msgstr ""
+msgstr "Opowiedz mi o Kanonie Tiro."
 
 #. Key:	DL_CartographerPillar_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerPillar.Default__DL_CartographerPillar_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerPillar.Default__DL_CartographerPillar_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerPillar_PlayerResponse_2"
 msgid "Tell me about the Motara Desert."
-msgstr ""
+msgstr "Opowiedz mi o Pustyni Matora."
 
 #. Key:	DL_CartographerPillar_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerPillar.Default__DL_CartographerPillar_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerPillar.Default__DL_CartographerPillar_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerPillar_PlayerResponse_3"
 msgid "I had need of something else."
-msgstr ""
+msgstr "Potrzebowałem czegoś innego."
 
 #. Key:	DL_CartographerQuestStart_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerQuestStart.Default__DL_CartographerQuestStart_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerQuestStart.Default__DL_CartographerQuestStart_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerQuestStart_PlayerResponse_1"
 msgid "I'll be back."
-msgstr ""
+msgstr "Wrócę."
 
 #. Key:	DL_CartographerReturn_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerReturn.Default__DL_CartographerReturn_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerReturn.Default__DL_CartographerReturn_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerReturn_PlayerResponse_1"
 msgid "Here's 350. (Current Toa Gains mask)"
-msgstr ""
+msgstr "Oto 350. (Obecny Toa otrzymuje maskę)"
 
 #. Key:	DL_CartographerReturn_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerReturn.Default__DL_CartographerReturn_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerReturn.Default__DL_CartographerReturn_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerReturn_PlayerResponse_2"
 msgid "Not yet no, I'll be back."
-msgstr ""
+msgstr "Jeszcze nie teraz, wrócę."
 
 #. Key:	DL_CartographerTiro_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerTiro.Default__DL_CartographerTiro_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerTiro.Default__DL_CartographerTiro_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerTiro_PlayerResponse_1"
 msgid "Tell me about the Motara Desert."
-msgstr ""
+msgstr "Opowiedz mi o Pustyni Matora."
 
 #. Key:	DL_CartographerTiro_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerTiro.Default__DL_CartographerTiro_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerTiro.Default__DL_CartographerTiro_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#, fuzzy
 msgctxt "Dialogue_Response,DL_CartographerTiro_PlayerResponse_2"
 msgid "Tell me about the Pillar-Lands."
-msgstr ""
+msgstr "Opowiedz mi o "
 
 #. Key:	DL_CartographerTiro_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerTiro.Default__DL_CartographerTiro_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerTiro.Default__DL_CartographerTiro_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerTiro_PlayerResponse_3"
 msgid "I had need of something else."
-msgstr ""
+msgstr "Potrzebowałem czegoś innego."
 
 #. Key:	DL_CartographerToaLegend_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerToaLegend.Default__DL_CartographerToaLegend_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8583,28 +8584,28 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man.Default__DL_420man_C.DialogueText
 msgctxt "Dialogue_Text,DL_420man"
 msgid "Huh? Oh you won't hurt me. You won't hurt me right?"
-msgstr ""
+msgstr "Co? Oh, nie skrzywdzisz mnie. Nie zrobisz mi krzywdy, prawda?"
 
 #. Key:	DL_420man1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man1.Default__DL_420man1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man1.Default__DL_420man1_C.DialogueText
 msgctxt "Dialogue_Text,DL_420man1"
 msgid "Right. Right. I can't see the right pattern, if I could - maybe I would understand..."
-msgstr ""
+msgstr "Tak. Tak. Nie widzę właściwego wzoru, jeśli mógłbym - może bym zrozumiał..."
 
 #. Key:	DL_420man2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man2.Default__DL_420man2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man2.Default__DL_420man2_C.DialogueText
 msgctxt "Dialogue_Text,DL_420man2"
 msgid "Yes, I'll be fine. Just as long as I don't go too deep, you can't come back from that."
-msgstr ""
+msgstr "Tak, będzie dobrze. Dopóki nie zapuszczę się zbyt głęboko, nie możesz się z tego wycofać."
 
 #. Key:	DL_Ahkmou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou.Default__DL_Ahkmou_C.DialogueText
 msgctxt "Dialogue_Text,DL_Ahkmou"
 msgid "Toa! Umm, hello... Would you like to buy a Comet?"
-msgstr ""
+msgstr "Toa! Umm, hej... {G}|gender(Chciałbyś, Chciałabyś) kupić Kometę?"
 
 #. Key:	DL_Ahkmou1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou1.Default__DL_Ahkmou1_C.DialogueText
@@ -15954,42 +15955,42 @@ msgstr ""
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog1.Item_FirstMateLog1.Name
 msgctxt "InvItem_Name,Item_FirstMateLog1"
 msgid "First Mate Dakk's Log #1"
-msgstr ""
+msgstr "Dziennik Pierwszego Oficera Dakka #1"
 
 #. Key:	Item_FirstMateLog2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog2.Item_FirstMateLog2.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog2.Item_FirstMateLog2.Name
 msgctxt "InvItem_Name,Item_FirstMateLog2"
 msgid "First Mate Dakk's Log #2"
-msgstr ""
+msgstr "Dziennik Pierwszego Oficera Dakka #2"
 
 #. Key:	Item_FirstMateLog3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog3.Item_FirstMateLog3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog3.Item_FirstMateLog3.Name
 msgctxt "InvItem_Name,Item_FirstMateLog3"
 msgid "First Mate Dakk's Log #3"
-msgstr ""
+msgstr "Dziennik Pierwszego Oficera Dakka #3"
 
 #. Key:	Item_FirstMateLog4
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog4.Item_FirstMateLog4.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog4.Item_FirstMateLog4.Name
 msgctxt "InvItem_Name,Item_FirstMateLog4"
 msgid "First Mate Dakk's Log #4"
-msgstr ""
+msgstr "Dziennik Pierwszego Oficera Dakka #4"
 
 #. Key:	Item_FirstMateLog5
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog5.Item_FirstMateLog5.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog5.Item_FirstMateLog5.Name
 msgctxt "InvItem_Name,Item_FirstMateLog5"
 msgid "First Mate Dakk's Log #5"
-msgstr ""
+msgstr "Dziennik Pierwszego Oficera Dakka #5"
 
 #. Key:	Item_FirstMateLog6
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog6.Item_FirstMateLog6.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog6.Item_FirstMateLog6.Name
 msgctxt "InvItem_Name,Item_FirstMateLog6"
 msgid "First Mate Dakk's Log #6"
-msgstr ""
+msgstr "Dziennik Pierwszego Oficera Dakka #6"
 
 #. Key:	Item_GaMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_GaMakoki.Item_GaMakoki.Name
@@ -16017,35 +16018,35 @@ msgstr "Sztabka Złota"
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenMahi.Item_GoldenMahi.Name
 msgctxt "InvItem_Name,Item_GoldenMahi"
 msgid "The Golden Mahi"
-msgstr ""
+msgstr "Złoty Mahi"
 
 #. Key:	Item_GoldenRama
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRama.Item_GoldenRama.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRama.Item_GoldenRama.Name
 msgctxt "InvItem_Name,Item_GoldenRama"
 msgid "The Golden Rama"
-msgstr ""
+msgstr "Złoty Rama"
 
 #. Key:	Item_GoldenRuki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRuki.Item_GoldenRuki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRuki.Item_GoldenRuki.Name
 msgctxt "InvItem_Name,Item_GoldenRuki"
 msgid "The Golden Ruki"
-msgstr ""
+msgstr "Złoty Ruki"
 
 #. Key:	Item_GoldenStatue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenStatue.Item_GoldenStatue.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenStatue.Item_GoldenStatue.Name
 msgctxt "InvItem_Name,Item_GoldenStatue"
 msgid "The Golden Mata"
-msgstr ""
+msgstr "Złoty Mata"
 
 #. Key:	Item_GoldenUssal
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenUssal.Item_GoldenUssal.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenUssal.Item_GoldenUssal.Name
 msgctxt "InvItem_Name,Item_GoldenUssal"
 msgid "The Golden Ussal"
-msgstr ""
+msgstr "Złoty Ussal"
 
 #. Key:	Item_HauUnpowered
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_HauUnpowered.Item_HauUnpowered.Name
@@ -16101,28 +16102,28 @@ msgstr "Herbata Mahai"
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap1.Item_MarenMap1.Name
 msgctxt "InvItem_Name,Item_MarenMap1"
 msgid "Blackmask's Treasure Map #1"
-msgstr ""
+msgstr "Mapa Skarbów Czarnej Maski #1"
 
 #. Key:	Item_MarenMap2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap2.Item_MarenMap2.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap2.Item_MarenMap2.Name
 msgctxt "InvItem_Name,Item_MarenMap2"
 msgid "Blackmask's Treasure Map #2"
-msgstr ""
+msgstr "Mapa Skarbów Czarnej Maski #2"
 
 #. Key:	Item_MarenMap3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap3.Item_MarenMap3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap3.Item_MarenMap3.Name
 msgctxt "InvItem_Name,Item_MarenMap3"
 msgid "Blackmask's Treasure Map #3"
-msgstr ""
+msgstr "Mapa Skarbów Czarnej Maski #4"
 
 #. Key:	Item_MarenMap4
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap4.Item_MarenMap4.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap4.Item_MarenMap4.Name
 msgctxt "InvItem_Name,Item_MarenMap4"
 msgid "Blackmask's Treasure Map #4"
-msgstr ""
+msgstr "Mapa Skarbów Czarnej Maski #4"
 
 #. Key:	Item_MaskFinder
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskFinder.Item_MaskFinder.Name
@@ -16143,7 +16144,7 @@ msgstr "Wykrywacz Maski"
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Name
 msgctxt "InvItem_Name,Item_MetallicProtodermisIngots"
 msgid "Metallic Protodermis Ingots"
-msgstr ""
+msgstr "Sztabka Metalicznego Protodermisu"
 
 #. Key:	Item_OnuMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_OnuMakoki.Item_OnuMakoki.Name
@@ -16276,7 +16277,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Statuette.Item_Statuette.Name
 msgctxt "InvItem_Name,Item_Statuette"
 msgid "Toa Statuette"
-msgstr ""
+msgstr "Statuetka Toa"
 
 #. Key:	Item_StoneCarving
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_StoneCarving.Item_StoneCarving.Name
@@ -16423,14 +16424,14 @@ msgstr ""
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Widgets.Item_Widgets.Name
 msgctxt "InvItem_Name,Item_Widgets"
 msgid "Widgets"
-msgstr ""
+msgstr "Widżety"
 
 #. Key:	Item_WoodStatue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Name
 msgctxt "InvItem_Name,Item_WoodStatue"
 msgid "Wood Head Statue"
-msgstr ""
+msgstr "Drewnania Głowa Posągu"
 
 #. Key:	Item_WorldMap
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Name
@@ -17376,14 +17377,14 @@ msgstr "Pokonaj wszystkie rahi."
 #: /Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_CalmCave_Objective_2"
 msgid "Talk to the Hiding matoran."
-msgstr ""
+msgstr "Porozmawiaj z ukrywającym się Matoraninem."
 
 #. Key:	Quest_Challange_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Challange_Objective_1"
 msgid "Speak to Podu at the tip of the Motara Desert."
-msgstr ""
+msgstr "Porozmawiaj z Podu na szczycie Pustyni Matora."
 
 #. Key:	Quest_Challange_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -17397,175 +17398,175 @@ msgstr "Zaakceptuj Wyzwanie."
 #: /Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Challange_Objective_3"
 msgid "Beat Pohatu to Po-koro."
-msgstr ""
+msgstr "Pokonaj Pohatu w wyścigu do Po-koro."
 
 #. Key:	Quest_CometHunt_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_CometHunt.Default__Quest_CometHunt_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_CometHunt.Default__Quest_CometHunt_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_CometHunt_Objective_1"
 msgid "Give Komeke a Comet."
-msgstr ""
+msgstr "Daj Komeke Kometę."
 
 #. Key:	Quest_DangerOnTheHorizon_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_DangerOnTheHorizon.Default__Quest_DangerOnTheHorizon_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_DangerOnTheHorizon.Default__Quest_DangerOnTheHorizon_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_DangerOnTheHorizon_Objective_1"
 msgid "Defeat the Tarakava guarding the Temple."
-msgstr ""
+msgstr "Pokonaj Tarakavę strzegącego Świątyni."
 
 #. Key:	Quest_FindKumo_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FindKumo.Default__Quest_FindKumo_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_FindKumo.Default__Quest_FindKumo_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_FindKumo_Objective_1"
 msgid "Find Kumo in Fau swamp Near the lake he fishes in."
-msgstr ""
+msgstr "Znajdź Kumo na bagnie Fau, w pobliżu jeziora w którym łowił ryby."
 
 #. Key:	Quest_FrozenInWood_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FrozenInWood.Default__Quest_FrozenInWood_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_FrozenInWood.Default__Quest_FrozenInWood_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_FrozenInWood_Objective_1"
 msgid "Find the Protosteel Tool."
-msgstr ""
+msgstr "Znajdź Narzędzia z Protostali."
 
 #. Key:	Quest_FrozenTower_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FrozenTower.Default__Quest_FrozenTower_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_FrozenTower.Default__Quest_FrozenTower_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_FrozenTower_Objective_1"
 msgid "Defeat all of the rahi in the tower."
-msgstr ""
+msgstr "Pokonaj wszystkie rahi w wieży."
 
 #. Key:	Quest_Gakoro_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Gakoro.Default__Quest_Gakoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Gakoro.Default__Quest_Gakoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Gakoro_Objective_1"
 msgid "Travel to Ga-Koro and Speak to Hahli."
-msgstr ""
+msgstr "Udaj się do Ga-Koro i porozmawiaj z Hahli."
 
 #. Key:	Quest_Gali_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Gali.Default__Quest_Gali_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Gali.Default__Quest_Gali_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Gali_Objective_1"
 msgid "Travel to Ga-Koro and Interact with the Suva."
-msgstr ""
+msgstr "Udaj się do Ga-Koro i wejdź w interakcję z Suvą."
 
 #. Key:	Quest_GaMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_GaMakokiStone.Default__Quest_GaMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_GaMakokiStone.Default__Quest_GaMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_GaMakokiStone_Objective_1"
 msgid "Speak to Nokama in Ga-koro"
-msgstr ""
+msgstr "Porozmawiaj z Nokamą w Ga-koro"
 
 #. Key:	Quest_Infestation_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Infestation_Objective_1"
 msgid "Free the town of Nui-Jaga."
-msgstr ""
+msgstr "Uwolnij miasto od Nui-Jaga."
 
 #. Key:	Quest_KiniNui_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KiniNui.Default__Quest_KiniNui_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KiniNui.Default__Quest_KiniNui_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_KiniNui_Objective_1"
 msgid "Speak to the other Toa at the Kini-Nui."
-msgstr ""
+msgstr "Porozmawiaj z pozostałymi Toa w Kini-Nui."
 
 #. Key:	Quest_Kokoro_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Kokoro.Default__Quest_Kokoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Kokoro.Default__Quest_Kokoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Kokoro_Objective_1"
 msgid "Travel to Ko-Koro and find Matoro"
-msgstr ""
+msgstr "Udaj się do Ko-koro i znajdź Matoro"
 
 #. Key:	Quest_KoMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_KoMakokiStone_Objective_1"
 msgid "Return to Ko-koro and speak to Nuju."
-msgstr ""
+msgstr "Wróć do Ko-koro i porozmawiaj z Nuju."
 
 #. Key:	Quest_KoMakokiStone_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_KoMakokiStone_Objective_2"
 msgid "Speak to Matoro."
-msgstr ""
+msgstr "Porozmawiaj z Matoro."
 
 #. Key:	Quest_KoMakokiStone_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_KoMakokiStone_Objective_3"
 msgid "Meet Matoro at the Ko-Kini."
-msgstr ""
+msgstr "Spotkaj się z Matoro w Ko-Kini."
 
 #. Key:	Quest_KoMakokiStone_Objective_5
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_KoMakokiStone_Objective_5"
 msgid "Speak to Matoro."
-msgstr ""
+msgstr "Porozmawiaj z Matoro."
 
 #. Key:	Quest_KoMakokiStone_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_KoMakokiStone_Objective_6"
 msgid "Return to Ko-koro and speak to Nuju."
-msgstr ""
+msgstr "Wróć do Ko-koro i porozmawiaj z Nuju."
 
 #. Key:	Quest_Kopaka_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Kopaka.Default__Quest_Kopaka_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Kopaka.Default__Quest_Kopaka_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Kopaka_Objective_1"
 msgid "Travel to Ko-Koro and Interact with the Suva."
-msgstr ""
+msgstr "Udaj się do Ko-Koro i wejdź w interakcję z Suvą."
 
 #. Key:	Quest_Lekoro_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Lekoro.Default__Quest_Lekoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Lekoro.Default__Quest_Lekoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Lekoro_Objective_1"
 msgid "Travel to Le-Koro and find Kongu"
-msgstr ""
+msgstr "Udaj się do Le-Koro i znajdź Kongu"
 
 #. Key:	Quest_LeMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_LeMakokiStone.Default__Quest_LeMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_LeMakokiStone.Default__Quest_LeMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_LeMakokiStone_Objective_1"
 msgid "Return to Le-koro and speak to Matau."
-msgstr ""
+msgstr "Wróć do Le-koro i porozmawiaj z Matau."
 
 #. Key:	Quest_LeTemple_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_LeTemple.Default__Quest_LeTemple_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_LeTemple.Default__Quest_LeTemple_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_LeTemple_Objective_1"
 msgid "Find the hidden tresure."
-msgstr ""
+msgstr "Znajdź ukryty skarb."
 
 #. Key:	Quest_Lewa_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Lewa.Default__Quest_Lewa_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Lewa.Default__Quest_Lewa_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Lewa_Objective_1"
 msgid "Travel to Le-Koro and Interact with the Suva."
-msgstr ""
+msgstr "Udaj się do Le-Koro i wejdź w interakcję z Suvą."
 
 #. Key:	Quest_Mangaia_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Mangaia_Objective_1"
 msgid "Fight through the Mangaia."
-msgstr ""
+msgstr "Wywalcz sobie drogę przez Mangaię."
 
 #. Key:	Quest_Mangaia_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Mangaia_Objective_2"
 msgid "Fight through the Mangaia."
-msgstr ""
+msgstr "Wywalcz sobie drogę przez Mangaię."
 
 #. Key:	Quest_Mangaia_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Mangaia_Objective_3"
 msgid "Defeat the Shadow Toa."
-msgstr ""
+msgstr "Pokonaj Toa Cienia."
 
 #. Key:	Quest_OnTheLine_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -17600,147 +17601,147 @@ msgstr ""
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Onua.Default__Quest_Onua_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Onua_Objective_1"
 msgid "Travel to Onu-Koro and Interact with the Suva."
-msgstr ""
+msgstr "Udaj się do Onu-Koro i wejdź w interakcję z Suvą."
 
 #. Key:	Quest_Onukoro_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Onukoro.Default__Quest_Onukoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Onukoro.Default__Quest_Onukoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Onukoro_Objective_1"
 msgid "Travel to Onu-Koro and find Onepu"
-msgstr ""
+msgstr "Udaj się do Onu-Koro i znajdź Onepu"
 
 #. Key:	Quest_OnuMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_OnuMakokiStone.Default__Quest_OnuMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_OnuMakokiStone.Default__Quest_OnuMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnuMakokiStone_Objective_1"
 msgid "Speak to Whenua in Onu-koro"
-msgstr ""
+msgstr "Porozmawiaj z Whenuą w Onu-Koro"
 
 #. Key:	Quest_Pohatu_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Pohatu.Default__Quest_Pohatu_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Pohatu.Default__Quest_Pohatu_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Pohatu_Objective_1"
 msgid "Travel to Po-Koro and Interact with the Suva."
-msgstr ""
+msgstr "Udaj się do Po-Koro i wejdź w interakcję z Suvą."
 
 #. Key:	Quest_Pokoro_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Pokoro.Default__Quest_Pokoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Pokoro.Default__Quest_Pokoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Pokoro_Objective_1"
 msgid "Travel to Po-Koro and speak to Huki"
-msgstr ""
+msgstr "Udaj się do Po-Koro i porozmawiaj z Huki"
 
 #. Key:	Quest_PoMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_PoMakokiStone.Default__Quest_PoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_PoMakokiStone.Default__Quest_PoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_PoMakokiStone_Objective_1"
 msgid "Speak to Onewa in Po-koro"
-msgstr ""
+msgstr "Porozmawiaj z Onewą w Po-koro"
 
 #. Key:	Quest_PoTemple_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_PoTemple_Objective_1"
 msgid "Find the tresure"
-msgstr ""
+msgstr "Znajdź skarb"
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_1"
 msgid "Find the cave."
-msgstr ""
+msgstr "Znajdź jaskinię."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_2"
 msgid "Talk to the Matoran."
-msgstr ""
+msgstr "Porozmawiaj z Matoraninem."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_3"
 msgid "Complete the puzzle to escape."
-msgstr ""
+msgstr "Ukończ zagadkę, aby uciec."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_4"
 msgid "Return to the strange matoran in le-koro and tell him of your findings."
-msgstr ""
+msgstr "Wróć do Dziwnego Matorana w Le-Koro i opowiedz mu o swoich odkryciach."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_5
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_5"
 msgid "Find and the Insane Matoran. There is a lock on the door to the cave he is hiding in, the strange matoran said the code would be Faith, Creation, Peace."
-msgstr ""
+msgstr "Znajdź Obłąkanego Matoranina. Na drzwiach jaskini, w której się ukrywa, znajduje się zamek. Dziwny Matoran powiedział, że kodem będą słowa Wiara, Stworzenie, Pokój."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_6"
 msgid "Talk To The Insane Matoran"
-msgstr ""
+msgstr "Porozmawiaj z Obłąkanym Matoraninem"
 
 #. Key:	Quest_Protosteel_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_1"
 msgid "Return to the Town"
-msgstr ""
+msgstr "Wróć do Miasta"
 
 #. Key:	Quest_Protosteel_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_2"
 msgid "Discover what happened to the town."
-msgstr ""
+msgstr "Odkryj, co stało się w mieście."
 
 #. Key:	Quest_Protosteel_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_3"
 msgid "Find Kohi (He went to Ga-Koro to charter a boat)"
-msgstr ""
+msgstr "Znajdź Kohiego (Udał się do Ga-Koro, aby wynająć łódź)"
 
 #. Key:	Quest_Protosteel_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_4"
 msgid "Pull the protosteel sword from the stone"
-msgstr ""
+msgstr "Wyciągnij miecz z protostali z kamienia"
 
 #. Key:	Quest_Protosteel_Objective_5
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_5"
 msgid "Speak to Kohi"
-msgstr ""
+msgstr "Porozmawiaj z Kohim"
 
 #. Key:	Quest_Protosteel_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_6"
 msgid "Visit Kohi's forge in Po-koro"
-msgstr ""
+msgstr "Odwiedź kużnię Kohi'ego w Po-koro"
 
 #. Key:	Quest_Protosteel_Objective_7
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_7"
 msgid "Recive Kohi's Gift"
-msgstr ""
+msgstr "Odbierz Prezent Kohi'ego"
 
 #. Key:	Quest_Staff_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Staff_Objective_1"
 msgid "Speak to Takar about the mix up."
-msgstr ""
+msgstr "Porozmawiaj z Takarem o pomyłce."
 
 #. Key:	Quest_Staff_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -17761,35 +17762,35 @@ msgstr ""
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Tahu.Default__Quest_Tahu_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Tahu_Objective_1"
 msgid "Travel to Ta-Koro and Interact with the Suva."
-msgstr ""
+msgstr "Udaj się do Ta-Koro i wejdź w interakcję z Suvą."
 
 #. Key:	Quest_Takoro_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Takoro.Default__Quest_Takoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Takoro.Default__Quest_Takoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Takoro_Objective_1"
 msgid "Travel to Ta-Koro and find Jala."
-msgstr ""
+msgstr "Udaj się do Ta-Koro i odnajdź Jala'ego."
 
 #. Key:	Quest_Takoro_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Takoro.Default__Quest_Takoro_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Takoro.Default__Quest_Takoro_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Takoro_Objective_2"
 msgid "Talk to Turaga Vakama."
-msgstr ""
+msgstr "Porozmawiaj z Turagą Vakamą."
 
 #. Key:	Quest_TaMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TaMakokiStone.Default__Quest_TaMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TaMakokiStone.Default__Quest_TaMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TaMakokiStone_Objective_1"
 msgid "Speak to Vakama."
-msgstr ""
+msgstr "Porozmawiaj z Vakamą."
 
 #. Key:	Quest_TheLakeOfFrost_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheLakeOfFrost_Objective_1"
 msgid "Find the cause of the river stoppage."
-msgstr ""
+msgstr "Znajdź przyczynę zatrzymania rzeki."
 
 #. Key:	Quest_TheLakeOfFrost_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -17803,154 +17804,154 @@ msgstr ""
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheLakeOfFrost_Objective_3"
 msgid "Speak to the matoran."
-msgstr ""
+msgstr "Porozmawiaj z Matoraninem."
 
 #. Key:	Quest_TheLakeOfFrost_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheLakeOfFrost_Objective_4"
 msgid "Report to Dameo."
-msgstr ""
+msgstr "Złóż sprawozdanie Dameo."
 
 #. Key:	Quest_TheToaOfFire1_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_1"
 msgid "Find Mask"
-msgstr ""
+msgstr "Znajdź Maskę"
 
 #. Key:	Quest_TheToaOfFire1_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_2"
 msgid "Pick Up Mask"
-msgstr ""
+msgstr "Podnieś Maskę"
 
 #. Key:	Quest_TheToaOfFire1_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_3"
 msgid "Use Mask Power"
-msgstr ""
+msgstr "Użyj Mocy Maski"
 
 #. Key:	Quest_TheToaOfFire1_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_4"
 msgid "Retrive Sword"
-msgstr ""
+msgstr "Odzyskaj Miecz"
 
 #. Key:	Quest_TheToaOfFire1_Objective_5
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_5"
 msgid "Defeat the Rahi"
-msgstr ""
+msgstr "Pokonaj Rahi"
 
 #. Key:	Quest_TheToaOfFire1_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_6"
 msgid "Investigate The Figure"
-msgstr ""
+msgstr "Zbadaj Figurę"
 
 #. Key:	Quest_TheToaOfFire1_Objective_7
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_7"
 msgid "Head to Ta Koro"
-msgstr ""
+msgstr "Udaj się do Ta-Koro"
 
 #. Key:	Quest_TheTuragaOfAir_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfAir_Objective_1"
 msgid "Find Matau."
-msgstr ""
+msgstr "Znajdź Matau."
 
 #. Key:	Quest_TheTuragaOfAir_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfAir_Objective_2"
 msgid "Attack the tree to loose Matau."
-msgstr ""
+msgstr "Zaatakuj drzewo, aby uwolnić Matau."
 
 #. Key:	Quest_TheTuragaOfAir_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfAir_Objective_3"
 msgid "Talk To Matau."
-msgstr ""
+msgstr "Porozmawiaj z Matau."
 
 #. Key:	Quest_TheTuragaOfEarth_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfEarth_Objective_1"
 msgid "Find Whenua and Speak to him."
-msgstr ""
+msgstr "Znajdź Whenuę i porozmawiaj z nim."
 
 #. Key:	Quest_TheTuragaOfEarth_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfEarth_Objective_2"
 msgid "Push Whenua. (Attack him)"
-msgstr ""
+msgstr "Popchnij Whenuę. (Zaatakuj go)"
 
 #. Key:	Quest_TheTuragaOfEarth_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfEarth_Objective_3"
 msgid "Speak to Whenua."
-msgstr ""
+msgstr "Porozmawiaj z Whenuą."
 
 #. Key:	Quest_TheTuragaOfIce_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfIce.Default__Quest_TheTuragaOfIce_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfIce.Default__Quest_TheTuragaOfIce_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfIce_Objective_1"
 msgid "Find and save Nuju."
-msgstr ""
+msgstr "Znajdź i uratuj Nuju."
 
 #. Key:	Quest_TheTuragaOfStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfStone_Objective_1"
 msgid "Find Onewa and Speak to him."
-msgstr ""
+msgstr "Znajdź Onewę i porozmawiaj z nim."
 
 #. Key:	Quest_TheTuragaOfStone_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfStone_Objective_2"
 msgid "Attack the pillar to make a ramp up for Onewa"
-msgstr ""
+msgstr "Zaatakuj filar, aby stworzyć rampę dla Onewy"
 
 #. Key:	Quest_TheTuragaOfStone_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfStone_Objective_3"
 msgid "Talk To Onewa"
-msgstr ""
+msgstr "Porozmawiaj z Onewą"
 
 #. Key:	Quest_TheTuragaOfWater_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfWater_Objective_1"
 msgid "Find Nokama."
-msgstr ""
+msgstr "Znajdź Nokamę."
 
 #. Key:	Quest_TheTuragaOfWater_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfWater_Objective_2"
 msgid "Defeat the Tarakava."
-msgstr ""
+msgstr "Pokonja Tarakavę."
 
 #. Key:	Quest_TheTuragaOfWater_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfWater_Objective_3"
 msgid "Find Nokama and Speak to her."
-msgstr ""
+msgstr "Znajdź Nokamę i porozmawiaj z nią."
 
 #. Key:	AnythingToDo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -18202,7 +18203,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_CosmeticsBench"
 msgid "Cosmetics Bench"
-msgstr ""
+msgstr "Ławka Kosmetyczna"
 
 #. Key:	Gen_Door
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18216,7 +18217,7 @@ msgstr "Drzwi"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Interact"
 msgid "Interact with {Facing}"
-msgstr ""
+msgstr "Wejdź w interakcję z {Facing}"
 
 #. Key:	Gen_Lever
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18230,7 +18231,7 @@ msgstr "Dźwignia"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_MakokiDesc"
 msgid "A piece of a key used to enter the Makuta's Lair."
-msgstr ""
+msgstr "Część klucza potrzebnego, aby wejść do Kryjówki Makuty."
 
 #. Key:	Gen_ObtaintheMakokiStone
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18258,7 +18259,7 @@ msgstr "Porozmawiaj z {Facing}"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_SpeakTo"
 msgid "Speak to {NPC}"
-msgstr ""
+msgstr "Porozmawiaj z {NPC}"
 
 #. Key:	Gen_Waikiru
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -21147,7 +21148,7 @@ msgstr "Użyj kółka myszy, aby oddalać/przybliżać"
 #: /Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.TextBlock_196.Text
 msgctxt "UIText_Description,ThankYou_Header"
 msgid "Thank you for playing!"
-msgstr ""
+msgstr "Dziękujemy za grę!"
 
 #. Key:	ThankYou_Message
 #. SourceLocation:	/Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.RichTextBlock_111.Text
@@ -21160,6 +21161,11 @@ msgid ""
 "\r\n"
 "<Key>To keep a closer eye on our </>Legacy<Key>, check out our social media:</>"
 msgstr ""
+"<Key>Wszyscy z Team Kanohi dziękujemy Ci za granie w naszą grę!</>\r\n"
+"\r\n"
+"<Key>Prace nad Masks of Power trwają już od ponad 6 lat, a teraz, gdy Legacy jest w końcu ukończone, będziemy mogli w pełni skupić się na wersji 2.0. Dziękujemy, że byliście z nami przez cały ten czas, mamy nadzieję, że wam się podobało i z niecierpliwością czekamcie na nasze przyszłe projekty!</>\r\n"
+"\r\n"
+"<Key>Aby być na bieżąco z naszym </>Legacy<Key>, sprawdź nasze media społecznościowe:</>"
 
 #. Key:	ThankYou_Website
 #. SourceLocation:	/Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.TextBlock_3.Text
@@ -21233,7 +21239,7 @@ msgstr "Wszyscy Toa Posiadają Tą Maskę"
 #: /Game/BluePrints/Classes/Inventory/UI_TempInventory.Default__UI_TempInventory_C.NoItemsText
 msgctxt "UIText_Description,UI_NoItemsDesc"
 msgid "Looks like you have a whole lot of nothing in your inventory! Better go find something to put in here."
-msgstr ""
+msgstr "Wygląda na to, że masz masę niczego w swoim ekwipunku! Lepiej znajdź coś, co możesz tu umieścić."
 
 #. Key:	UI_NoItemsName
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_TempInventory.Default__UI_TempInventory_C.NoItemsItemName
@@ -21255,7 +21261,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt "UIText_Description,UICodexPageAdded_ItemGained"
 msgid "Item Gathered"
-msgstr ""
+msgstr "Przedmiot zebrany"
 
 #. Key:	UICodexPageAdded_ItemRemoved
 #. SourceLocation:	/Game/BluePrints/UI/CodexPageAdded.CodexPageAdded_C:ExecuteUbergraph_CodexPageAdded [Script Bytecode]
@@ -21263,7 +21269,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt "UIText_Description,UICodexPageAdded_ItemRemoved"
 msgid "Item Removed"
-msgstr ""
+msgstr "Przedmiot usunięty"
 
 #. Key:	UIGetMask_GainMaskText
 #. SourceLocation:	/Game/BluePrints/UI/GetMask.Default__GetMask_C.MaskGainedPreamble
@@ -21273,6 +21279,8 @@ msgid ""
 "{Toa} has picked up the \r\n"
 "\"{Mask}\""
 msgstr ""
+"{Toa} podniósł \r\n"
+"\"{Mask}\""
 
 #. Key:	Cosmetics_BlackMask_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
@@ -21288,7 +21296,7 @@ msgstr "Tajemnicza Komau pokryta dziwną, czarną substancją. Substancja na pow
 #: [Script Bytecode]
 msgctxt "UIText_Description_Cosmetics,Cosmetics_CopperMask_Description"
 msgid "A copper mask of victory found in the Po-temple."
-msgstr ""
+msgstr "Miedziana maska zwycięstwa znaleziona w Po-świątyni."
 
 #. Key:	Cosmetics_CrystalMask_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
