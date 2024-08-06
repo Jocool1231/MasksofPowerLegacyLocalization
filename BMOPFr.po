@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2024-04-30 22:44\n"
-"PO-Revision-Date: 2024-08-02 21:55+0200\n"
+"PO-Revision-Date: 2024-08-06 22:58+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr_FR\n"
@@ -12628,7 +12628,7 @@ msgstr "C'est bon de te voir, $T."
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PoduFailGeneral1.Default__DL_PoduFailGeneral1_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduFailGeneral1"
 msgid "Just for Kopaka... again. It feels like I’ve been out here for so long... but at least it’s better than Ko-Koro."
-msgstr ""
+msgstr "Juste pour Kopaka... encore. J'ai l'impression que je suis resté ici si longtemps... Mais au moins c'est mieux que Ko-Koro."
 
 #. Key:	DL_PoduFailKopaka1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PoduFailKopaka1.Default__DL_PoduFailKopaka1_C.DialogueText
@@ -12642,14 +12642,14 @@ msgstr "EST-CE QUE QUELQU'UN A DIT POHATU ?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PoduFailKopaka2.Default__DL_PoduFailKopaka2_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduFailKopaka2"
 msgid "Well that’s just perfect timing on my part. You ready?"
-msgstr ""
+msgstr "Eh bien, c'est du timing parfait de ma part. T'es prêt ?"
 
 #. Key:	DL_PoduFailKopakaRematch
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PoduFailKopakaRematch.Default__DL_PoduFailKopakaRematch_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PoduFailKopakaRematch.Default__DL_PoduFailKopakaRematch_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduFailKopakaRematch"
 msgid "That’s good enough. Let’s Race!"
-msgstr ""
+msgstr "C'est bien assez. C'est parti pour la course !"
 
 #. Key:	DL_PoduFailPohatu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PoduFailPohatu.Default__DL_PoduFailPohatu_C.DialogueText
@@ -12663,14 +12663,14 @@ msgstr "Tu es le seul Toa que j'ai vu, Pohatu."
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PoduFailPohatu1.Default__DL_PoduFailPohatu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduFailPohatu1"
 msgid "...Sure thing."
-msgstr ""
+msgstr "... Bien sûr."
 
 #. Key:	DL_PoduRace1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRace1.Default__DL_PoduRace1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRace1.Default__DL_PoduRace1_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRace1"
 msgid "It’s a lot… c-c-colder here than it is in Po-Koro…"
-msgstr ""
+msgstr "C'est beaucoup p-p-plus froit ici qu'à Po-Koro..."
 
 #. Key:	DL_PoduRace2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRace2.Default__DL_PoduRace2_C.DialogueText
@@ -12684,56 +12684,56 @@ msgstr "Soupir…"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRaceActive.Default__DL_PoduRaceActive_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceActive"
 msgid "Don't talk to me, you have a race to win!"
-msgstr "Ne me parle pas, tu as une course à gagner !"
+msgstr "Ne me parlez pas, vous avez une course à gagner !"
 
 #. Key:	DL_PoduRaceGeneral
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceGeneral.Default__DL_PoduRaceGeneral_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceGeneral.Default__DL_PoduRaceGeneral_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceGeneral"
 msgid "Well, I’m here on somewhat of an urgent mission… I need to find Toa Kopaka and talk to him!"
-msgstr ""
+msgstr "Eh bien, je suis ici pour une mission relativement urgente... Je dois trouver le Toa Kopaka et lui parler !"
 
 #. Key:	DL_PoduRaceGeneral2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRaceGeneral2.Default__DL_PoduRaceGeneral2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRaceGeneral2.Default__DL_PoduRaceGeneral2_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceGeneral2"
 msgid "Well I’m just waiting for Toa Kopaka… I told him that this is where he needed to come, but I’m worried that he’s simply forgotten."
-msgstr ""
+msgstr "Je suis juste en train d'attendre pour le Toa Kopaka... Je lui ai dit que c'était ici qu'il devait venir, mais je crains qu'il ait simplement oublié."
 
 #. Key:	DL_PoduRaceKopaka
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopaka.Default__DL_PoduRaceKopaka_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopaka.Default__DL_PoduRaceKopaka_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceKopaka"
 msgid "Well I’ve been looking for you, Toa Kopaka!"
-msgstr "Et bien je te cherchais, Toa Kopaka !"
+msgstr "Et bien je vous cherchais, Toa Kopaka !"
 
 #. Key:	DL_PoduRaceKopaka2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopaka2.Default__DL_PoduRaceKopaka2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopaka2.Default__DL_PoduRaceKopaka2_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceKopaka2"
 msgid "I wasn’t told much, only that it was urgent for you to hear this. You must travel to the very northern tip of Po-Wahi, past the old Temple."
-msgstr ""
+msgstr "On ne m'a pas dit beaucoup, simplement que c'était urgent que vous entendiez ceci. Vous devez voyager jusqu'à l'extrémité nord de Po-Wahi, par delà le vieux Temple."
 
 #. Key:	DL_PoduRaceKopakaCutscene
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRaceKopakaCutscene.Default__DL_PoduRaceKopakaCutscene_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRaceKopakaCutscene.Default__DL_PoduRaceKopakaCutscene_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceKopakaCutscene"
 msgid "Perfect! You’re here! Now all we need to do is wait for..."
-msgstr "Parfait ! Te voilà ! Maintenant tout ce qu'il faut, c'est attendre..."
+msgstr "Parfait ! Vous voilà ! Maintenant tout ce qu'il faut, c'est attendre..."
 
 #. Key:	DL_PoduRaceKopakaExit
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaExit.Default__DL_PoduRaceKopakaExit_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaExit.Default__DL_PoduRaceKopakaExit_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceKopakaExit"
 msgid "Thank you, Kopaka. Oh, and one other thing- I was told that you should bring a Kakama if you have one. Some legends say there’s one in the hidden Temple..."
-msgstr ""
+msgstr "Merci, Kopaka. Oh, et autre-chose - on m'a dit que vous devriez apporter un Kakama si vous en avez. Certaines légendes racontent qu'il y en a un dans le Temple caché..."
 
 #. Key:	DL_PoduRaceKopakaWhat
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWhat.Default__DL_PoduRaceKopakaWhat_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWhat.Default__DL_PoduRaceKopakaWhat_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceKopakaWhat"
 msgid "I’m… not quite sure honestly. All I know is that it’s urgent. There isn’t much past the hidden Temple, so your guess is as good as mine."
-msgstr ""
+msgstr "Je... Ne suis pas certain, en vérité. Tout ce que je sais, c'est que c'est urgent. Il n'y a pas grand-chose par delà le Temple caché, donc j'en sais autant que vous."
 
 #. Key:	DL_PoduRaceKopakaWho
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWho.Default__DL_PoduRaceKopakaWho_C.DialogueText
@@ -12775,7 +12775,7 @@ msgstr "Soupir…"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/DeclineReturn/DL_PoduRaceReturnKopaka.Default__DL_PoduRaceReturnKopaka_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceReturnKopaka"
 msgid "Finally! Now if only Pohatu were to show up..."
-msgstr ""
+msgstr "Enfin ! Maintenant, si seulement Pohatu pouvait arriver..."
 
 #. Key:	DL_PoduRaceReturnKopakaPohatu1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/DeclineReturn/DL_PoduRaceReturnKopakaPohatu1.Default__DL_PoduRaceReturnKopakaPohatu1_C.DialogueText
@@ -12796,14 +12796,14 @@ msgstr "Bien sûr que non ! Pas tout le temps."
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/DeclineReturn/DL_PoduRaceReturnPohatu.Default__DL_PoduRaceReturnPohatu_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceReturnPohatu"
 msgid "Not yet... you think he’s ever gonna show up again?"
-msgstr ""
+msgstr "Pas encore... Vous pensez qu'il va revenir un jour ?"
 
 #. Key:	DL_PoduRaceReturnPohatu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/DeclineReturn/DL_PoduRaceReturnPohatu2.Default__DL_PoduRaceReturnPohatu2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/DeclineReturn/DL_PoduRaceReturnPohatu2.Default__DL_PoduRaceReturnPohatu2_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceReturnPohatu2"
 msgid "...You might not know him as well as you think."
-msgstr ""
+msgstr "... Vous ne le connaissez peut-être pas aussi bien que vous le pensez."
 
 #. Key:	DL_Poekae
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Poekae.Default__DL_Poekae_C.DialogueText
@@ -12817,42 +12817,42 @@ msgstr "Bienvenue Toa, aux Marchandises de Poekae !"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Poekae1.Default__DL_Poekae1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Poekae1"
 msgid "Why only the best treatment for all alements, Wahae-Mata Gel! It can cure everything from joint pain to a cracked mask!"
-msgstr ""
+msgstr "Eh bien le meilleur traitement pour tous les maux, le Gel Wahae-Mata ! Il peut tout guérir, des douleurs aux articulations jusqu'aux fissures de masque !"
 
 #. Key:	DL_Poekae2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Poekae2.Default__DL_Poekae2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Poekae2.Default__DL_Poekae2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Poekae2"
 msgid "Of course it can, just try it yourself! While you're here, check out our Wahae-Mata Canister, it holds a large amount of Gel so you can keep feeling good for longer!"
-msgstr ""
+msgstr "Bien sûr qu'il peut ! Essayez par vous-même ! Tant que vous êtes ici, regardez notre cartouche de Wahae-Mata, elle contient une grande quantité de Gel pour que vous puissiez vous sentir à l'aise encore plus longtemps !"
 
 #. Key:	DL_Pohatu1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Pohatu1.Default__DL_Pohatu1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Pohatu1.Default__DL_Pohatu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Pohatu1"
 msgid "What do you mean? Each of us has collected the masks, found the Makoki stones, and done all that we are to do to face our destiny! How could we be more prepared?"
-msgstr ""
+msgstr "Qu'est-ce que tu veux dire ? Chacun d'entre nous a rassemblé les masques, trouvé les pierres Makoki, et fait tout ce que nous avions à faire pour faire face à notre destinée ! Comment pourrais-tu être mieux préparé ?"
 
 #. Key:	DL_PohatuLoseRace1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PohatuLoseRace1.Default__DL_PohatuLoseRace1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PohatuLoseRace1.Default__DL_PohatuLoseRace1_C.DialogueText
 msgctxt "Dialogue_Text,DL_PohatuLoseRace1"
 msgid "Well played, brother! You almost had me for a bit there. You wouldn’t happen to care for a rematch, would you?"
-msgstr ""
+msgstr "Bien joué mon frère ! Tu as presque failli m'avoir. Tu ne serais pas partant pour une revanche, des fois ?"
 
 #. Key:	DL_PohatuLoseRaceNo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PohatuLoseRaceNo.Default__DL_PohatuLoseRaceNo_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PohatuLoseRaceNo.Default__DL_PohatuLoseRaceNo_C.DialogueText
 msgctxt "Dialogue_Text,DL_PohatuLoseRaceNo"
 msgid "...Oh well. If you ever change your mind, you know where to find Podu! "
-msgstr ""
+msgstr "... Oh, tant pis. Si vous changez d'avis, vous savez où trouver Podu !"
 
 #. Key:	DL_PohatuLoseRaceYes
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PohatuLoseRaceYes.Default__DL_PohatuLoseRaceYes_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PohatuLoseRaceYes.Default__DL_PohatuLoseRaceYes_C.DialogueText
 msgctxt "Dialogue_Text,DL_PohatuLoseRaceYes"
 msgid "That’s the spirit! Race you back to Podu!"
-msgstr "C'est l'idée ! On fait la course vers Podu !"
+msgstr "C'est ça qu'on veut ! On fait la course vers Podu !"
 
 #. Key:	DL_PotMaker
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMaker.Default__DL_PotMaker_C.DialogueText
@@ -12866,28 +12866,28 @@ msgstr "Oh, heu. Salut Toa $T."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMaker1.Default__DL_PotMaker1_C.DialogueText
 msgctxt "Dialogue_Text,DL_PotMaker1"
 msgid "I make pots, I'm currently inspecting them as the final stage before I sell them. Usually I sell them to local shops, but would you like to buy one from me?"
-msgstr ""
+msgstr "Je fabrique des pots, je suis actuellement en train de les inspecter, ce qui est la phase finale avant leur vente. D'habitude, je les vends aux magasins locaux, mais voudriez-vous m'en acheter ?"
 
 #. Key:	DL_PotMakerBacktoNormal
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerBacktoNormal.Default__DL_PotMakerBacktoNormal_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerBacktoNormal.Default__DL_PotMakerBacktoNormal_C.DialogueText
 msgctxt "Dialogue_Text,DL_PotMakerBacktoNormal"
 msgid "Oh, Uhh. Hello again Toa $T."
-msgstr "Oh, heu. Rebonjour Toa $T."
+msgstr "Oh, euuh. Rebonjour Toa $T."
 
 #. Key:	DL_PotMakerBacktoNormal1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerBacktoNormal1.Default__DL_PotMakerBacktoNormal1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerBacktoNormal1.Default__DL_PotMakerBacktoNormal1_C.DialogueText
 msgctxt "Dialogue_Text,DL_PotMakerBacktoNormal1"
 msgid "A Toa, check up on me? Uhh, I'm okay I guess. Kohi was a friend but we weren't that close... I just hope he's okay."
-msgstr ""
+msgstr "Un Toa qui prend de mes nouvelles ? Hum, je vais bien j'imagine. Kohi était un ami, mais nous n'étions pas si proches... J'espère juste qu'il va bien."
 
 #. Key:	DL_PotMakerTrade1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerTrade1.Default__DL_PotMakerTrade1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerTrade1.Default__DL_PotMakerTrade1_C.DialogueText
 msgctxt "Dialogue_Text,DL_PotMakerTrade1"
 msgid "I do! Usually I sell them to local retailers, but I suppose you could buy one from me if you want."
-msgstr ""
+msgstr "Tout à fait ! D'ordinaire je les vends à des marchands locaux, mais j'imagine que vous pourriez m'en acheter si le cœur vous en dit."
 
 #. Key:	DL_PotMakerWhatHappened
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerWhatHappened.Default__DL_PotMakerWhatHappened_C.DialogueText
@@ -12901,112 +12901,112 @@ msgstr "Je-je ne pensais -"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerWhatHappened1.Default__DL_PotMakerWhatHappened1_C.DialogueText
 msgctxt "Dialogue_Text,DL_PotMakerWhatHappened1"
 msgid "I think it was attacked! I live next door you see, and while I was asleep I heard some strange sounds. I thought they were just Kohi's usual late night metal working, but the klangs sounded more bombastic than usual. After a while they stopped but once I woke up I found that Kohi was missing, and this had happened to his shop!"
-msgstr ""
+msgstr "Je pense qu'il a été attaqué ! Oh, eh bien, je dormais et j'ai entendu des bruits étranges. Je pensais que c'était juste le bruit de Kohi qui travaillait de nuit dans sa forge, mais les battements étaient plus tonitruants que d'habide. Après un moment ils se sont arrêtés mais quand je me suis réveillé j'ai réalisé que Kohi avait disparu, et que tout ceci était arrivé à son échoppe !"
 
 #. Key:	DL_PotMakerWhatHappened1Alt
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerWhatHappened1Alt.Default__DL_PotMakerWhatHappened1Alt_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerWhatHappened1Alt.Default__DL_PotMakerWhatHappened1Alt_C.DialogueText
 msgctxt "Dialogue_Text,DL_PotMakerWhatHappened1Alt"
 msgid "You- You remembered me? Oh, well I was asleep and I heard some strange sounds. I thought they were just Kohi's usual late night metal working, but the klangs sounded more bombastic than usual. After a while they stopped but once I woke up I found that Kohi was missing, and this had happened to his shop!"
-msgstr ""
+msgstr "Vous - Vous vous souvenez de moi ? Oh, eh bien, je dormais et j'ai entendu des bruits étranges. Je pensais que c'était juste le bruit de Kohi qui travaillait de nuit dans sa forge, mais les battements étaient plus tonitruants que d'habide. Après un moment ils se sont arrêtés mais quand je me suis réveillé j'ai réalisé que Kohi avait disparu, et que tout ceci était arrivé à son échoppe !"
 
 #. Key:	DL_PotMakerWhatHappened2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerWhatHappened2.Default__DL_PotMakerWhatHappened2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerWhatHappened2.Default__DL_PotMakerWhatHappened2_C.DialogueText
 msgctxt "Dialogue_Text,DL_PotMakerWhatHappened2"
 msgid "No! I've asked about everyone in Po-Koro, and no one knows!"
-msgstr ""
+msgstr "Non ! J'ai demandé à tout le monde à Po-Koro, et personne ne sait !"
 
 #. Key:	DL_PotMakerWhatHappened3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerWhatHappened3.Default__DL_PotMakerWhatHappened3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerWhatHappened3.Default__DL_PotMakerWhatHappened3_C.DialogueText
 msgctxt "Dialogue_Text,DL_PotMakerWhatHappened3"
 msgid "One of the guards thought he saw a Tarakava driving away from Po-Koro, but that's impossible. Tarakava don't live in Po-Wahi, and this is much too far from anywhere they WOULD live! I suppose it could be the fabled Sand-Tarakava, but those are just a myth..."
-msgstr ""
+msgstr "Un de mes gardes a cru voir un Tarakava roulant au loin de Po-Koro, mais c'est impossible. Les Tarakava ne vivent pas à Po-Wahi, et c'est bien trop loin d'aucun endroit où ils POURRAIENT vivre ! J'imagine que ce pourrait être le Tarakava des Sables de la légende, mais ce n'est qu'un mythe..."
 
 #. Key:	DL_PotMakerWhatHappened4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerWhatHappened4.Default__DL_PotMakerWhatHappened4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerWhatHappened4.Default__DL_PotMakerWhatHappened4_C.DialogueText
 msgctxt "Dialogue_Text,DL_PotMakerWhatHappened4"
 msgid "I- I don't know... I hate to say it but, I don't think so."
-msgstr ""
+msgstr "Je - Je ne sais pas... J'ai horreur de dire ça, mais je ne crois pas. "
 
 #. Key:	DL_ProtoSeller
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_ProtoSeller.Default__DL_ProtoSeller_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_ProtoSeller.Default__DL_ProtoSeller_C.DialogueText
 msgctxt "Dialogue_Text,DL_ProtoSeller"
 msgid "Greetings, I have Protodermis for you Toa, need a boost of energy? I've got that too!"
-msgstr ""
+msgstr "Salutations, j'ai de la Protodermis pour vous Toa, avez-vous besoin d'un boost d'énergie ? J'ai de ça aussi !"
 
 #. Key:	DL_QuarterMaster1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster1.Default__DL_QuarterMaster1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster1.Default__DL_QuarterMaster1_C.DialogueText
 msgctxt "Dialogue_Text,DL_QuarterMaster1"
 msgid "*Seething to self* What exactly am I supposed to do with four crates of CLASS TWOS?! When I specifically requested CLASS ONES!"
-msgstr ""
+msgstr "*Marmonne dans sa barbe* Qu'est-ce que je suis sensé faire avec quatre caisses de CLASSE DEUX ?! Alors que j'avais spécifiquement demandé des CLASSE UNE !"
 
 #. Key:	DL_QuarterMaster10
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster10.Default__DL_QuarterMaster10_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster10.Default__DL_QuarterMaster10_C.DialogueText
 msgctxt "Dialogue_Text,DL_QuarterMaster10"
 msgid "You have the pikes now. If you would be so kind, return them to the fool who sent them."
-msgstr ""
+msgstr "Vous avez les piques maintenant. Auriez-vous l'obligeance de les retourner à l'idiot qui nous les a envoyés ?"
 
 #. Key:	DL_QuarterMaster11
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster11.Default__DL_QuarterMaster11_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster11.Default__DL_QuarterMaster11_C.DialogueText
 msgctxt "Dialogue_Text,DL_QuarterMaster11"
 msgid "I have finally received the correct pikes thanks to you Toa."
-msgstr "J'ai finalement reçu les bons pics, merci Toa."
+msgstr "J'ai finalement reçu les bonnes piques, merci Toa."
 
 #. Key:	DL_QuarterMaster2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster2.Default__DL_QuarterMaster2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster2.Default__DL_QuarterMaster2_C.DialogueText
 msgctxt "Dialogue_Text,DL_QuarterMaster2"
 msgid "Toa! I didn't see you there... I suppose there is yes, Would you mind speaking to Takar about this mix up? He's the staff seller just outside of Ta-Koro."
-msgstr ""
+msgstr "Toa ! Je ne vous avis pas vu... J'imagine que oui, voudriez-vous parler à Takar à-propos de cette erreur ? C'est le vendeur de bâtons juste à l'extérieur de Ta-Koro."
 
 #. Key:	DL_QuarterMaster3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster3.Default__DL_QuarterMaster3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster3.Default__DL_QuarterMaster3_C.DialogueText
 msgctxt "Dialogue_Text,DL_QuarterMaster3"
 msgid "Good, meanwhile I'll just stare at these useless things."
-msgstr ""
+msgstr "Bien, pendant ce temps je vais juste contempler ces objets inutiles."
 
 #. Key:	DL_QuarterMaster4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster4.Default__DL_QuarterMaster4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster4.Default__DL_QuarterMaster4_C.DialogueText
 msgctxt "Dialogue_Text,DL_QuarterMaster4"
 msgid "Welcome back Toa, have you spoken to that fool yet?"
-msgstr ""
+msgstr "Bon retour parmi-nous Toa, avez-vous déjà parlé à cet illuminé ?"
 
 #. Key:	DL_QuarterMaster5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster5.Default__DL_QuarterMaster5_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster5.Default__DL_QuarterMaster5_C.DialogueText
 msgctxt "Dialogue_Text,DL_QuarterMaster5"
 msgid "Finally, some good news. Did he send you to pick up these ones then?"
-msgstr ""
+msgstr "Enfin, de bonnes nouvelles. Vous a-t-il envoyé pour les chercher ? "
 
 #. Key:	DL_QuarterMaster6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster6.Default__DL_QuarterMaster6_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster6.Default__DL_QuarterMaster6_C.DialogueText
 msgctxt "Dialogue_Text,DL_QuarterMaster6"
 msgid "It's the logical choice. You're strong, fast, and best of all free."
-msgstr ""
+msgstr "C'est le choix logique. Vous êtes fort, rapide et surtout libre."
 
 #. Key:	DL_QuarterMaster7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster7.Default__DL_QuarterMaster7_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster7.Default__DL_QuarterMaster7_C.DialogueText
 msgctxt "Dialogue_Text,DL_QuarterMaster7"
 msgid "Strange, It's not everyday you hear about Toa being paid to do a petty task, usually they just do them for free."
-msgstr ""
+msgstr "Etrange, ce n'est pas tous les jours qu'on voit un Toa être payé pour faire une tâche aussi triviale, d'habitude ils le font gratuitement."
 
 #. Key:	DL_QuarterMaster8
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster8.Default__DL_QuarterMaster8_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster8.Default__DL_QuarterMaster8_C.DialogueText
 msgctxt "Dialogue_Text,DL_QuarterMaster8"
 msgid "I suppose that could be true for some, but being paid is usually my prefered route."
-msgstr ""
+msgstr "Je suppose que ça pourrait être vrai pour certains, mais être payé est généralement ma méthode favorite."
 
 #. Key:	DL_QuarterMaster9
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster9.Default__DL_QuarterMaster9_C.DialogueText
@@ -13020,21 +13020,21 @@ msgstr "Ah oui, j'ai presque oublié. Allons-y."
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatu1.Default__DL_RacePohatu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatu1"
 msgid "Brother!"
-msgstr "Frère !"
+msgstr "Mon frère !"
 
 #. Key:	DL_RacePohatu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatu2.Default__DL_RacePohatu2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatu2.Default__DL_RacePohatu2_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatu2"
 msgid "What’s wrong? You don’t look happy to see me. I thought you’d enjoy getting to spend some time with a good friend!"
-msgstr ""
+msgstr "Qu'est-ce qui ne va pas ? Tu n'as pas l'air content de me voir. Je pensais que tu aimerais passer un peu de temps avec un bon ami !"
 
 #. Key:	DL_RacePohatu3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatu3.Default__DL_RacePohatu3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatu3.Default__DL_RacePohatu3_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatu3"
 msgid "Oh, what’s the difference? But hey, if that’s gonna be your attitude about it, it's a good thing I brought you down here for some good old friendly competition."
-msgstr ""
+msgstr "Oh, quelle différence ? Mais hey, si tu vas râler à cause de ça, c'est une bonne chose que je t'aie amené ici pour une petite compétition amicale."
 
 #. Key:	DL_RacePohatu4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatu4.Default__DL_RacePohatu4_C.DialogueText
@@ -13062,28 +13062,28 @@ msgstr "Une course amicale, c'est tout ! D'ici à Po-Koro. Juste toi et moi !"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatu7.Default__DL_RacePohatu7_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatu7"
 msgid "There’s a very stylish prize for you if you win."
-msgstr ""
+msgstr "Il y a un prix très stylé pour toi si tu gagnes."
 
 #. Key:	DL_RacePohatuAccept
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuAccept.Default__DL_RacePohatuAccept_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuAccept.Default__DL_RacePohatuAccept_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuAccept"
 msgid "Excellent! First one to make it to the gates of Po-Koro wins! Hope you’re ready!"
-msgstr ""
+msgstr "Excellent ! Le premier à atteindre les portes de Po-Koro gagne ! J'espère que tu es prêt !"
 
 #. Key:	DL_RacePohatuLeave
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuLeave.Default__DL_RacePohatuLeave_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuLeave.Default__DL_RacePohatuLeave_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuLeave"
 msgid "Very well... just let Podu here know WHEN you change your mind."
-msgstr ""
+msgstr "Très bien... Tiens juste Podu au courant de QUAND tu auras changé d'avis."
 
 #. Key:	DL_RacePohatuPodu1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuPodu1.Default__DL_RacePohatuPodu1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuPodu1.Default__DL_RacePohatuPodu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuPodu1"
 msgid "Huh? What do I have to do with this?"
-msgstr ""
+msgstr "Hein ? Qu'est-ce que j'ai à voir avec ça ?"
 
 #. Key:	DL_RacePohatuPodu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuPodu2.Default__DL_RacePohatuPodu2_C.DialogueText
@@ -13097,63 +13097,63 @@ msgstr "C'était à moitié mon idée."
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy.Default__DL_RacePohatuWhy_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuWhy"
 msgid "Well you just haven’t seen it yet! Trust me- it is a VERY cool hat."
-msgstr ""
+msgstr "Mais tu ne l'as pas encore vu ! C'est un chapeau TRES stylé."
 
 #. Key:	DL_RacePohatuWhy2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy2.Default__DL_RacePohatuWhy2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy2.Default__DL_RacePohatuWhy2_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuWhy2"
 msgid "Well I don’t want to race anyone else but you."
-msgstr ""
+msgstr "Eh bien je ne veux pas courir contre qui que ce soit à part toi."
 
 #. Key:	DL_RacePohatuWhy3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy3.Default__DL_RacePohatuWhy3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy3.Default__DL_RacePohatuWhy3_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuWhy3"
 msgid "Yes! ...But also because of the Island-wide poll I did."
-msgstr ""
+msgstr "Oui ! ... Mais également grâce à l'enquête que j'ai fait courir dans toute l'île."
 
 #. Key:	DL_RacePohatuWhy4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy4.Default__DL_RacePohatuWhy4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy4.Default__DL_RacePohatuWhy4_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuWhy4"
 msgid "I held a vote asking Matoran from all across the island who their favorite Toa was - And you won!"
-msgstr ""
+msgstr "J'ai appelé les Matoran de toute l'île au vote pour savoir quel était leur Toa favori - Et tu as gagné !"
 
 #. Key:	DL_RacePohatuWhy5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy5.Default__DL_RacePohatuWhy5_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy5.Default__DL_RacePohatuWhy5_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuWhy5"
 msgid "I do as well. Though I did come in a very close second... half a percent of the vote! A little outrageous if you ask me, but you still won, fair and square."
-msgstr ""
+msgstr "Je pense aussi. Bien que je sois arrivé deuxième à peu de choses près... Un demi pour cent du vote ! Un peu outrageux si tu veux mon avis, mais tu as néanmoins gagné, dans les règles."
 
 #. Key:	DL_RacePohatuWhy6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy6.Default__DL_RacePohatuWhy6_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy6.Default__DL_RacePohatuWhy6_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuWhy6"
 msgid "Oh, quit being so serious all the time, Kopaka! You’re always the one who is most dedicated out of all of us - don’t you think you deserve a little bit of fun now and then?"
-msgstr ""
+msgstr "Oh, arrête d'être aussi sérieux tout le temps, Kopaka ! Tu es toujours le plus dévoué d'entre nous - ne crois-tu pas que tu mérites un peu d'amusement une fois de temps en temps ?"
 
 #. Key:	DL_RacePohatuWhy7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy7.Default__DL_RacePohatuWhy7_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy7.Default__DL_RacePohatuWhy7_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuWhy7"
 msgid "...How about this, then. If you beat me in this race, it shall prove once and for all that you are the superior Toa, and you shall be burdened by the plight of my comradery for no longer."
-msgstr ""
+msgstr "... Voici alors ma proposition. Si tu me bats à cette course, ce sera la preuve indéniable que tu es le Toa supérieur, et tu ne devras plus supporter ma camaraderie une seconde de plus."
 
 #. Key:	DL_RahiAboutTemple
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/CaveTemple/DL_RahiAboutTemple.Default__DL_RahiAboutTemple_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/CaveTemple/DL_RahiAboutTemple.Default__DL_RahiAboutTemple_C.DialogueText
 msgctxt "Dialogue_Text,DL_RahiAboutTemple"
 msgid "Why are you talking to me? The- The Rahi, they're still here!"
-msgstr ""
+msgstr "Pourquoi m'adressez-vous la parole ? Les - Les Rahi, ils sont toujours là !"
 
 #. Key:	DL_RockGuy
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_RockGuy.Default__DL_RockGuy_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_RockGuy.Default__DL_RockGuy_C.DialogueText
 msgctxt "Dialogue_Text,DL_RockGuy"
 msgid "Howdy Toa, Welcome to the back end of nowhere - otherwise known as my shop!"
-msgstr ""
+msgstr "Salut Toa, bienvenue au milieu de nulle-part - aussi connu sous le nom de mon magasin !"
 
 #. Key:	DL_SadKolhiiPlayer
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayer.Default__DL_SadKolhiiPlayer_C.DialogueText
@@ -13181,7 +13181,7 @@ msgstr "Non..."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerAlreadyHave.Default__DL_SadKolhiiPlayerAlreadyHave_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerAlreadyHave"
 msgid "You do? How - Oh right you're a Toa. Can I..."
-msgstr ""
+msgstr "Vous en avez ? Comment - Ah oui, vous êtes un Toa. Puis-je..."
 
 #. Key:	DL_SadKolhiiPlayerComplete1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerComplete1.Default__DL_SadKolhiiPlayerComplete1_C.DialogueText
@@ -13195,126 +13195,126 @@ msgstr "Rebonjour Toa !"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerComplete2.Default__DL_SadKolhiiPlayerComplete2_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerComplete2"
 msgid "Absolutely! I would be playing with it now but I've been feeling rather tired recently, I figured it would be better for me to rest for now."
-msgstr ""
+msgstr "Absolument ! Je jouerais bien avec maintenant mais je me suis sens assez fatigué ces derniers temps, je me suis dit qu'il serait mieux pour moi de me reposer maintenant."
 
 #. Key:	DL_SadKolhiiPlayerCompleteQuest
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerCompleteQuest.Default__DL_SadKolhiiPlayerCompleteQuest_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerCompleteQuest.Default__DL_SadKolhiiPlayerCompleteQuest_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerCompleteQuest"
 msgid "Thank you so much for this Toa, I am forever indebted to you!"
-msgstr ""
+msgstr "Merci beaucoup pour tout ça Toa, je suis pour toujours votre débiteur !"
 
 #. Key:	DL_SadKolhiiPlayerExplain
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerExplain.Default__DL_SadKolhiiPlayerExplain_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerExplain.Default__DL_SadKolhiiPlayerExplain_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerExplain"
 msgid "I- I can't buy a Comet... I worked hard, I saved everything up, and when I had just enough I sold my kohlii ball to get me over the top! But right when I went to buy one the price got raised! As much as I want to, I can't blame Ahkmou, they are in very high demand."
-msgstr ""
+msgstr "Je- Je ne peux pas acheter une Comète... J'ai travaillé dur, j'ai tout économisé, et juste quand j'avais assez, j'ai vendu ma balle de Kohlii pour me donner un boost ! Mais dès que je suis venu l'acheter, le prix a augmenté ! Aussi fort que je puisse le vouloir, je n'en veux pas à Ahkmou, ils sont en très forte demande."
 
 #. Key:	DL_SadKolhiiPlayerExplainAgain
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerExplainAgain.Default__DL_SadKolhiiPlayerExplainAgain_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerExplainAgain.Default__DL_SadKolhiiPlayerExplainAgain_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerExplainAgain"
 msgid "That's okay, I'll just sit here and sulk some more..."
-msgstr ""
+msgstr "Ce n'est pas grave, je vais juste rester ici et bouder encore un peu..."
 
 #. Key:	DL_SadKolhiiPlayerFullPrice1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerFullPrice1.Default__DL_SadKolhiiPlayerFullPrice1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerFullPrice1.Default__DL_SadKolhiiPlayerFullPrice1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerFullPrice1"
 msgid "What, you'd pay for it all - are you sure?"
-msgstr ""
+msgstr "Quoi, vous payeriez pour tout ça - êtes-vous sûr ?"
 
 #. Key:	DL_SadKolhiiPlayerFullPrice2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerFullPrice2.Default__DL_SadKolhiiPlayerFullPrice2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerFullPrice2.Default__DL_SadKolhiiPlayerFullPrice2_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerFullPrice2"
 msgid "Uhh, in exchange I can give you... Umm... This! I found it lying around outside Po-Koro, maybe it's worth something?"
-msgstr ""
+msgstr "Euuh, en échange je peux vous donner... Humm... Ceci ! Je l'ai trouvé perdu aux alentours de Po-Koro, peut-être que ça a de la valeur ?"
 
 #. Key:	DL_SadKolhiiPlayerGiveHalf
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerGiveHalf.Default__DL_SadKolhiiPlayerGiveHalf_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerGiveHalf.Default__DL_SadKolhiiPlayerGiveHalf_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerGiveHalf"
 msgid "You'd do that for me? Here it is, that's all I have, feel free to keep the change if there is any."
-msgstr ""
+msgstr "Vous feriez ça pour moi ? Voilà, c'est tout ce que j'ai, soyez libre de garder la monnaie s'il y en a."
 
 #. Key:	DL_SadKolhiiPlayerNoMoney
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerNoMoney.Default__DL_SadKolhiiPlayerNoMoney_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerNoMoney.Default__DL_SadKolhiiPlayerNoMoney_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerNoMoney"
 msgid "That's great, thank you Toa. I'm very glad that you have taken an interest in my petty needs."
-msgstr ""
+msgstr "C'est génial, merci Toa. Je suis très content de voir que vous avez de l'intérêt pour mes petites demandes."
 
 #. Key:	DL_SadKolhiiPlayerReturn
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerReturn.Default__DL_SadKolhiiPlayerReturn_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerReturn.Default__DL_SadKolhiiPlayerReturn_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerReturn"
 msgid "Oh Toa you're back! Did you manage to get a Comet yet?"
-msgstr ""
+msgstr "Oh Toa vous êtes de retour ! Avez-vous réussi à mettre la main sur une Comète ?"
 
 #. Key:	DL_SadKolhiiPlayerReturn1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerReturn1.Default__DL_SadKolhiiPlayerReturn1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerReturn1.Default__DL_SadKolhiiPlayerReturn1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerReturn1"
 msgid "You did? YEEESS! Hand it over!"
-msgstr ""
+msgstr "Vous l'avez ? OUIIII ! Donnez-le moi !"
 
 #. Key:	DL_SadKolhiiPlayerReturn2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerReturn2.Default__DL_SadKolhiiPlayerReturn2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerReturn2.Default__DL_SadKolhiiPlayerReturn2_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerReturn2"
 msgid "This is amazing Toa $T! I can't thank you enough!"
-msgstr "C'est incroyable Toa $T ! Je ne pourrais jamais te remercier assez !"
+msgstr "C'est incroyable Toa $T ! Je ne pourrais jamais vous remercier assez !"
 
 #. Key:	DL_SadKolhiiPlayerReturnNoMoneyReward
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerReturnNoMoneyReward.Default__DL_SadKolhiiPlayerReturnNoMoneyReward_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerReturnNoMoneyReward.Default__DL_SadKolhiiPlayerReturnNoMoneyReward_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerReturnNoMoneyReward"
 msgid "Oh yes of course, Uhh I could give you some of the money I had saved up, and maybe something else..."
-msgstr ""
+msgstr "Oh oui bien sûr, euuh, je pourrais vous donner l'argent que j'ai économisé, et peut-être autre-chose..."
 
 #. Key:	DL_SadKolhiiPlayerRewardItem
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerRewardItem.Default__DL_SadKolhiiPlayerRewardItem_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerRewardItem.Default__DL_SadKolhiiPlayerRewardItem_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerRewardItem"
 msgid "Uhh, perhaps I can give you... Umm... This! I found it lying around outside Po-Koro, maybe it's worth something?"
-msgstr ""
+msgstr "Euuh, peut-être que je peux vous donner... Humm... Ceci ! Je l'ai trouvé perdu à l'extérieur de Po-Koro, peut-être que ça a de la valeur ?"
 
 #. Key:	DL_ScaredConvo1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo1.Default__DL_ScaredConvo1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo1.Default__DL_ScaredConvo1_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvo1"
 msgid "Toa, You're here Finally! What took you so long!"
-msgstr "Toa, tu es finalement ici ! Qu'est-ce qui t'a pris aussi longtemps !"
+msgstr "Toa, vous êtes finalement arrivé ! Qu'est-ce qui vous a pris aussi longtemps !"
 
 #. Key:	DL_ScaredConvo10
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo10.Default__DL_ScaredConvo10_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo10.Default__DL_ScaredConvo10_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvo10"
 msgid "I would offer you the cargo, but most of it was eaten. Good luck Toa."
-msgstr "Je te donnerai bien la cargaison, mais la majeure partie a déjà été mangée. Bonne chance Toa."
+msgstr "Je vous donnerais bien la cargaison, mais la majeure partie a déjà été mangée. Bonne chance Toa."
 
 #. Key:	DL_ScaredConvo2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo2.Default__DL_ScaredConvo2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo2.Default__DL_ScaredConvo2_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvo2"
 msgid "We are, please exuse Laru, he's still very shaken up from the incident."
-msgstr ""
+msgstr "Nous le sommes, je vous prie d'excuser Laru, il est toujours assez secoué depuis l'incident."
 
 #. Key:	DL_ScaredConvo3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo3.Default__DL_ScaredConvo3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo3.Default__DL_ScaredConvo3_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvo3"
 msgid "The Tarakava down there sprinted at us from across the Pillar lands. Luckily, Me and Laru made it up here before they attacked - I think they wanted our cargo."
-msgstr "Les Tarakava en bas ont couru vers nous depuis la terre des Piliers. Par chance, moi et Laru avons réussi à monter avant leur attaque - je crois qu'ils voulaient notre cargaison."
+msgstr "Les Tarakava en bas ont couru vers nous depuis la terre des Piliers. Par chance, Laru et moi avons réussi à monter avant leur attaque - je crois qu'ils voulaient notre cargaison."
 
 #. Key:	DL_ScaredConvo4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo4.Default__DL_ScaredConvo4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo4.Default__DL_ScaredConvo4_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvo4"
 msgid "I was never allowed to look inside, though it smelled terrible. Based on what I can see it looks like some kind of fish."
-msgstr ""
+msgstr "Je n'ai jamais été autorisé à regarder à l'intérieur, bien que ça sente terriblement mauvais. D'après ce que je peux voir, cela ressemble à une sorte de poisson."
 
 #. Key:	DL_ScaredConvo5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo5.Default__DL_ScaredConvo5_C.DialogueText
@@ -13335,28 +13335,28 @@ msgstr "Calme-toi Laru, personne ne veut ton masque."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo7.Default__DL_ScaredConvo7_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvo7"
 msgid "NO NO YOU'RE WRONG! I smell like them, the Pink tailed ruki - It's their favorate treat! Wait, THEY'RE GOING TO EAT ME!"
-msgstr ""
+msgstr "NON NON C'EST FAUX ! Je les sens, les Ruki à queue rose - c'est leur friandise favorite ! Attendez, ILS VONT ME MANGER !"
 
 #. Key:	DL_ScaredConvo8
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo8.Default__DL_ScaredConvo8_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo8.Default__DL_ScaredConvo8_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvo8"
 msgid "Wait, Pink tailed Ruki? They're illegal in Po-Koro, why were we transporting this there?"
-msgstr ""
+msgstr "Attendez, des Ruki à queue rose ? Ils sont illégaux à Po-Koro, pourquoi les transportaient-ils ici ?"
 
 #. Key:	DL_ScaredConvo9
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo9.Default__DL_ScaredConvo9_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo9.Default__DL_ScaredConvo9_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvo9"
 msgid "Well, yes that's what it said on the order form. You know him?"
-msgstr ""
+msgstr "Eh bien, oui c'est ce qui était écrit sur le bon de commande. Vous le connaissez ?"
 
 #. Key:	DL_ScaredConvoWho
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvoWho.Default__DL_ScaredConvoWho_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvoWho.Default__DL_ScaredConvoWho_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvoWho"
 msgid "WHAT DO YOU MEAN? Omak didn't send you? Gah!"
-msgstr "QU'EST-CE QUE TU VEUX DIRE ? Omak ne t'a pas envoyé ? Gah !"
+msgstr "QUE VOULEZ-VOUS DIRE ? Omak ne vous a pas envoyé ? Gah !"
 
 #. Key:	DL_Scholar1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_Scholar1.Default__DL_Scholar1_C.DialogueText
@@ -13370,63 +13370,63 @@ msgstr " </><Matoran>Le Chroniqueur deviendra la lumière</><Key> ... Hum okay."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_Scholar2.Default__DL_Scholar2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Scholar2"
 msgid "Huh? Oh hello Toa, I was just reading the wall of prophecies. Much of it is written in an older dialect, I am one of a few who transcribe those passages into our new way of speech."
-msgstr ""
+msgstr "Hein ? Oh bonjour Toa, j'étais juste en train de lire le mur des prophéties. La plupart sont écrites en dialecte ancien, je suis un de ceux qui peuvent traduire ces passages dans notre langue moderne."
 
 #. Key:	DL_SellerConsumables1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumables1.Default__DL_SellerConsumables1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumables1.Default__DL_SellerConsumables1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumables1"
 msgid "Toa $T! I have just what you need, healing plants, empowering drinks and more!"
-msgstr ""
+msgstr "Toa $T ! J'ai exactement ce qu'il vous fait, des plantes médicinales, des boissons énergisantes, et bien plus ! "
 
 #. Key:	DL_SellerConsumablesHewtinii
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtinii.Default__DL_SellerConsumablesHewtinii_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtinii.Default__DL_SellerConsumablesHewtinii_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtinii"
 msgid "Toa! Welcome to Hewtinii's comestibles, I've got plenty of exactly what you need $T!"
-msgstr ""
+msgstr "Toa ! Bienvenue au magasin de nourriture de Hewtinii ! J'ai exactement ce qu'il vous faut $T !"
 
 #. Key:	DL_SellerConsumablesHewtiniiFikouNui
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiFikouNui.Default__DL_SellerConsumablesHewtiniiFikouNui_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiFikouNui.Default__DL_SellerConsumablesHewtiniiFikouNui_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiFikouNui"
 msgid "They're the worst! I can't stand them!"
-msgstr ""
+msgstr "Ce sont les pires ! Je ne peux pas les supporter !"
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran1.Default__DL_SellerConsumablesHewtiniiGamatoran1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran1.Default__DL_SellerConsumablesHewtiniiGamatoran1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran1"
 msgid "Oh? Well that would be because I'm not a Ga-Matoran."
-msgstr ""
+msgstr "Oh ? Eh bien j'imagine que c'est parce que je ne suis pas un Ga-Matoran."
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran2.Default__DL_SellerConsumablesHewtiniiGamatoran2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran2.Default__DL_SellerConsumablesHewtiniiGamatoran2_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran2"
 msgid "It's fine! I understand if my presence in Ga-Koro may have confused you, Toa $T."
-msgstr ""
+msgstr "Ce n'est rien ! Je comprends que ma présence à Ga-Koro ait pu vous sembler étrange, Toa $T."
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran3.Default__DL_SellerConsumablesHewtiniiGamatoran3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran3.Default__DL_SellerConsumablesHewtiniiGamatoran3_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran3"
 msgid "Your guess is as good as mine! Though I've been told I sometime speak words that no Matoran understands."
-msgstr ""
+msgstr "Je n'en ai aucune idée ! Bien qu'on m'ait déjà dit que je parlais en utilisant des mots qu'aucun Matoran ne comprend."
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran4.Default__DL_SellerConsumablesHewtiniiGamatoran4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran4.Default__DL_SellerConsumablesHewtiniiGamatoran4_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran4"
 msgid "Well, the other day I caught myself saying \"Vackert Väder!\" when I was talking to Hahli."
-msgstr ""
+msgstr "Eh bien, l'autre jour je me suis surpris à dire \"Vackert Väder!\" quand je parlais à Hahli."
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran5.Default__DL_SellerConsumablesHewtiniiGamatoran5_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran5.Default__DL_SellerConsumablesHewtiniiGamatoran5_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran5"
 msgid "I honestly do not know, but it made the rest of the conversation quite awkward..."
-msgstr ""
+msgstr "Je ne sais honnêtement pas, mais ça a rendu le reste de la conversation assez bizarre..."
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran6.Default__DL_SellerConsumablesHewtiniiGamatoran6_C.DialogueText
@@ -13440,70 +13440,70 @@ msgstr "Låt oss göra det!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran7.Default__DL_SellerConsumablesHewtiniiGamatoran7_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiGamatoran7"
 msgid "...I did it again, didn't I?"
-msgstr ""
+msgstr "... Je l'ai encore fait, n'est-ce pas ?"
 
 #. Key:	DL_SellerConsumablesHewtiniiKapura1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura1.Default__DL_SellerConsumablesHewtiniiKapura1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura1.Default__DL_SellerConsumablesHewtiniiKapura1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiKapura1"
 msgid "Oh Kapura? He said he was going to walk across the entirety of Mata-Nui. I don't know what's gotten into him, and I'm not sure how I feel about it."
-msgstr ""
+msgstr "Oh Kapura ? Il a dit qu'il allait marcher à travers l'entièreté de Mata-Nui. Je ne sais pas ce qui lui est arrivé, et je ne suis pas sûr de que ça m'inspire."
 
 #. Key:	DL_SellerConsumablesHewtiniiKapura2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura2.Default__DL_SellerConsumablesHewtiniiKapura2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura2.Default__DL_SellerConsumablesHewtiniiKapura2_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiKapura2"
 msgid "I don't know if you've noticed Toa $T, but Kapura walks very slow. In fact he's so slow that a Rahi would be able to catch him without even trying!"
-msgstr ""
+msgstr "Je ne sais pas si vous avez remarqué Toa $T, mais Kapura marche très lentement. En réalité, il est tellement lent qu'un Rahi pourrait l'attraper sans faire d'effort !"
 
 #. Key:	DL_SellerConsumablesHewtiniiKapura3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura3.Default__DL_SellerConsumablesHewtiniiKapura3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura3.Default__DL_SellerConsumablesHewtiniiKapura3_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiKapura3"
 msgid "I mean, there is a chance that they would consider him too boring to hunt, but you never know what goes on in the heads of the Nui-Jaga, Nui-Rama, and... *gulp* F-Fikou-Nui..."
-msgstr ""
+msgstr "Je veux dire, il y a une chance qu'ils pourraient le considérer trop ennuyeux à chasser, mais on ne sait jamais ce qui se trame dans les têtes des Nui-Jaga, Nui-Rama ou... *glup* F-Fikou-Nui..."
 
 #. Key:	DL_SellerConsumablesHewtiniiKapura4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura4.Default__DL_SellerConsumablesHewtiniiKapura4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura4.Default__DL_SellerConsumablesHewtiniiKapura4_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesHewtiniiKapura4"
 msgid "I would very much appreciate that if you did, Toa $T!"
-msgstr ""
+msgstr "J'apprécierais beaucoup si vous vous en occupiez, Toa $T !"
 
 #. Key:	DL_SellerConsumablesTimed
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesTimed.Default__DL_SellerConsumablesTimed_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesTimed.Default__DL_SellerConsumablesTimed_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerConsumablesTimed"
 msgid "Greetings! Have a look at my wares, you'll like what you see I'm sure of it! Long lasting energy, restorative gels, I've got it all!"
-msgstr ""
+msgstr "Salutations ! Jetez un coup d'œil à mes produits, vous allez aimer ce que vous verrez, j'en suis certain ! De l'énergie longue durée, des gels restaurateurs, j'ai de tout !"
 
 #. Key:	DL_SellerGeneral1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerGeneral1.Default__DL_SellerGeneral1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerGeneral1.Default__DL_SellerGeneral1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerGeneral1"
 msgid "Come, take a look at my wares! Even a Toa needs what I have!"
-msgstr "Viens, jette un coup d'œil à mes marchandises ! Même un Toa a besoin de ce que je vends !"
+msgstr "Venez, jettez un coup d'œil à mes marchandises ! Même un Toa a besoin de ce que je vends !"
 
 #. Key:	DL_SellerMaskJuice1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMaskJuice1.Default__DL_SellerMaskJuice1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMaskJuice1.Default__DL_SellerMaskJuice1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMaskJuice1"
 msgid "Oh Toa hey! Come here, come here! I've got something you want!"
-msgstr ""
+msgstr "Oh, Toa, salut ! Venez, venez ! J'ai quelque-chose qui va vous intéresser !"
 
 #. Key:	DL_SellerMaskJuiceQuestion
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMaskJuiceQuestion.Default__DL_SellerMaskJuiceQuestion_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMaskJuiceQuestion.Default__DL_SellerMaskJuiceQuestion_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMaskJuiceQuestion"
 msgid "A rare, beautiful substance. I've heard rumors that it may have the ability to power masks, and make them work like your own do."
-msgstr ""
+msgstr "Une substance rare et belle à la fois. J'ai entendu des rumeurs qui disent qu'il pourrait avoir la capacité d'infuser des masques de puissance, pour les faire fonctionner comme le vôtre."
 
 #. Key:	DL_SellerMasks1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasks1.Default__DL_SellerMasks1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasks1.Default__DL_SellerMasks1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMasks1"
 msgid "My my a Toa, what luck! I carry something you may be interested in, Masks!"
-msgstr ""
+msgstr "Oh, un Toa, quelle chance ! J'ai sur moi quelque-chose qui pourrait vous intéresser, des Masques ! "
 
 #. Key:	DL_SellerMasksNobua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua.Default__DL_SellerMasksNobua_C.DialogueText
@@ -13517,49 +13517,49 @@ msgstr "Oh heu. Bonjour Toa, je suis Nobua."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua1.Default__DL_SellerMasksNobua1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMasksNobua1"
 msgid "Oh fie, I'm not very good at this shopkeeping thing. Did you want to buy something Toa?"
-msgstr ""
+msgstr "Oh tant pis, je ne suis pas très bon pour toutes ces choses commerciales. Vous vouliez acheter quelque-chose Toa ?"
 
 #. Key:	DL_SellerMasksNobua2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua2.Default__DL_SellerMasksNobua2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua2.Default__DL_SellerMasksNobua2_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMasksNobua2"
 msgid "Masks! Or... mask replacements anyways. We don't get a lot of sales to be honest, not sure how the company keeps us in business."
-msgstr ""
+msgstr "Des masques ! Où... Des masques de rechange à tout le moins. On ne fait pas énormément de ventes, pour être honnête, je ne sais pas comment la compagnie maintient le cap."
 
 #. Key:	DL_SellerMasksNobua3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua3.Default__DL_SellerMasksNobua3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua3.Default__DL_SellerMasksNobua3_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMasksNobua3"
 msgid "Huh? Oh uhh... I'm not supposed to talk about it, but seeing as you're a Toa..."
-msgstr ""
+msgstr "Hein ? Oh euuh... Je ne suis pas sensé en parler, mais puisque vous êtes un Toa..."
 
 #. Key:	DL_SellerMasksNobua4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua4.Default__DL_SellerMasksNobua4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua4.Default__DL_SellerMasksNobua4_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMasksNobua4"
 msgid "*Hushed* I'm currently working off my debt to the company, they said they'd throw me out of Onu-Koro if I didn't work for them!"
-msgstr ""
+msgstr "*Discrètement* Je suis actuellement en train de travailler pour payer ma dette à la compagnie, ils ont dit qu'ils me jetteraient hors d'Onu-Koro si je ne travaillais pas pour eux !"
 
 #. Key:	DL_SellerMasksNobua5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua5.Default__DL_SellerMasksNobua5_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua5.Default__DL_SellerMasksNobua5_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMasksNobua5"
 msgid "Buy my stuff! The more widgets I get, the closer I am to getting them off my back! *Wispering* Please don't tell anyone I told you this..."
-msgstr ""
+msgstr "Achetez mes affaires ! Au plus je gagne de widgets, au plus je me rapproche de pouvoir en être débarrassé ! *Chuchote* S'il vous plait, ne dites à personne que je vous ai dit ça..."
 
 #. Key:	DL_SellerMasksQuestion
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksQuestion.Default__DL_SellerMasksQuestion_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksQuestion.Default__DL_SellerMasksQuestion_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMasksQuestion"
 msgid "Yes really! Although they are made for Matoran, they may work on a Toa who knows?"
-msgstr ""
+msgstr "Oui vraiment ! Bien que s'ils sont faits pour des Matoran, ils devraient pouvoir aller sur un Toa, qui sait ?"
 
 #. Key:	DL_SellerMetal1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMetal1.Default__DL_SellerMetal1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMetal1.Default__DL_SellerMetal1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMetal1"
 msgid "AH HA! Exactly the one who should visit my shop, you must have stumbled across some metalic objects in your travels Toa! If so, I'd buy them at a high price!"
-msgstr ""
+msgstr "AH HA ! Exactement celui qui devrait visiter mon magasin, vous devez être tombé sur quelques objets métalliques dans vos voyages Toa ! Si c'est le cas, je les achèterai à bon prix !"
 
 #. Key:	DL_SellerNone
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerNone.Default__DL_SellerNone_C.DialogueText
@@ -13587,28 +13587,28 @@ msgstr "C'est ces deux-là à côté, ils n'arrêtent pas de se disputer ! Ma t�
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerNotes.Default__DL_SellerNotes_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerNotes"
 msgid "Oh oh a Toa! You MUST have some interesting artifacts from all your travels! Some ancient notes, books, anything!"
-msgstr ""
+msgstr "Oh, un Toa ! Vous DEVEZ avoir des artéfacts intéressants de vos voyages ! D'anciennes notes, des livres, n'importe quoi !"
 
 #. Key:	DL_SellerSports
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerSports.Default__DL_SellerSports_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerSports.Default__DL_SellerSports_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerSports"
 msgid "Kolhii, Kolhii, Kolhii! Welcome to my shop Toa, I sell everything you'll ever need for a Kolhii match!"
-msgstr ""
+msgstr "Kohlii, Kohlii, Kohlii ! Bienvenue dans mon magasin Toa, je vends tout ce dont vous avez besoin pour un match de Kohlii !"
 
 #. Key:	DL_SellerSports1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerSports1.Default__DL_SellerSports1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerSports1.Default__DL_SellerSports1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerSports1"
 msgid "Too? I - Oh, you've met Ahkmou..."
-msgstr ""
+msgstr "Aussi ? Je - Oh, vous avez rencontré Ahkmou..."
 
 #. Key:	DL_SellerSports2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerSports2.Default__DL_SellerSports2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerSports2.Default__DL_SellerSports2_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerSports2"
 msgid "No I don't like him! He's an egotistacal charlatan selling Kolhii balls just for the profit! He cares nothing about the actual game, the sportsmanship!"
-msgstr ""
+msgstr "Non je ne l'aime pas ! C'est un charlatan égoïste qui vend des balles de Kohlii uniquement pour le profit ! Il n'a rien à faire du jeu, du sport ! "
 
 #. Key:	DL_SellerTrade
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerTrade.Default__DL_SellerTrade_C.DialogueText
@@ -13657,77 +13657,77 @@ msgstr "Hum, je pense que j'ai assez..."
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Seltra1.Default__DL_Seltra1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Seltra1"
 msgid "I really need to find a better place for my books..."
-msgstr ""
+msgstr "J'ai vraiment besoin de trouver un meilleur endroit pour mes livres..."
 
 #. Key:	DL_Seltra2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Seltra2.Default__DL_Seltra2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Seltra2.Default__DL_Seltra2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Seltra2"
 msgid "Oh Toa $T, Hi! Have you seen any Rahi recently?"
-msgstr "Oh Toa $T, bonjour ! As-tu vu des Rahi récemment ?"
+msgstr "Oh Toa $T, bonjour ! Avez-vous vu des Rahi récemment ?"
 
 #. Key:	DL_Seltra3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Seltra3.Default__DL_Seltra3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Seltra3.Default__DL_Seltra3_C.DialogueText
 msgctxt "Dialogue_Text,DL_Seltra3"
 msgid "Well since you're a Toa, you get around better than us Matoran. You must get to see so many cool creatures!"
-msgstr ""
+msgstr "Eh bien puisque vous êtes un Toa, vous vous débrouillez mieux que nous les Matoran. Vous devez voir plein de créatures intéressantes !"
 
 #. Key:	DL_Seltra4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Seltra4.Default__DL_Seltra4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Seltra4.Default__DL_Seltra4_C.DialogueText
 msgctxt "Dialogue_Text,DL_Seltra4"
 msgid "Oooooo! Sounds exciting, Tell me all about them!"
-msgstr ""
+msgstr "Oooooooh ! Ça a l'air intéressant. Dites m'en plus !"
 
 #. Key:	DL_Seltra5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Seltra5.Default__DL_Seltra5_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Seltra5.Default__DL_Seltra5_C.DialogueText
 msgctxt "Dialogue_Text,DL_Seltra5"
 msgid "Ack! Wait, I was supposed to be reorginising my books. If I don't finish now then I'll forget how I was doing it! Rain check on that story Toa!"
-msgstr ""
+msgstr "Ack ! Attendez, j'étais sensé réorganiser mes livres. Si je ne termine pas maintenant je vais oublier comment je le faisais ! On se reverra pour votre histoire Toa !"
 
 #. Key:	DL_ShipperCleanUp
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperCleanUp.Default__DL_ShipperCleanUp_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperCleanUp.Default__DL_ShipperCleanUp_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperCleanUp"
 msgid "Oh, thank you Toa but I'll be okay."
-msgstr ""
+msgstr "Oh, merci Toa, mais je vais m'en occuper."
 
 #. Key:	DL_ShipperDefault
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperDefault.Default__DL_ShipperDefault_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperDefault.Default__DL_ShipperDefault_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperDefault"
 msgid "Welcome to the Onu-Koro shipping center. Is there anything I can help you with today?"
-msgstr ""
+msgstr "Bienvenue au centre de livraison d'Onu-Koro. Y a-t-il quoi que ce soit que je puisse faire pour vous aider aujourd'hui ?"
 
 #. Key:	DL_ShipperDefault2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperDefault2.Default__DL_ShipperDefault2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperDefault2.Default__DL_ShipperDefault2_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperDefault2"
 msgid "This is the Onu-Koro shipping center, we ship things from Koro to Koro. I know it seems like we're in Po-Wahi but we're actually just on the edge of Onu-Wahi!"
-msgstr ""
+msgstr "C'est le centre de livraisons d'Onu-Koro, nous livrons des colis de Koro à Koro. Je sais qu'il peut sembler que nous sommes à Po-Wahi, mais nous sommes en vérité juste à la frontière avec Onu-Wahi !"
 
 #. Key:	DL_ShipperIntro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntro.Default__DL_ShipperIntro_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntro.Default__DL_ShipperIntro_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperIntro"
 msgid "*The Matoran has his eyes closed tightly. He seems to be attempting to be as quiet as possible.*"
-msgstr ""
+msgstr "*Le Matoran a les yeux fermés. Il semble s'efforcer d'être le plus calme possible.*"
 
 #. Key:	DL_ShipperIntro_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntro_2.Default__DL_ShipperIntro_2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntro_2.Default__DL_ShipperIntro_2_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperIntro_2"
 msgid "*The Matoran keeps his eyes shut.* Who... Who's there?"
-msgstr ""
+msgstr "*Le Matoran garde les yeux fermés.* Qui... Qui est là ?"
 
 #. Key:	DL_ShipperIntroGetup
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroGetup.Default__DL_ShipperIntroGetup_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroGetup.Default__DL_ShipperIntroGetup_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperIntroGetup"
 msgid "They're gone? *He gets up, being cautious.* Oh, good. There were... two, maybe three? Or was it six? A bunch of Tarakava came in and wrecked the place! "
-msgstr ""
+msgstr "Ils sont partis ? *Il se lève prudemment.* Oh, bien. Ils étaient... Deux, peut-être trois ? Où bien six ? Une bande de Trakava est arrivée et a mis l'endroit à sac !"
 
 #. Key:	DL_ShipperIntroRahi
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroRahi.Default__DL_ShipperIntroRahi_C.DialogueText
@@ -13741,91 +13741,91 @@ msgstr "Oh... Oh oui ? Quelle sorte de Rahi ?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroRahi_Tarakava.Default__DL_ShipperIntroRahi_Tarakava_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperIntroRahi_Tarakava"
 msgid "*He keeps his eyes shut.* Alright. Go ahead and eat me. Wait... Tarakava usually don't bother talking to their dinner... *He opens his eyes.* Toa! Why did you try and scare me like that?"
-msgstr ""
+msgstr "*Il garde un de ses yeux fermés.* Très bien. Allez-y et mangez-moi. Une petite minute... Les Tarakava ne prennent d'habitude pas la peine de parler à leur dîner... *Il ouvre les yeux.* Toa ! Pourquoi m'avez-vous fait peur comme ça ?"
 
 #. Key:	DL_ShipperIntroRahi_Toa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroRahi_Toa.Default__DL_ShipperIntroRahi_Toa_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroRahi_Toa.Default__DL_ShipperIntroRahi_Toa_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperIntroRahi_Toa"
 msgid "Wait a minute... Toa aren't Rahi! *He opens his eyes.* Oh, It's you Toa $T. You shouldn't try to trick people, it's unbecoming of a hero."
-msgstr ""
+msgstr "Une petite minute... Les Toa ne sont pas des Rahi ! *Il ouvre les yeux.* Oh, c'est vous Toa $T. Vous ne devriez pas tromper les gens comme ça, c'est inconvenant de la part d'un héros."
 
 #. Key:	DL_ShipperIntroRahi_Ussal
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroRahi_Ussal.Default__DL_ShipperIntroRahi_Ussal_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroRahi_Ussal.Default__DL_ShipperIntroRahi_Ussal_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperIntroRahi_Ussal"
 msgid "An Ussal that can talk? I've gotta see this... *He opens his eyes.* Oh. It's just you, Toa $T... I mean, not that i'm not glad to see you, that is!"
-msgstr ""
+msgstr "Un Ussal qui parle ? Je dois voir ça... *Il ouvre les yeux.* Oh, c'est juste vous, Toa $T... Je veux dire, non pas que je ne sois pas ravi de vous voir !"
 
 #. Key:	DL_ShipperIntroToa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroToa.Default__DL_ShipperIntroToa_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroToa.Default__DL_ShipperIntroToa_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperIntroToa"
 msgid "T-Toa? *He opens his eyes.* Toa $T! It's good to see you... Ouch. It's a bit bright. I've had my eyes closed for a while now..."
-msgstr ""
+msgstr "T-Toa ? *Il ouvre les yeux.* Toa $T ! C'est bon de vous voir... Ouf. C'est un peu lumineux. J'ai eu les yeux fermés pour un bon bout de temps..."
 
 #. Key:	DL_ShipperIntroToa_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroToa_2.Default__DL_ShipperIntroToa_2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroToa_2.Default__DL_ShipperIntroToa_2_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperIntroToa_2"
 msgid "Oh, I was hiding. Didn't you see them when you came in?"
-msgstr ""
+msgstr "Oh, j'étais caché. Ne les avez-vous pas vu quand vous êtes venu ?"
 
 #. Key:	DL_ShipperMahi
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperMahi.Default__DL_ShipperMahi_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperMahi.Default__DL_ShipperMahi_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperMahi"
 msgid "The Mahi! Thank Mata-Nui they're safe. You're right, it's odd for Tarakava that seem so ravenous to not eat the nearest Rahi - or Matoran - in plain sight..."
-msgstr ""
+msgstr "Les Mahi ! Loué soit Mata-Nui, ils sont en sécurité. Vous avez raison, c'est étrange pour des Tarakava qui ont l'air si affamés de ne pas manger le Rahi - ou le Matoran - le plus proche..."
 
 #. Key:	DL_ShipperOnuKoro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperOnuKoro.Default__DL_ShipperOnuKoro_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperOnuKoro.Default__DL_ShipperOnuKoro_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperOnuKoro"
 msgid "We're the official shipping center for the city because we're the only major Onu-Wahi Port, but not all shipments from Onu-Koro go through us. In fact, our boss doesn't even visit this location often. It's kinda confusing, I don't really know how it works. But I work here anyway."
-msgstr ""
+msgstr "Nous sommes le centre de livraison pour la ville, puisque nous sommes le seul port majeur d'Onu-Wahi, mais toutes les cargaisons d'Onu-Koro ne passent pas par nous. En réalité, notre patron ne visite même pas souvent cet endroit. C'est un peu perturbant, je ne sais pas vraiment comment cela fonctionne. Mais je travaille ici quoi qu'il en soit."
 
 #. Key:	DL_ShipperQuest1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperQuest1.Default__DL_ShipperQuest1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperQuest1.Default__DL_ShipperQuest1_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperQuest1"
 msgid "Oh, Mr Khalo's shipment? I think my couriers started on their way with it yesterday. Come to think of it, they should be back by now."
-msgstr ""
+msgstr "Oh, la cargaison de Monsieur Khalo ? Je pense que mes coursiers ont commencé leur trajet avec hier. Maintenant que j'y pense, ils devraient être revenus à l'heure qu'il est..."
 
 #. Key:	DL_ShipperQuestWhichWay
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperQuestWhichWay.Default__DL_ShipperQuestWhichWay_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperQuestWhichWay.Default__DL_ShipperQuestWhichWay_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperQuestWhichWay"
 msgid "Well, their usual route to Po-Koro takes them from here and through the Pillar-Lands. That's roughly north east of here. I'd start there."
-msgstr ""
+msgstr "Eh bien, leur trajet habituel jusque Po-Koro les fait démarrer d'ici et passer par la Région des Piliers. C'est environ au nord-est d'ici. Je commencerais par là."
 
 #. Key:	DL_ShipperWhatHappened
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperWhatHappened.Default__DL_ShipperWhatHappened_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperWhatHappened.Default__DL_ShipperWhatHappened_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperWhatHappened"
 msgid "Well, I was alone here, when all of the sudden a bunch of big mean Tarakava came around, destroying all sorts of stuff! They usually never get this close to here... They must have been looking for something specific..."
-msgstr ""
+msgstr "Eh bien, j'étais seul ici, quand d'un seul coup un groupe de méchants Takarava est arrivé, détruisant tout ! Ils ne viennent pas jusqu'ici d'habitude... Ils doivent avoir été à la recherche de quelque-chose de spécifique..."
 
 #. Key:	DL_ShipperWhatPlace
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperWhatPlace.Default__DL_ShipperWhatPlace_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperWhatPlace.Default__DL_ShipperWhatPlace_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperWhatPlace"
 msgid "Welcome to the Onu-Koro shipping center. Is there anything I can help you with today? ...Sorry, habit."
-msgstr ""
+msgstr "Bienvenue au centre de livraison de Onu-Koro. En quoi puis-je vous être utile aujourd'hui ? ... Désolé, l'habitude."
 
 #. Key:	DL_StaffSeller1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSeller1.Default__DL_StaffSeller1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSeller1.Default__DL_StaffSeller1_C.DialogueText
 msgctxt "Dialogue_Text,DL_StaffSeller1"
 msgid "Excuse me for a moment... Welcome Toa to my humble shop! Would you perhaps be in the market for a Ta-Koro Guard staff?"
-msgstr ""
+msgstr "Veuillez m'excuser un instant... Bienvenue, Toa, dans mon humble échoppe ! Seriez-vous par hasard acheteur pour un bâton de la Garde de Ta-Koro ?"
 
 #. Key:	DL_StaffSeller2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSeller2.Default__DL_StaffSeller2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSeller2.Default__DL_StaffSeller2_C.DialogueText
 msgctxt "Dialogue_Text,DL_StaffSeller2"
 msgid "Uhh well, technically no... You're supposed to have a Ta-Koro Guard insignia, but I'd be willing to make an exception for you!"
-msgstr ""
+msgstr "Uhh eh bien, techniquement non... Vous êtes sensé avoir un insigne de la Garde de Ta-Koro, mais je suis disposé à faire une exception pour vous !"
 
 #. Key:	DL_StaffSellerQuartermaster
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster.Default__DL_StaffSellerQuartermaster_C.DialogueText
@@ -13839,7 +13839,7 @@ msgstr "Oh, qu'est-ce qui ne va pas ?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster2.Default__DL_StaffSellerQuartermaster2_C.DialogueText
 msgctxt "Dialogue_Text,DL_StaffSellerQuartermaster2"
 msgid "Gahh! I knew I'd get those mixed up at some point, they look exactly the same! I'll correct that straight away... Hmm, perhaps you would be willing to bring the class two's back for me?"
-msgstr ""
+msgstr "Gahh ! Je savais que je finirais par les confondre, ils se ressemblent trait pour trait ! Je vais corriger ça tout de suite... Hmm, peut-être seriez-vous d'accord de me ramener les classe deux ?"
 
 #. Key:	DL_StaffSellerQuartermaster3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster3.Default__DL_StaffSellerQuartermaster3_C.DialogueText
@@ -13853,77 +13853,77 @@ msgstr "Excellent, je m'y mets alors !"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster4.Default__DL_StaffSellerQuartermaster4_C.DialogueText
 msgctxt "Dialogue_Text,DL_StaffSellerQuartermaster4"
 msgid "Ahh $T have you spoken to the Quartermaster yet?"
-msgstr ""
+msgstr "Ahh $T, avez-vous déjà parlé au Quartier-maître ?"
 
 #. Key:	DL_StaffSellerQuartermaster5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster5.Default__DL_StaffSellerQuartermaster5_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster5.Default__DL_StaffSellerQuartermaster5_C.DialogueText
 msgctxt "Dialogue_Text,DL_StaffSellerQuartermaster5"
 msgid "Excellent! I've already sent out for the corrected delivery, it should be here within four days time."
-msgstr ""
+msgstr "Excellent ! J'ai déjà envoyé quelqu'un chercher la bonne livraison, elle devrait arriver d'ici quatre jours. "
 
 #. Key:	DL_StaffSellerQuartermaster6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster6.Default__DL_StaffSellerQuartermaster6_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster6.Default__DL_StaffSellerQuartermaster6_C.DialogueText
 msgctxt "Dialogue_Text,DL_StaffSellerQuartermaster6"
 msgid "Hold a moment toa! I can't have you go wandering off without your reward. Here we are, would 60 widgets be enough for you troubles."
-msgstr ""
+msgstr "Un petit instant Toa ! Je ne peux pas vous laisser gambader sans votre récompense. Nous y voici, j'imagine que 60 widgets seraient assez pour votre peine."
 
 #. Key:	DL_StaffSellerQuartermaster7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster7.Default__DL_StaffSellerQuartermaster7_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster7.Default__DL_StaffSellerQuartermaster7_C.DialogueText
 msgctxt "Dialogue_Text,DL_StaffSellerQuartermaster7"
 msgid "Welcome back to my shop Toa $T! I appreciate what you did, helping me with that mess earlier."
-msgstr ""
+msgstr "Bon retour à mon magasin, Toa $T ! J'apprécie ce que vous avez fait, en m'aidant avec ce pétrin de tout à l'heure."
 
 #. Key:	DL_StaffSellerQuartermasterRewardQuestion
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermasterRewardQuestion.Default__DL_StaffSellerQuartermasterRewardQuestion_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermasterRewardQuestion.Default__DL_StaffSellerQuartermasterRewardQuestion_C.DialogueText
 msgctxt "Dialogue_Text,DL_StaffSellerQuartermasterRewardQuestion"
 msgid "Well, I suppose I could reward you with a large sum of widgets, would that suffice?"
-msgstr ""
+msgstr "Eh bien, je pense que je pourrais vous récompenser d'une grosse somme de widgets, cela suffirait-il ?"
 
 #. Key:	DL_StatueCarver1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_StatueCarver1.Default__DL_StatueCarver1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_StatueCarver1.Default__DL_StatueCarver1_C.DialogueText
 msgctxt "Dialogue_Text,DL_StatueCarver1"
 msgid "*Mumbling to self* Carry the one... Hmm yes, more over there..."
-msgstr ""
+msgstr "*Marmonne* Porter celui-là... Hmm oui, plutôt ici... "
 
 #. Key:	DL_StatueCarver2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_StatueCarver2.Default__DL_StatueCarver2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_StatueCarver2.Default__DL_StatueCarver2_C.DialogueText
 msgctxt "Dialogue_Text,DL_StatueCarver2"
 msgid "ACK! Goodness Toa, You shouldn't sneak up on people like that, I'm working on a carving of the Great Toa of stone, Pohatu."
-msgstr ""
+msgstr "ACK ! Bonté divine Toa, vous ne devriez pas surgir de derrière les gens comme ça ! Je progresse dans la construction du Grand Toa de Pierre, Pohatu."
 
 #. Key:	DL_StatueCarverPohatu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_StatueCarverPohatu.Default__DL_StatueCarverPohatu_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_StatueCarverPohatu.Default__DL_StatueCarverPohatu_C.DialogueText
 msgctxt "Dialogue_Text,DL_StatueCarverPohatu"
 msgid "Yes, I suppose he is..."
-msgstr ""
+msgstr "Oui, j'imagine qu'il l'est..."
 
 #. Key:	DL_StatueCarverPohatu1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_StatueCarverPohatu1.Default__DL_StatueCarverPohatu1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_StatueCarverPohatu1.Default__DL_StatueCarverPohatu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_StatueCarverPohatu1"
 msgid "Toa $T, You're here? You - Uhh, it's not finished yet. I would say don't look, but I'm afraid that's to exactly possible."
-msgstr ""
+msgstr "Toa $T, vous ici ? Vous - Euuh, ce n'est pas encore terminé. Je vous dirais bien de ne pas regarder, mais j'ai bien peur que ce ne soit pas vraiment possible."
 
 #. Key:	DL_StatueCarverPohatu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_StatueCarverPohatu2.Default__DL_StatueCarverPohatu2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_StatueCarverPohatu2.Default__DL_StatueCarverPohatu2_C.DialogueText
 msgctxt "Dialogue_Text,DL_StatueCarverPohatu2"
 msgid "I knew you'd like it! Wait, Now that you're here, you could model for me! You'd just have to stand still for... A few hours... or days..."
-msgstr ""
+msgstr "Je savais que vous aimeriez ! Maintenant que vous êtes ici, vous pourriez poser pour mi ! Vous devriez juste rester immobile pour... Quelques heures... Quelques jours..."
 
 #. Key:	DL_StatueSeller
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_StatueSeller.Default__DL_StatueSeller_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_StatueSeller.Default__DL_StatueSeller_C.DialogueText
 msgctxt "Dialogue_Text,DL_StatueSeller"
 msgid "Statuettes! Souvenirs! Excellent Po-Koronan Craftsmanship! What about you toa? Would you like a Statuette of yourself $T?"
-msgstr ""
+msgstr "Statuettes ! Souvenirs ! Excellent artisanat Po-Koronien ! Qu'en est-il de vous Toa ? Voudriez-vous une statuette de vous-même, $T ?"
 
 #. Key:	DL_Tafall1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Tafall1.Default__DL_Tafall1_C.DialogueText
@@ -13937,14 +13937,14 @@ msgstr "Bienvenue Toa $T ! Bienvenue au Village Whagna, notre humble foyer aux f
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned1.Default__DL_TafallAbandoned1_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallAbandoned1"
 msgid "Because I want to, and I have nothing else to do! Why won't you let me?"
-msgstr ""
+msgstr "Parce que je le veux, et je n'ai rien d'autre à faire ! Pourquoi ne me laissez-vous pas ?"
 
 #. Key:	DL_TafallAbandoned2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned2.Default__DL_TafallAbandoned2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned2.Default__DL_TafallAbandoned2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallAbandoned2"
 msgid "Like I told you last time Tafall, I can't teach you right now! Plus Marka just asked me to start building a new boat, ontop of everything else I need to get finished already!"
-msgstr ""
+msgstr "Comme je t'ai dit la dernière fois Tafall, je ne peux pas t'enseigner maintenant ! En plus Marka vient juste de me demander de commencer à construire un nouveau bateau, en prime de tout ce que j'ai déjà à terminer !"
 
 #. Key:	DL_TafallAbandoned3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned3.Default__DL_TafallAbandoned3_C.DialogueText
@@ -13958,77 +13958,77 @@ msgstr "Oh.... Salut Toa..."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned4.Default__DL_TafallAbandoned4_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallAbandoned4"
 msgid "I want to be Taphal's apprentace so I can learn to work on things like him, but he doesn't want to teach me!"
-msgstr ""
+msgstr "Je veux être l'apprenti de Taphal pour pouvoir apprendre à travailler sur les objets comme lui, mais il ne veut pas m'apprendre !"
 
 #. Key:	DL_TafallAbandoned5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned5.Default__DL_TafallAbandoned5_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned5.Default__DL_TafallAbandoned5_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallAbandoned5"
 msgid "That's right. I just can't fit it into my schedule at this point!"
-msgstr ""
+msgstr "C'est juste. Je ne peux pas mettre ça dans mon programme à ce stade !"
 
 #. Key:	DL_TafallAbandoned6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned6.Default__DL_TafallAbandoned6_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned6.Default__DL_TafallAbandoned6_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallAbandoned6"
 msgid "Yes, that would work! I can hand you tools, carry materials, and watch what you do. That's how I'll learn!"
-msgstr ""
+msgstr "Oui, ça pourrait marcher ! Je peux vous donner vos outils, porter des matériaux, et regarder ce que vous faites. C'est comme ça que j'apprendrai !"
 
 #. Key:	DL_TafallAbandoned7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned7.Default__DL_TafallAbandoned7_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned7.Default__DL_TafallAbandoned7_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallAbandoned7"
 msgid "Hmm... Alright. Sure, I guess that could work."
-msgstr ""
+msgstr "Hmm... D'accord. Bien sûr, je pense que ça pourrait marcher."
 
 #. Key:	DL_TafallAbandoned8
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned8.Default__DL_TafallAbandoned8_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned8.Default__DL_TafallAbandoned8_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallAbandoned8"
 msgid "Thank you so much Toa, I'm sure I'll learn a lot from this!"
-msgstr ""
+msgstr "Merci beaucoup Toa, je vais beaucoup apprendre de tout ça !"
 
 #. Key:	DL_TafallAbandonedReturn
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandonedReturn.Default__DL_TafallAbandonedReturn_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandonedReturn.Default__DL_TafallAbandonedReturn_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallAbandonedReturn"
 msgid "Thank you again $T, I know this apprenticeship will be great."
-msgstr ""
+msgstr "Encore merci $T, je sais que cet apprentissage sera incroyable."
 
 #. Key:	DL_TafallFixing1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallFixing1.Default__DL_TafallFixing1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallFixing1.Default__DL_TafallFixing1_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallFixing1"
 msgid "Uhh, I wish I was back in Ga-Koro. I hate the snow, it's so sticky and gross - gets everywhere."
-msgstr ""
+msgstr "Uhh, je voudrais tant être de retour à Ga-Koro. Je hais la neige, c'est tellement collant et dégueulasse - y'en a partout."
 
 #. Key:	DL_TafallFixing2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallFixing2.Default__DL_TafallFixing2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallFixing2.Default__DL_TafallFixing2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallFixing2"
 msgid "Huff - Of course I knew that! You... You really shouldn't sneak up on someone like that Toa."
-msgstr ""
+msgstr "Huff - Evidemment que je le savais ! Vous... Vous ne devriez vraiment pas surgir derrière quelqu'un comme ça Toa."
 
 #. Key:	DL_TafallQuestion
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallQuestion.Default__DL_TafallQuestion_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallQuestion.Default__DL_TafallQuestion_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallQuestion"
 msgid "Yes we have very similar names, but to be honest, there's not much of a story there Toa - I just don't like being confused with him."
-msgstr ""
+msgstr "Oui, nous avons des noms très similaires, mais pour être honnête, il n'y a pas beaucoup d'histoire derrière Toa - Je n'aime juste pas être confondu avec lui."
 
 #. Key:	DL_Tahu1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Tahu1.Default__DL_Tahu1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Tahu1.Default__DL_Tahu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Tahu1"
 msgid "We are all gathered. We are ready and willing to face this threat at long last. Makuta falls this day!"
-msgstr ""
+msgstr "Nous sommes tous rassemblés. Nous sommes prêts et volontaires pour faire face à cette menace une fois pour toutes. Makuta tombe aujourd'hui !"
 
 #. Key:	DL_Tahu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Tahu2.Default__DL_Tahu2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Tahu2.Default__DL_Tahu2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Tahu2"
 msgid "If any of you question our choice, or doubt our abilities, speak now."
-msgstr ""
+msgstr "Si qui que ce soit parmi vous remet en question notre choix, ou doute de nos capacités, qu'il parle maintenant."
 
 #. Key:	DL_Tahu3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Tahu3.Default__DL_Tahu3_C.DialogueText
@@ -14063,42 +14063,42 @@ msgstr "... C'est réglé alors."
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Tahu7.Default__DL_Tahu7_C.DialogueText
 msgctxt "Dialogue_Text,DL_Tahu7"
 msgid "Toa! Let us finish the task we were destined to complete!"
-msgstr ""
+msgstr "Toa ! Finissons la tâche que nous étions destinés à accomplir !"
 
 #. Key:	DL_TahuNoGold
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_TahuNoGold.Default__DL_TahuNoGold_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_TahuNoGold.Default__DL_TahuNoGold_C.DialogueText
 msgctxt "Dialogue_Text,DL_TahuNoGold"
 msgid "*Humpf* It appears we are not all ready, go collect all your golden masks."
-msgstr ""
+msgstr "*Humpf* Il semblerait que nous ne soyons pas tous prêts, allez tous collecter vos masques d'or."
 
 #. Key:	DL_TahuNoGold1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_TahuNoGold1.Default__DL_TahuNoGold1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_TahuNoGold1.Default__DL_TahuNoGold1_C.DialogueText
 msgctxt "Dialogue_Text,DL_TahuNoGold1"
 msgid "We will reconvene when all of us have the appropriate tools for this challange."
-msgstr ""
+msgstr "Nous nous retrouverons quand chacun de nous aura les outils appropriés pour cette tâche."
 
 #. Key:	DL_Taipu1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Taipu1.Default__DL_Taipu1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Taipu1.Default__DL_Taipu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Taipu1"
 msgid "Hmmm... Which one..."
-msgstr "Hum... Lequel..."
+msgstr "Hum... Laquelle..."
 
 #. Key:	DL_Taipu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Taipu2.Default__DL_Taipu2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Taipu2.Default__DL_Taipu2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Taipu2"
 msgid "Oh a Toa! Yes I am, Onepu said to prepare for a special mission with him, and I'm afraid I don't exactly know which picaxe to chose."
-msgstr ""
+msgstr "Oh, un Toa ! Oui, Onepu a dit de se préparer pour une mission spéciale avec lui, et j'ai peur de ne pas vraiment savoir quelle pioche choisir."
 
 #. Key:	DL_Taipu3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Taipu3.Default__DL_Taipu3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Taipu3.Default__DL_Taipu3_C.DialogueText
 msgctxt "Dialogue_Text,DL_Taipu3"
 msgid "That's alright, Onepu said I'd have plenty of time to decide."
-msgstr ""
+msgstr "C'est vrai, Onepu a dit que j'aurais beaucoup de temps pour décider."
 
 #. Key:	DL_TakoroGuardGreeting1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreeting1.Default__DL_TakoroGuardGreeting1_C.DialogueText
@@ -14112,21 +14112,21 @@ msgstr "Salutations Toa, bienvenue à Ta-Koro !"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreeting2.Default__DL_TakoroGuardGreeting2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakoroGuardGreeting2"
 msgid "Uhh hello Toa, This area is meant to be for the Ta-Koro Guard only... But I suppose you'd be the exception."
-msgstr "Oh bonjour Toa, cette zone est sensé être réservée à la Garde de Ta-Koro... Mais je suppose que tu es une exception."
+msgstr "Oh bonjour Toa, cette zone est sensée être réservée à la Garde de Ta-Koro... Mais je suppose que vous êtes une exception."
 
 #. Key:	DL_TakoroGuardGreeting3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreeting3.Default__DL_TakoroGuardGreeting3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreeting3.Default__DL_TakoroGuardGreeting3_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakoroGuardGreeting3"
 msgid "You shouldn't be up here Toa."
-msgstr "Tu ne devrais pas être ici Toa."
+msgstr "Vous ne devriez pas être ici Toa."
 
 #. Key:	DL_TakoroGuardGreeting4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreeting4.Default__DL_TakoroGuardGreeting4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreeting4.Default__DL_TakoroGuardGreeting4_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakoroGuardGreeting4"
 msgid "This walkway is Ta-Koro guard only Toa."
-msgstr "Ce chemin est seulement pour la garde de Ta-Koro Toa."
+msgstr "Ce chemin de ronde est seulement pour la garde de Ta-Koro Toa."
 
 #. Key:	DL_TakoroGuardGreeting_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreeting_1.Default__DL_TakoroGuardGreeting_1_C.DialogueText
@@ -14140,56 +14140,56 @@ msgstr "Bonjour Toa $T, Bienvenue à Ta-Koro !"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreeting_2.Default__DL_TakoroGuardGreeting_2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakoroGuardGreeting_2"
 msgid "Yeah I'm fine, don't like heights that much though."
-msgstr ""
+msgstr "Oui je vais bien, je n'aime juste pas trop les hauteurs."
 
 #. Key:	DL_TakoroGuardGreetingPositive
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreetingPositive.Default__DL_TakoroGuardGreetingPositive_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreetingPositive.Default__DL_TakoroGuardGreetingPositive_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakoroGuardGreetingPositive"
 msgid "Not really, It's been fairly quiet around here as of late."
-msgstr ""
+msgstr "Pas vraiment, c'est très calme dans le coin ces derniers temps."
 
 #. Key:	DL_TakoroGuardInTraining1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardInTraining1.Default__DL_TakoroGuardInTraining1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardInTraining1.Default__DL_TakoroGuardInTraining1_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakoroGuardInTraining1"
 msgid "Is it possible to make it a bit shorter?"
-msgstr ""
+msgstr "Est-il possible de la faire un peu plus courte ?"
 
 #. Key:	DL_TakoroGuardInTraining2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardInTraining2.Default__DL_TakoroGuardInTraining2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardInTraining2.Default__DL_TakoroGuardInTraining2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakoroGuardInTraining2"
 msgid "Oh hello there Toa! It's true the Ta-Koro guard does supply pikes, but if you buy your own you can get one in better condition, and even get it customised!"
-msgstr ""
+msgstr "Oh, bonjour Toa ! Il est vrai que la garde de Ta-Koro fournit des lances, mais si vous achetez la vôtre vous pouvez en trouver une en bien meilleur état, et même la faire personnaliser !"
 
 #. Key:	DL_TakoroGuardResponse2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardResponse2.Default__DL_TakoroGuardResponse2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardResponse2.Default__DL_TakoroGuardResponse2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakoroGuardResponse2"
 msgid "No, not really. Takua is out wandering again, Vakama has recently returned from a meeting with the other Turaga, and Kapura is as weird as ever."
-msgstr ""
+msgstr "Non, pas vraiment. Takua est encore de sortie en balade, Vakama est récemment rentré d'une rencontre avec les autres Turaga, et Kapura est aussi bizarre que d'habitude."
 
 #. Key:	DL_TakoroGuardResponse3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardResponse3.Default__DL_TakoroGuardResponse3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardResponse3.Default__DL_TakoroGuardResponse3_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakoroGuardResponse3"
 msgid "Oh well, I had a conversation with him yesterday and after I asked him what he does all day he said, \"I Practice.\" and after I pressed him on it he said, \"I Practice in the Charred forest, where the Makuta has blinded himeself.\" no idea what that means."
-msgstr ""
+msgstr "Oh eh bien, j'ai eu une conversation avec lui hier et je lui ai demandé ce qu'il faisait de ses journées et il a dit \"M'entraîner\". et après que j'ai insisté il a dit \"Je m'entraîne dans la Forêt Calcinée, où le Makuta s'est aveuglé.\" Aucune idée de ce que ça veut dire."
 
 #. Key:	DL_TakoroGuardResponse4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardResponse4.Default__DL_TakoroGuardResponse4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardResponse4.Default__DL_TakoroGuardResponse4_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakoroGuardResponse4"
 msgid "This walkway is for the Ta-Koro Guard only, unless you have business up here I recommend you leave."
-msgstr ""
+msgstr "Ce chemin de ronde est pour la Garde de Ta-Koro uniquement, à moins que vous n'ayez une affaire importante ici je vous recommande de partir."
 
 #. Key:	DL_Takua1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_Takua1.Default__DL_Takua1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_Takua1.Default__DL_Takua1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Takua1"
 msgid "Toa $T! You found me!"
-msgstr "Toa $T ! Tu m'as trouvé !"
+msgstr "Toa $T ! Vous m'avez trouvé !"
 
 #. Key:	DL_Takua2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_Takua2.Default__DL_Takua2_C.DialogueText
@@ -14203,14 +14203,14 @@ msgstr "Je suis désolé $T... ça n'arrivera plus. Je le promets !"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_Takua3.Default__DL_Takua3_C.DialogueText
 msgctxt "Dialogue_Text,DL_Takua3"
 msgid "I just started running until I found this room. I had a few Madu fruit left over, but I sort of panicked and threw them all when I first found my way in... but thanks for clearing the way out so I can leave!"
-msgstr ""
+msgstr "J'ai juste commencé à courir jusqu'à ce que je trouve cette pièce. J'avais quelques fruits Madu mis de côté, mais j'ai en quelque sorte paniqué et je les ai tous jetés quand j'ai trouvé mon chemin vers ici... Mais merci d'avoir nettoyé le chemin vers l'extérieur pour que je puisse m'échapper !"
 
 #. Key:	DL_Takua4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_Takua4.Default__DL_Takua4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_Takua4.Default__DL_Takua4_C.DialogueText
 msgctxt "Dialogue_Text,DL_Takua4"
 msgid "Oh, yes! I figured you’d want to pick that up, so I made sure not to touch it until you got here."
-msgstr ""
+msgstr "Oh oui ! J'avais supposé que vous voudriez le ramasser, donc je n'y ai pas touché jusqu'à ce que vous arriviez."
 
 #. Key:	DL_Takua5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_Takua5.Default__DL_Takua5_C.DialogueText
@@ -14224,35 +14224,35 @@ msgstr "Pas de problème, $T !"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_Takua6.Default__DL_Takua6_C.DialogueText
 msgctxt "Dialogue_Text,DL_Takua6"
 msgid "Without all the Rahi, it shouldn’t be too much of an issue. Thanks for your help! I’ll make sure to tell Vakama that he can stop worrying about me."
-msgstr ""
+msgstr "Sans tous ces Rahi, ce ne devrait pas être un trop gros problème. Merci pour votre aide ! Je vais m'assurer de dire à Vakama qu'il peut arrêter de s'inquiéter à mon sujet."
 
 #. Key:	DL_TakuaMask
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaMask.Default__DL_TakuaMask_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaMask.Default__DL_TakuaMask_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakuaMask"
 msgid "Not exactly - then again I wasn’t really sure what I was looking for... not sure what a “Va-hee” is. Didn’t see any masks in here anyway. Whatever Vakama’s looking for is somewhere else."
-msgstr ""
+msgstr "Pas exactement - mais encore une fois je n'étais pas vraiment certain de ce que je recherchais... Pas sur de ce qu'est un \"Va-hee\". Je n'ai pas vu beaucoup de masques là-bas non plus. Quoi que Vakama puisse chercher là-bas, c'est quelque-part ailleurs."
 
 #. Key:	DL_TakuaSaved
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaSaved.Default__DL_TakuaSaved_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaSaved.Default__DL_TakuaSaved_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakuaSaved"
 msgid "Toa $T! Thank you for saving me back at the Kini!"
-msgstr ""
+msgstr "Toa $T ! Merci de m'avoir sauvé là-bas au Kini !"
 
 #. Key:	DL_TakuaSaved1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaSaved1.Default__DL_TakuaSaved1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaSaved1.Default__DL_TakuaSaved1_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakuaSaved1"
 msgid "Oh well, Vakama sort of grounded me. He won't let me leave for another two weeks!"
-msgstr ""
+msgstr "Oh eh bien, Vakama m'a en quelque-sorte puni. Il ne me laissera pas sortir pour encore deux semaines !"
 
 #. Key:	DL_TakuaSaved2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaSaved2.Default__DL_TakuaSaved2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaSaved2.Default__DL_TakuaSaved2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakuaSaved2"
 msgid "He said soming about how I was being reckless to even ask to enter the Kini, blah blah blah."
-msgstr ""
+msgstr "Il a dit quelque-chose à propos du fait que j'étais inconscient de simplement demander d'entrer dans le Kini, bla bla bla."
 
 #. Key:	DL_TalkingToSupervisor
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_TalkingToSupervisor.Default__DL_TalkingToSupervisor_C.DialogueText
@@ -14266,329 +14266,329 @@ msgstr "Alors, je peux avoir une augmentation ?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok1.Default__DL_Talok1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Talok1"
 msgid "Hmm, what should go next. Ta-Koro the great... That's nothing."
-msgstr ""
+msgstr "Hmm, qu'est-ce qui devrait bien suivre. Ta-Koro le grand... Ce n'est rien."
 
 #. Key:	DL_Talok10
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok10.Default__DL_Talok10_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok10.Default__DL_Talok10_C.DialogueText
 msgctxt "Dialogue_Text,DL_Talok10"
 msgid "So once again, \"Ahh Ta-koro, what a wonderful city. From the Lava, to the fires of the torches,\" Just finish that sentence best you can."
-msgstr ""
+msgstr "Donc, reprenons, \"Ahh Ta-Koro, quelle cité merveilleuse. De la Lave jusqu'au feu des torches, \" Finissez juste ce vers du mieux qu'il vous semble."
 
 #. Key:	DL_Talok2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok2.Default__DL_Talok2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok2.Default__DL_Talok2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Talok2"
 msgid "Once again, You're really not supposed to be up here Talok. Go make your funny words somewhere else!"
-msgstr ""
+msgstr "Une fois encore, vous n'êtes pas sensé être ici, Talok. Allez écrire vos mots bizarres ailleurs !"
 
 #. Key:	DL_Talok3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok3.Default__DL_Talok3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok3.Default__DL_Talok3_C.DialogueText
 msgctxt "Dialogue_Text,DL_Talok3"
 msgid "This is the best place to get insperation! I'm not leaving, but don't you worry yourself, I won't touch the ONE thing you're supposed to protect!"
-msgstr ""
+msgstr "C'est le meilleur endroit pour trouver l'inspiration ! Je ne pars pas, mais ne vous inquiétez pas, je ne toucherai pas LA chose que vous êtes supposé protéger."
 
 #. Key:	DL_Talok35
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok35.Default__DL_Talok35_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok35.Default__DL_Talok35_C.DialogueText
 msgctxt "Dialogue_Text,DL_Talok35"
 msgid "Your poems don't even rhyme, and don't start telling again me about those- Uhh, the- Hai... Haikus! Yeah, Don't start telling me about how \"Haikus\" don't have to rhyme!"
-msgstr ""
+msgstr "Vos poèmes ne riment même pas, et ne me lancez pas sur - Uhh, les Hai... Haikus ! Oui, ne me lancez pas sur pourquoi les \"Haikus\" n'ont pas besoin de rimes !"
 
 #. Key:	DL_Talok4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok4.Default__DL_Talok4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok4.Default__DL_Talok4_C.DialogueText
 msgctxt "Dialogue_Text,DL_Talok4"
 msgid "Gah! You nearly scared the Great spirit from my limbs, I cannot believe that a Toa of legend standith before me!"
-msgstr ""
+msgstr "Gah ! Vous m'avez fait une peur de tous les Grands Esprits ! Je ne peux pas croire que le Toa de légende se tienne devant moi !"
 
 #. Key:	DL_Talok5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok5.Default__DL_Talok5_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok5.Default__DL_Talok5_C.DialogueText
 msgctxt "Dialogue_Text,DL_Talok5"
 msgid "Ehh- I uhh, sorry... Sometimes I forget that many others don't have as much of a vocabulary as me. I am Talok, the great poet. Or the Poet-Nui if you prefer."
-msgstr ""
+msgstr "Ehh- Je euhh, désolé... Parfois j'oublie que la plupart des autres n'ont pas autant de vocabulaire que moi. Je suis Talok, le grand poète. Ou le Poète-Nui si vous préférez."
 
 #. Key:	DL_Talok6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok6.Default__DL_Talok6_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok6.Default__DL_Talok6_C.DialogueText
 msgctxt "Dialogue_Text,DL_Talok6"
 msgid "Hahahaha, don't be redicoulous! I am renown all across Mata-Nui!"
-msgstr "Hahahah, ne soit pas ridicule ! Je suis renommé sur tout Mata Nui !"
+msgstr "Hahahah, ne soyez pas ridicule ! Je suis renommé sur tout Mata Nui !"
 
 #. Key:	DL_Talok7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok7.Default__DL_Talok7_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok7.Default__DL_Talok7_C.DialogueText
 msgctxt "Dialogue_Text,DL_Talok7"
 msgid "*Huff* Very well, then we must recrify this. I'm nearly finished with my latest poem, then you can have it!"
-msgstr ""
+msgstr "*Huff* Très bien, donc nous devons rectifier ceci. J'ai presque terminé mon dernier poème, vous pourrez bientôt l'avoir !"
 
 #. Key:	DL_Talok8
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok8.Default__DL_Talok8_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok8.Default__DL_Talok8_C.DialogueText
 msgctxt "Dialogue_Text,DL_Talok8"
 msgid "Alright lets see, where was I... Oh yes- \"Ahh Ta-Koro, what a wonderful city. From the Lava, to the fires of the torches,\"... Dahh..."
-msgstr ""
+msgstr "Alors, voyons-voir, où en étais-je... Oh oui, \"Ahh Ta-Koro, quelle merveilleuse cité.  De la Lave, jusqu'au feu des torches,\" ... Dahh..."
 
 #. Key:	DL_Talok9
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok9.Default__DL_Talok9_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok9.Default__DL_Talok9_C.DialogueText
 msgctxt "Dialogue_Text,DL_Talok9"
 msgid "No, Gah Mata-Nui, I'm afraid I've reached some writers block. Hmm, would you like to pick the next line Toa?"
-msgstr ""
+msgstr "Non, Gah Mata-Nui, j'ai peur d'avoir perdu mon inspiration. Hmm, voudriez-vous choisir le prochain vers, Toa ?"
 
 #. Key:	DL_TalokBurns
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokBurns.Default__DL_TalokBurns_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokBurns.Default__DL_TalokBurns_C.DialogueText
 msgctxt "Dialogue_Text,DL_TalokBurns"
 msgid "Oooo, I like it. You're not a half bad poet toa, Here's your copy!"
-msgstr "Oh, j'aime. Tu n'es pas un mauvais poète Toa, voilà ta copie !"
+msgstr "Oh, j'aime. Vous n'êtes pas un mauvais poète Toa, voilà votre copie !"
 
 #. Key:	DL_TalokDone
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokDone.Default__DL_TalokDone_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokDone.Default__DL_TalokDone_C.DialogueText
 msgctxt "Dialogue_Text,DL_TalokDone"
 msgid "Ahh, good to see you again Toa!"
-msgstr "Ah, c'est bon de te revoir Toa !"
+msgstr "Ah, c'est bon de vous revoir Toa !"
 
 #. Key:	DL_TalokDone1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokDone1.Default__DL_TalokDone1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokDone1.Default__DL_TalokDone1_C.DialogueText
 msgctxt "Dialogue_Text,DL_TalokDone1"
 msgid "I am studying how the light scatters in Le-Wahi... Trying to come up with something for my next poem."
-msgstr ""
+msgstr "J'étudie comment la lumière se disperse dans Le-Wahi... J'essaye de trouver l'inspiration pour mon nouveau poème."
 
 #. Key:	DL_TalokHot
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokHot.Default__DL_TalokHot_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokHot.Default__DL_TalokHot_C.DialogueText
 msgctxt "Dialogue_Text,DL_TalokHot"
 msgid "HAHAHA, That is very funny indeed Kopaka! Here, your copy sir."
-msgstr ""
+msgstr "HAHAHA, C'est effectivement très drôle Kopaka ! Voici votre copie, monsieur."
 
 #. Key:	DL_TalokLight
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokLight.Default__DL_TalokLight_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokLight.Default__DL_TalokLight_C.DialogueText
 msgctxt "Dialogue_Text,DL_TalokLight"
 msgid "Uhh, that's not great... In my opinion of course, but I suppose it's better than nothing. Here's your copy!"
-msgstr ""
+msgstr "Uhh, ce n'est pas fameux... De mon point de vue, bien entendu, mais je suppose que c'est mieux que rien. Voici votre copie !"
 
 #. Key:	DL_TalokSmoke
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokSmoke.Default__DL_TalokSmoke_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokSmoke.Default__DL_TalokSmoke_C.DialogueText
 msgctxt "Dialogue_Text,DL_TalokSmoke"
 msgid "Ehh, it's not what I would have gone with personally, but it's not bad. Here's your copy!"
-msgstr ""
+msgstr "Ehh, ce n'est pas ce vers quoi je me serais personnellement dirigé, mais ce n'est pas mal. Voici votre copie !"
 
 #. Key:	DL_Tamaru
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Tamaru.Default__DL_Tamaru_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Tamaru.Default__DL_Tamaru_C.DialogueText
 msgctxt "Dialogue_Text,DL_Tamaru"
 msgid "Toa, Hi! It has been a long-while since we last talked!"
-msgstr ""
+msgstr "Toa, bonjour ! Cela fait longtemps que nous n'avons plus parlé !"
 
 #. Key:	DL_Tamaru1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Tamaru1.Default__DL_Tamaru1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Tamaru1.Default__DL_Tamaru1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Tamaru1"
 msgid "Yes, we talked about my height-dread. You don't remember your friend Tamaru?"
-msgstr ""
+msgstr "Oui, nous avons parlé à propos de ma peur du vide. Vous ne vous souvenez pas de votre ami Tamaru ?"
 
 #. Key:	DL_Tamaru2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Tamaru2.Default__DL_Tamaru2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Tamaru2.Default__DL_Tamaru2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Tamaru2"
 msgid "Hummm, Very strange... You may need your head look-seen about Toa."
-msgstr ""
+msgstr "Hummm, Très étrange... Vous devriez vous faire examiner Toa."
 
 #. Key:	DL_Tamaru3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Tamaru3.Default__DL_Tamaru3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Tamaru3.Default__DL_Tamaru3_C.DialogueText
 msgctxt "Dialogue_Text,DL_Tamaru3"
 msgid "You are right, but I believe us to be Same-hearted. I consider us to be ever-long friends Toa $T."
-msgstr ""
+msgstr "Vous avez raison, mais je pense que nos Cœurs sont semblables. Je nous considère comme de sincères amis, Toa $T"
 
 #. Key:	DL_Taphal1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Taphal1.Default__DL_Taphal1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Taphal1.Default__DL_Taphal1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Taphal1"
 msgid "Huh, oh hello $T. I'm not being lazy, just taking a small break."
-msgstr ""
+msgstr "Huh, oh bonjour $T. Je ne tire pas au flanc, je prends juste une petite pause."
 
 #. Key:	DL_Taphal2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Taphal2.Default__DL_Taphal2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Taphal2.Default__DL_Taphal2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Taphal2"
 msgid "Well, I'm the town's repair man of sorts - and everyone is counting on me to fill their requests. I don't want to let them down!"
-msgstr ""
+msgstr "Eh bien, je suis l'homme à tout faire de la ville, en quelque-sorte - et tout le monde compte sur moi pour honorer leurs commandes. Je ne veux pas les décevoir !"
 
 #. Key:	DL_Taphal3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Taphal3.Default__DL_Taphal3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Taphal3.Default__DL_Taphal3_C.DialogueText
 msgctxt "Dialogue_Text,DL_Taphal3"
 msgid "Of course. I will, thank you Toa."
-msgstr "Bien sûr. Je le ferais, merci Toa."
+msgstr "Bien sûr. Je le ferai, merci Toa."
 
 #. Key:	DL_TaphalFixed
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed.Default__DL_TaphalFixed_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed.Default__DL_TaphalFixed_C.DialogueText
 msgctxt "Dialogue_Text,DL_TaphalFixed"
 msgid "Oh, hey Toa! Like what I've done with the place?"
-msgstr ""
+msgstr "Oh, bonjour Toa ! Regardez ce que j'ai fait de l'endroit !"
 
 #. Key:	DL_TaphalFixed2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed2.Default__DL_TaphalFixed2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed2.Default__DL_TaphalFixed2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TaphalFixed2"
 msgid "Oh, what YOU've done?"
-msgstr "Oh, qu'est-ce que TU as fait ?"
+msgstr "Oh, ce que TU as fait ?"
 
 #. Key:	DL_TaphalFixed3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed3.Default__DL_TaphalFixed3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed3.Default__DL_TaphalFixed3_C.DialogueText
 msgctxt "Dialogue_Text,DL_TaphalFixed3"
 msgid "Alright alright, what we've done."
-msgstr ""
+msgstr "D'accord, d'accord, ce que nous avons fait."
 
 #. Key:	DL_TaphalFixed4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed4.Default__DL_TaphalFixed4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed4.Default__DL_TaphalFixed4_C.DialogueText
 msgctxt "Dialogue_Text,DL_TaphalFixed4"
 msgid "For the most part, Parhi bought the materials, Kalhi helped move them, but me and my apprentice have done most of the work."
-msgstr ""
+msgstr "Pour la majeure partie, Parhi a acheté les matériaux, Kahli a aidé à les déplacer, mais mon apprenti et moi avons fait la plus grande partie du travail."
 
 #. Key:	DL_TaphalFixed5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed5.Default__DL_TaphalFixed5_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed5.Default__DL_TaphalFixed5_C.DialogueText
 msgctxt "Dialogue_Text,DL_TaphalFixed5"
 msgid "That's right, I've helped a lot. I hand Taphal tools..."
-msgstr ""
+msgstr "C'est vrai, j'ai beaucoup aidé. Je donne ses outils à Taphal..."
 
 #. Key:	DL_TaphalFixed6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed6.Default__DL_TaphalFixed6_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed6.Default__DL_TaphalFixed6_C.DialogueText
 msgctxt "Dialogue_Text,DL_TaphalFixed6"
 msgid "I'm teaching you!"
-msgstr ""
+msgstr "Je t'enseigne !"
 
 #. Key:	DL_TaphalFixing1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixing1.Default__DL_TaphalFixing1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixing1.Default__DL_TaphalFixing1_C.DialogueText
 msgctxt "Dialogue_Text,DL_TaphalFixing1"
 msgid "*Muttering to self* Gotta fix it - Just keep working..."
-msgstr ""
+msgstr "*Marmonne* Dois réparer - Juste continuer de travailler..."
 
 #. Key:	DL_TaphalFixing2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixing2.Default__DL_TaphalFixing2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixing2.Default__DL_TaphalFixing2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TaphalFixing2"
 msgid "I'm just fine - I just have to keep at it, we'll finish it eventually!"
-msgstr ""
+msgstr "Je vais bien, je dois juste continuer, on finira par terminer tout ça !"
 
 #. Key:	DL_TaphalQuestion
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalQuestion.Default__DL_TaphalQuestion_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalQuestion.Default__DL_TaphalQuestion_C.DialogueText
 msgctxt "Dialogue_Text,DL_TaphalQuestion"
 msgid "Hah, Yes Tafall. Me and her have a nice give and take, almost like a rivalry."
-msgstr ""
+msgstr "Hah, Oui Tafall. Elle et moi avons une bonne répartie, presque comme une rivalité."
 
 #. Key:	DL_TelescopeMan
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeMan.Default__DL_TelescopeMan_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeMan.Default__DL_TelescopeMan_C.DialogueText
 msgctxt "Dialogue_Text,DL_TelescopeMan"
 msgid " </><Matoran>Over and over again and again The darkness controls the wheel</><Key> ... What could it mean..."
-msgstr ""
+msgstr " </><Matoran>Encore et encore, toujours et toujours Les ténèbres contrôlent la roue</><Key> ... Qu'est-ce que cela peut vouloir dire..."
 
 #. Key:	DL_TelescopeMan1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeMan1.Default__DL_TelescopeMan1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeMan1.Default__DL_TelescopeMan1_C.DialogueText
 msgctxt "Dialogue_Text,DL_TelescopeMan1"
 msgid "This Telescope has been used by all the great philosophers of Ko-Koro, their prophecies and findings were inscribed at the base here. Some of them have been lost to time, I'm attempting to restore those and discover their meaning."
-msgstr ""
+msgstr "Ce Télescope a été utilisé par les grands philosophes de Ko-Koro, leurs prophéties et trouvailles furent inscrites a la base de ces murs. Certaines ont été perdues avec le temps, je m'efforce de les restaurer et de découvrir leur signification."
 
 #. Key:	DL_TelescopeMan2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeMan2.Default__DL_TelescopeMan2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeMan2.Default__DL_TelescopeMan2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TelescopeMan2"
 msgid "Oh indeed, quite a few. By observing the Red Star and it's relation to surrounding stars, one can create very accurate depictions of the future and the past."
-msgstr ""
+msgstr "Oh en effet, un certain nombre. En observant l'Etoile Rouge et sa relation avec les étoiles environnantes, il est possible de créer des descriptions très précises du futur et du passé."
 
 #. Key:	DL_TelescopeManHow
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeManHow.Default__DL_TelescopeManHow_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeManHow.Default__DL_TelescopeManHow_C.DialogueText
 msgctxt "Dialogue_Text,DL_TelescopeManHow"
 msgid "There are constellations in the sky, stars that form patterns and shapes. When the Red Star nears one of these we begin to get an idea of what will happen and how soon. The distance from the constellation denotes time, and when the Red Star fully merges with a star pattern, that prophecy will be very near to coming true."
-msgstr ""
+msgstr "Il y a des constellations dans le ciel, des étoiles qui créent des formes et des dessins. Quand l'Etoile Rouge s'approche de l'une d'elles nous commençons à avoir une idée de ce qui va se passer, et quand. La distance de la constellation donne le temps, et quand l'Etoile Rouge pénètre entièrement dans la forme d'un amas d'étoiles, cette prophétie est sur le point de se réaliser."
 
 #. Key:	DL_TelescopeManUse
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeManUse.Default__DL_TelescopeManUse_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeManUse.Default__DL_TelescopeManUse_C.DialogueText
 msgctxt "Dialogue_Text,DL_TelescopeManUse"
 msgid "Why of course, it is free for anyone to use!"
-msgstr ""
+msgstr "Mais bien sûr, c'est gratuit pour tout le monde !"
 
 #. Key:	DL_TelescopeManWhich
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeManWhich.Default__DL_TelescopeManWhich_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeManWhich.Default__DL_TelescopeManWhich_C.DialogueText
 msgctxt "Dialogue_Text,DL_TelescopeManWhich"
 msgid "Well, let's see...  </><Matoran>The darkness will be defeated but not for long</><Key> There's that one... Then there's, </><Matoran>Amnesia They fight themselves not their enemy</><Key> Not entirely sure about those but there is one that I know has come true. </><Matoran>Six lost Six abducted Six trapped all part of the plan</><Key> I believe it refers to the Turaga being lost."
-msgstr ""
+msgstr "Eh bien, voyons... </><Matoran> Les ténèbres seront vaincues mais pas pour longtemps</><Key> Il ya celle-ci... Puis il y a, </><Matoran>Amnésie Ils se battent entre eux, pas contre leur ennemi</><Key> Pas certain de celles-là mais celle-ci par contre, je sais qu'elle s'est réalisée. </><Matoran>Six perdus Six enlevés Six prisonniers tous partie du plan</><Key> Je pense qu'il y a un lien avec la perte des Turaga."
 
 #. Key:	DL_TempleMasterOtherTemples
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TempleMasterOtherTemples.Default__DL_TempleMasterOtherTemples_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TempleMasterOtherTemples.Default__DL_TempleMasterOtherTemples_C.DialogueText
 msgctxt "Dialogue_Text,DL_TempleMasterOtherTemples"
 msgid "Before you go toa $T! There are still Temples across the island that are in danger! Please help them too."
-msgstr ""
+msgstr "Avant que vous ne partiez Toa $T ! Il y a d'autres temples sur l'île qui sont en danger ! S'il vous plait, aidez-les aussi."
 
 #. Key:	DL_TempleMasterQuestion
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TempleMasterQuestion.Default__DL_TempleMasterQuestion_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TempleMasterQuestion.Default__DL_TempleMasterQuestion_C.DialogueText
 msgctxt "Dialogue_Text,DL_TempleMasterQuestion"
 msgid "Are they gone toa??"
-msgstr ""
+msgstr "Sont-ils partis Toa ???"
 
 #. Key:	DL_TempleMasterThanks
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TempleMasterThanks.Default__DL_TempleMasterThanks_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TempleMasterThanks.Default__DL_TempleMasterThanks_C.DialogueText
 msgctxt "Dialogue_Text,DL_TempleMasterThanks"
 msgid "Ahh, Thank you so much for vanquishing them Toa! Now the rest of the Matoran may return."
-msgstr ""
+msgstr "Aah, merci beaucoup de les avoir vaincus Toa ! Maintenant, le reste des Matoran peut revenir."
 
 #. Key:	DL_TempleMatoran1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoran1.Default__DL_TempleMatoran1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoran1.Default__DL_TempleMatoran1_C.DialogueText
 msgctxt "Dialogue_Text,DL_TempleMatoran1"
 msgid "Thank you for making our Temple safe Toa!"
-msgstr "Merci d'avoir supprimé le danger de notre Temple, Toa !"
+msgstr "Merci d'avoir mis notre temple hors de danger Toa !"
 
 #. Key:	DL_TempleMatoran2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoran2.Default__DL_TempleMatoran2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoran2.Default__DL_TempleMatoran2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TempleMatoran2"
 msgid "Toa! There are more Temples over the Island that have been overrun! Would you be willing to free them?"
-msgstr ""
+msgstr "Toa ! Il y a d'autres temples sur l'île qui ont été envahis ! Accepteriez-vous de les libérer ?"
 
 #. Key:	DL_TempleMatoranGetQuest
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoranGetQuest.Default__DL_TempleMatoranGetQuest_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoranGetQuest.Default__DL_TempleMatoranGetQuest_C.DialogueText
 msgctxt "Dialogue_Text,DL_TempleMatoranGetQuest"
 msgid "Toa! There are more Temples over the Island that have been overrun! Would you be willing to free them?"
-msgstr ""
+msgstr "Toa ! Il y a d'autres temples sur l'île qui ont été envahis ! Accepteriez-vous de les libérer ?"
 
 #. Key:	DL_TempleMatoranQuestGet
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoranQuestGet.Default__DL_TempleMatoranQuestGet_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoranQuestGet.Default__DL_TempleMatoranQuestGet_C.DialogueText
 msgctxt "Dialogue_Text,DL_TempleMatoranQuestGet"
 msgid "The closest one should be the Ta-Wahi Temple, it's south of here, hidden among the burnt trees."
-msgstr ""
+msgstr "Le plus proche devrait être le temple de Ta-Wahi, c'est au sud d'ici, caché au milieu des arbres calcinés."
 
 #. Key:	DL_TempleMatoranQuestIntro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoranQuestIntro.Default__DL_TempleMatoranQuestIntro_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoranQuestIntro.Default__DL_TempleMatoranQuestIntro_C.DialogueText
 msgctxt "Dialogue_Text,DL_TempleMatoranQuestIntro"
 msgid "Toa! There are more Temples around the Island that have been overrun! Would you be willing to free them?"
-msgstr ""
+msgstr "Toa ! Il y a d'autres temples sur l'île qui ont été envahis ! Accepteriez-vous de les libérer ?"
 
 #. Key:	DL_TempleMatoranThanks
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TempleMatoranThanks.Default__DL_TempleMatoranThanks_C.DialogueText
@@ -14609,35 +14609,35 @@ msgstr "Sont-ils partis ?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/CaveTemple/DL_Thankscavetemple1.Default__DL_Thankscavetemple1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Thankscavetemple1"
 msgid "Phew, thank you Toa, you saved our sanctuary!"
-msgstr "Pff, merci Toa, tu as sauvé notre sanctuaire !"
+msgstr "Pff, merci Toa, vous avez sauvé notre sanctuaire !"
 
 #. Key:	DL_ThanksyouforKumo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_ThanksyouforKumo.Default__DL_ThanksyouforKumo_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_ThanksyouforKumo.Default__DL_ThanksyouforKumo_C.DialogueText
 msgctxt "Dialogue_Text,DL_ThanksyouforKumo"
 msgid "Thank you very much for saving Kumo! You truly are Spirit-blessed Toa!"
-msgstr ""
+msgstr "Merci beaucoup d'avoir sauvé Kumo ! Vous êtes vraiment un Toa béni par l'Esprit !"
 
 #. Key:	DL_Thuei2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei2.Default__DL_Thuei2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei2.Default__DL_Thuei2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Thuei2"
 msgid "No, no no! Toa, you're not supposed to see this yet! I'm still working on it!"
-msgstr ""
+msgstr "Non, non, non ! Toa, vous n'êtes pas encore censé voir ça ! Je travaille toujours dessus !"
 
 #. Key:	DL_Thuei3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei3.Default__DL_Thuei3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei3.Default__DL_Thuei3_C.DialogueText
 msgctxt "Dialogue_Text,DL_Thuei3"
 msgid "Well it's still on the drawing board, per se... It's going to be a statue of Onua riding a giant Ussal... fighting a Kane-Ra. Or... maybe it should be a Muaka?"
-msgstr ""
+msgstr "Eh bien, nous en sommes toujours à l'étape du croquis... Ce sera une statue de vous chevauchant un Ussal géant... Combattant un Kane-Ra. Où peut-être devrait-ce être un Muaka ?"
 
 #. Key:	DL_Thuei3Onua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei3Onua.Default__DL_Thuei3Onua_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei3Onua.Default__DL_Thuei3Onua_C.DialogueText
 msgctxt "Dialogue_Text,DL_Thuei3Onua"
 msgid "Well it's still on the drawing board, per se... It's going to be a statue of you riding a giant Ussal... fighting a Kane-Ra. Or... maybe it should be a Muaka?"
-msgstr ""
+msgstr "Eh bien, nous en sommes toujours à l'étape du croquis... Ce sera une statue de vous chevauchant un Ussal géant... Combattant un Kane-Ra. Où peut-être devrait-ce être un Muaka ?"
 
 #. Key:	DL_ThueiFinish
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_ThueiFinish.Default__DL_ThueiFinish_C.DialogueText
@@ -16401,7 +16401,7 @@ msgstr "Graines de Vuata Maca"
 #: /Game/BluePrints/Classes/Inventory/Items/Item_WaheCanister.Item_WaheCanister.Name
 msgctxt "InvItem_Name,Item_WaheCanister"
 msgid "Wahae-Mata Gel Canister"
-msgstr "Canette de gel Wahae-Mata"
+msgstr "Cartouche de gel Wahae-Mata"
 
 #. Key:	Item_WaheGel
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Item_WaheGel.Item_WaheGel.Name
