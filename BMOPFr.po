@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2024-04-30 22:44\n"
-"PO-Revision-Date: 2024-08-15 22:36+0200\n"
+"PO-Revision-Date: 2024-08-09 15:46+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr_FR\n"
@@ -13,7 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 3.4.4\n"
-"X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,-1,1593,-1\n"
 
 #. Key:	Loading
 #. SourceLocation:	Config/DefaultGame.ini:104
@@ -9997,7 +9996,7 @@ msgstr "Bonne chance. Et dépêche-toi s'il te plaît ?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentQuestDesc.Default__DL_JobmasterShipmentQuestDesc_C.DialogueText
 msgctxt "Dialogue_Text,DL_JobmasterShipmentQuestDesc"
 msgid "The shipment is late, and it's important. I'll need you to head to the Onu-Koro shipping center and see what's taking them so long. If the couriers have left already, you'll need to track them down."
-msgstr "La cargaison est en retard, et c'est important. J'ai besoin que tu ailles au centre de marchandises  d'Onu-Koro et vois ce qui leur prend autant de temps. Si les messagers sont déjà partis, il faudra que tu les recherches."
+msgstr "La cargaison est en retard, et c'est important. J'ai besoin que tu ailles au centre d'expédition d'Onu-Koro et vois ce qui leur prend autant de temps. Si les messagers sont déjà partis, il faudra que tu les recherches."
 
 #. Key:	DL_JobmasterTuraga
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterTuraga.Default__DL_JobmasterTuraga_C.DialogueText
@@ -10396,7 +10395,7 @@ msgstr "Hé hé ! Vous êtes finalement de retour Toa-Héros ! Que s'est-il pass
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_Kongu1.Default__DL_Kongu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Kongu1"
 msgid "Why I am wind-flying, Kahu-riding Kongu of course! Huh, it seems your thought-memory has been lost? Strange."
-msgstr "Voyons, je suis le vent-pilote, chevaucheur de Kahu Kongu évidemment ! Hm, il semble que votre esprit-mémoire a été perdu ? Etrange."
+msgstr "Voyons, je suis l'oiseauteur, chevaucheur de Kahu Kongu évidemment ! Hm, il semble que votre esprit-mémoire a été perdu ? Etrange."
 
 #. Key:	DL_Kongu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_Kongu2.Default__DL_Kongu2_C.DialogueText
@@ -10410,14 +10409,14 @@ msgstr "Oh oui ! J'ai besoin de quelqu'un pour partir à la chasse-recherche de 
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_KonguMap.Default__DL_KonguMap_C.DialogueText
 msgctxt "Dialogue_Text,DL_KonguMap"
 msgid "Some scouts have heard him Down-tree and deep-wood, here I'll mark it on your map-paper."
-msgstr "Certains éclaireurs l'ont entendu dans le bas-arbre et les profonds-bois, tenez, je vais le marquer sur votre carte-plan."
+msgstr "Certains éclaireurs l'ont entendu racineux et bathysylvestre, tenez, je vais le marquer sur votre carte-plan."
 
 #. Key:	DL_KonguNoMap
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_KonguNoMap.Default__DL_KonguNoMap_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_KonguNoMap.Default__DL_KonguNoMap_C.DialogueText
 msgctxt "Dialogue_Text,DL_KonguNoMap"
 msgid "Some scouts have heard him Down-tree and deep-wood, you will need a map though! I've done some Draw-finding of Le-Wahi, here take it!"
-msgstr "Certains éclaireurs l'ont entendu dans le bas-arbre et les profonds-bois, vous allez avoir besoin d'une énorme carte en revanche ! J'ai fait quelques dessins-trouvailles de Le-Wahi, tenez, prenez-le !"
+msgstr "Certains éclaireurs l'ont entendu racineux et bathysylvestre, vous allez avoir besoin d'une énorme carte en revanche ! J'ai fait quelques dessins-trouvailles de Le-Wahi, tenez, prenez-le !"
 
 #. Key:	DL_KonguQuest
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_KonguQUest.Default__DL_KonguQuest_C.DialogueText
@@ -10459,7 +10458,7 @@ msgstr "... Je suspecte que nous l'apprendrons bientôt."
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Kopaka3.Default__DL_Kopaka3_C.DialogueText
 msgctxt "Dialogue_Text,DL_Kopaka3"
 msgid "So we are doomed to fail no matter how many times we confront Makuta? To relive this same battle countless times?"
-msgstr "Donc nous sommes condamnés à échouer peu importe le nombre de fois que nous affrontons Makuta ? A revivre cette bataille éternellement ?"
+msgstr "Donc nous sommes condamnés à échouer peu importe le nombre de fois que nous affrontons Makuta ? À revivre cette bataille éternellement ?"
 
 #. Key:	DL_Kopeke1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_Kopeke1.Default__DL_Kopeke1_C.DialogueText
@@ -10529,7 +10528,7 @@ msgstr "Je vais rester un peu ici oui, mais si je ne suis pas là à votre retou
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownBuyerOnua.Default__DL_KoTownBuyerOnua_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownBuyerOnua"
 msgid "Ahh, Yes Protodermis is more common, however Protosteel is a very rare, very strong material that can only be manipulated by a few people in the world. I've been traveling all over the island to find and study these rare tools. I'm Kohi by the way."
-msgstr "Aah, oui, la Protodermis est plus commune, cependant le Protoacier est un matériau très rare, très résistant, qui peut être manipulé seulement par une petite quantité de personnes dans le monde. J'ai voyagé dans toute l'île pour trouver ces objets rares. Je m'appelle Kohi, enchanté."
+msgstr "Aah, oui, le Protodermis est plus commun, cependant le Protoacier est un matériau très rare, très résistant, qui peut être manipulé seulement par une petite quantité de personnes dans le monde. J'ai voyagé dans toute l'île pour trouver ces objets rares. Je m'appelle Kohi, enchanté."
 
 #. Key:	DL_KoTownBuyerOnua1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownBuyerOnua1.Default__DL_KoTownBuyerOnua1_C.DialogueText
@@ -10557,7 +10556,7 @@ msgstr "Quoi ? Po-Koro a été attaqué ?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteel3.Default__DL_KoTownKohiProtosteel3_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownKohiProtosteel3"
 msgid "Oh, you gave me a fright Toa! Whagna isn't my home, I was mearly there following up on a lead to find this. Shame they got attacked though, I hope no one was hurt."
-msgstr "Oh vous m'avez fait peur Toa ! Whagna n'est pas ma maison, j'étais simplement ici sur une piste pour trouver ceci. C'est tragique qu'ils aient été attaqués ceci-dit, j'espère que personne n'a été blessé."
+msgstr "Oh vous m'avez fait peur Toa ! Whagna n'est pas mon foyer, j'étais simplement ici sur une piste pour trouver ceci. C'est tragique qu'ils aient été attaqués ceci-dit, j'espère que personne n'a été blessé."
 
 #. Key:	DL_KoTownKohiProtosteelDiscovered
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelDiscovered.Default__DL_KoTownKohiProtosteelDiscovered_C.DialogueText
@@ -10578,7 +10577,7 @@ msgstr "Aaah bonjour Toa ! Oui, effectivement, bien que je ne sois pas encore ce
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelDiscovered3.Default__DL_KoTownKohiProtosteelDiscovered3_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownKohiProtosteelDiscovered3"
 msgid "Well, I was trying to melt down the tools we found, and even with my furnace as hot as it could go they still weren't begining to."
-msgstr "Eh bien, j'ai essayé de fondre les outils qu'on a trouvé, et même avec ma fournaise aussi chaude que possible, ils ne commençaient même pas."
+msgstr "Eh bien, j'ai essayé de fondre les outils qu'on a trouvé, et même avec mon fourneau aussi chaud que possible, ils ne commençaient même pas."
 
 #. Key:	DL_KoTownKohiProtosteelDiscovered4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelDiscovered4.Default__DL_KoTownKohiProtosteelDiscovered4_C.DialogueText
@@ -10599,7 +10598,7 @@ msgstr "Pour votre aide dans cette tâche, j'aimerais vous donner le premier obj
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelGift1.Default__DL_KoTownKohiProtosteelGift1_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownKohiProtosteelGift1"
 msgid "I was thinking I'd add some shine to your masks, If you'd allow me?"
-msgstr "Je pensais que je pourrais rajouter du brillant à vos masques, si vous me le permettez ? "
+msgstr "Je pensais que je pourrais rajouter du brillant à vos masques, si vous me le permettez ?"
 
 #. Key:	DL_KoTownKohiProtosteelGift2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelGift2.Default__DL_KoTownKohiProtosteelGift2_C.DialogueText
@@ -10620,7 +10619,7 @@ msgstr "Ahh, Oui Merci merci Toa !"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelGive1.Default__DL_KoTownKohiProtosteelGive1_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownKohiProtosteelGive1"
 msgid "With this and my others, I should be able to discover the secret to Protosteel. Stop by my forge in Po-Koro later, and I might have something for you."
-msgstr "Avec celui-ci et les autres, je devrais pouvoir découvrir le secret du protoacier. Passez par ma forge à Po-Koro plus tard, et j'aurai quelque-chose pour vous."
+msgstr "Avec celui-ci et les autres, je devrais pouvoir découvrir le secret du protoacier. Passez par ma forge à Po-Koro plus tard, et j'aurai quelque chose pour vous."
 
 #. Key:	DL_KoTownKohiProtosteelGive2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelGive2.Default__DL_KoTownKohiProtosteelGive2_C.DialogueText
@@ -10970,21 +10969,21 @@ msgstr "Euuh... Oui il semblerait que j'ai été bouleverse-désorienté."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoImlost.Default__DL_LeQuestKumoImlost_C.DialogueText
 msgctxt "Dialogue_Text,DL_LeQuestKumoImlost"
 msgid "I appear to be lost."
-msgstr "Il semblerait que je suis perdu."
+msgstr "On dirait que je suis perdu."
 
 #. Key:	DL_LeQuestKumoNextime
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoNextime.Default__DL_LeQuestKumoNextime_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoNextime.Default__DL_LeQuestKumoNextime_C.DialogueText
 msgctxt "Dialogue_Text,DL_LeQuestKumoNextime"
 msgid "I'll be fine Toa-Hero, no need to worry."
-msgstr "Je vais me débrouiller Toa-Héros, pas besoin de vous tracasser."
+msgstr "Je vais me débrouiller Toa-Héros, pas besoin de vous inquiéter."
 
 #. Key:	DL_LeQuestKumoNextime_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoNextime_2.Default__DL_LeQuestKumoNextime_2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoNextime_2.Default__DL_LeQuestKumoNextime_2_C.DialogueText
 msgctxt "Dialogue_Text,DL_LeQuestKumoNextime_2"
 msgid "I'll be fine Toa, no need to worry."
-msgstr "Je vais me débrouiller Toa, pas besoin de vous tracasser."
+msgstr "Je vais me débrouiller Toa, pas besoin de vous inquiéter."
 
 #. Key:	DL_LeQuestKumoThanks
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoThanks.Default__DL_LeQuestKumoThanks_C.DialogueText
@@ -11145,7 +11144,7 @@ msgstr "C'parti !"
 #: /Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_MarenWelcomeBack.Default__DL_MarenWelcomeBack_C.DialogueText
 msgctxt "Dialogue_Text,DL_MarenWelcomeBack"
 msgid "Hey again, Toa! Find any cool treasure? Or you just need one 'ah my maps?"
-msgstr "Rebonjour Toa ! Ça trouve des trésors intéressant ? Où y faut juste une d'mes cartes ?"
+msgstr "Rebonjour Toa ! Ça trouve des trésors intéressants ? Où y faut juste une d'mes cartes ?"
 
 #. Key:	DL_MarkleMasks
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_MarkleMasks.Default__DL_MarkleMasks_C.DialogueText
@@ -11194,7 +11193,7 @@ msgstr "Salutations $T !"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_MaskPowerer1.Default__DL_MaskPowerer1_C.DialogueText
 msgctxt "Dialogue_Text,DL_MaskPowerer1"
 msgid "Uhh, I'm not sure actually. It must be important though, the Turaga tasked me to protect it at all costs."
-msgstr "Euuh, je ne suis pas vraiment certain en vérité. Ça doit être important ceci-dit, les Turaga m'ont demandé de le protéger à tout prix."
+msgstr "Euuh, je ne suis pas vraiment certain en vérité. Ça doit être important ceci dit, les Turaga m'ont demandé de le protéger à tout prix."
 
 #. Key:	DL_MaskPowerer2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_MaskPowerer2.Default__DL_MaskPowerer2_C.DialogueText
@@ -11586,7 +11585,7 @@ msgstr "... Pardonnez-moi, Toa, mais je ne pense pas que vous devriez partir ave
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniReturnEnd.Default__DL_MatoroKiniReturnEnd_C.DialogueText
 msgctxt "Dialogue_Text,DL_MatoroKiniReturnEnd"
 msgid "I shall go to speak with Nuju. Speak to us when you are ready."
-msgstr "Je vais aller parler à Nuju. Venez nous voir quand vous êtes prêt."
+msgstr "Je vais aller parler à Nuju. Venez nous voir quand vous serez prêt."
 
 #. Key:	DL_MatoroKiniReturnMine
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniReturnMine.Default__DL_MatoroKiniReturnMine_C.DialogueText
@@ -11656,7 +11655,7 @@ msgstr "L'Akaku ! Vision aux rayons-X... Ouaip... C'est plutôt classe. Quoi qu'
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuExplain.Default__DL_MetonuExplain_C.DialogueText
 msgctxt "Dialogue_Text,DL_MetonuExplain"
 msgid "I had my friend Nuparu draft up some plans for a small device that would seek out the unique energy signals of powered masks! Or well, It's supposed to... The current design can only track one type of mask. If you'd like one I'll need some rare materials to build it, a Toa like yourself shouldn't have trouble with that though."
-msgstr "J'ai chargé mon ami Nuparu de dessiner les plans pour un petit outil qui permettrait de chercher les signaux d'énergie unique de masques actifs ! Où plutôt, qui est sensé chercher... Le design actuel peut seulement pister un seule type de masque. Si vous en aimeriez un, j'ai besoin de matériaux rares pour le construire, un Toa tel que vous ne devrait pas avoir de problèmes avec ça ceci-dit."
+msgstr "J'ai chargé mon ami Nuparu de dessiner les plans pour un petit outil qui permettrait de chercher les signaux d'énergie unique de masques actifs ! Où plutôt, qui est sensé chercher... Le design actuel peut seulement pister un seule type de masque. Si vous en aimeriez un, j'ai besoin de matériaux rares pour le construire, un Toa tel que vous ne devrait pas avoir de problèmes avec ça ceci dit."
 
 #. Key:	DL_MetonuGive
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuGive.Default__DL_MetonuGive_C.DialogueText
@@ -11747,7 +11746,7 @@ msgstr "Le Miru ! La lévitation est agréable, mais j'ai entendu dire qu'il don
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuOrig.Default__DL_MetonuOrig_C.DialogueText
 msgctxt "Dialogue_Text,DL_MetonuOrig"
 msgid "Ahh, Finally done. Wonder what I'll do now... Wait. What do I do now?"
-msgstr "Aah, finalement terminé. Je me demande ce que je vais faire maintenant... Une minute. Je fais quoi maintenant ?"
+msgstr "Ahh, finalement terminé. Je me demande ce que je vais faire maintenant... Une minute. Je fais quoi maintenant ?"
 
 #. Key:	DL_MetonuPakari
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/Masks/DL_MetonuPakari.Default__DL_MetonuPakari_C.DialogueText
@@ -11768,14 +11767,14 @@ msgstr "Le Rau ! Traduction, pas super utile mais je peux comprendre l'intérêt
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuReturn.Default__DL_MetonuReturn_C.DialogueText
 msgctxt "Dialogue_Text,DL_MetonuReturn"
 msgid "Ahh yes, Interested?"
-msgstr "Aah oui, intéressé ?"
+msgstr "Ahh oui, intéressé ?"
 
 #. Key:	DL_MetonuRuru
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/Masks/DL_MetonuRuru.Default__DL_MetonuRuru_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/Masks/DL_MetonuRuru.Default__DL_MetonuRuru_C.DialogueText
 msgctxt "Dialogue_Text,DL_MetonuRuru"
 msgid "The Ruru! I hope this may shed some light on it's location... That was bad, I'll just get to work."
-msgstr "Les Ruru ! J'espère que ceci pourra faire la lumière sur son emplacement... C'est pas bon, je vais juste retourner au travail."
+msgstr "Le Ruru ! J'espère que ceci pourra faire la lumière sur son emplacement... C'est pas bon, je vais juste retourner au travail."
 
 #. Key:	DL_Midak1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Midak1.Default__DL_Midak1_C.DialogueText
@@ -11859,7 +11858,7 @@ msgstr "Ahh, bonjour Toa $T, ce n'est rien, j'étudie juste les étoiles."
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_NixieResponse1.Default__DL_NixieResponse1_C.DialogueText
 msgctxt "Dialogue_Text,DL_NixieResponse1"
 msgid "I interpret the positions of the stars in relation to the Red Star to determine the future."
-msgstr "J'interprète les positions des étoiles en relation avec l'Etoile Rouge pour déterminer le futur."
+msgstr "J'interprète les positions des étoiles en relation avec l'Étoile Rouge pour déterminer le futur."
 
 #. Key:	DL_NixieResponse2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_NixieResponse2.Default__DL_NixieResponse2_C.DialogueText
@@ -11999,7 +11998,7 @@ msgstr "Eh bien... En vérité je n'aurais pas du le mentionner. C'était d'une 
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaScary.Default__DL_NokamaScary_C.DialogueText
 msgctxt "Dialogue_Text,DL_NokamaScary"
 msgid "Indeed it was… I can remember a time when this island was peaceful- when the villages didn’t have to live in fear of the Rahi. Now those days seem like little more than a memory..."
-msgstr "Effetivement, ça l'était... Je peux me souvenir d'une époque où cette île était paisible - quand les villages n'avaient pas à vivre dans la peur des Rahi. Ces derniers temps, ces jours semblent être à peine plus qu'un souvenir..."
+msgstr "Effectivement, ça l'était... Je peux me souvenir d'une époque où cette île était paisible - quand les villages n'avaient pas à vivre dans la peur des Rahi. Ces derniers temps, ces jours semblent être à peine plus qu'un souvenir..."
 
 #. Key:	DL_NujuCovo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovo.Default__DL_NujuCovo_C.DialogueText
@@ -12300,7 +12299,7 @@ msgstr "Des mécanismes cylindriques en laiton ?... OH ! Vous devez parler des S
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu5.Default__DL_Nuparu5_C.DialogueText
 msgctxt "Dialogue_Text,DL_Nuparu5"
 msgid "I've actually studyied them extensively. They were created hundreds of years ago for sure, and I can't prove it but I'm pretty sure the Turaga were responsible... And as you probably know, those old folk don't like to share their secrets. From my experements, I've discovered that if you put an unpowered mask in there, and smear some Wahae-Mata Gel on top, it powers the mask!"
-msgstr "Pour être honnête, je les ai étudiés en détail. Elles ont été créées il y a des siècles pour sûr, et je ne peux pas le prouver mais je suis presque certain que les Turaga étaient responsables... Et comme vous le savez probablement, ces vieux débris ne partagent pas leurs secrets. D'après mes expériences, j'ai découvert que si vous mettez un masque inactif dedans, et l'enduisez de Gel Wahae-Mata, ça activera le masque !"
+msgstr "Pour être honnête, je les ai étudiées en détail. Elles ont été créées il y a des siècles pour sûr, et je ne peux pas le prouver mais je suis presque certain que les Turaga étaient responsables... Et comme vous le savez probablement, ces vieux débris ne partagent pas leurs secrets. D'après mes expériences, j'ai découvert que si vous mettez un masque inactif dedans, et l'enduisez de Gel Wahae-Mata, ça activera le masque !"
 
 #. Key:	DL_NuparuGel
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuGel.Default__DL_NuparuGel_C.DialogueText
@@ -12335,7 +12334,7 @@ msgstr "Hum... Je suppose que j'ai plus de temps pour faire de la recherche main
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Okin2.Default__DL_Okin2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Okin2"
 msgid "Hmm? Oh Hi Toa. Onepu said that I have to \"help\" with the cave in, but the structural architects are still examining it."
-msgstr "Hmm ? Oh, bonjour Toa. Onepu a dit que je devais \"l'aider\" avec l'effondrement, mais les architectes en structure sont toujours en train de l'examiner."
+msgstr "Hmm ? Oh, bonjour Toa. Onepu a dit que je devais « l'aider » avec l'effondrement, mais les architectes en structure sont toujours en train de l'examiner."
 
 #. Key:	DL_Okin3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Okin3.Default__DL_Okin3_C.DialogueText
@@ -12377,7 +12376,7 @@ msgstr "Haha, c'en est une bonne $T ! Comment pourriez-vous oublier quelqu'un co
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu3.Default__DL_Onepu3_C.DialogueText
 msgctxt "Dialogue_Text,DL_Onepu3"
 msgid "Right I nearly forgot! Whenua's missing, sort of... I've gotten reports from just about everyone coming to the village from Po-Wahi that they've heard him nearby. But no one's been able to find him!"
-msgstr "Ah oui, j'avais presque oublié ! Whenua a disparu, en quelque-sorte... J'ai reçu des rapports de pratiquement tous ceux qui viennent de Po-Wahi disant qu'ils l'avaient entendu dans les parages. Mais personne n'a été capable de le trouver !"
+msgstr "Ah oui, j'avais presque oublié ! Whenua a disparu, en quelque sorte... J'ai reçu des rapports de pratiquement tous ceux qui viennent de Po-Wahi disant qu'ils l'avaient entendu dans les parages. Mais personne n'a été capable de le trouver !"
 
 #. Key:	DL_Onepu4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu4.Default__DL_Onepu4_C.DialogueText
@@ -12405,7 +12404,7 @@ msgstr "Ce serait parfait si vous le pouviez, être son assistant ne serait pas 
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuReturn.Default__DL_OnepuReturn_C.DialogueText
 msgctxt "Dialogue_Text,DL_OnepuReturn"
 msgid "Love to chat but I'm rather busy at the moment."
-msgstr "J'adorerais parler mais je suis un peu occupé pour le moment."
+msgstr "J'adorerais discuter mais je suis un peu occupé pour le moment."
 
 #. Key:	DL_OnepuReturn1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuReturn1.Default__DL_OnepuReturn1_C.DialogueText
@@ -13700,14 +13699,14 @@ msgstr "Oh, merci Toa, mais je vais m'en occuper."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperDefault.Default__DL_ShipperDefault_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperDefault"
 msgid "Welcome to the Onu-Koro shipping center. Is there anything I can help you with today?"
-msgstr "Bienvenue au centre de marchandises d'Onu-Koro. Y a-t-il quoi que ce soit que je puisse faire pour vous aider aujourd'hui ?"
+msgstr "Bienvenue au centre de livraison d'Onu-Koro. Y a-t-il quoi que ce soit que je puisse faire pour vous aider aujourd'hui ?"
 
 #. Key:	DL_ShipperDefault2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperDefault2.Default__DL_ShipperDefault2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperDefault2.Default__DL_ShipperDefault2_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperDefault2"
 msgid "This is the Onu-Koro shipping center, we ship things from Koro to Koro. I know it seems like we're in Po-Wahi but we're actually just on the edge of Onu-Wahi!"
-msgstr "C'est le centre de marchandises d'Onu-Koro, nous livrons des colis de Koro à Koro. Je sais qu'il peut sembler que nous sommes à Po-Wahi, mais nous sommes en vérité juste à la frontière avec Onu-Wahi !"
+msgstr "C'est le centre de livraisons d'Onu-Koro, nous livrons des colis de Koro à Koro. Je sais qu'on pourrait croire que nous sommes à Po-Wahi, mais nous sommes en vérité juste à la frontière avec Onu-Wahi !"
 
 #. Key:	DL_ShipperIntro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntro.Default__DL_ShipperIntro_C.DialogueText
@@ -13812,7 +13811,7 @@ msgstr "Eh bien, j'étais seul ici, quand d'un seul coup un groupe de méchants 
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperWhatPlace.Default__DL_ShipperWhatPlace_C.DialogueText
 msgctxt "Dialogue_Text,DL_ShipperWhatPlace"
 msgid "Welcome to the Onu-Koro shipping center. Is there anything I can help you with today? ...Sorry, habit."
-msgstr "Bienvenue au centre de marchandises d'Onu-Koro. En quoi puis-je vous être utile aujourd'hui ? ... Désolé, l'habitude."
+msgstr "Bienvenue au centre de livraison de Onu-Koro. En quoi puis-je vous être utile aujourd'hui ? ... Désolé, l'habitude."
 
 #. Key:	DL_StaffSeller1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSeller1.Default__DL_StaffSeller1_C.DialogueText
@@ -17011,7 +17010,7 @@ msgstr "Un matoran du nom de Kumo s'est perdu en collectant des matériaux, et s
 #: /Game/BluePrints/Classes/Quests/Quest_FrozenInWood.Default__Quest_FrozenInWood_C.Description
 msgctxt "Quest_Description,Quest_FrozenInWood_Desc"
 msgid "Kohi, a Protosteel Collector has requested that you find a Protosteel tool in the Jungles of Le-wahi, He said it would be found \"Frozen in Wood\" and is surrounded by a Nui-Jaga nest."
-msgstr "Kohi, un Collectionneur de Protoacier, vous a demandé de trouver un outil en Protoacier dans les Jungles de Le-Wahi, Il a dit qu'il serait \"Gelé dans le Bois\" au milieu d'un nid de Nui-Jaga."
+msgstr "Kohi, un Collectionneur de Protoacier, vous a demandé de trouver un outil en Protoacier dans les Jungles de Le-Wahi, Il a dit qu'il serait « Gelé dans le Bois » au milieu d'un nid de Nui-Jaga."
 
 #. Key:	Quest_FrozenTower_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FrozenTower.Default__Quest_FrozenTower_C.Description
@@ -17032,7 +17031,7 @@ msgstr "Vous avez trouvé tous les Masques de Pouvoir, retournez au Suva à Ga-K
 #: /Game/BluePrints/Classes/Quests/Main/Quest_GaMakokiStone.Default__Quest_GaMakokiStone_C.Description
 msgctxt "Quest_Description,Quest_GaMakokiStone_Desc"
 msgid "Turaga Nokama has tasked you to find an ancient relic refered to as the Makoki Stone, one of six pieces used to unlock the makuta's domain."
-msgstr "La Turaga Nokama vous a demandé de trouver une ancienne relique connue sous le nom de Pierre Makoki, une des six pièces nécessaires pour débloquer l'entrée du repaire du Makuta."
+msgstr "Turaga Nokama vous a demandé de trouver une ancienne relique connue sous le nom de Pierre Makoki, une des six pièces nécessaires pour débloquer l'entrée du repaire du Makuta."
 
 #. Key:	Quest_Infestation_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Description
@@ -17725,21 +17724,21 @@ msgstr "Vaincre le Toa de l'Ombre."
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnTheLine_Objective_1"
 msgid "Reka has told you to find Khalo, the local Jobmaster; He may have a way for you to earn the widgets."
-msgstr "Reka vous a dit de trouver Khalo, le Gardien d'Ecuries local; Il pourrait avoir un plan pour vous faire gagner des widgets."
+msgstr "Reka vous a dit de trouver Khalo, le Responsable des Taches local; Il pourrait avoir un plan pour vous faire gagner des widgets."
 
 #. Key:	Quest_OnTheLine_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnTheLine_Objective_2"
 msgid "Jobmaster Khalo told you to investigate the Onu-Koro shipping center and determine the status of his shipment."
-msgstr "Le Gardien d'Ecuries Khalo vous a demandé d'enquêter au centre de marchandises d'Onu-Koro et de déterminer l'état de sa cargaison."
+msgstr "Le Responsable des Taches Khalo vous a demandé d'enquêter au centre de transport d'Onu-Koro et de déterminer l'état de sa cargaison."
 
 #. Key:	Quest_OnTheLine_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnTheLine_Objective_3"
 msgid "Omak has told you the couriers with Khalo's shipment may be somewhere in the Pillar-Lands north-east of the shipment center."
-msgstr "Omak vous a dit que les coursiers avec la cargaison de Khalo pourraient être quelque-part dans la Région des Piliers, au nord-est du centre de transport."
+msgstr "Omak vous a dit que les coursiers avec la cargaison de Khalo pourraient être quelque part dans la Région des Piliers, au nord-est du centre de transport."
 
 #. Key:	Quest_OnTheLine_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
