@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2024-04-30 22:44\n"
-"PO-Revision-Date: 2024-04-30 22:44\n"
+"POT-Creation-Date: 2024-12-02 23:44\n"
+"PO-Revision-Date: 2024-12-02 23:44\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -13,37 +13,44 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#. Key:	84C595F04D1DA60BE91589AA1E30B565
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.Default__UI_InventoryItemSmall_C.SellerPopUpDesc
+#: /Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.Default__UI_InventoryItemSmall_C.SellerPopUpDesc
+msgctxt ",84C595F04D1DA60BE91589AA1E30B565"
+msgid "<Key>{Desc}</>\r\nWidget Value: {Value}\r\n{LocalValue}"
+msgstr "<Key>{Desc}</>\r\nWidget Value: {Value}\r\n{LocalValue}"
+
 #. Key:	Loading
-#. SourceLocation:	Config/DefaultGame.ini:104
-#: Config/DefaultGame.ini:104
+#. SourceLocation:	Config/DefaultGame.ini:774
+#: Config/DefaultGame.ini:774
 msgctxt "AsyncLoadingScreen,Loading"
 msgid "LOADING"
 msgstr "LOADING"
 
 #. Key:	AltKey
-#. SourceLocation:	Config/DefaultGame.ini:132
-#: Config/DefaultGame.ini:132
+#. SourceLocation:	Config/DefaultGame.ini:802
+#: Config/DefaultGame.ini:802
 msgctxt "AutoSettings,AltKey"
 msgid "Alt"
 msgstr "Alt"
 
 #. Key:	CmdKey
-#. SourceLocation:	Config/DefaultGame.ini:133
-#: Config/DefaultGame.ini:133
+#. SourceLocation:	Config/DefaultGame.ini:803
+#: Config/DefaultGame.ini:803
 msgctxt "AutoSettings,CmdKey"
 msgid "Cmd"
 msgstr "Cmd"
 
 #. Key:	CtrlKey
-#. SourceLocation:	Config/DefaultGame.ini:131
-#: Config/DefaultGame.ini:131
+#. SourceLocation:	Config/DefaultGame.ini:801
+#: Config/DefaultGame.ini:801
 msgctxt "AutoSettings,CtrlKey"
 msgid "Ctrl"
 msgstr "Ctrl"
 
 #. Key:	ShiftKey
-#. SourceLocation:	Config/DefaultGame.ini:130
-#: Config/DefaultGame.ini:130
+#. SourceLocation:	Config/DefaultGame.ini:800
+#: Config/DefaultGame.ini:800
 msgctxt "AutoSettings,ShiftKey"
 msgid "Shift"
 msgstr "Shift"
@@ -332,8 +339,8 @@ msgstr "The island of Mata Nui. Named after the Great Spirit Mata Nui, this isla
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matatu.Default__LocationEntry_Matatu_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matatu.Default__LocationEntry_Matatu_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_Matatu_Desc"
-msgid "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
-msgstr "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
+msgid "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull nearby items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
+msgstr "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull nearby items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
 
 #. Key:	CodexPage_Matau_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matau.Default__LocationEntry_Matau_C.Location Description
@@ -346,8 +353,8 @@ msgstr "Matau is the Turaga of Le-Koro. Known as the Singer of Le-Koro by the Le
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matoran.Default__LocationEntry_Matoran_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matoran.Default__LocationEntry_Matoran_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_Matoran_Desc"
-msgid "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island. They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
-msgstr "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island. They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
+msgid "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
+msgstr "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
 
 #. Key:	CodexPage_MeditationPoints_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_MeditationPoints.Default__LocationEntry_MeditationPoints_C.Location Description
@@ -381,8 +388,8 @@ msgstr "Nokama is the Turaga of Ga-Koro. Like her village, she is often seen as 
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiJaga.Default__LocationEntry_NuiJaga_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiJaga.Default__LocationEntry_NuiJaga_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_NuiJaga_Desc"
-msgid "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
-msgstr "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
+msgid "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui,. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
+msgstr "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui,. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
 
 #. Key:	CodexPage_NuiRama_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiRama.Default__LocationEntry_NuiRama_C.Location Description
@@ -423,8 +430,8 @@ msgstr "A vast network of tunnels that run beneath the entire island. The surfac
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onua.Default__LocationEntry_Onua_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onua.Default__LocationEntry_Onua_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_Onua_Desc"
-msgid "Onua is the wise and patient Toa of earth. While at first glance he may seem disconnected from the other Toa, that could not be further from the truth. Onua only speaks when he believes he has something worth saying. And when he does speak, it is impactful to the Toa team as a whole. Onua is noticeably shorter than the rest of the Toa, as his head is not in the same place as the rest of the Toa’s builds. His elemental attack launches a spiked piece of earth, which is useful for keeping your distance when dealing with enemies."
-msgstr "Onua is the wise and patient Toa of earth. While at first glance he may seem disconnected from the other Toa, that could not be further from the truth. Onua only speaks when he believes he has something worth saying. And when he does speak, it is impactful to the Toa team as a whole. Onua is noticeably shorter than the rest of the Toa, as his head is not in the same place as the rest of the Toa’s builds. His elemental attack launches a spiked piece of earth, which is useful for keeping your distance when dealing with enemies."
+msgid "Onua is the wise and patient Toa of earth. While at first glance he may seem disconnected from the other Toa, That could not be further from the truth. Onua only speaks when he believes he has something worth saying. And when he does speak, it is impactful to the Toa team as a whole. Onua is noticeably shorter than the rest of the Toa, as his head is not in the same place as the rest of the Toa’s builds. His elemental attack launches a spiked piece of earth, which is useful for keeping your distance when dealing with enemies."
+msgstr "Onua is the wise and patient Toa of earth. While at first glance he may seem disconnected from the other Toa, That could not be further from the truth. Onua only speaks when he believes he has something worth saying. And when he does speak, it is impactful to the Toa team as a whole. Onua is noticeably shorter than the rest of the Toa, as his head is not in the same place as the rest of the Toa’s builds. His elemental attack launches a spiked piece of earth, which is useful for keeping your distance when dealing with enemies."
 
 #. Key:	CodexPage_OnuasLanding_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuasLanding.Default__LocationEntry_OnuasLanding_C.Location Description
@@ -437,8 +444,8 @@ msgstr "A strange vessel that has washed up onto the beach... nobody on the isla
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuKini.Default__LocationEntry_OnuKini_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuKini.Default__LocationEntry_OnuKini_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_OnuKini_Desc"
-msgid "The Onu-Kini is the temple of Earth. While it lies on the surface of Onu-Wahi, the temple is still subject to the frequent tremors that occur in the caves beneath the surface. The temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta."
-msgstr "The Onu-Kini is the temple of Earth. While it lies on the surface of Onu-Wahi, the temple is still subject to the frequent tremors that occur in the caves beneath the surface. The temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta."
+msgid "The Onu-Kini is the temple of Earth. While it lies on the surface of Onu-Wahi, the temple is still subject to the frequent tremors that occur in the caves that occur beneath the surface. The temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta."
+msgstr "The Onu-Kini is the temple of Earth. While it lies on the surface of Onu-Wahi, the temple is still subject to the frequent tremors that occur in the caves that occur beneath the surface. The temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta."
 
 #. Key:	CodexPage_OnuTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuTemple.Default__LocationEntry_OnuTemple_C.Location Description
@@ -647,8 +654,8 @@ msgstr "Vakama is the Turaga of Ta-Koro. He is respected for his wisdom and his 
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Volcano.Default__LocationEntry_Volcano_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Volcano.Default__LocationEntry_Volcano_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_Volcano_Desc"
-msgid "This Volcano towers at the center of Mata Nui as a symbol of both triumph and fear. The Ta-Matoran use the power of the Great Mangai to their advantage, using the lava that flows through it for defense against Rahi. Yet deep below the mountain lies Mangaia, the lair of the Makuta. While the Matoran may live happily beneath it, the shadow of the mountain looms over the island constantly, as a reminder of the greater shadow- one that all who live on the island fear."
-msgstr "This Volcano towers at the center of Mata Nui as a symbol of both triumph and fear. The Ta-Matoran use the power of the Great Mangai to their advantage, using the lava that flows through it for defense against Rahi. Yet deep below the mountain lies Mangaia, the lair of the Makuta. While the Matoran may live happily beneath it, the shadow of the mountain looms over the island constantly, as a reminder of the greater shadow- one that all who live on the island fear."
+msgid "This Volcano towers at the center of Mata Nui as a symbol of both triumph and fear. The Ta-Matoran use the power of the Great Mangai to their advantage, Using the lava that flows through it for defense against Rahi. Yet deep below the mountain lies Mangaia, the lair of the Makuta. While the Matoran may live happily beneath it, the shadow of the mountain looms over the island constantly, as a reminder of the greater shadow- one that all who live on the island fear."
+msgstr "This Volcano towers at the center of Mata Nui as a symbol of both triumph and fear. The Ta-Matoran use the power of the Great Mangai to their advantage, Using the lava that flows through it for defense against Rahi. Yet deep below the mountain lies Mangaia, the lair of the Makuta. While the Matoran may live happily beneath it, the shadow of the mountain looms over the island constantly, as a reminder of the greater shadow- one that all who live on the island fear."
 
 #. Key:	CodexPage_Whagna_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Whagna.Default__LocationEntry_Whagna_C.Location Description
@@ -703,8 +710,8 @@ msgstr "Gali’s Landing"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaTemple.Default__LocationEntry_GaTemple_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaTemple.Default__LocationEntry_GaTemple_C.Location Name
 msgctxt "CodexPage_Name,CodexPage_GaTemple"
-msgid "Temple of Mata Nui"
-msgstr "Temple of Mata Nui"
+msgid "Temple of MataNui"
+msgstr "Temple of MataNui"
 
 #. Key:	CodexPage_GaWahi
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaWahi.Default__LocationEntry_GaWahi_C.Location Name
@@ -16450,71 +16457,71 @@ msgid "THUEI'S GOOD QUALITY CARVING SERVICE\r\n\r\nOut carving! If you're stoppi
 msgstr "THUEI'S GOOD QUALITY CARVING SERVICE\r\n\r\nOut carving! If you're stopping by to ask about an order you placed, it will probably be finished in approximately 2-30 weeks depending on certain factors! Thank you!\r\n\r\n-Thuei"
 
 #. Key:	Loading_Text
-#. SourceLocation:	Config/DefaultGame.ini:105
-#: Config/DefaultGame.ini:105
+#. SourceLocation:	Config/DefaultGame.ini:775
+#: Config/DefaultGame.ini:775
 msgctxt "Loading,Loading_Text"
 msgid "Loading..."
 msgstr "Loading..."
 
 #. Key:	Tip_AkakuZoom
-#. SourceLocation:	Config/DefaultGame.ini:105
-#: Config/DefaultGame.ini:105
+#. SourceLocation:	Config/DefaultGame.ini:775
+#: Config/DefaultGame.ini:775
 msgctxt "LoadingTip_Text,Tip_AkakuZoom"
 msgid "You can zoom while wearing the Akaku by pressing the assigned key (Default is Left ALT)."
 msgstr "You can zoom while wearing the Akaku by pressing the assigned key (Default is Left ALT)."
 
 #. Key:	Tip_CodexHints
-#. SourceLocation:	Config/DefaultGame.ini:105
-#: Config/DefaultGame.ini:105
+#. SourceLocation:	Config/DefaultGame.ini:775
+#: Config/DefaultGame.ini:775
 msgctxt "LoadingTip_Text,Tip_CodexHints"
 msgid "The Codex contains not only lore, but also Gameplay hints."
 msgstr "The Codex contains not only lore, but also Gameplay hints."
 
 #. Key:	Tip_MeditationStoneAutosave
-#. SourceLocation:	Config/DefaultGame.ini:105
-#: Config/DefaultGame.ini:105
+#. SourceLocation:	Config/DefaultGame.ini:775
+#: Config/DefaultGame.ini:775
 msgctxt "LoadingTip_Text,Tip_MeditationStoneAutosave"
 msgid "The game Autosaves when interacting with a meditation stone."
 msgstr "The game Autosaves when interacting with a meditation stone."
 
 #. Key:	Tip_MeditationStonesHeal
-#. SourceLocation:	Config/DefaultGame.ini:105
-#: Config/DefaultGame.ini:105
+#. SourceLocation:	Config/DefaultGame.ini:775
+#: Config/DefaultGame.ini:775
 msgctxt "LoadingTip_Text,Tip_MeditationStonesHeal"
 msgid "Meditation Stones Heal all Toa on interaction, there's no need to actually meditate for this effect."
 msgstr "Meditation Stones Heal all Toa on interaction, there's no need to actually meditate for this effect."
 
 #. Key:	Tip_MeditationStonesInteract
-#. SourceLocation:	Config/DefaultGame.ini:105
-#: Config/DefaultGame.ini:105
+#. SourceLocation:	Config/DefaultGame.ini:775
+#: Config/DefaultGame.ini:775
 msgctxt "LoadingTip_Text,Tip_MeditationStonesInteract"
 msgid "Press the interaction key while in meditation stone menu to quickly exit it."
 msgstr "Press the interaction key while in meditation stone menu to quickly exit it."
 
 #. Key:	Tip_ObjectivesAkaku
-#. SourceLocation:	Config/DefaultGame.ini:105
-#: Config/DefaultGame.ini:105
+#. SourceLocation:	Config/DefaultGame.ini:775
+#: Config/DefaultGame.ini:775
 msgctxt "LoadingTip_Text,Tip_ObjectivesAkaku"
 msgid "Quest objectives can be seen in the world when using the Akaku."
 msgstr "Quest objectives can be seen in the world when using the Akaku."
 
 #. Key:	Tip_Save
-#. SourceLocation:	Config/DefaultGame.ini:105
-#: Config/DefaultGame.ini:105
+#. SourceLocation:	Config/DefaultGame.ini:775
+#: Config/DefaultGame.ini:775
 msgctxt "LoadingTip_Text,Tip_Save"
 msgid "Remember to manually save OFTEN!"
 msgstr "Remember to manually save OFTEN!"
 
 #. Key:	Tip_SaveSlots
-#. SourceLocation:	Config/DefaultGame.ini:105
-#: Config/DefaultGame.ini:105
+#. SourceLocation:	Config/DefaultGame.ini:775
+#: Config/DefaultGame.ini:775
 msgctxt "LoadingTip_Text,Tip_SaveSlots"
 msgid "It's a good idea to Save in multiple slots."
 msgstr "It's a good idea to Save in multiple slots."
 
 #. Key:	Tip_UnderwaterElementalAttacks
-#. SourceLocation:	Config/DefaultGame.ini:105
-#: Config/DefaultGame.ini:105
+#. SourceLocation:	Config/DefaultGame.ini:775
+#: Config/DefaultGame.ini:775
 msgctxt "LoadingTip_Text,Tip_UnderwaterElementalAttacks"
 msgid "Elemental Attacks can be triggered in water."
 msgstr "Elemental Attacks can be triggered in water."
@@ -18108,6 +18115,13 @@ msgctxt "ST_Localization,UIHigh"
 msgid "High"
 msgstr "High"
 
+#. Key:	UIHigher
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIHigher"
+msgid "Higher"
+msgstr "Higher"
+
 #. Key:	UILoadGame
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -18128,6 +18142,13 @@ msgstr "(Locked)"
 msgctxt "ST_Localization,UILow"
 msgid "Low"
 msgstr "Low"
+
+#. Key:	UILower
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UILower"
+msgid "Lower"
+msgstr "Lower"
 
 #. Key:	UIMedium
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -20313,6 +20334,13 @@ msgctxt "UIText_Description,PausedDisplaySettings_Language"
 msgid "Language:"
 msgstr "Language:"
 
+#. Key:	PausedDisplaySettings_LanguageWarning
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_7.Text
+#: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_7.Text
+msgctxt "UIText_Description,PausedDisplaySettings_LanguageWarning"
+msgid "(Most languages are incomplete and will still contain English elements)"
+msgstr "(Most languages are incomplete and will still contain English elements)"
+
 #. Key:	PausedDisplaySettings_Resolution
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_0.Text
 #: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_0.Text
@@ -20649,12 +20677,47 @@ msgctxt "UIText_Description,TradeMenu_BuyAmount"
 msgid "Spend: {Amount}"
 msgstr "Spend: {Amount}"
 
+#. Key:	TradeMenu_ItemBuyValue
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
+#: /Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
+msgctxt "UIText_Description,TradeMenu_ItemBuyValue"
+msgid "(Seller sells this at a <Key>{Low/High}</> price than normal)"
+msgstr "(Seller sells this at a <Key>{Low/High}</> price than normal)"
+
+#. Key:	TradeMenu_ItemDesc
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
+#: /Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
+msgctxt "UIText_Description,TradeMenu_ItemDesc"
+msgid "<Key>{Desc}</>\r\nWidget Value: {Value}\r\n{LocalValue}"
+msgstr "<Key>{Desc}</>\r\nWidget Value: {Value}\r\n{LocalValue}"
+
+#. Key:	TradeMenu_ItemSellValue
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
+#: /Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
+msgctxt "UIText_Description,TradeMenu_ItemSellValue"
+msgid "(Seller will buy this at a <Key>{Low/High}</> price than normal)"
+msgstr "(Seller will buy this at a <Key>{Low/High}</> price than normal)"
+
 #. Key:	TradeMenu_SellAmount
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.Default__TradeMenu_C.SellFor
 #: /Game/BluePrints/UI/TradeMenu.Default__TradeMenu_C.SellFor
 msgctxt "UIText_Description,TradeMenu_SellAmount"
 msgid "Sell for: {Amount}"
 msgstr "Sell for: {Amount}"
+
+#. Key:	TradeMenu_TotalCost
+#. SourceLocation:	/Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.WidgetsLostText.Text
+#: /Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.WidgetsLostText.Text
+msgctxt "UIText_Description,TradeMenu_TotalCost"
+msgid "Spend:"
+msgstr "Spend:"
+
+#. Key:	TradeMenu_TotalProfit
+#. SourceLocation:	/Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.WidgetsGainedText.Text
+#: /Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.WidgetsGainedText.Text
+msgctxt "UIText_Description,TradeMenu_TotalProfit"
+msgid "Sell for:"
+msgstr "Sell for:"
 
 #. Key:	TradeMenu_TraderInv
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.TraderTitle.Text
