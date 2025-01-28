@@ -4,21 +4,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2024-12-02 23:44\n"
-"PO-Revision-Date: 2024-12-02 23:44\n"
+"POT-Creation-Date: 2025-01-28 00:44\n"
+"PO-Revision-Date: 2025-01-28 00:44\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#. Key:	84C595F04D1DA60BE91589AA1E30B565
-#. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.Default__UI_InventoryItemSmall_C.SellerPopUpDesc
-#: /Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.Default__UI_InventoryItemSmall_C.SellerPopUpDesc
-msgctxt ",84C595F04D1DA60BE91589AA1E30B565"
-msgid "<Key>{Desc}</>\r\nWidget Value: {Value}\r\n{LocalValue}"
-msgstr "<Key>{Desc}</>\r\nWidget Value: {Value}\r\n{LocalValue}"
 
 #. Key:	Loading
 #. SourceLocation:	Config/DefaultGame.ini:774
@@ -339,8 +332,8 @@ msgstr "The island of Mata Nui. Named after the Great Spirit Mata Nui, this isla
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matatu.Default__LocationEntry_Matatu_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matatu.Default__LocationEntry_Matatu_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_Matatu_Desc"
-msgid "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull nearby items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
-msgstr "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull nearby items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
+msgid "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
+msgstr "The Kanohi Matatu: the Noble Mask of Telekinesis. This mask allows you to pull items to your person at a great range. Additionally the mask allows you to knock back your enemies further than before."
 
 #. Key:	CodexPage_Matau_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matau.Default__LocationEntry_Matau_C.Location Description
@@ -353,8 +346,8 @@ msgstr "Matau is the Turaga of Le-Koro. Known as the Singer of Le-Koro by the Le
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matoran.Default__LocationEntry_Matoran_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matoran.Default__LocationEntry_Matoran_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_Matoran_Desc"
-msgid "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
-msgstr "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
+msgid "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island. They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
+msgstr "The Matoran are the inhabitants of Mata Nui and it’s villages, and make up the very heart of the Island. They are split into six different elements: Fire, Water, Stone, Air, Earth, and Ice, and each live in their corresponding villages. It is your duty as a Toa to protect them from Makuta’s threats."
 
 #. Key:	CodexPage_MeditationPoints_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_MeditationPoints.Default__LocationEntry_MeditationPoints_C.Location Description
@@ -388,8 +381,8 @@ msgstr "Nokama is the Turaga of Ga-Koro. Like her village, she is often seen as 
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiJaga.Default__LocationEntry_NuiJaga_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiJaga.Default__LocationEntry_NuiJaga_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_NuiJaga_Desc"
-msgid "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui,. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
-msgstr "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui,. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
+msgid "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
+msgstr "Scorpion-like Rahi that are controlled by Makuta. The purple variant can be found all around Mata Nui. They rely on numbers and their powerful, dangerous stingers to hunt down prey. If you see their stinger shake and rattle, get out of the way- fast."
 
 #. Key:	CodexPage_NuiRama_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_NuiRama.Default__LocationEntry_NuiRama_C.Location Description
@@ -430,8 +423,8 @@ msgstr "A vast network of tunnels that run beneath the entire island. The surfac
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onua.Default__LocationEntry_Onua_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onua.Default__LocationEntry_Onua_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_Onua_Desc"
-msgid "Onua is the wise and patient Toa of earth. While at first glance he may seem disconnected from the other Toa, That could not be further from the truth. Onua only speaks when he believes he has something worth saying. And when he does speak, it is impactful to the Toa team as a whole. Onua is noticeably shorter than the rest of the Toa, as his head is not in the same place as the rest of the Toa’s builds. His elemental attack launches a spiked piece of earth, which is useful for keeping your distance when dealing with enemies."
-msgstr "Onua is the wise and patient Toa of earth. While at first glance he may seem disconnected from the other Toa, That could not be further from the truth. Onua only speaks when he believes he has something worth saying. And when he does speak, it is impactful to the Toa team as a whole. Onua is noticeably shorter than the rest of the Toa, as his head is not in the same place as the rest of the Toa’s builds. His elemental attack launches a spiked piece of earth, which is useful for keeping your distance when dealing with enemies."
+msgid "Onua is the wise and patient Toa of earth. While at first glance he may seem disconnected from the other Toa, that could not be further from the truth. Onua only speaks when he believes he has something worth saying. And when he does speak, it is impactful to the Toa team as a whole. Onua is noticeably shorter than the rest of the Toa, as his head is not in the same place as the rest of the Toa’s builds. His elemental attack launches a spiked piece of earth, which is useful for keeping your distance when dealing with enemies."
+msgstr "Onua is the wise and patient Toa of earth. While at first glance he may seem disconnected from the other Toa, that could not be further from the truth. Onua only speaks when he believes he has something worth saying. And when he does speak, it is impactful to the Toa team as a whole. Onua is noticeably shorter than the rest of the Toa, as his head is not in the same place as the rest of the Toa’s builds. His elemental attack launches a spiked piece of earth, which is useful for keeping your distance when dealing with enemies."
 
 #. Key:	CodexPage_OnuasLanding_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuasLanding.Default__LocationEntry_OnuasLanding_C.Location Description
@@ -444,8 +437,8 @@ msgstr "A strange vessel that has washed up onto the beach... nobody on the isla
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuKini.Default__LocationEntry_OnuKini_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuKini.Default__LocationEntry_OnuKini_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_OnuKini_Desc"
-msgid "The Onu-Kini is the temple of Earth. While it lies on the surface of Onu-Wahi, the temple is still subject to the frequent tremors that occur in the caves that occur beneath the surface. The temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta."
-msgstr "The Onu-Kini is the temple of Earth. While it lies on the surface of Onu-Wahi, the temple is still subject to the frequent tremors that occur in the caves that occur beneath the surface. The temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta."
+msgid "The Onu-Kini is the temple of Earth. While it lies on the surface of Onu-Wahi, the temple is still subject to the frequent tremors that occur in the caves beneath the surface. The temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta."
+msgstr "The Onu-Kini is the temple of Earth. While it lies on the surface of Onu-Wahi, the temple is still subject to the frequent tremors that occur in the caves beneath the surface. The temple houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta."
 
 #. Key:	CodexPage_OnuTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuTemple.Default__LocationEntry_OnuTemple_C.Location Description
@@ -654,8 +647,8 @@ msgstr "Vakama is the Turaga of Ta-Koro. He is respected for his wisdom and his 
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Volcano.Default__LocationEntry_Volcano_C.Location Description
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Volcano.Default__LocationEntry_Volcano_C.Location Description
 msgctxt "CodexPage_Description,CodexPage_Volcano_Desc"
-msgid "This Volcano towers at the center of Mata Nui as a symbol of both triumph and fear. The Ta-Matoran use the power of the Great Mangai to their advantage, Using the lava that flows through it for defense against Rahi. Yet deep below the mountain lies Mangaia, the lair of the Makuta. While the Matoran may live happily beneath it, the shadow of the mountain looms over the island constantly, as a reminder of the greater shadow- one that all who live on the island fear."
-msgstr "This Volcano towers at the center of Mata Nui as a symbol of both triumph and fear. The Ta-Matoran use the power of the Great Mangai to their advantage, Using the lava that flows through it for defense against Rahi. Yet deep below the mountain lies Mangaia, the lair of the Makuta. While the Matoran may live happily beneath it, the shadow of the mountain looms over the island constantly, as a reminder of the greater shadow- one that all who live on the island fear."
+msgid "This Volcano towers at the center of Mata Nui as a symbol of both triumph and fear. The Ta-Matoran use the power of the Great Mangai to their advantage, using the lava that flows through it for defense against Rahi. Yet deep below the mountain lies Mangaia, the lair of the Makuta. While the Matoran may live happily beneath it, the shadow of the mountain looms over the island constantly, as a reminder of the greater shadow- one that all who live on the island fear."
+msgstr "This Volcano towers at the center of Mata Nui as a symbol of both triumph and fear. The Ta-Matoran use the power of the Great Mangai to their advantage, using the lava that flows through it for defense against Rahi. Yet deep below the mountain lies Mangaia, the lair of the Makuta. While the Matoran may live happily beneath it, the shadow of the mountain looms over the island constantly, as a reminder of the greater shadow- one that all who live on the island fear."
 
 #. Key:	CodexPage_Whagna_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Whagna.Default__LocationEntry_Whagna_C.Location Description
@@ -710,8 +703,8 @@ msgstr "Gali’s Landing"
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaTemple.Default__LocationEntry_GaTemple_C.Location Name
 #: /Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaTemple.Default__LocationEntry_GaTemple_C.Location Name
 msgctxt "CodexPage_Name,CodexPage_GaTemple"
-msgid "Temple of MataNui"
-msgstr "Temple of MataNui"
+msgid "Temple of Mata Nui"
+msgstr "Temple of Mata Nui"
 
 #. Key:	CodexPage_GaWahi
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaWahi.Default__LocationEntry_GaWahi_C.Location Name
@@ -15644,6 +15637,13 @@ msgctxt "InvItem_Description,Item_ThueiNote_Desc"
 msgid "A message found on the hut of an eccentric carver."
 msgstr "A message found on the hut of an eccentric carver."
 
+#. Key:	Item_TombKey_Desc
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_PirateKey.Item_PirateKey.Description
+#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_PirateKey.Item_PirateKey.Description
+msgctxt "InvItem_Description,Item_TombKey_Desc"
+msgid "A strange key found near some abandoned cargo, it seems to belong to the door of a tomb."
+msgstr "A strange key found near some abandoned cargo, it seems to belong to the door of a tomb."
+
 #. Key:	Item_UnpoweredAkaku_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredAkaku.Item_UnpoweredAkaku.Description
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredAkaku.Item_UnpoweredAkaku.Description
@@ -16189,6 +16189,13 @@ msgstr "Ta Makoki Stone"
 msgctxt "InvItem_Name,Item_ThueiNote"
 msgid "'Out carving!'"
 msgstr "'Out carving!'"
+
+#. Key:	Item_TombKey
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_PirateKey.Item_PirateKey.Name
+#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_PirateKey.Item_PirateKey.Name
+msgctxt "InvItem_Name,Item_TombKey"
+msgid "Tomb Key"
+msgstr "Tomb Key"
 
 #. Key:	Item_UnpoweredAkaku
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredAkaku.Item_UnpoweredAkaku.Name
@@ -17667,6 +17674,461 @@ msgctxt "Quest_Objective,Quest_TheTuragaOfWater_Objective_3"
 msgid "Find Nokama and Speak to her."
 msgstr "Find Nokama and Speak to her."
 
+#. Key:	MakutaExplode_Line1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line1"
+msgid "Everyone's alright? Good."
+msgstr "Everyone's alright? Good."
+
+#. Key:	MakutaExplode_Line10
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line10"
+msgid "Makuta used this to reset us to when we first arrived. Do you think…?"
+msgstr "Makuta used this to reset us to when we first arrived. Do you think…?"
+
+#. Key:	MakutaExplode_Line11
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line11"
+msgid "It’s our only chance."
+msgstr "It’s our only chance."
+
+#. Key:	MakutaExplode_Line12
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line12"
+msgid "This is the only way to dispel his influence over us. Over the whole island!"
+msgstr "This is the only way to dispel his influence over us. Over the whole island!"
+
+#. Key:	MakutaExplode_Line13
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line13"
+msgid "Then it is what we must do."
+msgstr "Then it is what we must do."
+
+#. Key:	MakutaExplode_Line14
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line14"
+msgid "...I can only hope we'll do better next time."
+msgstr "...I can only hope we'll do better next time."
+
+#. Key:	MakutaExplode_Line15
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line15"
+msgid "You are out of time, Toa."
+msgstr "You are out of time, Toa."
+
+#. Key:	MakutaExplode_Line16
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line16"
+msgid "Not anymore."
+msgstr "Not anymore."
+
+#. Key:	MakutaExplode_Line17
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line17"
+msgid "What? Stop! What are you doing?"
+msgstr "What? Stop! What are you doing?"
+
+#. Key:	MakutaExplode_Line18
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line18"
+msgid "What I have to."
+msgstr "What I have to."
+
+#. Key:	MakutaExplode_Line2
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line2"
+msgid "Is this it? Have we won?"
+msgstr "Is this it? Have we won?"
+
+#. Key:	MakutaExplode_Line3
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line3"
+msgid "I think... we have."
+msgstr "I think... we have."
+
+#. Key:	MakutaExplode_Line4
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line4"
+msgid "Not... quite."
+msgstr "Not... quite."
+
+#. Key:	MakutaExplode_Line5
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line5"
+msgid "Give up, You've been defeated!"
+msgstr "Give up, You've been defeated!"
+
+#. Key:	MakutaExplode_Line6
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line6"
+msgid "What’s going on?"
+msgstr "What’s going on?"
+
+#. Key:	MakutaExplode_Line7
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line7"
+msgid "He’s going to bring all of Mangaia down on us!"
+msgstr "He’s going to bring all of Mangaia down on us!"
+
+#. Key:	MakutaExplode_Line8
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line8"
+msgid "You fool! You’ll crush yourself as well!"
+msgstr "You fool! You’ll crush yourself as well!"
+
+#. Key:	MakutaExplode_Line9
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaExplode_Line9"
+msgid "I am not killed so easily. Unfortunately, you are far more fragile."
+msgstr "I am not killed so easily. Unfortunately, you are far more fragile."
+
+#. Key:	MakutaIntro_Line1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line1"
+msgid "Makuta! We have come!"
+msgstr "Makuta! We have come!"
+
+#. Key:	MakutaIntro_Line10
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line10"
+msgid "We’ve come to break your cycle of destruction and lies! You shall not control us, or the matoran."
+msgstr "We’ve come to break your cycle of destruction and lies! You shall not control us, or the matoran."
+
+#. Key:	MakutaIntro_Line11
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line11"
+msgid "...interesting."
+msgstr "...interesting."
+
+#. Key:	MakutaIntro_Line12
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line12"
+msgid "It seems the foolish Turaga have grown weary of their deception. How many defeats did you need to suffer before they revealed their secrets?"
+msgstr "It seems the foolish Turaga have grown weary of their deception. How many defeats did you need to suffer before they revealed their secrets?"
+
+#. Key:	MakutaIntro_Line13
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line13"
+msgid "And how many other secrets do they still selfishly cling to after all of these years?"
+msgstr "And how many other secrets do they still selfishly cling to after all of these years?"
+
+#. Key:	MakutaIntro_Line14
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line14"
+msgid "Enough of your deceitful words. Your reign ends here!"
+msgstr "Enough of your deceitful words. Your reign ends here!"
+
+#. Key:	MakutaIntro_Line15
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line15"
+msgid "We won’t allow you to reset us again!"
+msgstr "We won’t allow you to reset us again!"
+
+#. Key:	MakutaIntro_Line16
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line16"
+msgid "...Yes... I believe you are correct."
+msgstr "...Yes... I believe you are correct."
+
+#. Key:	MakutaIntro_Line17
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line17"
+msgid "What?"
+msgstr "What?"
+
+#. Key:	MakutaIntro_Line18
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line18"
+msgid "I enjoyed toying with you, Toa. Watching you struggle past all of my challenges only to fail again, and again, and again. But I believe... that time has passed."
+msgstr "I enjoyed toying with you, Toa. Watching you struggle past all of my challenges only to fail again, and again, and again. But I believe... that time has passed."
+
+#. Key:	MakutaIntro_Line19
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line19"
+msgid "I’ll be sure to kill you this time."
+msgstr "I’ll be sure to kill you this time."
+
+#. Key:	MakutaIntro_Line2
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line2"
+msgid "Welcome, Toa."
+msgstr "Welcome, Toa."
+
+#. Key:	MakutaIntro_Line20
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line20"
+msgid "WAIT!"
+msgstr "WAIT!"
+
+#. Key:	MakutaIntro_Line3
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line3"
+msgid "You... are the Makuta?"
+msgstr "You... are the Makuta?"
+
+#. Key:	MakutaIntro_Line4
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line4"
+msgid "I am that which you have sworn to protect."
+msgstr "I am that which you have sworn to protect."
+
+#. Key:	MakutaIntro_Line5
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line5"
+msgid "It’s a trick... another one of Makuta’s illusions."
+msgstr "It’s a trick... another one of Makuta’s illusions."
+
+#. Key:	MakutaIntro_Line6
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line6"
+msgid "You defile Mata Nui’s name by taking the form of the matoran!"
+msgstr "You defile Mata Nui’s name by taking the form of the matoran!"
+
+#. Key:	MakutaIntro_Line7
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line7"
+msgid "You know nothing of my brother’s name, nor his will. You do not even know the truth..."
+msgstr "You know nothing of my brother’s name, nor his will. You do not even know the truth..."
+
+#. Key:	MakutaIntro_Line8
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line8"
+msgid "We know the truth! We know what you’ve done to us in the past!"
+msgstr "We know the truth! We know what you’ve done to us in the past!"
+
+#. Key:	MakutaIntro_Line9
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaIntro_Line9"
+msgid "...Oh?"
+msgstr "...Oh?"
+
+#. Key:	MakutaReturn_Line1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaReturn_Line1"
+msgid "Why must you persist? Can you not see how futile your struggle is?"
+msgstr "Why must you persist? Can you not see how futile your struggle is?"
+
+#. Key:	MakutaReturn_Line2
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaReturn_Line2"
+msgid "You cannot hold us any longer! This cycle ends here!"
+msgstr "You cannot hold us any longer! This cycle ends here!"
+
+#. Key:	MakutaReturn_Line3
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaReturn_Line3"
+msgid "I shall use this mask to rule over the Matoran! It is my destiny!"
+msgstr "I shall use this mask to rule over the Matoran! It is my destiny!"
+
+#. Key:	MakutaReturn_Line4
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,MakutaReturn_Line4"
+msgid "And it is our destiny to defeat you!"
+msgstr "And it is our destiny to defeat you!"
+
+#. Key:	POTM_Line1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,POTM_Line1"
+msgid "So it seems you've found me... You cannot stop my crusade, your time will come toa... For I am THE PROPHET OF THE MAKUTA!"
+msgstr "So it seems you've found me... You cannot stop my crusade, your time will come toa... For I am THE PROPHET OF THE MAKUTA!"
+
+#. Key:	POTM_Line10
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,POTM_Line10"
+msgid "Wait, What? What's this about equality?"
+msgstr "Wait, What? What's this about equality?"
+
+#. Key:	POTM_Line11
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,POTM_Line11"
+msgid "Remember when we made the three tenets? Do you remember what they are?"
+msgstr "Remember when we made the three tenets? Do you remember what they are?"
+
+#. Key:	POTM_Line12
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,POTM_Line12"
+msgid "Destruction... Creation... Peace... "
+msgstr "Destruction... Creation... Peace... "
+
+#. Key:	POTM_Line2
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,POTM_Line2"
+msgid "What is this crusade? And what would you have to gain from siding with the Makuta? "
+msgstr "What is this crusade? And what would you have to gain from siding with the Makuta? "
+
+#. Key:	POTM_Line3
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,POTM_Line3"
+msgid "My Quest is to show my fellow Matoran what really happened that day. That Makuta Defeated Mata Nui and therefore is the greater being! Why are they all worshiping Mata Nui when he was the one that fell?!?"
+msgstr "My Quest is to show my fellow Matoran what really happened that day. That Makuta Defeated Mata Nui and therefore is the greater being! Why are they all worshiping Mata Nui when he was the one that fell?!?"
+
+#. Key:	POTM_Line4
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,POTM_Line4"
+msgid "How did you find this place?"
+msgstr "How did you find this place?"
+
+#. Key:	POTM_Line5
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,POTM_Line5"
+msgid "A Matoran told me where it was. Why?"
+msgstr "A Matoran told me where it was. Why?"
+
+#. Key:	POTM_Line6
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,POTM_Line6"
+msgid "Impossible! No one knows where it is! Except for..."
+msgstr "Impossible! No one knows where it is! Except for..."
+
+#. Key:	POTM_Line7
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,POTM_Line7"
+msgid "Brother..."
+msgstr "Brother..."
+
+#. Key:	POTM_Line8
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,POTM_Line8"
+msgid "Komaru, stop this madness! You know that one being is not superior! It's both combined that creates equality!"
+msgstr "Komaru, stop this madness! You know that one being is not superior! It's both combined that creates equality!"
+
+#. Key:	POTM_Line9
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,POTM_Line9"
+msgid "That's not my name! I... I am The PROPHET OF THE MAKUTA!"
+msgstr "That's not my name! I... I am The PROPHET OF THE MAKUTA!"
+
+#. Key:	TarakavaOfFrost2_Line1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,TarakavaOfFrost2_Line1"
+msgid "Uh Oh..."
+msgstr "Uh Oh..."
+
+#. Key:	TarakavaOfFrost2_Line2
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,TarakavaOfFrost2_Line2"
+msgid "Wait! Who are you?"
+msgstr "Wait! Who are you?"
+
+#. Key:	TarakavaOfFrost2_Line3
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,TarakavaOfFrost2_Line3"
+msgid "How did he make it up there so fast? I should probably talk to him, maybe he knows a little more about what's going on here."
+msgstr "How did he make it up there so fast? I should probably talk to him, maybe he knows a little more about what's going on here."
+
+#. Key:	TarakavaOfFrost_Line1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line1"
+msgid "Strange. It appears it wasn't a landslide that blocked off the water, but rather a mechanical dam."
+msgstr "Strange. It appears it wasn't a landslide that blocked off the water, but rather a mechanical dam."
+
+#. Key:	TarakavaOfFrost_Line2
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line2"
+msgid "That's one huge Tarakava!"
+msgstr "That's one huge Tarakava!"
+
+#. Key:	TarakavaOfFrost_Line3
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line3"
+msgid "I am the spirit of this lake, You will not harm it Toa."
+msgstr "I am the spirit of this lake, You will not harm it Toa."
+
+#. Key:	TarakavaOfFrost_Line4
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line4"
+msgid "I'm not here to harm it, I just want to restore the flow of the river."
+msgstr "I'm not here to harm it, I just want to restore the flow of the river."
+
+#. Key:	TarakavaOfFrost_Line5
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line5"
+msgid "This lake contains holy water, it should be contained. Not allowed to run off into the sea."
+msgstr "This lake contains holy water, it should be contained. Not allowed to run off into the sea."
+
+#. Key:	TarakavaOfFrost_Line6
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line6"
+msgid "There are other Matoran and Rahi that rely on this river, would you have them displaced from their homes just to keep your water?"
+msgstr "There are other Matoran and Rahi that rely on this river, would you have them displaced from their homes just to keep your water?"
+
+#. Key:	TarakavaOfFrost_Line7
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line7"
+msgid "I would. I cannot allow other, more inferior beings to use my water for their own impure purposes."
+msgstr "I would. I cannot allow other, more inferior beings to use my water for their own impure purposes."
+
+#. Key:	TarakavaOfFrost_Line8
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+#: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
+msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line8"
+msgid "I'm afraid I can't stand for that..."
+msgstr "I'm afraid I can't stand for that..."
+
 #. Key:	AnythingToDo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -19088,6 +19550,13 @@ msgctxt "ST_Names,Names_PoisonNui-Jaga"
 msgid "Repo Nui-Jaga"
 msgstr "Repo Nui-Jaga"
 
+#. Key:	Names_PROPHETOFTHEMAKUTA
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_PROPHETOFTHEMAKUTA"
+msgid "PROPHET OF THE MAKUTA"
+msgstr "PROPHET OF THE MAKUTA"
+
 #. Key:	Names_Rau
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19850,6 +20319,13 @@ msgstr "ProtoSteel Mask"
 msgctxt "UIText_Cosmetics,Cosmetics_VeryCoolHat_Name"
 msgid "Very Cool Hat™"
 msgstr "Very Cool Hat™"
+
+#. Key:	272ECEC04193E04D6A7407BE37473CDD
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_5.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_5.Text
+msgctxt "UIText_Description,272ECEC04193E04D6A7407BE37473CDD"
+msgid "Noclip (To use if stuck):"
+msgstr "Noclip (To use if stuck):"
 
 #. Key:	CosmeticsMenu_EquippedCosmetics
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticsMenu.CosmeticsMenu_C:WidgetTree.TextBlock_1.Text
@@ -20684,13 +21160,6 @@ msgctxt "UIText_Description,TradeMenu_ItemBuyValue"
 msgid "(Seller sells this at a <Key>{Low/High}</> price than normal)"
 msgstr "(Seller sells this at a <Key>{Low/High}</> price than normal)"
 
-#. Key:	TradeMenu_ItemDesc
-#. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
-#: /Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
-msgctxt "UIText_Description,TradeMenu_ItemDesc"
-msgid "<Key>{Desc}</>\r\nWidget Value: {Value}\r\n{LocalValue}"
-msgstr "<Key>{Desc}</>\r\nWidget Value: {Value}\r\n{LocalValue}"
-
 #. Key:	TradeMenu_ItemSellValue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
 #: /Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
@@ -20725,6 +21194,13 @@ msgstr "Sell for:"
 msgctxt "UIText_Description,TradeMenu_TraderInv"
 msgid "Trader Inventory"
 msgstr "Trader Inventory"
+
+#. Key:	TradeMenu_WidgetValue
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
+#: /Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
+msgctxt "UIText_Description,TradeMenu_WidgetValue"
+msgid "Widget Value:"
+msgstr "Widget Value:"
 
 #. Key:	TradeMenu_YourInv
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.YourInventoryTitle.Text
@@ -20884,8 +21360,8 @@ msgstr "An older design of Pakari, they are quite rare nowadays."
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
 #: /Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
 msgctxt "UIText_Description_Cosmetics,Cosmetics_ProtoSteelMask_Description"
-msgid "A Protosteel mask forged by Kohi, the first matoran on Mata-Nui known able to manipulate Protosteel. Before his mysterious disappearance."
-msgstr "A Protosteel mask forged by Kohi, the first matoran on Mata-Nui known able to manipulate Protosteel. Before his mysterious disappearance."
+msgid "A Protosteel mask forged by Kohi, the first matoran on Mata Nui known able to manipulate Protosteel. Before his mysterious disappearance."
+msgstr "A Protosteel mask forged by Kohi, the first matoran on Mata Nui known able to manipulate Protosteel. Before his mysterious disappearance."
 
 #. Key:	Cosmetics_VeryCoolHat_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
