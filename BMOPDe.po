@@ -7953,6 +7953,7 @@ msgstr "Glad you're safe, but I need to get going."
 #. Key:	DL_ShipperOnuKoro_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperOnuKoro.Default__DL_ShipperOnuKoro_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperOnuKoro.Default__DL_ShipperOnuKoro_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+
 msgctxt "Dialogue_Response,DL_ShipperOnuKoro_PlayerResponse_1"
 msgid "I need to know about a shipment that should have arrived in Po-Koro by now."
 msgstr "I need to know about a shipment that should have arrived in Po-Koro by now."
@@ -7960,6 +7961,7 @@ msgstr "I need to know about a shipment that should have arrived in Po-Koro by n
 #. Key:	DL_ShipperOnuKoro_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperOnuKoro.Default__DL_ShipperOnuKoro_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperOnuKoro.Default__DL_ShipperOnuKoro_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+
 msgctxt "Dialogue_Response,DL_ShipperOnuKoro_PlayerResponse_2"
 msgid "About the Tarakava attack..."
 msgstr "About the Tarakava attack..."
@@ -7967,6 +7969,7 @@ msgstr "About the Tarakava attack..."
 #. Key:	DL_ShipperQuest1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperQuest1.Default__DL_ShipperQuest1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperQuest1.Default__DL_ShipperQuest1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+
 msgctxt "Dialogue_Response,DL_ShipperQuest1_PlayerResponse_1"
 msgid "You probably have your hands full here, I can check out their route. Which way did they go?"
 msgstr "You probably have your hands full here, I can check out their route. Which way did they go?"
@@ -7974,6 +7977,7 @@ msgstr "You probably have your hands full here, I can check out their route. Whi
 #. Key:	DL_ShipperQuestWhichWay_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperQuestWhichWay.Default__DL_ShipperQuestWhichWay_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperQuestWhichWay.Default__DL_ShipperQuestWhichWay_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+
 msgctxt "Dialogue_Response,DL_ShipperQuestWhichWay_PlayerResponse_1"
 msgid "Thank you. Do you need any help here?"
 msgstr "Thank you. Do you need any help here?"
@@ -7989,7 +7993,6 @@ msgstr "Thank you for the help."
 #. Key:	DL_ShipperWhatHappened_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperWhatHappened.Default__DL_ShipperWhatHappened_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperWhatHappened.Default__DL_ShipperWhatHappened_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 
 msgctxt "Dialogue_Response,DL_ShipperWhatHappened_PlayerResponse_1"
 msgid "Is this attack why the recent shipment to Po-Koro is late?"
@@ -21191,6 +21194,7 @@ msgstr "Are you just building this for fun?"
 
 msgctxt "ST_DialogueGeneralLocalization,Bye!"
 msgid "Bye!"
+msgstr "Bye!"
 
 #. Key:	Ellipsis
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -21206,6 +21210,7 @@ msgstr "..."
 
 msgctxt "ST_DialogueGeneralLocalization,Goodbye"
 msgid "Goodbye."
+msgstr "Goodbye."
 
 #. Key:	GoodbyeElipsis
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -21213,6 +21218,7 @@ msgid "Goodbye."
 
 msgctxt "ST_DialogueGeneralLocalization,GoodbyeElipsis"
 msgid "Goodbye..."
+msgstr "Goodbye..."
 
 #. Key:	HelloToaElipsis
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -21220,6 +21226,7 @@ msgid "Goodbye..."
 
 msgctxt "ST_DialogueGeneralLocalization,HelloToaElipsis"
 msgid "Hello Toa..."
+msgstr "Hello Toa..."
 
 #. Key:	ISee
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -21227,6 +21234,7 @@ msgid "Hello Toa..."
 
 msgctxt "ST_DialogueGeneralLocalization,ISee"
 msgid "I see."
+msgstr "I see."
 
 #. Key:	Isee...
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -21234,6 +21242,7 @@ msgid "I see."
 
 msgctxt "ST_DialogueGeneralLocalization,Isee..."
 msgid "I see..."
+msgstr "I see..."
 
 #. Key:	Issomethingthematter
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -21257,6 +21266,7 @@ msgstr "It was no trouble."
 
 msgctxt "ST_DialogueGeneralLocalization,IWill"
 msgid "I will."
+msgstr "I will."
 
 #. Key:	Leave
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -21264,6 +21274,7 @@ msgid "I will."
 
 msgctxt "ST_DialogueGeneralLocalization,Leave"
 msgid "*Leave*"
+msgstr "*Leave*"
 
 #. Key:	Nothankyou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -21431,6 +21442,7 @@ msgstr "Cosmetics Bench"
 
 msgctxt "ST_GeneralLocalization,Gen_Door"
 msgid "Door"
+msgstr "Door"
 
 #. Key:	Gen_Interact
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -21446,6 +21458,7 @@ msgstr "Interact with {Facing}"
 
 msgctxt "ST_GeneralLocalization,Gen_Lever"
 msgid "Lever"
+msgstr "Lever"
 
 #. Key:	Gen_MakokiDesc
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -21501,6 +21514,7 @@ msgstr "Fragments of a First Mate's log from a ship named the 'Waikiru'"
 
 msgctxt "ST_Localization,UIAutoSave"
 msgid "Auto Save"
+msgstr "Auto Save"
 
 #. Key:	UIBack
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -21508,6 +21522,7 @@ msgid "Auto Save"
 
 msgctxt "ST_Localization,UIBack"
 msgid "Back"
+msgstr "Back"
 
 #. Key:	UIBindFirst
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22707,6 +22722,7 @@ msgstr "Plant Man"
 
 msgctxt "ST_Names,Names_Po-Matoran"
 msgid "Po-Matoran"
+msgstr "Po-Matoran"
 
 #. Key:	Names_Po-Wahi
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -22818,6 +22834,7 @@ msgstr "Sand Tarakava"
 
 msgctxt "ST_Names,Names_ScaredMatoran"
 msgid "Scared Matoran"
+msgstr "Scared Matoran"
 
 #. Key:	Names_Seltra
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -22833,6 +22850,7 @@ msgstr "Seltra"
 
 msgctxt "ST_Names,Names_ShadowToa"
 msgid "Shadow {ToaName}"
+msgstr "Shadow {ToaName}"
 
 #. Key:	Names_SingingMiner
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -22896,6 +22914,7 @@ msgstr "Ta-koro Guardsman Daelen"
 
 msgctxt "ST_Names,Names_Ta-Matoran"
 msgid "Ta-Matoran"
+msgstr "Ta-Matoran"
 
 #. Key:	Names_Tafall
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -23015,6 +23034,7 @@ msgstr "Toka"
 
 msgctxt "ST_Names,Names_Trader"
 msgid "Trader"
+msgstr "Trader"
 
 #. Key:	Names_TuragaMatau
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -24167,6 +24187,7 @@ msgstr "Health & Stamina Restored!"
 
 msgctxt "UIText_Description,MedMenu_MidDay"
 msgid "MiddDay"
+msgstr "MiddDay"
 
 #. Key:	MedMenu_MidNight
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Meditation.Widget_Meditation_C:WidgetTree.TextBlock_7.Text
@@ -24174,6 +24195,7 @@ msgid "MiddDay"
 
 msgctxt "UIText_Description,MedMenu_MidNight"
 msgid "Midnight"
+msgstr "Midnight"
 
 #. Key:	MedMenu_SunRise
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Meditation.Widget_Meditation_C:WidgetTree.TextBlock_11.Text
@@ -24181,6 +24203,7 @@ msgid "Midnight"
 
 msgctxt "UIText_Description,MedMenu_SunRise"
 msgid "Sunrise"
+msgstr "Sunrise"
 
 #. Key:	MedMenu_SunSet
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Meditation.Widget_Meditation_C:WidgetTree.TextBlock_4.Text
@@ -24188,6 +24211,7 @@ msgid "Sunrise"
 
 msgctxt "UIText_Description,MedMenu_SunSet"
 msgid "Sunset"
+msgstr "Sunset"
 
 #. Key:	NewGame_EnterSaveName
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.EditableTextBox_143.HintText
@@ -24211,6 +24235,7 @@ msgstr "Save Name:"
 
 msgctxt "UIText_Description,NewGame_SaveNameText"
 msgid "New Game"
+msgstr "New Game"
 
 #. Key:	NewGame_SelectAToa
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:ExecuteUbergraph_Widget_NewGame [Script Bytecode]
@@ -24219,6 +24244,7 @@ msgid "New Game"
 
 msgctxt "UIText_Description,NewGame_SelectAToa"
 msgid "Select a Toa"
+msgstr "Select a Toa"
 
 #. Key:	NewGame_Tutorial
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.TextBlock.Text
@@ -24234,6 +24260,7 @@ msgstr "Tutorial:"
 
 msgctxt "UIText_Description,PausedControls_ActivateMask"
 msgid "Activate Mask:"
+msgstr "Activate Mask:"
 
 #. Key:	PausedControls_AkakuZoom
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_23.Text
@@ -24249,6 +24276,7 @@ msgstr "Akaku Zoom:"
 
 msgctxt "UIText_Description,PausedControls_Attack"
 msgid "Attack:"
+msgstr "Attack:"
 
 #. Key:	PausedControls_AttackingEntersCombat
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_42.Text
@@ -24264,6 +24292,7 @@ msgstr "Attacking Enters Combat:"
 
 msgctxt "UIText_Description,PausedControls_AutoWalk"
 msgid "Auto Walk:"
+msgstr "Auto Walk:"
 
 #. Key:	PausedControls_BackMovement
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock.Text
@@ -24271,6 +24300,7 @@ msgid "Auto Walk:"
 
 msgctxt "UIText_Description,PausedControls_BackMovement"
 msgid "Backward Movement:"
+msgstr "Backward Movement:"
 
 #. Key:	PausedControls_ConsumeSlot1
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_40.Text
@@ -24278,6 +24308,7 @@ msgid "Backward Movement:"
 
 msgctxt "UIText_Description,PausedControls_ConsumeSlot1"
 msgid "Consumable Slot 1:"
+msgstr "Consumable Slot 1:"
 
 #. Key:	PausedControls_ConsumeSlot2
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_41.Text
@@ -24285,6 +24316,7 @@ msgid "Consumable Slot 1:"
 
 msgctxt "UIText_Description,PausedControls_ConsumeSlot2"
 msgid "Consumable Slot 2:"
+msgstr "Consumable Slot 2:"
 
 #. Key:	PausedControls_Crouch
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_8.Text
@@ -24292,6 +24324,7 @@ msgid "Consumable Slot 2:"
 
 msgctxt "UIText_Description,PausedControls_Crouch"
 msgid "Crouch:"
+msgstr "Crouch:"
 
 #. Key:	PausedControls_ElementalPower
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_15.Text
@@ -24299,48 +24332,63 @@ msgid "Crouch:"
 
 msgctxt "UIText_Description,PausedControls_ElementalPower"
 msgid "Elemental Power:"
+msgstr "Elemental Power:"
 
 #. Key:	PausedControls_ForewardMovement
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_0.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_0.Text
+
 msgctxt "UIText_Description,PausedControls_ForewardMovement"
 msgid "Forward Movement:"
+msgstr "Forward Movement:"
 
 #. Key:	PausedControls_Interact
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_9.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_9.Text
+
 msgctxt "UIText_Description,PausedControls_Interact"
 msgid "Interact:"
+msgstr "Interact:"
 
 #. Key:	PausedControls_Jump
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_6.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_6.Text
+
 msgctxt "UIText_Description,PausedControls_Jump"
 msgid "Jump:"
+msgstr "Jump:"
 
 #. Key:	PausedControls_LeftMovement
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_1.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_1.Text
+
 msgctxt "UIText_Description,PausedControls_LeftMovement"
 msgid "Left Movement:"
+msgstr "Left Movement:"
 
 #. Key:	PausedControls_LockOn
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_22.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_22.Text
+
 msgctxt "UIText_Description,PausedControls_LockOn"
 msgid "Lock On:"
+msgstr "Lock On:"
 
 #. Key:	PausedControls_LookRight
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_3.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_3.Text
+
 msgctxt "UIText_Description,PausedControls_LookRight"
 msgid "Look Right:"
+msgstr "Look Right:"
 
 #. Key:	PausedControls_LookUp
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_4.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_4.Text
+
 msgctxt "UIText_Description,PausedControls_LookUp"
 msgid "Look Up:"
+msgstr "Look Up:"
 
 #. Key:	PausedControls_MaskShortcuts
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_24.Text
@@ -24348,6 +24396,7 @@ msgid "Look Up:"
 
 msgctxt "UIText_Description,PausedControls_MaskShortcuts"
 msgid "Mask Shortcuts:"
+msgstr "Mask Shortcuts:"
 
 #. Key:	PausedControls_MaskWheel
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_11.Text
@@ -24355,6 +24404,7 @@ msgid "Mask Shortcuts:"
 
 msgctxt "UIText_Description,PausedControls_MaskWheel"
 msgid "Mask Wheel:"
+msgstr "Mask Wheel:"
 
 #. Key:	PausedControls_OpenInv
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_39.Text
@@ -24362,6 +24412,7 @@ msgid "Mask Wheel:"
 
 msgctxt "UIText_Description,PausedControls_OpenInv"
 msgid "Open Inventory:"
+msgstr "Open Inventory:"
 
 #. Key:	PausedControls_OpenMap
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_17.Text
@@ -24369,6 +24420,7 @@ msgid "Open Inventory:"
 
 msgctxt "UIText_Description,PausedControls_OpenMap"
 msgid "Open Map:"
+msgstr "Open Map:"
 
 #. Key:	PausedControls_QuestMenu
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_18.Text
@@ -24376,6 +24428,7 @@ msgid "Open Map:"
 
 msgctxt "UIText_Description,PausedControls_QuestMenu"
 msgid "Quest Menu:"
+msgstr "Quest Menu:"
 
 #. Key:	PausedControls_ReadyWeapon
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_13.Text
@@ -24383,6 +24436,7 @@ msgid "Quest Menu:"
 
 msgctxt "UIText_Description,PausedControls_ReadyWeapon"
 msgid "Ready Weapon:"
+msgstr "Ready Weapon:"
 
 #. Key:	PausedControls_RightMovement
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_2.Text
@@ -24390,6 +24444,7 @@ msgid "Ready Weapon:"
 
 msgctxt "UIText_Description,PausedControls_RightMovement"
 msgid "Right Movement:"
+msgstr "Right Movement:"
 
 #. Key:	PausedControls_SlowWalk
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_20.Text
@@ -24397,6 +24452,7 @@ msgid "Right Movement:"
 
 msgctxt "UIText_Description,PausedControls_SlowWalk"
 msgid "Slow Walk:"
+msgstr "Slow Walk:"
 
 #. Key:	PausedControls_Sprint
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_7.Text
@@ -24412,6 +24468,7 @@ msgstr "Sprint:"
 
 msgctxt "UIText_Description,PausedControls_SwapMasksBack"
 msgid "Swap Masks Backward:"
+msgstr "Swap Masks Backward:"
 
 #. Key:	PausedControls_SwapMasksForward
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_38.Text
@@ -24427,6 +24484,7 @@ msgstr "Swap Masks Forward:"
 
 msgctxt "UIText_Description,PausedControls_SwitchViews"
 msgid "Switch Views:"
+msgstr "Switch Views:"
 
 #. Key:	PausedControls_ToaWheel
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_10.Text
@@ -24434,6 +24492,7 @@ msgid "Switch Views:"
 
 msgctxt "UIText_Description,PausedControls_ToaWheel"
 msgid "Toa Wheel:"
+msgstr "Toa Wheel:"
 
 #. Key:	PausedControls_ToggleHud
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_19.Text
@@ -24441,6 +24500,7 @@ msgid "Toa Wheel:"
 
 msgctxt "UIText_Description,PausedControls_ToggleHud"
 msgid "Toggle HUD:"
+msgstr "Toggle HUD:"
 
 #. Key:	PausedDisplaySettings_Compass
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_5.Text
@@ -24448,6 +24508,7 @@ msgid "Toggle HUD:"
 
 msgctxt "UIText_Description,PausedDisplaySettings_Compass"
 msgid "Compass:"
+msgstr "Compass:"
 
 #. Key:	PausedDisplaySettings_Language
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_6.Text
@@ -24471,6 +24532,7 @@ msgstr "(Most languages are incomplete and will still contain English elements)"
 
 msgctxt "UIText_Description,PausedDisplaySettings_Resolution"
 msgid "Resolution:"
+msgstr "Resolution:"
 
 #. Key:	PausedDisplaySettings_ResolutionRenderPercent
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_4.Text
@@ -24478,6 +24540,7 @@ msgid "Resolution:"
 
 msgctxt "UIText_Description,PausedDisplaySettings_ResolutionRenderPercent"
 msgid "Res Percent:"
+msgstr "Res Percent:"
 
 #. Key:	PausedDisplaySettings_ResolutionUpscaling
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock.Text
@@ -24485,6 +24548,7 @@ msgid "Res Percent:"
 
 msgctxt "UIText_Description,PausedDisplaySettings_ResolutionUpscaling"
 msgid "Resolution Upscaling:"
+msgstr "Resolution Upscaling:"
 
 #. Key:	PausedDisplaySettings_TrueRenderResolution
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_2.Text
@@ -24492,6 +24556,7 @@ msgid "Resolution Upscaling:"
 
 msgctxt "UIText_Description,PausedDisplaySettings_TrueRenderResolution"
 msgid "True Resolution:"
+msgstr "True Resolution:"
 
 #. Key:	PausedDisplaySettings_WindowMode
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_1.Text
@@ -24499,6 +24564,7 @@ msgid "True Resolution:"
 
 msgctxt "UIText_Description,PausedDisplaySettings_WindowMode"
 msgid "Window mode:"
+msgstr "Window mode:"
 
 #. Key:	PausedGraphicsSettings_AntiAliasingQuality
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_2.Text
@@ -24506,6 +24572,7 @@ msgid "Window mode:"
 
 msgctxt "UIText_Description,PausedGraphicsSettings_AntiAliasingQuality"
 msgid "Anti-Alias Quality:"
+msgstr "Anti-Alias Quality:"
 
 #. Key:	PausedGraphicsSettings_AntiAliasingType
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_8.Text
@@ -24513,6 +24580,7 @@ msgid "Anti-Alias Quality:"
 
 msgctxt "UIText_Description,PausedGraphicsSettings_AntiAliasingType"
 msgid "Anti-Alias Type:"
+msgstr "Anti-Alias Type:"
 
 #. Key:	PausedGraphicsSettings_ColorBlindnessSeverity
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_6.Text
@@ -24520,6 +24588,7 @@ msgid "Anti-Alias Type:"
 
 msgctxt "UIText_Description,PausedGraphicsSettings_ColorBlindnessSeverity"
 msgid "Severity:"
+msgstr "Severity:"
 
 #. Key:	PausedGraphicsSettings_ColorBlindnessType
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock.Text
@@ -24527,6 +24596,7 @@ msgid "Severity:"
 
 msgctxt "UIText_Description,PausedGraphicsSettings_ColorBlindnessType"
 msgid "Color Deficiency:"
+msgstr "Color Deficiency:"
 
 #. Key:	PausedGraphicsSettings_EffectsQuality
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_5.Text
@@ -24534,6 +24604,7 @@ msgid "Color Deficiency:"
 
 msgctxt "UIText_Description,PausedGraphicsSettings_EffectsQuality"
 msgid "Effects Quality:"
+msgstr "Effects Quality:"
 
 #. Key:	PausedGraphicsSettings_FoliageQuality
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_25.Text
@@ -24541,6 +24612,7 @@ msgid "Effects Quality:"
 
 msgctxt "UIText_Description,PausedGraphicsSettings_FoliageQuality"
 msgid "Foliage Density:"
+msgstr "Foliage Density:"
 
 #. Key:	PausedGraphicsSettings_FOV
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_4.Text
@@ -24548,6 +24620,7 @@ msgid "Foliage Density:"
 
 msgctxt "UIText_Description,PausedGraphicsSettings_FOV"
 msgid "Field of View:"
+msgstr "Field of View:"
 
 #. Key:	PausedGraphicsSettings_FrameLimit
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_10.Text
@@ -24555,6 +24628,7 @@ msgid "Field of View:"
 
 msgctxt "UIText_Description,PausedGraphicsSettings_FrameLimit"
 msgid "Framerate limit:"
+msgstr "Framerate limit:"
 
 #. Key:	PausedGraphicsSettings_ShadowQuality
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_1.Text
@@ -24562,6 +24636,7 @@ msgid "Framerate limit:"
 
 msgctxt "UIText_Description,PausedGraphicsSettings_ShadowQuality"
 msgid "Shadow Quality:"
+msgstr "Shadow Quality:"
 
 #. Key:	PausedGraphicsSettings_TextureFiltering
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_7.Text
@@ -24569,6 +24644,7 @@ msgid "Shadow Quality:"
 
 msgctxt "UIText_Description,PausedGraphicsSettings_TextureFiltering"
 msgid "Anisotropic filtering:"
+msgstr "Anisotropic filtering:"
 
 #. Key:	PausedGraphicsSettings_TextureMemory
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_0.Text
@@ -24584,6 +24660,7 @@ msgstr "Texture Memory:"
 
 msgctxt "UIText_Description,PausedGraphicsSettings_VolumetricFog"
 msgid "Volumetric Fog:"
+msgstr "Volumetric Fog:"
 
 #. Key:	PausedGraphicsSettings_VSync
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_3.Text
@@ -24607,6 +24684,7 @@ msgstr "Wahae Mata Gel:"
 
 msgctxt "UIText_Description,SaveGame_NameInput"
 msgid "Player Save"
+msgstr "Player Save"
 
 #. Key:	SaveGame_NameInputHint
 #. SourceLocation:	/Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.HintText
@@ -24614,6 +24692,7 @@ msgid "Player Save"
 
 msgctxt "UIText_Description,SaveGame_NameInputHint"
 msgid "Enter Save Name Here"
+msgstr "Enter Save Name Here"
 
 #. Key:	SaveGame_Overwrite
 #. SourceLocation:	/Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.RichTextBlock_55.Text
@@ -24621,6 +24700,7 @@ msgid "Enter Save Name Here"
 
 msgctxt "UIText_Description,SaveGame_Overwrite"
 msgid "There is already a savefile with that name, do you want to Overwrite?"
+msgstr "There is already a savefile with that name, do you want to Overwrite?"
 
 #. Key:	Saves_Auto
 #. SourceLocation:	/Game/BluePrints/Classes/Saving/TypeSave.TypeSave.DisplayNameMap(0 - Value).DisplayNameMap
@@ -24629,6 +24709,7 @@ msgid "There is already a savefile with that name, do you want to Overwrite?"
 
 msgctxt "UIText_Description,Saves_Auto"
 msgid "Auto Save"
+msgstr "Auto Save"
 
 #. Key:	Saves_Manual
 #. SourceLocation:	/Game/BluePrints/Classes/Saving/TypeSave.TypeSave.DisplayNameMap(1 - Value).DisplayNameMap
@@ -24637,6 +24718,7 @@ msgid "Auto Save"
 
 msgctxt "UIText_Description,Saves_Manual"
 msgid "Manual Save"
+msgstr "Manual Save"
 
 #. Key:	StatsMenu_MaskPickups
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName.Text
@@ -24652,6 +24734,7 @@ msgstr "Mask Pickups:"
 
 msgctxt "UIText_Description,StatsMenu_Misc"
 msgid "Misc:"
+msgstr "Misc:"
 
 #. Key:	StatsMenu_Misc_CodexPagesGained
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_15.Text
@@ -24659,6 +24742,7 @@ msgid "Misc:"
 
 msgctxt "UIText_Description,StatsMenu_Misc_CodexPagesGained"
 msgid "Codex Pages Gained:"
+msgstr "Codex Pages Gained:"
 
 #. Key:	StatsMenu_Misc_CosmeticsGained
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_9.Text
@@ -24666,6 +24750,7 @@ msgid "Codex Pages Gained:"
 
 msgctxt "UIText_Description,StatsMenu_Misc_CosmeticsGained"
 msgid "Cosmetics Gained:"
+msgstr "Cosmetics Gained:"
 
 #. Key:	StatsMenu_Misc_ItemsGotten
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_7.Text
@@ -24673,6 +24758,7 @@ msgid "Cosmetics Gained:"
 
 msgctxt "UIText_Description,StatsMenu_Misc_ItemsGotten"
 msgid "Items Gathered:"
+msgstr "Items Gathered:"
 
 #. Key:	StatsMenu_Misc_MasksPowered
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_17.Text
@@ -24680,6 +24766,7 @@ msgid "Items Gathered:"
 
 msgctxt "UIText_Description,StatsMenu_Misc_MasksPowered"
 msgid "Masks Powered:"
+msgstr "Masks Powered:"
 
 #. Key:	StatsMenu_Misc_MedStonesVisited
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_11.Text
@@ -24687,6 +24774,7 @@ msgid "Masks Powered:"
 
 msgctxt "UIText_Description,StatsMenu_Misc_MedStonesVisited"
 msgid "Meditation Stones Visited:"
+msgstr "Meditation Stones Visited:"
 
 #. Key:	StatsMenu_Misc_RahiDefeated
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_44.Text
@@ -24694,6 +24782,7 @@ msgid "Meditation Stones Visited:"
 
 msgctxt "UIText_Description,StatsMenu_Misc_RahiDefeated"
 msgid "Rahi Defeated:"
+msgstr "Rahi Defeated:"
 
 #. Key:	StatsMenu_Misc_WidgetsGained
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_8.Text
@@ -24701,6 +24790,7 @@ msgid "Rahi Defeated:"
 
 msgctxt "UIText_Description,StatsMenu_Misc_WidgetsGained"
 msgid "Total Widgets Gained:"
+msgstr "Total Widgets Gained:"
 
 #. Key:	StatsMenu_Misc_WidgetsSpent
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_10.Text
@@ -24708,6 +24798,7 @@ msgid "Total Widgets Gained:"
 
 msgctxt "UIText_Description,StatsMenu_Misc_WidgetsSpent"
 msgid "Total Widgets Spent:"
+msgstr "Total Widgets Spent:"
 
 #. Key:	StatsMenu_Quests
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_2.Text
@@ -24723,6 +24814,7 @@ msgstr "Quests:"
 
 msgctxt "UIText_Description,StatsMenu_Quests_MainQuests"
 msgid "Main Quests:"
+msgstr "Main Quests:"
 
 #. Key:	StatsMenu_Quests_SideQuests
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_3.Text
@@ -24730,6 +24822,7 @@ msgid "Main Quests:"
 
 msgctxt "UIText_Description,StatsMenu_Quests_SideQuests"
 msgid "Side Quests: "
+msgstr "Side Quests: "
 
 #. Key:	TabMenu_Codex_Entries
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock_8.Text
@@ -24737,6 +24830,7 @@ msgid "Side Quests: "
 
 msgctxt "UIText_Description,TabMenu_Codex_Entries"
 msgid "Entries"
+msgstr "Entries"
 
 #. Key:	TabMenu_Quest_MainQuests
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.MainQuestTitle.Text
@@ -24744,6 +24838,7 @@ msgid "Entries"
 
 msgctxt "UIText_Description,TabMenu_Quest_MainQuests"
 msgid "MAIN QUESTS"
+msgstr "MAIN QUESTS"
 
 #. Key:	TabMenu_Quest_Objectives
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.ObjectivesTitleText.Text
@@ -24751,6 +24846,7 @@ msgid "MAIN QUESTS"
 
 msgctxt "UIText_Description,TabMenu_Quest_Objectives"
 msgid "Objectives:"
+msgstr "Objectives:"
 
 #. Key:	TabMenu_Quest_SideQuests
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.SideQuestsTitle.Text
@@ -24758,6 +24854,7 @@ msgid "Objectives:"
 
 msgctxt "UIText_Description,TabMenu_Quest_SideQuests"
 msgid "OPTIONAL QUESTS"
+msgstr "OPTIONAL QUESTS"
 
 #. Key:	TelescopeCtrlsWidget_InteractToExit
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_TelescopeWidget.Default__ControlSchemes_TelescopeWidget_C.To Exit Preamble
@@ -24774,6 +24871,7 @@ msgstr "{Key} to Exit"
 
 msgctxt "UIText_Description,TelescopeCtrlsWidget_MouseToRotate"
 msgid "Move mouse to rotate camera"
+msgstr "Move mouse to rotate camera"
 
 #. Key:	TelescopeCtrlsWidget_ScrollToZoom
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_TelescopeWidget.ControlSchemes_TelescopeWidget_C:WidgetTree.TextBlock_1.Text
@@ -24781,6 +24879,7 @@ msgid "Move mouse to rotate camera"
 
 msgctxt "UIText_Description,TelescopeCtrlsWidget_ScrollToZoom"
 msgid "Scroll to zoom"
+msgstr "Scroll to zoom"
 
 #. Key:	ThankYou_Header
 #. SourceLocation:	/Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.TextBlock_196.Text
@@ -24788,6 +24887,7 @@ msgid "Scroll to zoom"
 
 msgctxt "UIText_Description,ThankYou_Header"
 msgid "Thank you for playing!"
+msgstr "Thank you for playing!"
 
 #. Key:	ThankYou_Message
 #. SourceLocation:	/Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.RichTextBlock_111.Text
@@ -24813,6 +24913,7 @@ msgstr ""
 
 msgctxt "UIText_Description,ThankYou_Website"
 msgid "Website"
+msgstr "Website"
 
 #. Key:	TradeMenu_BuyAmount
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.Default__TradeMenu_C.Spend
@@ -24820,6 +24921,7 @@ msgid "Website"
 
 msgctxt "UIText_Description,TradeMenu_BuyAmount"
 msgid "Spend: {Amount}"
+msgstr "Spend: {Amount}"
 
 #. Key:	TradeMenu_ItemBuyValue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
@@ -24845,6 +24947,7 @@ msgstr "(Seller will buy this at a <Key>{Low/High}</> price than normal)"
 
 msgctxt "UIText_Description,TradeMenu_SellAmount"
 msgid "Sell for: {Amount}"
+msgstr "Sell for: {Amount}"
 
 #. Key:	TradeMenu_TotalCost
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.WidgetsLostText.Text
@@ -24868,6 +24971,7 @@ msgstr "Sell for:"
 
 msgctxt "UIText_Description,TradeMenu_TraderInv"
 msgid "Trader Inventory"
+msgstr "Trader Inventory"
 
 #. Key:	TradeMenu_WidgetValue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
@@ -24884,6 +24988,7 @@ msgstr "Widget Value:"
 
 msgctxt "UIText_Description,TradeMenu_YourInv"
 msgid "Your Inventory"
+msgstr "Your Inventory"
 
 #. Key:	UI_ConvertSaves
 #. SourceLocation:	/Game/BluePrints/UI/ConvertSaves.ConvertSaves_C:WidgetTree.RichTextBlock_55.Text
@@ -24956,6 +25061,7 @@ msgstr "Codex Entry added"
 
 msgctxt "UIText_Description,UICodexPageAdded_ItemGained"
 msgid "Item Gathered"
+msgstr "Item Gathered"
 
 #. Key:	UICodexPageAdded_ItemRemoved
 #. SourceLocation:	/Game/BluePrints/UI/CodexPageAdded.CodexPageAdded_C:ExecuteUbergraph_CodexPageAdded [Script Bytecode]
@@ -24964,6 +25070,7 @@ msgid "Item Gathered"
 
 msgctxt "UIText_Description,UICodexPageAdded_ItemRemoved"
 msgid "Item Removed"
+msgstr "Item Removed"
 
 #. Key:	UIGetMask_GainMaskText
 #. SourceLocation:	/Game/BluePrints/UI/GetMask.Default__GetMask_C.MaskGainedPreamble
@@ -24974,6 +25081,7 @@ msgid ""
 "{Toa} has picked up the \r\n"
 "\"{Mask}\""
 msgstr ""
+"{Toa} has picked up the \r\n"
 "\"{Mask}\""
 
 #. Key:	Cosmetics_BlackMask_Description
@@ -25091,6 +25199,7 @@ msgstr "A Protosteel mask forged by Kohi, the first matoran on Mata Nui known ab
 
 msgctxt "UIText_Description_Cosmetics,Cosmetics_VeryCoolHat_Description"
 msgid "A Very cool hat made by Podu, given to you by winning the Pohatu/Kopaka race."
+msgstr "A Very cool hat made by Podu, given to you by winning the Pohatu/Kopaka race."
 
 #. Key:	PausedGraphicsSettings_ColorBlindness_Deuteranope
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Blindness.Options(1).Options.Label
@@ -25098,6 +25207,7 @@ msgid "A Very cool hat made by Podu, given to you by winning the Pohatu/Kopaka r
 
 msgctxt "UIText_Setting,PausedGraphicsSettings_ColorBlindness_Deuteranope"
 msgid "Deuteranope"
+msgstr "Deuteranope"
 
 #. Key:	PausedGraphicsSettings_ColorBlindness_Protanope
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Blindness.Options(2).Options.Label
@@ -25105,6 +25215,7 @@ msgid "Deuteranope"
 
 msgctxt "UIText_Setting,PausedGraphicsSettings_ColorBlindness_Protanope"
 msgid "Protanope"
+msgstr "Protanope"
 
 #. Key:	PausedGraphicsSettings_ColorBlindness_Tritanope
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Blindness.Options(3).Options.Label
@@ -25112,6 +25223,7 @@ msgid "Protanope"
 
 msgctxt "UIText_Setting,PausedGraphicsSettings_ColorBlindness_Tritanope"
 msgid "Tritanope"
+msgstr "Tritanope"
 
 #. Key:	GiveMask_Gali_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_GiveMask.Widget_GiveMask_C:WidgetTree.Button_Gali.ToolTipText
@@ -25119,6 +25231,7 @@ msgid "Tritanope"
 
 msgctxt "UIText_ToolTip,GiveMask_Gali_ToolTip"
 msgid "Toa Gali, Toa of Water"
+msgstr "Toa Gali, Toa of Water"
 
 #. Key:	GiveMask_Kopaka_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_GiveMask.Widget_GiveMask_C:WidgetTree.Button_Kopaka.ToolTipText
@@ -25134,6 +25247,7 @@ msgstr "Toa Kopaka, Toa of Ice"
 
 msgctxt "UIText_ToolTip,GiveMask_Lewa_ToolTip"
 msgid "Toa Lewa, Toa of Air"
+msgstr "Toa Lewa, Toa of Air"
 
 #. Key:	GiveMask_Onua_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_GiveMask.Widget_GiveMask_C:WidgetTree.Button_Onua.ToolTipText
@@ -25149,6 +25263,7 @@ msgstr "Toa Onua, Toa of Earth"
 
 msgctxt "UIText_ToolTip,GiveMask_Pohatu_ToolTip"
 msgid "Toa Pohatu, Toa of Stone"
+msgstr "Toa Pohatu, Toa of Stone"
 
 #. Key:	GiveMask_Tahu_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_GiveMask.Widget_GiveMask_C:WidgetTree.Button_Tahu.ToolTipText
@@ -25156,6 +25271,7 @@ msgid "Toa Pohatu, Toa of Stone"
 
 msgctxt "UIText_ToolTip,GiveMask_Tahu_ToolTip"
 msgid "Toa Tahu, Toa of Fire"
+msgstr "Toa Tahu, Toa of Fire"
 
 #. Key:	NewGame_TutorialTooltip
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.CheckBox_144.ToolTipText
@@ -25163,6 +25279,7 @@ msgid "Toa Tahu, Toa of Fire"
 
 msgctxt "UIText_ToolTip,NewGame_TutorialTooltip"
 msgid "Tutorial has story relevance, you must play it once."
+msgstr "Tutorial has story relevance, you must play it once."
 
 #. Key:	PausedAudioSettings_AmbientSounds_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.Enviromentslider.ToolTipText
@@ -25170,6 +25287,7 @@ msgid "Tutorial has story relevance, you must play it once."
 
 msgctxt "UIText_ToolTip,PausedAudioSettings_AmbientSounds_ToolTip"
 msgid "The volume of sounds heard in the wahis."
+msgstr "The volume of sounds heard in the wahis."
 
 #. Key:	PausedAudioSettings_Master_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.MasterVolumeSlider.ToolTipText
@@ -25177,6 +25295,7 @@ msgid "The volume of sounds heard in the wahis."
 
 msgctxt "UIText_ToolTip,PausedAudioSettings_Master_ToolTip"
 msgid "The overall volume of the game."
+msgstr "The overall volume of the game."
 
 #. Key:	PausedAudioSettings_Music_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.MusicSliderVolume.ToolTipText
@@ -25184,6 +25303,7 @@ msgid "The overall volume of the game."
 
 msgctxt "UIText_ToolTip,PausedAudioSettings_Music_ToolTip"
 msgid "The volume of music in the game."
+msgstr "The volume of music in the game."
 
 #. Key:	PausedAudioSettings_MusicFreq_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.BmopComboBoxSetting.ToolTipText
@@ -25191,6 +25311,7 @@ msgid "The volume of music in the game."
 
 msgctxt "UIText_ToolTip,PausedAudioSettings_MusicFreq_ToolTip"
 msgid "Frequency of world exploration music."
+msgstr "Frequency of world exploration music."
 
 #. Key:	PausedAudioSettings_SFX_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.SFXSlider.ToolTipText
@@ -25198,6 +25319,7 @@ msgid "Frequency of world exploration music."
 
 msgctxt "UIText_ToolTip,PausedAudioSettings_SFX_ToolTip"
 msgid "The volume of sound effects IE Footsteps."
+msgstr "The volume of sound effects IE Footsteps."
 
 #. Key:	PausedControls_AttackingEntersCombatTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.DefaultCheckBoxSetting.ToolTipText
@@ -25205,6 +25327,7 @@ msgid "The volume of sound effects IE Footsteps."
 
 msgctxt "UIText_ToolTip,PausedControls_AttackingEntersCombatTip"
 msgid "Pressing the bound 'Attack' button automatically enters combat mode and attacks."
+msgstr "Pressing the bound 'Attack' button automatically enters combat mode and attacks."
 
 #. Key:	PausedDisplaySettings_Compass_Tooltip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.BmopComboBoxSetting_Windowmode_2.ToolTipText
@@ -25215,6 +25338,8 @@ msgid ""
 "Toggle a compass that will lead you directly towards your objective. \r\n"
 "For the directionally challenged."
 msgstr ""
+"Toggle a compass that will lead you directly towards your objective. \r\n"
+"For the directionally challenged."
 
 #. Key:	PausedDisplaySettings_Language_Tooltip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.ComboBox_Languages.ToolTipText
@@ -25230,6 +25355,7 @@ msgstr "Which language should the game be displayed in? (This option may require
 
 msgctxt "UIText_ToolTip,PausedDisplaySettings_Resolution_Tooltip"
 msgid "The Resolution the game is displayed at."
+msgstr "The Resolution the game is displayed at."
 
 #. Key:	PausedDisplaySettings_ResolutionPercent_Tooltip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.BMOPSliderSettingClamped_C_9.ToolTipText
@@ -25237,6 +25363,7 @@ msgid "The Resolution the game is displayed at."
 
 msgctxt "UIText_ToolTip,PausedDisplaySettings_ResolutionPercent_Tooltip"
 msgid "The percentage of resolution the game renders."
+msgstr "The percentage of resolution the game renders."
 
 #. Key:	PausedDisplaySettings_ResolutionUpscaling_Tooltip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.BmopComboBoxSetting_Windowmode_1.ToolTipText
@@ -25247,6 +25374,8 @@ msgid ""
 "Using AMD's FSR, upscale the image to gain more FPS at a small cost of image quality loss.\r\n"
 "(Note: You must lower the Res Percent bar for this effect to work)"
 msgstr ""
+"Using AMD's FSR, upscale the image to gain more FPS at a small cost of image quality loss.\r\n"
+"(Note: You must lower the Res Percent bar for this effect to work)"
 
 #. Key:	PausedDisplaySettings_WindowMode_Tooltip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.BmopComboBoxSetting_Windowmode.ToolTipText
@@ -25254,6 +25383,7 @@ msgstr ""
 
 msgctxt "UIText_ToolTip,PausedDisplaySettings_WindowMode_Tooltip"
 msgid "Mode of display for the game."
+msgstr "Mode of display for the game."
 
 #. Key:	PausedGraphicsSettings_AntiAliasingQuality_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Anti-Alias.ToolTipText
@@ -25261,6 +25391,7 @@ msgid "Mode of display for the game."
 
 msgctxt "UIText_ToolTip,PausedGraphicsSettings_AntiAliasingQuality_ToolTip"
 msgid "Quality of the AA Type Used"
+msgstr "Quality of the AA Type Used"
 
 #. Key:	PausedGraphicsSettings_AntiAliasingType_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Anti-AliasType.ToolTipText
@@ -25276,9 +25407,13 @@ msgid ""
 "\r\n"
 "TemporalAA- Smoothes edges the most but causes some pixel smearing"
 msgstr ""
+"Type of AA to use:\r\n"
 "\r\n"
+"None- No Anti-Aliasing very jagged edges\r\n"
 "\r\n"
+"FXAA- Smoothes edges somewhat\r\n"
 "\r\n"
+"TemporalAA- Smoothes edges the most but causes some pixel smearing"
 
 #. Key:	PausedGraphicsSettings_ColorBlindnessSeverity_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BlindSeveritySlider.ToolTipText
@@ -25286,6 +25421,7 @@ msgstr ""
 
 msgctxt "UIText_ToolTip,PausedGraphicsSettings_ColorBlindnessSeverity_ToolTip"
 msgid "Changes the Intensity of the color blindness effect."
+msgstr "Changes the Intensity of the color blindness effect."
 
 #. Key:	PausedGraphicsSettings_ColorBlindnessType_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Blindness.ToolTipText
@@ -25293,6 +25429,7 @@ msgid "Changes the Intensity of the color blindness effect."
 
 msgctxt "UIText_ToolTip,PausedGraphicsSettings_ColorBlindnessType_ToolTip"
 msgid "For players with color blindness."
+msgstr "For players with color blindness."
 
 #. Key:	PausedGraphicsSettings_EffectsQuality_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Effects.ToolTipText
@@ -25304,6 +25441,9 @@ msgid ""
 "(Reflections, Materials, Particles, etc.)\r\n"
 "[Warning: Big performance impact on changing]"
 msgstr ""
+"The Quality of various Effects in the game \r\n"
+"(Reflections, Materials, Particles, etc.)\r\n"
+"[Warning: Big performance impact on changing]"
 
 #. Key:	PausedGraphicsSettings_FoliageQuality_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Foliage.ToolTipText
@@ -25314,6 +25454,8 @@ msgid ""
 "The Density of Foliage\r\n"
 "(Grass, Bushes, etc.)"
 msgstr ""
+"The Density of Foliage\r\n"
+"(Grass, Bushes, etc.)"
 
 #. Key:	PausedGraphicsSettings_FOV_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.FOVSlider.ToolTipText
@@ -25321,6 +25463,7 @@ msgstr ""
 
 msgctxt "UIText_ToolTip,PausedGraphicsSettings_FOV_ToolTip"
 msgid "Changes the field of vision for the camera."
+msgstr "Changes the field of vision for the camera."
 
 #. Key:	PausedGraphicsSettings_FrameLimit_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.FOVSlider_1.ToolTipText
@@ -25328,6 +25471,7 @@ msgid "Changes the field of vision for the camera."
 
 msgctxt "UIText_ToolTip,PausedGraphicsSettings_FrameLimit_ToolTip"
 msgid "Limit the framerate of the game."
+msgstr "Limit the framerate of the game."
 
 #. Key:	PausedGraphicsSettings_ShadowQuality_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Shadows.ToolTipText
@@ -25335,6 +25479,7 @@ msgid "Limit the framerate of the game."
 
 msgctxt "UIText_ToolTip,PausedGraphicsSettings_ShadowQuality_ToolTip"
 msgid "The Quality of Shadows"
+msgstr "The Quality of Shadows"
 
 #. Key:	PausedGraphicsSettings_TextureFiltering_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Textures_1.ToolTipText
@@ -25342,6 +25487,7 @@ msgid "The Quality of Shadows"
 
 msgctxt "UIText_ToolTip,PausedGraphicsSettings_TextureFiltering_ToolTip"
 msgid "The amount of filtering for textures viewed from the side on."
+msgstr "The amount of filtering for textures viewed from the side on."
 
 #. Key:	PausedGraphicsSettings_TextureMemory_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Textures.ToolTipText
@@ -25349,6 +25495,7 @@ msgid "The amount of filtering for textures viewed from the side on."
 
 msgctxt "UIText_ToolTip,PausedGraphicsSettings_TextureMemory_ToolTip"
 msgid "The Amount of Ram Allocated to texture loading."
+msgstr "The Amount of Ram Allocated to texture loading."
 
 #. Key:	PausedGraphicsSettings_VolumetricFog_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Fog.ToolTipText
@@ -25360,6 +25507,9 @@ msgid ""
 "(Disabling will remove some effects in the game. Automaticly disabled by Low Shadows setting.)\r\n"
 "[High performance impact]"
 msgstr ""
+"Fog that has volume. \r\n"
+"(Disabling will remove some effects in the game. Automaticly disabled by Low Shadows setting.)\r\n"
+"[High performance impact]"
 
 #. Key:	PausedGraphicsSettings_VSync_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Vsync.ToolTipText
@@ -25370,3 +25520,5 @@ msgid ""
 "Fixes Screen Tearing by limiting the framerate \r\n"
 "to the screen refresh rate"
 msgstr ""
+"Fixes Screen Tearing by limiting the framerate \r\n"
+"to the screen refresh rate"
