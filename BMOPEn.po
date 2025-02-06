@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2025-02-06 02:57\n"
-"PO-Revision-Date: 2025-02-06 02:57\n"
+"POT-Creation-Date: 2025-02-06 03:14\n"
+"PO-Revision-Date: 2025-02-06 03:14\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -18395,12 +18395,26 @@ msgctxt "ST_GeneralLocalization,Gen_ClimbUp"
 msgid "Climb Up {Facing}"
 msgstr "Climb Up {Facing}"
 
+#. Key:	Gen_Conv_Conversation
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Conv_Conversation"
+msgid "Conversation"
+msgstr "Conversation"
+
 #. Key:	Gen_Conv_HarekLaru
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Conv_HarekLaru"
 msgid "Harek and Laru"
 msgstr "Harek and Laru"
+
+#. Key:	Gen_Conv_PauriKauri
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Conv_PauriKauri"
+msgid "Pauri and Kauri"
+msgstr "Pauri and Kauri"
 
 #. Key:	Gen_Conv_TafallTaphal
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18472,12 +18486,40 @@ msgctxt "ST_GeneralLocalization,Gen_Lever"
 msgid "Lever"
 msgstr "Lever"
 
+#. Key:	Gen_LeverOne
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_LeverOne"
+msgid "Lever One"
+msgstr "Lever One"
+
+#. Key:	Gen_LeverThree
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_LeverThree"
+msgid "Lever Three"
+msgstr "Lever Three"
+
+#. Key:	Gen_LeverTwo
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_LeverTwo"
+msgid "Lever Two"
+msgstr "Lever Two"
+
 #. Key:	Gen_Listen
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Listen"
 msgid "Listen to {Facing}"
 msgstr "Listen to {Facing}"
+
+#. Key:	Gen_LockedDoor
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_LockedDoor"
+msgid "Locked Door"
+msgstr "Locked Door"
 
 #. Key:	Gen_MakokiDesc
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18549,6 +18591,13 @@ msgctxt "ST_GeneralLocalization,Gen_SpeakTo"
 msgid "Speak to {NPC}"
 msgstr "Speak to {NPC}"
 
+#. Key:	Gen_SuvaInteract
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_SuvaInteract"
+msgid "Unlock Golden Mask for {Toa}"
+msgstr "Unlock Golden Mask for {Toa}"
+
 #. Key:	Gen_Telescope
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18556,12 +18605,26 @@ msgctxt "ST_GeneralLocalization,Gen_Telescope"
 msgid "Telescope"
 msgstr "Telescope"
 
+#. Key:	Gen_TradeDeal
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_TradeDeal"
+msgid "Trade deal"
+msgstr "Trade deal"
+
 #. Key:	Gen_Waikiru
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Waikiru"
 msgid "Fragments of a First Mate's log from a ship named the 'Waikiru'"
 msgstr "Fragments of a First Mate's log from a ship named the 'Waikiru'"
+
+#. Key:	Gen_Window
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Window"
+msgid "Window"
+msgstr "Window"
 
 #. Key:	UIAutoSave
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
