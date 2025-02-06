@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2025-01-28 00:44\n"
-"PO-Revision-Date: 2025-01-30 01:23+0100\n"
+"PO-Revision-Date: 2025-01-30 01:25+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
@@ -2772,7 +2772,6 @@ msgstr "You looked distracted just then."
 #. Key:	DL_JobmasterJobSneak_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterJobSneak.Default__DL_JobmasterJobSneak_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterJobSneak.Default__DL_JobmasterJobSneak_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_JobmasterJobSneak_PlayerResponse_3"
 msgid "Nevermind."
 msgstr "Vergiss es."
@@ -2828,7 +2827,6 @@ msgstr "Your Illegal Ruki were eaten by Rahi."
 #. Key:	DL_JobmasterReturn_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturn.Default__DL_JobmasterReturn_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturn.Default__DL_JobmasterReturn_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_JobmasterReturn_PlayerResponse_2"
 msgid "Not yet."
 msgstr "Noch nicht."
@@ -2836,7 +2834,6 @@ msgstr "Noch nicht."
 #. Key:	DL_JobmasterReturnFinal_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturnFinal.Default__DL_JobmasterReturnFinal_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturnFinal.Default__DL_JobmasterReturnFinal_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_JobmasterReturnFinal_PlayerResponse_1"
 msgid "Sorry."
 msgstr "Entschuldigung."
@@ -2868,10 +2865,9 @@ msgstr "Reka said you might have a job for me. How about I locate this shipment?
 #. Key:	DL_JobmasterShipmentGiveQuest_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentGiveQuest.Default__DL_JobmasterShipmentGiveQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentGiveQuest.Default__DL_JobmasterShipmentGiveQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_JobmasterShipmentGiveQuest_PlayerResponse_1"
 msgid "I accept."
-msgstr "Ich akzeptiere das."
+msgstr "Ich akzeptiere."
 
 #. Key:	DL_JobmasterShipmentGiveQuest_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentGiveQuest.Default__DL_JobmasterShipmentGiveQuest_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2884,10 +2880,9 @@ msgstr "I have some other matters to attend to."
 #. Key:	DL_JobmasterShipmentJob_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentJob.Default__DL_JobmasterShipmentJob_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentJob.Default__DL_JobmasterShipmentJob_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_JobmasterShipmentJob_PlayerResponse_1"
 msgid "What do you need me to do?"
-msgstr "Was brauchen Sie von mir?"
+msgstr "Was brauchst du von mir?"
 
 #. Key:	DL_JobmasterShipmentQuestDesc_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentQuestDesc.Default__DL_JobmasterShipmentQuestDesc_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
