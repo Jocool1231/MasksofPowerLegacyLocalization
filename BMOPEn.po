@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2025-02-06 03:14\n"
-"PO-Revision-Date: 2025-02-06 03:14\n"
+"POT-Creation-Date: 2025-02-06 04:43\n"
+"PO-Revision-Date: 2025-02-06 04:43\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -3890,13 +3890,6 @@ msgstr "Goodbye Supervisor."
 msgctxt "Dialogue_Response,DL_LightstoneCaveMaster_Doing_PlayerResponse_1"
 msgid "Interesting."
 msgstr "Interesting."
-
-#. Key:	DL_LightstoneCaveMaster_Help_PlayerResponse_1
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster_Help.Default__DL_LightstoneCaveMaster_Help_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster_Help.Default__DL_LightstoneCaveMaster_Help_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt "Dialogue_Response,DL_LightstoneCaveMaster_Help_PlayerResponse_1"
-msgid "Alright then."
-msgstr "Alright then."
 
 #. Key:	DL_Lockedout_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Lockedout.Default__DL_Lockedout_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -10881,8 +10874,8 @@ msgstr "We mine for Lightstones here! Lightstones are a valuable resource used f
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster_Help.Default__DL_LightstoneCaveMaster_Help_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster_Help.Default__DL_LightstoneCaveMaster_Help_C.DialogueText
 msgctxt "Dialogue_Text,DL_LightstoneCaveMaster_Help"
-msgid "Thank you for the offer $T, but we've got it covered here. Besides I wouldn't want to take up your time, I'm sure a hero like you has more important things to tend to."
-msgstr "Thank you for the offer $T, but we've got it covered here. Besides I wouldn't want to take up your time, I'm sure a hero like you has more important things to tend to."
+msgid "Thank you for the offer $T, but we've got it covered here. Except... Well, there are a few odd green crystals that we've uncovered recently, and no matter what we do, no one seems to have the strength to extract them! But with that Pakari of yours, you might be able to get them out of our way. You're welcome to keep the crystals if you do!"
+msgstr "Thank you for the offer $T, but we've got it covered here. Except... Well, there are a few odd green crystals that we've uncovered recently, and no matter what we do, no one seems to have the strength to extract them! But with that Pakari of yours, you might be able to get them out of our way. You're welcome to keep the crystals if you do!"
 
 #. Key:	DL_Lockedout
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Lockedout.Default__DL_Lockedout_C.DialogueText
