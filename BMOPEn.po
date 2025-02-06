@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2025-01-28 00:44\n"
-"PO-Revision-Date: 2025-01-28 00:44\n"
+"POT-Creation-Date: 2025-02-06 02:57\n"
+"PO-Revision-Date: 2025-02-06 02:57\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -18367,12 +18367,61 @@ msgctxt "ST_DialogueGeneralLocalization,WillSee"
 msgid "I'll see what I can do."
 msgstr "I'll see what I can do."
 
+#. Key:	Gen_CableTransport
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_CableTransport"
+msgid "Cable Transport System"
+msgstr "Cable Transport System"
+
 #. Key:	Gen_Climb
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Climb"
 msgid "Climb {Facing}"
 msgstr "Climb {Facing}"
+
+#. Key:	Gen_ClimbDown
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_ClimbDown"
+msgid "Climb Down {Facing}"
+msgstr "Climb Down {Facing}"
+
+#. Key:	Gen_ClimbUp
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_ClimbUp"
+msgid "Climb Up {Facing}"
+msgstr "Climb Up {Facing}"
+
+#. Key:	Gen_Conv_HarekLaru
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Conv_HarekLaru"
+msgid "Harek and Laru"
+msgstr "Harek and Laru"
+
+#. Key:	Gen_Conv_TafallTaphal
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Conv_TafallTaphal"
+msgid "Tafall and Taphal"
+msgstr "Tafall and Taphal"
+
+#. Key:	Gen_Conv_TapahlTafall
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Conv_TapahlTafall"
+msgid "Tapahl and Tafall"
+msgstr "Tapahl and Tafall"
+
+#. Key:	Gen_Conv_Whagna
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Conv_Whagna"
+msgid "The Whagna Villagers"
+msgstr "The Whagna Villagers"
 
 #. Key:	Gen_CosmeticsBench
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18388,12 +18437,33 @@ msgctxt "ST_GeneralLocalization,Gen_Door"
 msgid "Door"
 msgstr "Door"
 
+#. Key:	Gen_Gate
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Gate"
+msgid "Gate"
+msgstr "Gate"
+
 #. Key:	Gen_Interact
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Interact"
 msgid "Interact with {Facing}"
 msgstr "Interact with {Facing}"
+
+#. Key:	Gen_Ladder
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Ladder"
+msgid "Ladder"
+msgstr "Ladder"
+
+#. Key:	Gen_LeftBlock
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_LeftBlock"
+msgid "Left Block"
+msgstr "Left Block"
 
 #. Key:	Gen_Lever
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18402,12 +18472,26 @@ msgctxt "ST_GeneralLocalization,Gen_Lever"
 msgid "Lever"
 msgstr "Lever"
 
+#. Key:	Gen_Listen
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Listen"
+msgid "Listen to {Facing}"
+msgstr "Listen to {Facing}"
+
 #. Key:	Gen_MakokiDesc
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_MakokiDesc"
 msgid "A piece of a key used to enter the Makuta's Lair."
 msgstr "A piece of a key used to enter the Makuta's Lair."
+
+#. Key:	Gen_MiddleBlock
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_MiddleBlock"
+msgid "Middle Block"
+msgstr "Middle Block"
 
 #. Key:	Gen_ObtaintheMakokiStone
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18416,12 +18500,40 @@ msgctxt "ST_GeneralLocalization,Gen_ObtaintheMakokiStone"
 msgid "Obtain the Makoki Stone."
 msgstr "Obtain the Makoki Stone."
 
+#. Key:	Gen_Open
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Open"
+msgid "Open {Facing}"
+msgstr "Open {Facing}"
+
+#. Key:	Gen_Pickup
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Pickup"
+msgid "Pick up {Facing}"
+msgstr "Pick up {Facing}"
+
 #. Key:	Gen_RestoryMyMemory
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_RestoryMyMemory"
 msgid "I can't remember... Where am I? There is a pull, a drive to begin walking - Perhaps I can find someone that can help restore my memory."
 msgstr "I can't remember... Where am I? There is a pull, a drive to begin walking - Perhaps I can find someone that can help restore my memory."
+
+#. Key:	Gen_RightBlock
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_RightBlock"
+msgid "Right Block"
+msgstr "Right Block"
+
+#. Key:	Gen_Rope
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Rope"
+msgid "Rope"
+msgstr "Rope"
 
 #. Key:	Gen_Speak
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18436,6 +18548,13 @@ msgstr "Speak with {Facing}"
 msgctxt "ST_GeneralLocalization,Gen_SpeakTo"
 msgid "Speak to {NPC}"
 msgstr "Speak to {NPC}"
+
+#. Key:	Gen_Telescope
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Telescope"
+msgid "Telescope"
+msgstr "Telescope"
 
 #. Key:	Gen_Waikiru
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18878,6 +18997,13 @@ msgctxt "ST_Names,Names_Ga-Wahi"
 msgid "Ga-Wahi"
 msgstr "Ga-Wahi"
 
+#. Key:	Names_GaKini
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_GaKini"
+msgid "Ga-Kini"
+msgstr "Ga-Kini"
+
 #. Key:	Names_Gali
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19067,6 +19193,13 @@ msgctxt "ST_Names,Names_Kieve"
 msgid "Kieve"
 msgstr "Kieve"
 
+#. Key:	Names_KiniNui
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_KiniNui"
+msgid "The Kini-Nui"
+msgstr "The Kini-Nui"
+
 #. Key:	Names_Kita
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19122,6 +19255,13 @@ msgstr "Kohi"
 msgctxt "ST_Names,Names_Kohua"
 msgid "Kohua"
 msgstr "Kohua"
+
+#. Key:	Names_KoKini
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_KoKini"
+msgid "Ko-Kini"
+msgstr "Ko-Kini"
 
 #. Key:	Names_KolhiiLover
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19228,6 +19368,27 @@ msgctxt "ST_Names,Names_Le-Wahi"
 msgid "Le-Wahi"
 msgstr "Le-Wahi"
 
+#. Key:	Names_LeElevator
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_LeElevator"
+msgid "The Elevator to Le-Koro"
+msgstr "The Elevator to Le-Koro"
+
+#. Key:	Names_LeElevatorGround
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_LeElevatorGround"
+msgid "The Elevator to The Ground"
+msgstr "The Elevator to The Ground"
+
+#. Key:	Names_LeKini
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_LeKini"
+msgid "Le-Kini"
+msgstr "Le-Kini"
+
 #. Key:	Names_Lewa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19241,6 +19402,13 @@ msgstr "Lewa"
 msgctxt "ST_Names,Names_LockedOut"
 msgid "Locked Out Le-Matoran"
 msgstr "Locked Out Le-Matoran"
+
+#. Key:	Names_LOMN
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_LOMN"
+msgid "The Legend of The Mata Nui"
+msgstr "The Legend of The Mata Nui"
 
 #. Key:	Names_Macku
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19466,6 +19634,13 @@ msgctxt "ST_Names,Names_Onua"
 msgid "Onua"
 msgstr "Onua"
 
+#. Key:	Names_OnuKini
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_OnuKini"
+msgid "Onu-Kini"
+msgstr "Onu-Kini"
+
 #. Key:	Names_Outcast
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19550,12 +19725,26 @@ msgctxt "ST_Names,Names_PoisonNui-Jaga"
 msgid "Repo Nui-Jaga"
 msgstr "Repo Nui-Jaga"
 
+#. Key:	Names_PoKini
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_PoKini"
+msgid "Po-Kini"
+msgstr "Po-Kini"
+
 #. Key:	Names_PROPHETOFTHEMAKUTA
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_PROPHETOFTHEMAKUTA"
 msgid "PROPHET OF THE MAKUTA"
 msgstr "PROPHET OF THE MAKUTA"
+
+#. Key:	Names_ProtosteelTool
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_ProtosteelTool"
+msgid "Protosteel Tool"
+msgstr "Protosteel Tool"
 
 #. Key:	Names_Rau
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19704,6 +19893,13 @@ msgctxt "ST_Names,Names_Takar"
 msgid "Takar"
 msgstr "Takar"
 
+#. Key:	Names_TaKini
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_TaKini"
+msgid "Ta-Kini"
+msgstr "Ta-Kini"
+
 #. Key:	Names_Takua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19752,6 +19948,13 @@ msgstr "Temple Master"
 msgctxt "ST_Names,Names_TheEnvironmentalist"
 msgid "The Environmentalist"
 msgstr "The Environmentalist"
+
+#. Key:	Names_TheToaMata
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_TheToaMata"
+msgid "The Toa Mata"
+msgstr "The Toa Mata"
 
 #. Key:	Names_Thuei
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
