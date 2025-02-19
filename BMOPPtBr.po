@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2024-12-02 23:44\n"
-"PO-Revision-Date: 2025-01-29 20:11-0300\n"
+"PO-Revision-Date: 2025-02-12 17:08-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -2150,7 +2150,21 @@ msgstr "{G}|gender(Obrigado,Obrigada) pelo aviso."
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestStillHere.Default__DL_DamQuestStillHere_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_DamQuestStillHere_PlayerResponse_1"
 msgid "You started the town?"
-msgstr "Você fundou este vilarejo?"
+msgstr "Você fundou o vilarejo?"
+
+#. Key:	DL_ExilonSpeak_PlayerResponse_1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak.Default__DL_ExilonSpeak_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak.Default__DL_ExilonSpeak_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_ExilonSpeak_PlayerResponse_1"
+msgid "What are you doing up here?"
+msgstr "O que faz aqui em cima?"
+
+#. Key:	DL_ExilonSpeak_PlayerResponse_2
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak.Default__DL_ExilonSpeak_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak.Default__DL_ExilonSpeak_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_ExilonSpeak_PlayerResponse_2"
+msgid "Why are you up here? The Nui-Rama could quick-snatch you!"
+msgstr "Por que está aqui em cima? As Nui-Rama vão te veloz-pegar!"
 
 #. Key:	DL_GeneralKokoranbyprotopool_2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_2.Default__DL_GeneralKokoranbyprotopool_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -3217,7 +3231,7 @@ msgstr "Desculpa. Vou deixá-la com seu trabalho."
 #, fuzzy
 msgctxt "Dialogue_Response,DL_KoFlagQuestOtherFlagmakers_PlayerResponse_1"
 msgid "Thank you, Flagmaker, Rest well."
-msgstr "{G}|gender(Obrigado,Obrigada), ciradora de bandeiras. Bom descanso."
+msgstr "{G}|gender(Obrigado,Obrigada), criadora de bandeiras. Bom descanso."
 
 #. Key:	DL_KoFlagQuestRest_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/DL_KoFlagQuestRest.Default__DL_KoFlagQuestRest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -3892,6 +3906,83 @@ msgctxt "Dialogue_Response,DL_Kufa_PlayerResponse_1"
 msgid "Hi."
 msgstr "Oi."
 
+#. Key:	DL_KylmaInQuest_PlayerResponse_1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaInQuest.Default__DL_KylmaInQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaInQuest.Default__DL_KylmaInQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_KylmaInQuest_PlayerResponse_1"
+msgid "I have found your research"
+msgstr "Encontrei sua pesquisa."
+
+#. Key:	DL_KylmaInQuest_PlayerResponse_2
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaInQuest.Default__DL_KylmaInQuest_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaInQuest.Default__DL_KylmaInQuest_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_KylmaInQuest_PlayerResponse_2"
+msgid "Not yet."
+msgstr "Ainda não."
+
+#. Key:	DL_KylmaNotesFound_PlayerResponse_1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaNotesFound.Default__DL_KylmaNotesFound_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaNotesFound.Default__DL_KylmaNotesFound_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_KylmaNotesFound_PlayerResponse_1"
+msgid "If you insist."
+msgstr "Se insiste."
+
+#. Key:	DL_KylmaReading_PlayerResponse_1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaReading.Default__DL_KylmaReading_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaReading.Default__DL_KylmaReading_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_KylmaReading_PlayerResponse_1"
+msgid "It was no trouble."
+msgstr "Não há de quê."
+
+#. Key:	DL_KylmaRuins_PlayerResponse_1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaRuins.Default__DL_KylmaRuins_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaRuins.Default__DL_KylmaRuins_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_KylmaRuins_PlayerResponse_1"
+msgid "Then I'll return once I've recovered your research."
+msgstr "Então voltarei assim que recuperar sua pesquisa."
+
+#. Key:	DL_KylmaTrouble2_PlayerResponse_1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble2.Default__DL_KylmaTrouble2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble2.Default__DL_KylmaTrouble2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_KylmaTrouble2_PlayerResponse_1"
+msgid "And your research was left there?"
+msgstr "E sua pesquisa foi deixada lá?"
+
+#. Key:	DL_KylmaTrouble3_PlayerResponse_1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble3.Default__DL_KylmaTrouble3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble3.Default__DL_KylmaTrouble3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_KylmaTrouble3_PlayerResponse_1"
+msgid "And you want me to recover it for you?"
+msgstr "E você quer que eu a recupere para você?"
+
+#. Key:	DL_KylmaTrouble4_PlayerResponse_1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble4.Default__DL_KylmaTrouble4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble4.Default__DL_KylmaTrouble4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_KylmaTrouble4_PlayerResponse_1"
+msgid "Where exactly are theese ruins?"
+msgstr "Onde exatamente ficam essas ruínas?"
+
+#. Key:	DL_KylmaTrouble_PlayerResponse_1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble.Default__DL_KylmaTrouble_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble.Default__DL_KylmaTrouble_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_KylmaTrouble_PlayerResponse_1"
+msgid "Do you have any idea where it could be?"
+msgstr "Tem ideia de onde poderia estar?"
+
+#. Key:	DL_KylmaWhere_PlayerResponse_1
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_KylmaWhere_PlayerResponse_1"
+msgid "What seems to be the problem little one?"
+msgstr "O que seria o problema, pequenino?"
+
+#. Key:	DL_KylmaWhere_PlayerResponse_2
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
+msgctxt "Dialogue_Response,DL_KylmaWhere_PlayerResponse_2"
+msgid "I have recovered your research"
+msgstr "Recuperei sua pesquisa."
+
 #. Key:	DL_LavaFarmerBreak_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_LavaFarmerBreak.Default__DL_LavaFarmerBreak_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_LavaFarmerBreak.Default__DL_LavaFarmerBreak_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4031,13 +4122,6 @@ msgstr "Tchau, supervisor."
 msgctxt "Dialogue_Response,DL_LightstoneCaveMaster_Doing_PlayerResponse_1"
 msgid "Interesting."
 msgstr "Interessante."
-
-#. Key:	DL_LightstoneCaveMaster_Help_PlayerResponse_1
-#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster_Help.Default__DL_LightstoneCaveMaster_Help_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster_Help.Default__DL_LightstoneCaveMaster_Help_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt "Dialogue_Response,DL_LightstoneCaveMaster_Help_PlayerResponse_1"
-msgid "Alright then."
-msgstr "Tudo bem então."
 
 #. Key:	DL_Lockedout_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Lockedout.Default__DL_Lockedout_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9338,6 +9422,27 @@ msgctxt "Dialogue_Text,DL_DamQuestStillHere2"
 msgid "I did! My passion is fishing you see, and there's not much fishing in Ko-koro as you can imagine, well Ice fishing sure, but I grew bored of that quickly. So one day I decided to leave and start a fishing village!"
 msgstr "Fundei sim! Sabe, minha paixão é pescar, e não tem tanta pesca em Ko-Koro como pode imaginar… claro, tem pesca no gelo, mas eu cansei daquilo rápido. Então, um dia eu decidi sair e fundar um vilarejo de pesca!"
 
+#. Key:	DL_ExilonSpeak
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak.Default__DL_ExilonSpeak_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak.Default__DL_ExilonSpeak_C.DialogueText
+msgctxt "Dialogue_Text,DL_ExilonSpeak"
+msgid "Oh, Toa $T? Why did you come up here? Did you follow me?"
+msgstr ""
+
+#. Key:	DL_ExilonSpeak_2
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak_2.Default__DL_ExilonSpeak_2_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak_2.Default__DL_ExilonSpeak_2_C.DialogueText
+msgctxt "Dialogue_Text,DL_ExilonSpeak_2"
+msgid "Don't worry about me Toa $T. I have my trusty throwing disc!"
+msgstr ""
+
+#. Key:	DL_ExilonSpeak_3
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak_3.Default__DL_ExilonSpeak_3_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak_3.Default__DL_ExilonSpeak_3_C.DialogueText
+msgctxt "Dialogue_Text,DL_ExilonSpeak_3"
+msgid "I enjoy watching the scenery from up here. Sometimes it's good to have a little quiet; away from the bustle of le-koro."
+msgstr ""
+
 #. Key:	DL_Fish
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Fish.Default__DL_Fish_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Fish.Default__DL_Fish_C.DialogueText
@@ -10404,14 +10509,14 @@ msgstr "Ei ei! Você finalmente voltou, {G}|gender(Toa-Herói,Toa-Heroína)! O q
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_Kongu1.Default__DL_Kongu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Kongu1"
 msgid "Why I am wind-flying, Kahu-riding Kongu of course! Huh, it seems your thought-memory has been lost? Strange."
-msgstr "Ora, sou o vento-voador e Kahu-montador Kongu, é claro! Hum… parece que você perdeu sua mente-memória? Estranho."
+msgstr "Ora, sou o vento-voador e Kahu-montador Kongu, é claro! Hum… parece que perdeu sua mente-memória? Estranho."
 
 #. Key:	DL_Kongu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_Kongu2.Default__DL_Kongu2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_Kongu2.Default__DL_Kongu2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Kongu2"
 msgid "Oh, yes! I need someone to go hunt-searching for Matau, our Turaga. It is a sorry-bad tale, but he has been lost-missing for some time now!"
-msgstr "Ah, sim! Preciso que alguém vá procurar-buscar Matau, nosso Turaga. É uma história triste-ruim, mas ele se perdeu-sumiu faz um tempo!"
+msgstr "Ah, sim! Preciso que alguém vá caçar-buscar Matau, nosso Turaga. É uma história triste-ruim, mas ele se perdeu-sumiu faz um tempo!"
 
 #. Key:	DL_KonguMap
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_KonguMap.Default__DL_KonguMap_C.DialogueText
@@ -10908,7 +11013,70 @@ msgstr "Só tenho vislumbres de vez em quando… Mas tive uma sensação um tant
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Kufa4.Default__DL_Kufa4_C.DialogueText
 msgctxt "Dialogue_Text,DL_Kufa4"
 msgid "It feels like it did before... Big changes are on the horizion."
-msgstr "Sinto que antes era… Grandes mudanças estão no horizonte."
+msgstr "Sinto que antes era… Há grandes mudanças no horizonte."
+
+#. Key:	DL_KylmaInQuest
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaInQuest.Default__DL_KylmaInQuest_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaInQuest.Default__DL_KylmaInQuest_C.DialogueText
+msgctxt "Dialogue_Text,DL_KylmaInQuest"
+msgid "Oh, Hello Toa $T! Have you found my research?"
+msgstr "Oh, olá Toa $T! Já encontrou minha pesquisa?"
+
+#. Key:	DL_KylmaNotesFound
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaNotesFound.Default__DL_KylmaNotesFound_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaNotesFound.Default__DL_KylmaNotesFound_C.DialogueText
+msgctxt "Dialogue_Text,DL_KylmaNotesFound"
+msgid "Thank you very much Toa. Please take this as a reward."
+msgstr "Muito obrigado, Toa. Por favor, aceite isso como recompensa."
+
+#. Key:	DL_KylmaReading
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaReading.Default__DL_KylmaReading_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaReading.Default__DL_KylmaReading_C.DialogueText
+msgctxt "Dialogue_Text,DL_KylmaReading"
+msgid "Thanks again for your help Toa $T!"
+msgstr "Obrigado de novo pela ajuda, Toa $T!"
+
+#. Key:	DL_KylmaRuins
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaRuins.Default__DL_KylmaRuins_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaRuins.Default__DL_KylmaRuins_C.DialogueText
+msgctxt "Dialogue_Text,DL_KylmaRuins"
+msgid "They are on a small island on the shore near the ko-wahi le-wahi border."
+msgstr "Estão numa ilhazinha na costa perto da divisa entre Ko-Wahi e Le-Wahi."
+
+#. Key:	DL_KylmaTrouble
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble.Default__DL_KylmaTrouble_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble.Default__DL_KylmaTrouble_C.DialogueText
+msgctxt "Dialogue_Text,DL_KylmaTrouble"
+msgid "Oh, Hello Toa $T! Well, simply put I cannot find some of my research."
+msgstr "Oh, olá Toa $T! Então, basicamente, não consigo achar parte da minha pesquisa."
+
+#. Key:	DL_KylmaTrouble2
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble2.Default__DL_KylmaTrouble2_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble2.Default__DL_KylmaTrouble2_C.DialogueText
+msgctxt "Dialogue_Text,DL_KylmaTrouble2"
+msgid "Yes, actually. You see, some time ago we went to study the ruins of an old temple on the shore. We even set up a few huts. But then we were attacked by fierce rahi so we had no choice but to flee. "
+msgstr "Na verdade, sim. Sabe, um tempo atrás a gente ia estudar as ruínas de um velho tempo na costa. Até fizemos umas cabanas. Mas então fomos atacados por Rahi ferozes, então não tivemos escolha senão sair."
+
+#. Key:	DL_KylmaTrouble3
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble3.Default__DL_KylmaTrouble3_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble3.Default__DL_KylmaTrouble3_C.DialogueText
+msgctxt "Dialogue_Text,DL_KylmaTrouble3"
+msgid "Yes, it should still be in one of the small huts near the ruins."
+msgstr "Sim, ainda deve estar numa das cabaninhas perto das ruínas."
+
+#. Key:	DL_KylmaTrouble4
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble4.Default__DL_KylmaTrouble4_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble4.Default__DL_KylmaTrouble4_C.DialogueText
+msgctxt "Dialogue_Text,DL_KylmaTrouble4"
+msgid "I would be grateful. And also we found a Great Kanohi there, so exploring the ruins could even aid in your quest Toa $T."
+msgstr "Eu agradeceria. Aliás, também achamos uma Grande Kanohi lá, então explorar as ruínas poderia até ajudar na sua missão, Toa ST."
+
+#. Key:	DL_KylmaWhere
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.DialogueText
+#: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.DialogueText
+msgctxt "Dialogue_Text,DL_KylmaWhere"
+msgid "It's not here either, then it must be..."
+msgstr "Também não tá aqui, então deve estar..."
 
 #. Key:	DL_LavaFarmerBreak
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_LavaFarmerBreak.Default__DL_LavaFarmerBreak_C.DialogueText
@@ -11026,8 +11194,8 @@ msgstr "Aqui mineramos pedras luminosas! Elas são um recurso valioso usado para
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster_Help.Default__DL_LightstoneCaveMaster_Help_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster_Help.Default__DL_LightstoneCaveMaster_Help_C.DialogueText
 msgctxt "Dialogue_Text,DL_LightstoneCaveMaster_Help"
-msgid "Thank you for the offer $T, but we've got it covered here. Besides I wouldn't want to take up your time, I'm sure a hero like you has more important things to tend to."
-msgstr "Obrigado pela oferta, $T, mas está tudo sob controle aqui. Além disso, não quero tomar seu tempo. Tenho certeza que {G}|gender(um,uma) {G}|gender(herói,heroína) como você tem coisas mais importantes para cuidar."
+msgid "Thank you for the offer $T, but we've got it covered here. Except... Well, there are a few odd green crystals that we've uncovered recently, and no matter what we do, no one seems to have the strength to extract them! But with that Pakari of yours, you might be able to get them out of our way. You're welcome to keep the crystals if you do!"
+msgstr "Obrigado pela oferta, $T, mas está tudo sob controle aqui. Na verdade... Tem uns cristais verdes estranhos que encontramos recentemente, e não importa o que fazemos, ninguém tem força pra extraí-los! Mas com essa Pakari sua, talvez você possa tirá-los do nosso caminho. Se conseguir, pode ficar com os cristais!"
 
 #. Key:	DL_Lockedout
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Lockedout.Default__DL_Lockedout_C.DialogueText
@@ -11244,7 +11412,7 @@ msgstr "Bem… não. Já que está aí em baixo, poderia pensar-achar algum modo
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauInTreeHow.Default__DL_MatauInTreeHow_C.DialogueText
 msgctxt "Dialogue_Text,DL_MatauInTreeHow"
 msgid "Well, I was headed home from... eh... something- when two Nui-Rama quick-snatched me and threw me up into this tree!"
-msgstr "Então, eu estava indo para casa, saindo de… hã… uma coisa, quando duas Nui-Rama me veloz-pegaram e me jogaram pra cima desta árvore!"
+msgstr "Então, eu estava indo para casa, voltando de… hã… uma coisa, quando duas Nui-Rama me veloz-pegaram e me jogaram árvore-acima!"
 
 #. Key:	DL_MatauKoro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoro.Default__DL_MatauKoro_C.DialogueText
@@ -12567,7 +12735,7 @@ msgstr "OLÁÁÁÁ! {G}|gender(Bem-vindo,Bem-vinda) Toa, ao meu Santuário! Fiqu
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_OutcastGrass.Default__DL_OutcastGrass_C.DialogueText
 msgctxt "Dialogue_Text,DL_OutcastGrass"
 msgid "It's real simple tall guy - The rocks above protect us from the snow, the stones hanging from them are heat stones, and the water below me is an underground hotspring!"
-msgstr "É bem simples, {G}|gender(altão,altona). As pedras acima nos protegem da neve, as pedras penduradas nelas são aquecedoras, e a água embaixo de mim é uma água termal subterrânea!"
+msgstr "É bem simples, {G}|gender(altão,altona). As rochas acima nos protegem da neve, as pedras penduradas nelas são pedras de calor, e a água embaixo de mim é uma água termal subterrânea!"
 
 #. Key:	DL_OutcastWho
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_OutcastWho.Default__DL_OutcastWho_C.DialogueText
@@ -15512,10 +15680,9 @@ msgstr "Uma lasca de um cristal verde brilhante, pode ter algum valor."
 #. Key:	Item_GoldBars_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldBars.Item_GoldBars.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldBars.Item_GoldBars.Description
-#, fuzzy
 msgctxt "InvItem_Description,Item_GoldBars_Desc"
 msgid "A stack of shiny gold bars."
-msgstr "Uma pilha de barras de ouro brilhosas."
+msgstr "Uma pilha de barras de ouro."
 
 #. Key:	Item_GoldenMahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenMahi.Item_GoldenMahi.Description
@@ -15523,7 +15690,7 @@ msgstr "Uma pilha de barras de ouro brilhosas."
 #, fuzzy
 msgctxt "InvItem_Description,Item_GoldenMahi_Desc"
 msgid "A large golden Mahi figure. Hard to carry."
-msgstr "Uma enorme figura dourada de um Mahi. Difícil de carregar."
+msgstr "Uma figura dourada de um Mahi. Difícil de carregar."
 
 #. Key:	Item_GoldenRama_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRama.Item_GoldenRama.Description
@@ -15717,10 +15884,9 @@ msgstr "Uma coleção de anotações de pesquisa de um Matoran curioso."
 #. Key:	Item_RestorationGel_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_RestorationGel.Item_RestorationGel.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_RestorationGel.Item_RestorationGel.Description
-#, fuzzy
 msgctxt "InvItem_Description,Item_RestorationGel_Desc"
 msgid "This green jiggly substance can be applied to damaged armor to repair it over time. Effects will not stack, lasts for 5 seconds."
-msgstr "Esta substância verde e gelatinosa pode ser aplicada numa armadura danificada para repará-la com o tempo. Efeitos não acumulam, dura 5 segundos."
+msgstr "Esta substância gelatinosa pode ser aplicada numa armadura danificada para repará-la com o tempo. Efeitos não acumulam, dura 5 segundos."
 
 #. Key:	Item_RockHat_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_RockHat.Item_RockHat.Description
@@ -15746,7 +15912,6 @@ msgstr "Uma anotação encontrada na ponta sul da ilha."
 #. Key:	Item_StaffClass2_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_StaffClass2.Item_StaffClass2.Description
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_StaffClass2.Item_StaffClass2.Description
-#, fuzzy
 msgctxt "InvItem_Description,Item_StaffClass2_Desc"
 msgid "The standard staves used by the Ta-Koro guard. Class 2s are slightly weaker and shorter than the superior Class 1s."
 msgstr "As lanças padrão da Guarda de Ta-Koro. Lanças Classe 2 são levemente mais fracas e curtas que as superiores Classe 1."
@@ -15764,7 +15929,7 @@ msgstr "Uma escultura de Toa feita de pedra."
 #, fuzzy
 msgctxt "InvItem_Description,Item_StoneCarving_Desc"
 msgid "Crudely carved stone in the shape of the Great Spirit."
-msgstr "Uma pedra de entalhe rudimentar da forma do Grande Espírito."
+msgstr "Uma pedra de entalhe rudimentar na forma do Grande Espírito."
 
 #. Key:	Item_SwordStatueNotePart1_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart1.Item_SwordStatueNotePart1.Description
@@ -15919,6 +16084,14 @@ msgstr "Um pequeno ícone de madeira. Lembra um pouco a cabeça de um Matoran."
 msgctxt "InvItem_Description,Item_WorldMap_Desc"
 msgid "A full map of the Island of Mata-Nui."
 msgstr "Um mapa completo da ilha de Mata Nui."
+
+#. Key:	KylmaNote_Desc
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/KylmaNote.KylmaNote.Description
+#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/KylmaNote.KylmaNote.Description
+#, fuzzy
+msgctxt "InvItem_Description,KylmaNote_Desc"
+msgid "The research notes lost by Kylma"
+msgstr "As notas de pesquisa perdidas do Kylma"
 
 #. Key:	Item_AmanaVoloSphere
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_AmanaVoloSphere.Item_AmanaVoloSphere.Name
@@ -16462,10 +16635,9 @@ msgstr "Peças"
 #. Key:	Item_WoodStatue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_WoodStatue"
 msgid "Wood Head Statue"
-msgstr "Estátua de Cabeça de Madeira"
+msgstr "Cabeça de Madeira"
 
 #. Key:	Item_WorldMap
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Name
@@ -16473,6 +16645,13 @@ msgstr "Estátua de Cabeça de Madeira"
 msgctxt "InvItem_Name,Item_WorldMap"
 msgid "World Map"
 msgstr "Mapa do Mundo"
+
+#. Key:	KylmaNote
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/KylmaNote.KylmaNote.Name
+#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/KylmaNote.KylmaNote.Name
+msgctxt "InvItem_Name,KylmaNote"
+msgid "Kylma's Research Notes"
+msgstr "Notas de Pesquisa do Kylma"
 
 #. Key:	Item_ArakaNote_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ArakaNote.Item_ArakaNote.TextToDisplay
@@ -16816,6 +16995,7 @@ msgstr ""
 "-50 de Gel Wahae Mata\r\n"
 "-200 Peças"
 
+# is it really like a "galho"
 #. Key:	Item_SouthernTipNote_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SouthernTipNote.Item_SouthernTipNote.TextToDisplay
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SouthernTipNote.Item_SouthernTipNote.TextToDisplay
@@ -16838,7 +17018,7 @@ msgstr ""
 "Itens encontrados aqui durante a exploração:\r\n"
 "-Uma pedra interessante (level comigo!)\r\n"
 "-Um Ussal solitário\r\n"
-"-Um toco de madeira flutuante\r\n"
+"-Um galho\r\n"
 "Num geral, valeu a viagem!\r\n"
 "-Bilhete escrito por Hahi de Le-Koro"
 
@@ -16931,6 +17111,13 @@ msgstr ""
 "Saí pra esculpir! Se veio aqui pra perguntar sobre um pedido, ele provavelmente será terminado em 2 ou 30 semanas, dependendo de alguns fatores! Obrigado!\r\n"
 "\r\n"
 "-Thuei"
+
+#. Key:	KylmaNote_NoteDisplay
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/KylmaNote.KylmaNote.TextToDisplay
+#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/KylmaNote.KylmaNote.TextToDisplay
+msgctxt "InvItem_NoteText,KylmaNote_NoteDisplay"
+msgid "The text seems indecipherable. It might be an older dialect or just Kylma's handwriting..."
+msgstr "O texto parece indecifrável. Pode ser um velho dialeto, ou só a letra do Kylma..."
 
 #. Key:	Loading_Text
 #. SourceLocation:	Config/DefaultGame.ini:775
@@ -17120,6 +17307,14 @@ msgstr "Há um templo perto da costa da ilha em Le-Wahi. Você devia explorá-lo
 msgctxt "Quest_Description,Quest_Lewa_Desc"
 msgid "You have gathered all your Masks of Power, head to the suva in Le-koro to gain your golden mask."
 msgstr "Você adquiriu todas as suas Máscaras do Poder. Vá até o Suva em Le-Koro para ganhar sua máscara dourada."
+
+#. Key:	Quest_LostResearch_Desc
+#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_LostResearch.Default__Quest_LostResearch_C.Description
+#: /Game/BluePrints/Classes/Quests/Quest_LostResearch.Default__Quest_LostResearch_C.Description
+#, fuzzy
+msgctxt "Quest_Description,Quest_LostResearch_Desc"
+msgid "Find Kylma's lost research. It should be in a hut near a ruined temple on a small island on the shore in ko-wahi near the le-wahi border. Kylma even said that there is a Great mask there."
+msgstr "Encontre a pesquisa perdida do Kylma. Deve estar numa cabana perto de um templo em ruínas, numa ilhazinha na costa da divisa de Ko-Wahi com Le-Wahi. Kylma até disse que há uma Grande Máscara lá."
 
 #. Key:	Quest_Mangaia_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Description
@@ -17394,6 +17589,13 @@ msgctxt "Quest_Name,Quest_Lewa"
 msgid "The Toa of Air"
 msgstr "O Toa do Ar"
 
+#. Key:	Quest_LostResearch
+#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_LostResearch.Default__Quest_LostResearch_C.QuestName
+#: /Game/BluePrints/Classes/Quests/Quest_LostResearch.Default__Quest_LostResearch_C.QuestName
+msgctxt "Quest_Name,Quest_LostResearch"
+msgid "Lost Research"
+msgstr "Pesquisa Perdida"
+
 #. Key:	Quest_Mangaia
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.QuestName
@@ -17404,7 +17606,6 @@ msgstr "O Lar do Makuta"
 #. Key:	Quest_OnTheLine
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.QuestName
-#, fuzzy
 msgctxt "Quest_Name,Quest_OnTheLine"
 msgid "On The Line"
 msgstr "Em Cima da Linha"
@@ -17738,6 +17939,20 @@ msgstr "Encontre o tesouro escondido."
 msgctxt "Quest_Objective,Quest_Lewa_Objective_1"
 msgid "Travel to Le-Koro and Interact with the Suva."
 msgstr "Viaje a Le-Koro e interaja com o Suva."
+
+#. Key:	Quest_LostResearch_Objective_1
+#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_LostResearch.Default__Quest_LostResearch_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
+#: /Game/BluePrints/Classes/Quests/Quest_LostResearch.Default__Quest_LostResearch_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
+msgctxt "Quest_Objective,Quest_LostResearch_Objective_1"
+msgid "Recover Kylma's research from the temple ruins."
+msgstr "Recupere a pesquisa de Kylma das ruínas do templo."
+
+#. Key:	Quest_LostResearch_Objective_2
+#. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_LostResearch.Default__Quest_LostResearch_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
+#: /Game/BluePrints/Classes/Quests/Quest_LostResearch.Default__Quest_LostResearch_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
+msgctxt "Quest_Objective,Quest_LostResearch_Objective_2"
+msgid "Return the papers to Kylma"
+msgstr "Devolva os papéis para Kylma."
 
 #. Key:	Quest_Mangaia_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -18206,7 +18421,7 @@ msgstr "Não mais."
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaExplode_Line17"
 msgid "What? Stop! What are you doing?"
-msgstr "O quê? Parem! O que está fazendo?!"
+msgstr "O quê? Pare! O que está fazendo?!"
 
 #. Key:	MakutaExplode_Line18
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -18472,7 +18687,7 @@ msgstr "Destruição... Criação... Paz..."
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,POTM_Line2"
 msgid "What is this crusade? And what would you have to gain from siding with the Makuta? "
-msgstr "O que é essa crusada? E o que você ganharia por ficar do lado do Makuta?"
+msgstr "O que é essa cruzada? E o que você ganharia por ficar do lado do Makuta?"
 
 #. Key:	POTM_Line3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -18838,12 +19053,76 @@ msgctxt "ST_DialogueGeneralLocalization,WillSee"
 msgid "I'll see what I can do."
 msgstr "Verei o que posso fazer."
 
+#. Key:	Gen_CableTransport
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_CableTransport"
+msgid "Cable Transport System"
+msgstr "Tirolesa"
+
 #. Key:	Gen_Climb
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Climb"
 msgid "Climb {Facing}"
 msgstr "Escalar {Facing}"
+
+#. Key:	Gen_ClimbDown
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_ClimbDown"
+msgid "Climb Down {Facing}"
+msgstr "Descer {Facing}"
+
+#. Key:	Gen_ClimbUp
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_ClimbUp"
+msgid "Climb Up {Facing}"
+msgstr "Subir {Facing}"
+
+#. Key:	Gen_Conv_Conversation
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#, fuzzy
+msgctxt "ST_GeneralLocalization,Gen_Conv_Conversation"
+msgid "Conversation"
+msgstr "Conversa"
+
+#. Key:	Gen_Conv_HarekLaru
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Conv_HarekLaru"
+msgid "Harek and Laru"
+msgstr "Harek e Laru"
+
+#. Key:	Gen_Conv_PauriKauri
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Conv_PauriKauri"
+msgid "Pauri and Kauri"
+msgstr "Pauri e Kauri"
+
+#. Key:	Gen_Conv_TafallTaphal
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Conv_TafallTaphal"
+msgid "Tafall and Taphal"
+msgstr "Tafall e Taphal"
+
+#. Key:	Gen_Conv_TapahlTafall
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Conv_TapahlTafall"
+msgid "Taphal and Tafall"
+msgstr "Taphal e Tafall"
+
+#. Key:	Gen_Conv_Whagna
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Conv_Whagna"
+msgid "The Whagna Villagers"
+msgstr "Os Aldeões de Whagna"
 
 #. Key:	Gen_CosmeticsBench
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18859,12 +19138,36 @@ msgctxt "ST_GeneralLocalization,Gen_Door"
 msgid "Door"
 msgstr "Porta"
 
+#. Key:	Gen_Gate
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#, fuzzy
+msgctxt "ST_GeneralLocalization,Gen_Gate"
+msgid "Gate"
+msgstr "Portão"
+
 #. Key:	Gen_Interact
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Interact"
 msgid "Interact with {Facing}"
 msgstr "Interagir com {Facing}"
+
+#. Key:	Gen_Ladder
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Ladder"
+msgid "Ladder"
+msgstr "Escada"
+
+# "bloco" block or "bloqueio" block?
+#. Key:	Gen_LeftBlock
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#, fuzzy
+msgctxt "ST_GeneralLocalization,Gen_LeftBlock"
+msgid "Left Block"
+msgstr "Bloco Esquerdo"
 
 #. Key:	Gen_Lever
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18873,12 +19176,56 @@ msgctxt "ST_GeneralLocalization,Gen_Lever"
 msgid "Lever"
 msgstr "Alavanca"
 
+#. Key:	Gen_LeverOne
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_LeverOne"
+msgid "Lever One"
+msgstr "Alavanca Um"
+
+#. Key:	Gen_LeverThree
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_LeverThree"
+msgid "Lever Three"
+msgstr "Alavanca Três"
+
+#. Key:	Gen_LeverTwo
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_LeverTwo"
+msgid "Lever Two"
+msgstr "Alavanca Dois"
+
+#. Key:	Gen_Listen
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Listen"
+msgid "Listen to {Facing}"
+msgstr "Escutar {Facing}"
+
+#. Key:	Gen_LockedDoor
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_LockedDoor"
+msgid "Locked Door"
+msgstr "Porta Trancada"
+
 #. Key:	Gen_MakokiDesc
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_MakokiDesc"
 msgid "A piece of a key used to enter the Makuta's Lair."
 msgstr "Pedaço de uma chave usada para entrar no Lar do Makuta."
+
+# "bloco" block or "bloqueio" block?
+#. Key:	Gen_MiddleBlock
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#, fuzzy
+msgctxt "ST_GeneralLocalization,Gen_MiddleBlock"
+msgid "Middle Block"
+msgstr "Bloco do Meio"
 
 #. Key:	Gen_ObtaintheMakokiStone
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18887,12 +19234,42 @@ msgctxt "ST_GeneralLocalization,Gen_ObtaintheMakokiStone"
 msgid "Obtain the Makoki Stone."
 msgstr "Obter Pedra Makoki."
 
+#. Key:	Gen_Open
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Open"
+msgid "Open {Facing}"
+msgstr "Abrir {Facing}"
+
+#. Key:	Gen_Pickup
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Pickup"
+msgid "Pick up {Facing}"
+msgstr "Pegar {Facing}"
+
 #. Key:	Gen_RestoryMyMemory
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_RestoryMyMemory"
 msgid "I can't remember... Where am I? There is a pull, a drive to begin walking - Perhaps I can find someone that can help restore my memory."
 msgstr "Não consigo lembrar… Onde estou? Sinto um desejo, uma vontade de andar… Talvez eu encontre alguém que consiga restaurar minha memória."
+
+# "bloco" block or "bloqueio" block?
+#. Key:	Gen_RightBlock
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#, fuzzy
+msgctxt "ST_GeneralLocalization,Gen_RightBlock"
+msgid "Right Block"
+msgstr "Bloco Direito"
+
+#. Key:	Gen_Rope
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Rope"
+msgid "Rope"
+msgstr "Corda"
 
 #. Key:	Gen_Speak
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18908,12 +19285,42 @@ msgctxt "ST_GeneralLocalization,Gen_SpeakTo"
 msgid "Speak to {NPC}"
 msgstr "Falar com {NPC}"
 
+#. Key:	Gen_SuvaInteract
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_SuvaInteract"
+msgid "Unlock Golden Mask for {Toa}"
+msgstr "Obter Máscara Dourada {G}|gender(do,da) {Toa}"
+
+#. Key:	Gen_Telescope
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Telescope"
+msgid "Telescope"
+msgstr "Telescópio"
+
+# Check for context, could be "Negócio", "Transação", "Acordo", etc.
+#. Key:	Gen_TradeDeal
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#, fuzzy
+msgctxt "ST_GeneralLocalization,Gen_TradeDeal"
+msgid "Trade deal"
+msgstr "Troca"
+
 #. Key:	Gen_Waikiru
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Waikiru"
 msgid "Fragments of a First Mate's log from a ship named the 'Waikiru'"
 msgstr "Fragmentos do diário de uma Imediata do navio chamado 'Waikiru'"
+
+#. Key:	Gen_Window
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_Window"
+msgid "Window"
+msgstr "Janela"
 
 #. Key:	UIAutoSave
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -19291,7 +19698,14 @@ msgstr "Dameo"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_DockMaster"
 msgid "Dock Master Marka"
-msgstr "Mestra da Doca Marka"
+msgstr "Marka, Mestra da Doca"
+
+#. Key:	Names_Exilon
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_Exilon"
+msgid "Exilon"
+msgstr "Exilon"
 
 #. Key:	Names_FestiveKo-Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19348,6 +19762,13 @@ msgstr "Ga-Comerciante"
 msgctxt "ST_Names,Names_Ga-Wahi"
 msgid "Ga-Wahi"
 msgstr "Ga-Wahi"
+
+#. Key:	Names_GaKini
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_GaKini"
+msgid "Ga-Kini"
+msgstr "Ga-Kini"
 
 #. Key:	Names_Gali
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19538,6 +19959,13 @@ msgctxt "ST_Names,Names_Kieve"
 msgid "Kieve"
 msgstr "Kieve"
 
+#. Key:	Names_KiniNui
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_KiniNui"
+msgid "The Kini-Nui"
+msgstr "O Kini-Nui"
+
 #. Key:	Names_Kita
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19593,6 +20021,13 @@ msgstr "Kohi"
 msgctxt "ST_Names,Names_Kohua"
 msgid "Kohua"
 msgstr "Kohua"
+
+#. Key:	Names_KoKini
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_KoKini"
+msgid "Ko-Kini"
+msgstr "Ko-Kini"
 
 #. Key:	Names_KolhiiLover
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19657,6 +20092,13 @@ msgctxt "ST_Names,Names_Kumo"
 msgid "Kumo"
 msgstr "Kumo"
 
+#. Key:	Names_Kylma
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_Kylma"
+msgid "Kylma"
+msgstr "Kylma"
+
 #. Key:	Names_Laru
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19699,6 +20141,27 @@ msgctxt "ST_Names,Names_Le-Wahi"
 msgid "Le-Wahi"
 msgstr "Le-Wahi"
 
+#. Key:	Names_LeElevator
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_LeElevator"
+msgid "The Elevator to Le-Koro"
+msgstr "Elevador para Le-Koro"
+
+#. Key:	Names_LeElevatorGround
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_LeElevatorGround"
+msgid "The Elevator to The Ground"
+msgstr "Elevador para o Chão"
+
+#. Key:	Names_LeKini
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_LeKini"
+msgid "Le-Kini"
+msgstr "Le-Kini"
+
 #. Key:	Names_Lewa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19712,6 +20175,13 @@ msgstr "Lewa"
 msgctxt "ST_Names,Names_LockedOut"
 msgid "Locked Out Le-Matoran"
 msgstr "Le-Matoran Trancado para Fora"
+
+#. Key:	Names_LOMN
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_LOMN"
+msgid "The Legend of The Mata Nui"
+msgstr "A Lenda de Mata Nui"
 
 #. Key:	Names_Macku
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -19938,6 +20408,13 @@ msgctxt "ST_Names,Names_Onua"
 msgid "Onua"
 msgstr "Onua"
 
+#. Key:	Names_OnuKini
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_OnuKini"
+msgid "Onu-Kini"
+msgstr "Onu-Kini"
+
 #. Key:	Names_Outcast
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20022,12 +20499,26 @@ msgctxt "ST_Names,Names_PoisonNui-Jaga"
 msgid "Repo Nui-Jaga"
 msgstr "Nui-Jaga Repo"
 
+#. Key:	Names_PoKini
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_PoKini"
+msgid "Po-Kini"
+msgstr "Po-Kini"
+
 #. Key:	Names_PROPHETOFTHEMAKUTA
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_PROPHETOFTHEMAKUTA"
 msgid "PROPHET OF THE MAKUTA"
 msgstr "PROPHET OF THE MAKUTA"
+
+#. Key:	Names_ProtosteelTool
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_ProtosteelTool"
+msgid "Protosteel Tool"
+msgstr "Ferramenta de Protoaço"
 
 #. Key:	Names_Rau
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20176,6 +20667,13 @@ msgctxt "ST_Names,Names_Takar"
 msgid "Takar"
 msgstr "Takar"
 
+#. Key:	Names_TaKini
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_TaKini"
+msgid "Ta-Kini"
+msgstr "Ta-Kini"
+
 #. Key:	Names_Takua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20224,6 +20722,14 @@ msgstr "Mestre do Templo"
 msgctxt "ST_Names,Names_TheEnvironmentalist"
 msgid "The Environmentalist"
 msgstr "O Ambientalista"
+
+#. Key:	Names_TheToaMata
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#, fuzzy
+msgctxt "ST_Names,Names_TheToaMata"
+msgid "The Toa Mata"
+msgstr "Os Toa Mata"
 
 #. Key:	Names_Thuei
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -21985,12 +22491,14 @@ msgctxt "UIText_Description,TradeMenu_TotalProfit"
 msgid "Sell for:"
 msgstr "Vender por:"
 
+# How about "Estoque do comerciante"? If too long in-game
 #. Key:	TradeMenu_TraderInv
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.TraderTitle.Text
 #: /Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.TraderTitle.Text
+#, fuzzy
 msgctxt "UIText_Description,TradeMenu_TraderInv"
 msgid "Trader Inventory"
-msgstr "Inventário de Comerciante"
+msgstr "Estoque de Comerciante"
 
 # not sure if Valor de Peças or Valor em Peças
 #. Key:	TradeMenu_WidgetValue
@@ -22147,7 +22655,7 @@ msgstr "Você é {G}|gender(um,uma) {G}|gender(verdadeiro,verdadeira) Toa-Herói
 #: [Script Bytecode]
 msgctxt "UIText_Description_Cosmetics,Cosmetics_InfectedMasks_Description"
 msgid "Some poison from a Nui-jaga's stinger has gotten on your mask! (There is no drawback to wearing this)"
-msgstr "Caiu um pouco de veneno do ferrão de Nui-Jaga na sua máscara! (Não há desvantagens ao usar)"
+msgstr "Caiu um pouco de veneno dum ferrão de Nui-Jaga na sua máscara! (Não há desvantagens ao usar)"
 
 #. Key:	Cosmetics_JackOLantern_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
@@ -22364,7 +22872,7 @@ msgstr "Modo de exibição do jogo."
 #: /Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Anti-Alias.ToolTipText
 msgctxt "UIText_ToolTip,PausedGraphicsSettings_AntiAliasingQuality_ToolTip"
 msgid "Quality of the AA Type Used"
-msgstr "Qualidade do antisserrilhamento usado"
+msgstr "Qualidade do antisserrilhamento"
 
 #. Key:	PausedGraphicsSettings_AntiAliasingType_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BmopComboBoxSetting_Anti-AliasType.ToolTipText
