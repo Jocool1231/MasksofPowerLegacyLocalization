@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPPl\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-03-24 13:26+0100\n"
+"PO-Revision-Date: 2025-03-27 19:52+0100\n"
 "Last-Translator: Andrzej Szary\n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -1897,49 +1897,49 @@ msgstr "Przepraszam, nie {G}|gender(chciałem, chciałam) Ci przeszkadzać."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_2.Default__DL_Allknowingmatoran_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_2_PlayerResponse_1"
 msgid "Visions, You've had visions of the future?"
-msgstr ""
+msgstr "Wizje, miałeś wizje przyszłości?"
 
 #. Key:	DL_Allknowingmatoran_3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_3.Default__DL_Allknowingmatoran_3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_3.Default__DL_Allknowingmatoran_3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_3_PlayerResponse_1"
 msgid "Me? I don't believe we've met."
-msgstr ""
+msgstr "Mnie? Nie sądzę, żebyśmy się spotkali."
 
 #. Key:	DL_Allknowingmatoran_DidYouFindHim_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_DidYouFindHim.Default__DL_Allknowingmatoran_DidYouFindHim_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_DidYouFindHim.Default__DL_Allknowingmatoran_DidYouFindHim_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_DidYouFindHim_PlayerResponse_1"
 msgid "I'm afraid not."
-msgstr ""
+msgstr "Obawiam się, że nie."
 
 #. Key:	DL_Allknowingmatoran_Explaination_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Explaination.Default__DL_Allknowingmatoran_Explaination_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Explaination.Default__DL_Allknowingmatoran_Explaination_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_Explaination_PlayerResponse_1"
 msgid "Hmm, Interesting"
-msgstr ""
+msgstr "Hmm, interesujące"
 
 #. Key:	DL_Allknowingmatoran_Komaru_Reward_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Komaru_Reward.Default__DL_Allknowingmatoran_Komaru_Reward_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Komaru_Reward.Default__DL_Allknowingmatoran_Komaru_Reward_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_Komaru_Reward_PlayerResponse_1"
 msgid "I believe I can, Thank you!"
-msgstr ""
+msgstr "Myślę, że mogę, dziękuję!"
 
 #. Key:	DL_Allknowingmatoran_Komaru_Thanks_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Komaru_Thanks.Default__DL_Allknowingmatoran_Komaru_Thanks_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Komaru_Thanks.Default__DL_Allknowingmatoran_Komaru_Thanks_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_Komaru_Thanks_PlayerResponse_1"
 msgid "You're welcome."
-msgstr ""
+msgstr "Proszę bardzo."
 
 #. Key:	DL_Allknowingmatoran_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran.Default__DL_Allknowingmatoran_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran.Default__DL_Allknowingmatoran_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_PlayerResponse_1"
 msgid "Me? I don't believe we've met."
-msgstr ""
+msgstr "Mnie? Nie sądzę, żebyśmy się spotkali."
 
 #. Key:	DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1947,7 +1947,7 @@ msgstr ""
 msgctxt ""
 "Dialogue_Response,DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_1"
 msgid "What where you talking about, \"Equality\"?"
-msgstr ""
+msgstr "O czym ty mówisz, o \"równości\"?"
 
 #. Key:	DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1955,21 +1955,21 @@ msgstr ""
 msgctxt ""
 "Dialogue_Response,DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_2"
 msgid "You're welcome."
-msgstr ""
+msgstr "Nie ma za co."
 
 #. Key:	DL_Allknowingmatoran_Visions_2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Visions_2.Default__DL_Allknowingmatoran_Visions_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Visions_2.Default__DL_Allknowingmatoran_Visions_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_Visions_2_PlayerResponse_1"
 msgid "What did they show you?"
-msgstr ""
+msgstr "Co Ci pokazały?"
 
 #. Key:	DL_Allknowingmatoran_Visions_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Visions.Default__DL_Allknowingmatoran_Visions_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Visions.Default__DL_Allknowingmatoran_Visions_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_Visions_PlayerResponse_1"
 msgid "What did they show you?"
-msgstr ""
+msgstr "Co Ci pokazały?"
 
 #. Key:	DL_Allknowingmatoran_WDYF2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYF2.Default__DL_Allknowingmatoran_WDYF2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1977,13 +1977,15 @@ msgstr ""
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYF2_PlayerResponse_1"
 msgid "There was an odd Matoran, he ran away when I approched him."
 msgstr ""
+"Był tam dziwny Matoranin, który uciekł, gdy do niego {G}|gender(podszedłem, "
+"podeszłam)."
 
 #. Key:	DL_Allknowingmatoran_WDYF2_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYF2.Default__DL_Allknowingmatoran_WDYF2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYF2.Default__DL_Allknowingmatoran_WDYF2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYF2_PlayerResponse_2"
 msgid "There was a dark room with carvings of the six great masks."
-msgstr ""
+msgstr "Był tam wielki pokój z wyrzeźbionymi sześcioma wielkimi maskami."
 
 #. Key:	DL_Allknowingmatoran_WDYFFindHim2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHim2.Default__DL_Allknowingmatoran_WDYFFindHim2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1993,13 +1995,15 @@ msgid ""
 "Is there anything else I need to know? Wait, how did you know there was a "
 "Matoran there?"
 msgstr ""
+"Czy jest coś jeszcze co {G}|gender(powinienem, powinnam) wiedzieć? Czekaj, "
+"skąd wiedziałeś, że był tam Matoranin?"
 
 #. Key:	DL_Allknowingmatoran_WDYFFindHim_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHim.Default__DL_Allknowingmatoran_WDYFFindHim_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHim.Default__DL_Allknowingmatoran_WDYFFindHim_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFFindHim_PlayerResponse_1"
 msgid "Is there anything else I need to know?"
-msgstr ""
+msgstr "Czy jest coś jeszcze o czym {G}|gender(powinienem, powinnam) wiedzieć?"
 
 #. Key:	DL_Allknowingmatoran_WDYFFindHimDoor_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHimDoor.Default__DL_Allknowingmatoran_WDYFFindHimDoor_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2010,6 +2014,8 @@ msgid ""
 "Alright, I'll find him for you... But what do you want me to do when I do "
 "find him?"
 msgstr ""
+"W porządku, znajdę go dla Ciebie... ale co chcesz, żebym {G}|gender(zrobił, "
+"zrobiła) kiedy już go znajdę?"
 
 #. Key:	DL_Allknowingmatoran_WDYFLiar_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFLiar.Default__DL_Allknowingmatoran_WDYFLiar_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2018,6 +2024,8 @@ msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFLiar_PlayerResponse_1"
 msgid ""
 "I don't know, but I saw wrighting on the wall that said something similar."
 msgstr ""
+"Nie wiem, ale {G}|gender(widziałem, widziałam) napisy na ścianach o podobnej "
+"tematyce."
 
 #. Key:	DL_Allknowingmatoran_WDYFLiarReason_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFLiarReason.Default__DL_Allknowingmatoran_WDYFLiarReason_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2025,7 +2033,7 @@ msgstr ""
 msgctxt ""
 "Dialogue_Response,DL_Allknowingmatoran_WDYFLiarReason_PlayerResponse_1"
 msgid "Yes, but they had all fallen over."
-msgstr ""
+msgstr "Tak, ale wszystkie z nich były poprzewracane."
 
 #. Key:	DL_Allknowingmatoran_WDYFLiarReason_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFLiarReason.Default__DL_Allknowingmatoran_WDYFLiarReason_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2033,7 +2041,7 @@ msgstr ""
 msgctxt ""
 "Dialogue_Response,DL_Allknowingmatoran_WDYFLiarReason_PlayerResponse_2"
 msgid "Yes, but the Makuta stone was more prominent."
-msgstr ""
+msgstr "Tak, ale kamień Makuty był bardziej uwydatniony."
 
 #. Key:	DL_Allknowingmatoran_WDYFNotSupposedToBethere2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere2.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2042,7 +2050,7 @@ msgctxt ""
 "Dialogue_Response,"
 "DL_Allknowingmatoran_WDYFNotSupposedToBethere2_PlayerResponse_1"
 msgid "Yes, but they had all fallen over."
-msgstr ""
+msgstr "Tak, ale wszystkie z nich były poprzewracane."
 
 #. Key:	DL_Allknowingmatoran_WDYFNotSupposedToBethere2_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere2.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2051,7 +2059,7 @@ msgctxt ""
 "Dialogue_Response,"
 "DL_Allknowingmatoran_WDYFNotSupposedToBethere2_PlayerResponse_2"
 msgid "Yes, but the Makuta stone was more prominent."
-msgstr ""
+msgstr "Tak, ale kamień Makuty był bardziej uwydatniony."
 
 #. Key:	DL_Allknowingmatoran_WDYFNotSupposedToBethere3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere3.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2060,7 +2068,7 @@ msgctxt ""
 "Dialogue_Response,"
 "DL_Allknowingmatoran_WDYFNotSupposedToBethere3_PlayerResponse_1"
 msgid "Yes, but they had all fallen over."
-msgstr ""
+msgstr "Tak, ale wszystkie z nich były poprzewracane."
 
 #. Key:	DL_Allknowingmatoran_WDYFNotSupposedToBethere3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere3.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2069,7 +2077,7 @@ msgctxt ""
 "Dialogue_Response,"
 "DL_Allknowingmatoran_WDYFNotSupposedToBethere3_PlayerResponse_2"
 msgid "Yes, but the Makuta stone was more prominent."
-msgstr ""
+msgstr "Tak, ale kamień Makuty był bardziej uwydatniony."
 
 #. Key:	DL_Allknowingmatoran_WDYFNotSupposedToBethere_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2078,7 +2086,7 @@ msgctxt ""
 "Dialogue_Response,"
 "DL_Allknowingmatoran_WDYFNotSupposedToBethere_PlayerResponse_1"
 msgid "Yes, but they had all fallen over."
-msgstr ""
+msgstr "Tak, ale wszystkie z nich były poprzewracane."
 
 #. Key:	DL_Allknowingmatoran_WDYFNotSupposedToBethere_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2087,7 +2095,7 @@ msgctxt ""
 "Dialogue_Response,"
 "DL_Allknowingmatoran_WDYFNotSupposedToBethere_PlayerResponse_2"
 msgid "Yes, but the Makuta stone was more prominent."
-msgstr ""
+msgstr "Tak, ale kamień Makuty był bardziej uwydatniony."
 
 #. Key:	DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFOddMatoran.Default__DL_Allknowingmatoran_WDYFOddMatoran_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2095,7 +2103,7 @@ msgstr ""
 msgctxt ""
 "Dialogue_Response,DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_1"
 msgid "He said I wasn't supposed to be there."
-msgstr ""
+msgstr "Powiedział, że nie powinno mnie tu być."
 
 #. Key:	DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFOddMatoran.Default__DL_Allknowingmatoran_WDYFOddMatoran_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2103,7 +2111,7 @@ msgstr ""
 msgctxt ""
 "Dialogue_Response,DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_2"
 msgid "He called me a liar."
-msgstr ""
+msgstr "Nazwał mnie {G}|gender(kłamcą, kłamczynią)."
 
 #. Key:	DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFOddMatoran.Default__DL_Allknowingmatoran_WDYFOddMatoran_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2111,7 +2119,7 @@ msgstr ""
 msgctxt ""
 "Dialogue_Response,DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_3"
 msgid "No, not much."
-msgstr ""
+msgstr "Nie, nie wiele."
 
 #. Key:	DL_Allknowingmatoran_WDYFStones2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFStones2.Default__DL_Allknowingmatoran_WDYFStones2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2119,21 +2127,21 @@ msgstr ""
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFStones2_PlayerResponse_1"
 msgid ""
 "Yes, In fact there was, he was purple and white, and was wearing a Huna."
-msgstr ""
+msgstr "Tak, rzeczywiście. Był fioletowo-biały i nosił Hunę."
 
 #. Key:	DL_Allknowingmatoran_WDYFStones_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFStones.Default__DL_Allknowingmatoran_WDYFStones_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFStones.Default__DL_Allknowingmatoran_WDYFStones_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFStones_PlayerResponse_1"
 msgid "Purple and white, and he was wearing a Huna."
-msgstr ""
+msgstr "Fioletowo-biały i nosił Hunę."
 
 #. Key:	DL_Allknowingmatoran_WDYFWhatToDo_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFWhatToDo.Default__DL_Allknowingmatoran_WDYFWhatToDo_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFWhatToDo.Default__DL_Allknowingmatoran_WDYFWhatToDo_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFWhatToDo_PlayerResponse_1"
 msgid "I'm on it."
-msgstr ""
+msgstr "Wchodzę w to."
 
 #. Key:	DL_Allknowingmatoran_Whatdidyoufind_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Whatdidyoufind.Default__DL_Allknowingmatoran_Whatdidyoufind_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2141,7 +2149,7 @@ msgstr ""
 msgctxt ""
 "Dialogue_Response,DL_Allknowingmatoran_Whatdidyoufind_PlayerResponse_1"
 msgid "I did, It was... interesting."
-msgstr ""
+msgstr "{G}|gender(Odwiedziłem, Odwiedziłam), to było... interesujące."
 
 #. Key:	DL_Allknowingmatoran_Whatdidyoufind_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Whatdidyoufind.Default__DL_Allknowingmatoran_Whatdidyoufind_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2149,35 +2157,35 @@ msgstr ""
 msgctxt ""
 "Dialogue_Response,DL_Allknowingmatoran_Whatdidyoufind_PlayerResponse_2"
 msgid "No, Not yet."
-msgstr ""
+msgstr "Nie, jeszcze nie."
 
 #. Key:	DL_Allknowingmatoran_Whathesaw_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Whathesaw.Default__DL_Allknowingmatoran_Whathesaw_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Whathesaw.Default__DL_Allknowingmatoran_Whathesaw_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_Whathesaw_PlayerResponse_1"
 msgid "Would you know where this place is?"
-msgstr ""
+msgstr "Czy wiesz gdzie jest to miejsce?"
 
 #. Key:	DL_Allknowingmatoran_Where_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Where.Default__DL_Allknowingmatoran_Where_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Where.Default__DL_Allknowingmatoran_Where_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_Where_PlayerResponse_1"
 msgid "I'll keep a look out for this place, Thank you."
-msgstr ""
+msgstr "Będę dalej {G}|gender(szukał, szukała) tego miejsca, dziękuję."
 
 #. Key:	DL_BandGreeting1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Band/DL_BandGreeting1.Default__DL_BandGreeting1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Band/DL_BandGreeting1.Default__DL_BandGreeting1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_BandGreeting1_PlayerResponse_1"
 msgid "Rude."
-msgstr ""
+msgstr "Niegrzeczne."
 
 #. Key:	DL_BandGreeting1_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Band/DL_BandGreeting1.Default__DL_BandGreeting1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Band/DL_BandGreeting1.Default__DL_BandGreeting1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_BandGreeting1_PlayerResponse_2"
 msgid "That's a good song! Do you play any others?"
-msgstr ""
+msgstr "To jest dobra piosenka! Gracie jakieś inne?"
 
 #. Key:	DL_Boat_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_Boat.Default__DL_Boat_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2817,19 +2825,16 @@ msgstr "Założyłeś miasto?"
 #. Key:	DL_ExilonSpeak_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak.Default__DL_ExilonSpeak_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak.Default__DL_ExilonSpeak_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
-#| msgctxt "Dialogue_Response,DL_Cleaning2_PlayerResponse_1"
-#| msgid "What are you doing there?"
 msgctxt "Dialogue_Response,DL_ExilonSpeak_PlayerResponse_1"
 msgid "What are you doing up here?"
-msgstr "Co tutaj robisz?"
+msgstr "Co tutaj robisz na górze?"
 
 #. Key:	DL_ExilonSpeak_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak.Default__DL_ExilonSpeak_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak.Default__DL_ExilonSpeak_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_ExilonSpeak_PlayerResponse_2"
 msgid "Why are you up here? The Nui-Rama could quick-snatch you!"
-msgstr ""
+msgstr "Dlaczego jesteś tu na górze? Nui-Rama mógł Cię złapać bardzo szybko!"
 
 #. Key:	DL_GeneralKokoranbyprotopool_2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_2.Default__DL_GeneralKokoranbyprotopool_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -3307,7 +3312,6 @@ msgstr "Nic takiego, nie {G}|gender(chciałem, chciałam) Ci przeszkadzać."
 #. Key:	DL_JalaReport1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Jala/DL_JalaReport1.Default__DL_JalaReport1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Jala/DL_JalaReport1.Default__DL_JalaReport1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_JalaReport1_PlayerResponse_1"
 msgid "Any news in Ta-Koro?"
 msgstr "Jakieś wieści w Ta-Koro?"
@@ -23688,7 +23692,7 @@ msgstr "Bardzo Fajna Czapka™"
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_5.Text
 msgctxt "UIText_Description,272ECEC04193E04D6A7407BE37473CDD"
 msgid "Noclip (To use if stuck):"
-msgstr ""
+msgstr "Noclip (Do użycia jeżeli utkniesz):"
 
 #. Key:	CosmeticsMenu_EquippedCosmetics
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticsMenu.CosmeticsMenu_C:WidgetTree.TextBlock_1.Text
@@ -24142,7 +24146,7 @@ msgstr "Ruch W Lewo:"
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_22.Text
 msgctxt "UIText_Description,PausedControls_LockOn"
 msgid "Lock On:"
-msgstr ""
+msgstr "Zablokuj:"
 
 #. Key:	PausedControls_LookRight
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_3.Text
@@ -24163,7 +24167,7 @@ msgstr "Popatrz Do Góry:"
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_24.Text
 msgctxt "UIText_Description,PausedControls_MaskShortcuts"
 msgid "Mask Shortcuts:"
-msgstr ""
+msgstr "Skróty do Masek:"
 
 #. Key:	PausedControls_MaskWheel
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_11.Text
@@ -24254,7 +24258,7 @@ msgstr "Koło Toa:"
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_19.Text
 msgctxt "UIText_Description,PausedControls_ToggleHud"
 msgid "Toggle HUD:"
-msgstr ""
+msgstr "Przełącz interfejs:"
 
 #. Key:	PausedDisplaySettings_Compass
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_5.Text
@@ -24276,6 +24280,8 @@ msgstr "Język:"
 msgctxt "UIText_Description,PausedDisplaySettings_LanguageWarning"
 msgid "(Most languages are incomplete and will still contain English elements)"
 msgstr ""
+"(Większość języków jest nieukończonych i nadal będą zawierać niektóre "
+"fragmenty po angielsku)"
 
 #. Key:	PausedDisplaySettings_Resolution
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_0.Text
@@ -24452,7 +24458,7 @@ msgstr "Ręczny Zapis"
 #: /Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName.Text
 msgctxt "UIText_Description,StatsMenu_MaskPickups"
 msgid "Mask Pickups:"
-msgstr ""
+msgstr "Podnieś maskę"
 
 #. Key:	StatsMenu_Misc
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_5.Text
@@ -24508,14 +24514,14 @@ msgstr "Pokonane Rahi:"
 #: /Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_8.Text
 msgctxt "UIText_Description,StatsMenu_Misc_WidgetsGained"
 msgid "Total Widgets Gained:"
-msgstr ""
+msgstr "Wszystkie Zebrane Widgety:"
 
 #. Key:	StatsMenu_Misc_WidgetsSpent
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_10.Text
 #: /Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_10.Text
 msgctxt "UIText_Description,StatsMenu_Misc_WidgetsSpent"
 msgid "Total Widgets Spent:"
-msgstr ""
+msgstr "Wszystkie Wydane Widgety: "
 
 #. Key:	StatsMenu_Quests
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_2.Text
@@ -24543,7 +24549,7 @@ msgstr "Zadania Poboczne: "
 #: /Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock_8.Text
 msgctxt "UIText_Description,TabMenu_Codex_Entries"
 msgid "Entries"
-msgstr ""
+msgstr "Wpisy"
 
 #. Key:	TabMenu_Quest_MainQuests
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.MainQuestTitle.Text
