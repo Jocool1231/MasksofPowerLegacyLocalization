@@ -4997,7 +4997,7 @@ msgstr "Нет."
 msgctxt "Dialogue_Response,DL_LeQuestKumoGood_PlayerResponse_1"
 msgid ""
 "South, but wouldn't you like me to take you there? There are Rahi about!"
-msgstr "На юге, но не хотели бы вы, чтобы я вас отвёл туда? Вокруг много Рахи!"
+msgstr "На юге, но не хотел бы ты, чтобы я отвёл тебя туда? Вокруг много Рахи!"
 
 #. Key:	DL_LeQuestKumoGoodAddQuest_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGoodAddQuest.Default__DL_LeQuestKumoGoodAddQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5005,7 +5005,7 @@ msgstr "На юге, но не хотели бы вы, чтобы я вас от
 msgctxt "Dialogue_Response,DL_LeQuestKumoGoodAddQuest_PlayerResponse_1"
 msgid ""
 "South, but wouldn't you like me to take you there? There are Rahi about!"
-msgstr "На юге, но не хотели бы вы, чтобы я вас отвёл туда? Вокруг много Рахи!"
+msgstr "На юге, но не хотел бы ты, чтобы я отвёл тебя туда? Вокруг много Рахи!"
 
 #. Key:	DL_LeQuestKumoHelp_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoHelp.Default__DL_LeQuestKumoHelp_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
