@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-03-29 22:08+0300\n"
+"PO-Revision-Date: 2025-03-31 11:06+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -273,8 +273,8 @@ msgid ""
 "drain Protodermis at a slower rate overall!"
 msgstr ""
 "Эти Золотые Канохи дарованы тем, кто получил право использовать их великую "
-"силу. С экипированной Золотой маской, надев Миру вы можете прыгнуть в 1.4 "
-"раза выше. Надев Какаму вы можете бежать в 1.5 раза быстрее и так далее. Вы "
+"силу. С экипированной Золотой маской, надев Миру, вы можете прыгнуть в 1.4 "
+"раза выше. Надев Какаму, вы можете бежать в 1.5 раза быстрее и так далее. Вы "
 "также медленнее растрачиваете свой запас Протодермиса!"
 
 #. Key:	CodexPage_Hau_Desc
@@ -438,10 +438,10 @@ msgstr ""
 "Ко-Коро, деревня Льда. Жёсткий климат и удалённое расположение делают её "
 "труднодосягаемой даже для самых отважных Маторанов. Но тех, кто всё же "
 "решится, ждёт не очень много достопримечательностей. Тихий, созерцательный "
-"характер Ко-Маторанов проявляется и в скудности их деревни. Им не нужно "
-"много для собственного благополучия, своё уединение они используют для "
-"размышлений о воле Великого Духа в Санктуме – священном здании, которое "
-"хранит пророчества, а также тех, кто решится их расшифровать."
+"характер Ко-Маторанов проявляется и в скудности их деревни. Им нужно немного "
+"для собственного благополучия, своё уединение они используют для размышлений "
+"о воле Великого Духа в Санктуме – священном здании, которое хранит "
+"пророчества, а также тех, кто решится их расшифровать."
 
 #. Key:	CodexPage_Komau_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Komau.Default__LocationEntry_Komau_C.Location Description
@@ -698,7 +698,7 @@ msgstr ""
 "преимущественно в По-Вахи. Они были одомашнены и обучены По-Маторанами для "
 "использования в качестве домашнего скота, а также тяглового животного, "
 "помогающего везти повозки с тяжёлыми камнями в город для дальнейшей "
-"обработки. Они считаются ценными среди Маторанов, поскольку их нередко "
+"обработки. Они считаются ценными среди Маторанов, поэтому их нередко "
 "приводят в город для продажи на Базаре По-Коро."
 
 #. Key:	CodexPage_Mahiki_Desc
@@ -828,7 +828,7 @@ msgid ""
 "Mata Nui, and is useful for reaching areas that you normally wouldn’t be "
 "able to."
 msgstr ""
-"Канохи Миру: Великая Маска Левитации. Эта маска повышает высоту вашего "
+"Канохи Миру: Великая Маска Левитации. Эта маска увеличивает высоту вашего "
 "прыжка. Она необходима для передвижения по территории Мата Нуи и полезна для "
 "достижения зон, недосягаемых нормальным путём."
 
@@ -1189,11 +1189,11 @@ msgid ""
 "Victory offered to anyone who’s able to pass this trial."
 msgstr ""
 "Храм, построенный резчиками По-Маторанами в честь Великого Духа. Так как По-"
-"Матораны по своей природе являются резчиками и создателями, они не придумали "
-"ничего лучше, кроме как добавить разнообразные ловушки и головоломки. "
-"Слишком трудно для места поклонения? Ненужно? Опасно? Возможно, но любой По-"
-"Маторан вам резко возразит. Там находится Медная Маска Победы, которая "
-"является наградой для тех, кто пройдёт это испытание."
+"Матораны по своей природе являются резчиками и созидателями, они не могли не "
+"добавить разнообразные ловушки и головоломки. Слишком трудно для места "
+"поклонения? Ненужно? Опасно? Возможно, но любой По-Маторан вам резко "
+"возразит. Там находится Медная Маска Победы, которая является наградой для "
+"тех, кто пройдёт это испытание."
 
 #. Key:	CodexPage_PoWahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoWahi.Default__LocationEntry_PoWahi_C.Location Description
@@ -1301,7 +1301,7 @@ msgstr ""
 "крайне редкими. Немногие видели их, ещё меньше – вернулись и рассказали о "
 "них. В сравнении с обычными Таракавами они медлительны, но компенсируют это "
 "более мощными атаками, поэтому лучше попытаться обойти их стороной, а не "
-"восхищаться ими. "
+"восхищаться ими."
 
 #. Key:	CodexPage_StrangeCave_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_StrangeCave.Default__LocationEntry_StrangeCave_C.Location Description
@@ -1355,8 +1355,8 @@ msgid ""
 "piece of imagery. His elemental attack uses fire to propel you forward, "
 "allowing you to quickly get up close to attack an enemy."
 msgstr ""
-"Таху – вспыльчивый и упрямый Тоа Огня. Он является зачинщиком множества "
-"споров в своей команде Тоа и часто может показаться наглым или "
+"Таху – вспыльчивый и упрямый Тоа Огня. Он нередко является зачинщиком "
+"множества споров в своей команде Тоа и часто может показаться наглым или "
 "неуважительным. Но несмотря на его недостатки, он полон решимости помочь и "
 "защитить Маторанов любой ценой. Набор Таху является самым узнаваемым среди "
 "всех наборов Бионикл, а его маска – Канохи Хау, является чуть ли не знаковым "
@@ -2121,8 +2121,8 @@ msgctxt "Dialogue_Response,DL_AkamarBuddy2_PlayerResponse_1"
 msgid ""
 "Ahh, you did a good job on Po-Koro, I'm sorry he doesn't need you anymore."
 msgstr ""
-"А, ты неплохо справился в По-Коро. Жаль, что он больше не нуждается в твоих "
-"услугах."
+"А, ты неплохо справился в По-Коро. Мне жаль, что он больше не нуждается в "
+"твоих услугах."
 
 #. Key:	DL_AkamarBuddy3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_AkamarBuddy3.Default__DL_AkamarBuddy3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2133,7 +2133,7 @@ msgid ""
 "luck little one."
 msgstr ""
 "Я {G}|gender(уверен, уверена), что у тебя получится найти много работы в По-"
-"Коро, пока ты здесь. Удачи, малец."
+"Коро, когда ты доберёшься туда. Удачи, малец."
 
 #. Key:	DL_AkamarBuddy_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_AkamarBuddy.Default__DL_AkamarBuddy_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4997,7 +4997,7 @@ msgstr "Нет."
 msgctxt "Dialogue_Response,DL_LeQuestKumoGood_PlayerResponse_1"
 msgid ""
 "South, but wouldn't you like me to take you there? There are Rahi about!"
-msgstr "На юге, но не хотел бы ты, чтобы я тебя отвёл туда? Вокруг много Рахи!"
+msgstr "На юге, но не хотели бы вы, чтобы я вас отвёл туда? Вокруг много Рахи!"
 
 #. Key:	DL_LeQuestKumoGoodAddQuest_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGoodAddQuest.Default__DL_LeQuestKumoGoodAddQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5005,7 +5005,7 @@ msgstr "На юге, но не хотел бы ты, чтобы я тебя от
 msgctxt "Dialogue_Response,DL_LeQuestKumoGoodAddQuest_PlayerResponse_1"
 msgid ""
 "South, but wouldn't you like me to take you there? There are Rahi about!"
-msgstr "На юге, но не хотел бы ты, чтобы я тебя отвёл туда? Вокруг много Рахи!"
+msgstr "На юге, но не хотели бы вы, чтобы я вас отвёл туда? Вокруг много Рахи!"
 
 #. Key:	DL_LeQuestKumoHelp_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoHelp.Default__DL_LeQuestKumoHelp_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5764,7 +5764,7 @@ msgstr "Хм... Так получилось, что у меня всё это с
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuMaterials.Default__DL_MetonuMaterials_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MetonuMaterials_PlayerResponse_2"
 msgid "I'd like that in writing if you would."
-msgstr "Мне хотелось бы в письменном виде, если не сложно."
+msgstr "Мне хотелось бы в письменном виде, если тебе не сложно."
 
 #. Key:	DL_MetonuMaterials_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuMaterials.Default__DL_MetonuMaterials_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6109,7 +6109,7 @@ msgstr "Вы... вы по-прежнему пытаетесь что-то мне
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuTelling.Default__DL_NujuTelling_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NujuTelling_PlayerResponse_1"
 msgid "...Maybe we should get you back to Matoro."
-msgstr "...Может нам стоит вернуть вас к Маторо."
+msgstr "...Может, нам стоит вернуть вас к Маторо."
 
 #. Key:	DL_Numai1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Numai1.Default__DL_Numai1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6211,7 +6211,7 @@ msgstr "Зарядные станции? Что они делают?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu5.Default__DL_Nuparu5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Nuparu5_PlayerResponse_1"
 msgid "It \"Powers\" the mask?"
-msgstr "Они «заряжают» маску?"
+msgstr "Они... «заряжают» маску?"
 
 #. Key:	DL_Nuparu5_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu5.Default__DL_Nuparu5_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8811,7 +8811,7 @@ msgid ""
 "I see, but don't let your work consume you little one. Feel free to take a "
 "break whenever you need to."
 msgstr ""
-"Ясно, но не позволь работе поглотить тебя, малец. Возьми паузу, когда тебе "
+"Ясно, но не позволяй работе поглотить тебя, малец. Возьми паузу, когда тебе "
 "она будет нужна."
 
 #. Key:	DL_Taphal3_PlayerResponse_1
@@ -19002,7 +19002,7 @@ msgid ""
 "What is WRONG with you! I could have been hurt! ...But thank you for getting "
 "me down from there. That rock looks much taller from the top of it."
 msgstr ""
-"Да что с тобой НЕ ТАК? Я мог бы пострадать! ...Но спасибо, что спустил меня "
+"Да что с тобой НЕ ТАК? Я мог бы пострадать! ...Но спасибо, что спустили меня "
 "отсюда. Эта скала кажется гораздо выше, если смотреть сверху вниз."
 
 #. Key:	DL_WhenuaSaved1
@@ -19409,7 +19409,7 @@ msgid ""
 "find near by $M."
 msgstr ""
 "Небольшое устройство, созданное Метону по чертежам Нупару, которое позволяет "
-"найти ближайшую $M."
+"найти ближайшую маску $M."
 
 #. Key:	Item_MaskLocator_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskLocator.Item_MaskLocator.Description
@@ -19420,7 +19420,7 @@ msgid ""
 "find near by $M."
 msgstr ""
 "Небольшое устройство, созданное Метону по чертежам Нупару, которое позволяет "
-"найти ближайшую $M."
+"найти ближайшую маску $M."
 
 #. Key:	Item_MetallicProtodermisIngots_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Description
@@ -19442,7 +19442,7 @@ msgid ""
 "over time. Effects will not stack, lasts for 8 seconds."
 msgstr ""
 "Небольшой мешочек порошкообразного Протодермиса, из которого ваша маска "
-"будет забирать энергию. Эффекты не складываются, длятся 8 секунд."
+"будет забирать энергию. Эффекты не складываются, длится 8 секунд."
 
 #. Key:	Item_PoetNoteBurns_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteBurns.Item_PoetNoteBurns.Description
@@ -22417,7 +22417,7 @@ msgstr "Найдите Оневу и поговорите с ним."
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfStone_Objective_2"
 msgid "Attack the pillar to make a ramp up for Onewa"
-msgstr "Ударьте колонну, чтобы сделать Пандус для Оневы"
+msgstr "Ударьте колонну, чтобы сделать пандус для Оневы"
 
 #. Key:	Quest_TheTuragaOfStone_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -23321,7 +23321,7 @@ msgstr "Левый Блок"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Lever"
 msgid "Lever"
-msgstr "Рычаг"
+msgstr "Рычагом"
 
 #. Key:	Gen_LeverOne
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -26765,8 +26765,8 @@ msgid ""
 "Looks like you have a whole lot of nothing in your inventory! Better go find "
 "something to put in here."
 msgstr ""
-"Похоже, что у вас в инвентаре имеется целая куча ничего! Лучше найти что-"
-"нибудь и положить его сюда."
+"Хм... Похоже, что у вас в инвентаре имеется целая куча ничего! Лучше найти "
+"что-нибудь и положить его сюда."
 
 #. Key:	UI_NoItemsName
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_TempInventory.Default__UI_TempInventory_C.NoItemsItemName
@@ -26806,7 +26806,7 @@ msgid ""
 "{Toa} has picked up the \r\n"
 "\"{Mask}\""
 msgstr ""
-"{Toa} подбирает \r\n"
+"{Toa} подбирает Канохи \r\n"
 "«{Mask}»"
 
 #. Key:	Cosmetics_BlackMask_Description
@@ -26819,7 +26819,7 @@ msgid ""
 "surface of the mask pulses slowly, as if breathing... "
 msgstr ""
 "Таинственная Комау, покрытая странным чёрным веществом. Материал на "
-"поверхности маски медленно пульсирует и как будто дышит... "
+"поверхности маски медленно пульсирует и как будто дышит..."
 
 #. Key:	Cosmetics_CopperMask_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
@@ -26859,7 +26859,7 @@ msgid ""
 "toa. (Wearing this adds stat boosts to your masks)"
 msgstr ""
 "Вы заработали эти Золотые маски, собрав все Великие Маски для этого Тоа. "
-"(Надев это, вы повысите силу своих масок)"
+"(Надев их, вы повысите силу своих масок)"
 
 #. Key:	Cosmetics_GoldToa_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
