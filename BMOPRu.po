@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-03-31 11:06+0300\n"
+"PO-Revision-Date: 2025-04-05 18:24+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Key:	Loading
 #. SourceLocation:	Config/DefaultGame.ini:774
@@ -2208,16 +2208,14 @@ msgstr "Я? Не думаю, что мы встречались."
 #. Key:	DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_1"
 msgid "What where you talking about, \"Equality\"?"
 msgstr "Что ты говорил о «Равенстве»?"
 
 #. Key:	DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_2"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_2"
 msgid "You're welcome."
 msgstr "Не за что."
 
@@ -2272,8 +2270,7 @@ msgstr "Нужно ли мне ещё что-то знать?"
 #. Key:	DL_Allknowingmatoran_WDYFFindHimDoor_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHimDoor.Default__DL_Allknowingmatoran_WDYFFindHimDoor_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHimDoor.Default__DL_Allknowingmatoran_WDYFFindHimDoor_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_Allknowingmatoran_WDYFFindHimDoor_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFFindHimDoor_PlayerResponse_1"
 msgid ""
 "Alright, I'll find him for you... But what do you want me to do when I do "
 "find him?"
@@ -2294,94 +2291,77 @@ msgstr ""
 #. Key:	DL_Allknowingmatoran_WDYFLiarReason_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFLiarReason.Default__DL_Allknowingmatoran_WDYFLiarReason_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFLiarReason.Default__DL_Allknowingmatoran_WDYFLiarReason_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_Allknowingmatoran_WDYFLiarReason_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFLiarReason_PlayerResponse_1"
 msgid "Yes, but they had all fallen over."
 msgstr "Да, но они все упали."
 
 #. Key:	DL_Allknowingmatoran_WDYFLiarReason_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFLiarReason.Default__DL_Allknowingmatoran_WDYFLiarReason_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFLiarReason.Default__DL_Allknowingmatoran_WDYFLiarReason_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_Allknowingmatoran_WDYFLiarReason_PlayerResponse_2"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFLiarReason_PlayerResponse_2"
 msgid "Yes, but the Makuta stone was more prominent."
 msgstr "Да, но камень Макуты был более заметным."
 
 #. Key:	DL_Allknowingmatoran_WDYFNotSupposedToBethere2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere2.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere2.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,"
-"DL_Allknowingmatoran_WDYFNotSupposedToBethere2_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFNotSupposedToBethere2_PlayerResponse_1"
 msgid "Yes, but they had all fallen over."
 msgstr "Да, но они все упали."
 
 #. Key:	DL_Allknowingmatoran_WDYFNotSupposedToBethere2_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere2.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere2.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,"
-"DL_Allknowingmatoran_WDYFNotSupposedToBethere2_PlayerResponse_2"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFNotSupposedToBethere2_PlayerResponse_2"
 msgid "Yes, but the Makuta stone was more prominent."
 msgstr "Да, но камень Макуты был более заметным."
 
 #. Key:	DL_Allknowingmatoran_WDYFNotSupposedToBethere3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere3.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere3.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,"
-"DL_Allknowingmatoran_WDYFNotSupposedToBethere3_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFNotSupposedToBethere3_PlayerResponse_1"
 msgid "Yes, but they had all fallen over."
 msgstr "Да, но они все упали."
 
 #. Key:	DL_Allknowingmatoran_WDYFNotSupposedToBethere3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere3.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere3.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,"
-"DL_Allknowingmatoran_WDYFNotSupposedToBethere3_PlayerResponse_2"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFNotSupposedToBethere3_PlayerResponse_2"
 msgid "Yes, but the Makuta stone was more prominent."
 msgstr "Да, но камень Макуты был более заметным."
 
 #. Key:	DL_Allknowingmatoran_WDYFNotSupposedToBethere_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,"
-"DL_Allknowingmatoran_WDYFNotSupposedToBethere_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFNotSupposedToBethere_PlayerResponse_1"
 msgid "Yes, but they had all fallen over."
 msgstr "Да, но они все упали."
 
 #. Key:	DL_Allknowingmatoran_WDYFNotSupposedToBethere_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFNotSupposedToBethere.Default__DL_Allknowingmatoran_WDYFNotSupposedToBethere_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,"
-"DL_Allknowingmatoran_WDYFNotSupposedToBethere_PlayerResponse_2"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFNotSupposedToBethere_PlayerResponse_2"
 msgid "Yes, but the Makuta stone was more prominent."
 msgstr "Да, но камень Макуты был более заметным."
 
 #. Key:	DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFOddMatoran.Default__DL_Allknowingmatoran_WDYFOddMatoran_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFOddMatoran.Default__DL_Allknowingmatoran_WDYFOddMatoran_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_1"
 msgid "He said I wasn't supposed to be there."
 msgstr "Он сказал, что меня не должно там быть."
 
 #. Key:	DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFOddMatoran.Default__DL_Allknowingmatoran_WDYFOddMatoran_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFOddMatoran.Default__DL_Allknowingmatoran_WDYFOddMatoran_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_2"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_2"
 msgid "He called me a liar."
 msgstr "Он назвал меня {G}|gender(лгуном, лгуньей)."
 
 #. Key:	DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFOddMatoran.Default__DL_Allknowingmatoran_WDYFOddMatoran_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFOddMatoran.Default__DL_Allknowingmatoran_WDYFOddMatoran_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_3"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFOddMatoran_PlayerResponse_3"
 msgid "No, not much."
 msgstr "Нет, не {G}|gender(сказал, сказала) бы."
 
@@ -2411,16 +2391,14 @@ msgstr "Я этим займусь."
 #. Key:	DL_Allknowingmatoran_Whatdidyoufind_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Whatdidyoufind.Default__DL_Allknowingmatoran_Whatdidyoufind_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Whatdidyoufind.Default__DL_Allknowingmatoran_Whatdidyoufind_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_Allknowingmatoran_Whatdidyoufind_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_Whatdidyoufind_PlayerResponse_1"
 msgid "I did, It was... interesting."
 msgstr "Да, это было... интересно."
 
 #. Key:	DL_Allknowingmatoran_Whatdidyoufind_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Whatdidyoufind.Default__DL_Allknowingmatoran_Whatdidyoufind_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Whatdidyoufind.Default__DL_Allknowingmatoran_Whatdidyoufind_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_Allknowingmatoran_Whatdidyoufind_PlayerResponse_2"
+msgctxt "Dialogue_Response,DL_Allknowingmatoran_Whatdidyoufind_PlayerResponse_2"
 msgid "No, Not yet."
 msgstr "Нет, ещё нет."
 
@@ -4580,16 +4558,14 @@ msgstr "Верно."
 #. Key:	DL_KoTownKohiProtosteelWhagnaattacked_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelWhagnaattacked.Default__DL_KoTownKohiProtosteelWhagnaattacked_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelWhagnaattacked.Default__DL_KoTownKohiProtosteelWhagnaattacked_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_KoTownKohiProtosteelWhagnaattacked_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_KoTownKohiProtosteelWhagnaattacked_PlayerResponse_1"
 msgid "And what is this?"
 msgstr "И что это?"
 
 #. Key:	DL_KoTownKohiProtosteelWhagnaattacked_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelWhagnaattacked.Default__DL_KoTownKohiProtosteelWhagnaattacked_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelWhagnaattacked.Default__DL_KoTownKohiProtosteelWhagnaattacked_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_KoTownKohiProtosteelWhagnaattacked_PlayerResponse_2"
+msgctxt "Dialogue_Response,DL_KoTownKohiProtosteelWhagnaattacked_PlayerResponse_2"
 msgid ""
 "I hate to ask you this Kohi, but did you have anything to do with the attack "
 "on Whagna?"
@@ -7245,7 +7221,7 @@ msgstr "Голосуй-не голосуй, всё равно я не буду �
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy6.Default__DL_RacePohatuWhy6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_RacePohatuWhy6_PlayerResponse_1"
 msgid "I’d hardly call running across a vast, empty desert “Fun.”"
-msgstr "Я вряд ли бы назвал бег вокруг огромной пустыни «весельем»."
+msgstr "Я вряд ли назвал бы бег вокруг огромной пустыни «весельем»."
 
 #. Key:	DL_RacePohatuWhy7_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy7.Default__DL_RacePohatuWhy7_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7459,8 +7435,7 @@ msgstr "Боюсь, ещё нет."
 #. Key:	DL_SadKolhiiPlayerReturnNoMoneyReward_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerReturnNoMoneyReward.Default__DL_SadKolhiiPlayerReturnNoMoneyReward_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerReturnNoMoneyReward.Default__DL_SadKolhiiPlayerReturnNoMoneyReward_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SadKolhiiPlayerReturnNoMoneyReward_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_SadKolhiiPlayerReturnNoMoneyReward_PlayerResponse_1"
 msgid ""
 "Widgets would be enough, but if you want to give me more I suppose it "
 "couldn't hurt."
@@ -7585,16 +7560,14 @@ msgstr "Может в другой раз."
 #. Key:	DL_SellerConsumablesHewtiniiFikouNui_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiFikouNui.Default__DL_SellerConsumablesHewtiniiFikouNui_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiFikouNui.Default__DL_SellerConsumablesHewtiniiFikouNui_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SellerConsumablesHewtiniiFikouNui_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiFikouNui_PlayerResponse_1"
 msgid "Would it ease your mind if I promise to watch over Kapura?"
 msgstr "Станет ли тебе легче, если я дам слово присматривать за Капурой?"
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran1.Default__DL_SellerConsumablesHewtiniiGamatoran1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran1.Default__DL_SellerConsumablesHewtiniiGamatoran1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran1_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran1_PlayerResponse_1"
 msgid "M-My apologies! I did not mean to misidentify you..!"
 msgstr ""
 "М-Мои извинения! Не {G}|gender(хотел, хотела) тебя неправильно "
@@ -7603,80 +7576,70 @@ msgstr ""
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran2.Default__DL_SellerConsumablesHewtiniiGamatoran2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran2.Default__DL_SellerConsumablesHewtiniiGamatoran2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran2_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran2_PlayerResponse_1"
 msgid "If I may ask... What kind of Matoran are you?"
 msgstr "Если я могу спросить... Что ты за Маторан?"
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran3.Default__DL_SellerConsumablesHewtiniiGamatoran3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran3.Default__DL_SellerConsumablesHewtiniiGamatoran3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran3_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran3_PlayerResponse_1"
 msgid "Words such as...?"
 msgstr "Такие слова, как... ?"
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran4.Default__DL_SellerConsumablesHewtiniiGamatoran4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran4.Default__DL_SellerConsumablesHewtiniiGamatoran4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran4_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran4_PlayerResponse_1"
 msgid "What uhh... does that mean?"
 msgstr "Что, эээ… это значит?"
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran5_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran5.Default__DL_SellerConsumablesHewtiniiGamatoran5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran5.Default__DL_SellerConsumablesHewtiniiGamatoran5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran5_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran5_PlayerResponse_1"
 msgid "Let's umm... change the subject."
 msgstr "Давай, эмм… сменим тему."
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran6_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran6.Default__DL_SellerConsumablesHewtiniiGamatoran6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran6.Default__DL_SellerConsumablesHewtiniiGamatoran6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran6_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran6_PlayerResponse_1"
 msgid "Come again?"
 msgstr "Не {G}|gender(понял, поняла)?"
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran7_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran7.Default__DL_SellerConsumablesHewtiniiGamatoran7_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran7.Default__DL_SellerConsumablesHewtiniiGamatoran7_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran7_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran7_PlayerResponse_1"
 msgid "Yep..."
 msgstr "Угу..."
 
 #. Key:	DL_SellerConsumablesHewtiniiKapura1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura1.Default__DL_SellerConsumablesHewtiniiKapura1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura1.Default__DL_SellerConsumablesHewtiniiKapura1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SellerConsumablesHewtiniiKapura1_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiKapura1_PlayerResponse_1"
 msgid "How so?"
 msgstr "И как же?"
 
 #. Key:	DL_SellerConsumablesHewtiniiKapura3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura3.Default__DL_SellerConsumablesHewtiniiKapura3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura3.Default__DL_SellerConsumablesHewtiniiKapura3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SellerConsumablesHewtiniiKapura3_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiKapura3_PlayerResponse_1"
 msgid "You don't like Fikou-Nui?"
 msgstr "Тебе не нравятся Фику-Нуи?"
 
 #. Key:	DL_SellerConsumablesHewtiniiKapura3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura3.Default__DL_SellerConsumablesHewtiniiKapura3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura3.Default__DL_SellerConsumablesHewtiniiKapura3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SellerConsumablesHewtiniiKapura3_PlayerResponse_2"
+msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiKapura3_PlayerResponse_2"
 msgid "Would it ease your mind if I promise to watch over Kapura?"
 msgstr "Станет ли тебе легче, если я дам слово присматривать за Капурой?"
 
 #. Key:	DL_SellerConsumablesHewtiniiKapura4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura4.Default__DL_SellerConsumablesHewtiniiKapura4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura4.Default__DL_SellerConsumablesHewtiniiKapura4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_SellerConsumablesHewtiniiKapura4_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiKapura4_PlayerResponse_1"
 msgid "Then it's a promise."
 msgstr "Значит я даю слово."
 
@@ -8298,8 +8261,7 @@ msgstr "Ты отправил ему класс два, не класс один
 #. Key:	DL_StaffSellerQuartermasterRewardQuestion_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermasterRewardQuestion.Default__DL_StaffSellerQuartermasterRewardQuestion_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermasterRewardQuestion.Default__DL_StaffSellerQuartermasterRewardQuestion_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-msgctxt ""
-"Dialogue_Response,DL_StaffSellerQuartermasterRewardQuestion_PlayerResponse_1"
+msgctxt "Dialogue_Response,DL_StaffSellerQuartermasterRewardQuestion_PlayerResponse_1"
 msgid "Absolutely."
 msgstr "Вполне."
 
@@ -13500,7 +13462,7 @@ msgid ""
 "he’s sneak-hiding, don’t you? Send him treebound- I’ve got something for him."
 msgstr ""
 "Всегда хочется новых опасных приключений, да? Ну, у меня ничего на данный "
-"момент нет... вот если бы ты {G}|gender(был, была) Левой. Ты же наверняка "
+"момент нет. А вот если бы ты {G}|gender(был, была) Левой... Ты же наверняка "
 "знаешь где он прячется, да? Отправь его к большому дереву – у меня для него "
 "кое-что есть."
 
@@ -16803,8 +16765,8 @@ msgid ""
 "*The Matoran has his eyes closed tightly. He seems to be attempting to be as "
 "quiet as possible.*"
 msgstr ""
-"*Маторан зажмурил глаза. Он, по-видимому, пытается вести себя как можно тише."
-"*"
+"*Маторан зажмурил глаза. Он, по-видимому, пытается вести себя как можно "
+"тише.*"
 
 #. Key:	DL_ShipperIntro_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntro_2.Default__DL_ShipperIntro_2_C.DialogueText
@@ -16955,8 +16917,8 @@ msgid ""
 "Welcome to the Onu-Koro shipping center. Is there anything I can help you "
 "with today? ...Sorry, habit."
 msgstr ""
-"Добро пожаловать в центр доставки грузов Ону-Коро. Чем я могу вам помочь? ..."
-"Извиняюсь, привычка."
+"Добро пожаловать в центр доставки грузов Ону-Коро. Чем я могу вам "
+"помочь? ...Извиняюсь, привычка."
 
 #. Key:	DL_StaffSeller1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSeller1.Default__DL_StaffSeller1_C.DialogueText
