@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-12 15:27+0300\n"
+"PO-Revision-Date: 2025-04-14 12:03+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -482,8 +482,8 @@ msgstr ""
 "Эта сторожевая башня в Ко-Вахи давно заброшена. Иронично, что это здание, созданное для "
 "защиты Маторанов, теперь является одним из самых опасных и недружелюбных мест острова, "
 "поскольку оно кишит Рахи. Когда-то стражники Ко-Матораны использовали её в качестве "
-"одного из немногих форпостов, делая её одним из немногих обитаемых мест Ко-Вахи за "
-"пределами Ко-Коро."
+"одного из форпостов, делая её одним из немногих обитаемых мест Ко-Вахи за пределами Ко-"
+"Коро."
 
 #. Key:	CodexPage_KoWahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KoWahi.Default__LocationEntry_KoWahi_C.Location Description
@@ -2059,7 +2059,7 @@ msgstr "Извини, не {G}|gender(хотел, хотела) тебя бес�
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_2.Default__DL_Allknowingmatoran_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_2_PlayerResponse_1"
 msgid "Visions, You've had visions of the future?"
-msgstr "Видения, у тебя были видения будущего?"
+msgstr "Видения? У тебя были видения будущего?"
 
 #. Key:	DL_Allknowingmatoran_3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_3.Default__DL_Allknowingmatoran_3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7047,7 +7047,7 @@ msgstr "Что-что?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy4.Default__DL_RacePohatuWhy4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_RacePohatuWhy4_PlayerResponse_1"
 msgid "I find that highly unlikely."
-msgstr "Я нахожу это маловероятным."
+msgstr "Я нахожу это крайне маловероятным."
 
 #. Key:	DL_RacePohatuWhy5_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy5.Default__DL_RacePohatuWhy5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9754,7 +9754,7 @@ msgid ""
 msgstr ""
 "Мне нужно, чтобы вы нашли этого Маторана, Тоа. Если у вас этого не получится, это может "
 "означать конец Мата Нуи… Я знаю про непримечательный холм у берегов Ко-Вахи, он может "
-"находиться там."
+"прятаться там."
 
 #. Key:	DL_Allknowingmatoran_WDYFFindHim2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHim2.Default__DL_Allknowingmatoran_WDYFFindHim2_C.DialogueText
@@ -9767,7 +9767,7 @@ msgid ""
 msgstr ""
 "У нас нет на это времени, Тоа. Мне нужно, чтобы вы нашли этого Маторана. Если у вас "
 "этого не получится, это может означать конец Мата Нуи… Я знаю про непримечательный холм "
-"у берегов Ко-Вахи, он может находиться там."
+"у берегов Ко-Вахи, он может прятаться там."
 
 #. Key:	DL_Allknowingmatoran_WDYFFindHimDoor
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHimDoor.Default__DL_Allknowingmatoran_WDYFFindHimDoor_C.DialogueText
@@ -10066,8 +10066,8 @@ msgid ""
 "Hmm, I did find one a while back - It's a Kakama. I would normally price it at about 500 "
 "widgets, but i'll make an exception for you. 350 widgets it is."
 msgstr ""
-"Хмм, я нашёл одну какое-то время назад – Какаму. Я бы её обычно продал виджетов за 500, "
-"но для вас готов сделать исключение. Всего 350 виджетов."
+"Хмм, я нашёл одну какое-то время назад – Какаму. Я её, наверное, продал бы виджетов за "
+"500, но для вас готов сделать исключение. Всего 350 виджетов."
 
 #. Key:	DL_CartographerPay
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerPay.Default__DL_CartographerPay_C.DialogueText
@@ -11521,7 +11521,7 @@ msgid ""
 "We will be fine, as soon as we find it! Wait, maybe it doesn't exist yet?... Either way, "
 "we will keep searching!"
 msgstr ""
-"Всё с нами будет хорошо, как только мы его найдём! Стоп, а может его пока не "
+"С нами всё будет хорошо, как только мы его найдём! Стоп, а может его пока не "
 "существует?... В любом случае, мы продолжим поиски!"
 
 #. Key:	DL_KoAstronomer1
@@ -11852,8 +11852,8 @@ msgid ""
 "Oh, yes! I need someone to go hunt-searching for Matau, our Turaga. It is a sorry-bad "
 "tale, but he has been lost-missing for some time now!"
 msgstr ""
-"Ах, да! Мне нужен кто-то, чтобы он начал поиски Матау, нашего Турага. Грустная история, "
-"конечно, но его нет уже некоторое время!"
+"Ах, да! Мне нужен кто-то, чтобы он начал поиски Матау, нашего Турага. Грустно-плохая "
+"история, конечно, но его нет уже некоторое время!"
 
 #. Key:	DL_KonguMap
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_KonguMap.Default__DL_KonguMap_C.DialogueText
