@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-14 12:03+0300\n"
+"PO-Revision-Date: 2025-04-14 12:32+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -156,7 +156,7 @@ msgid ""
 "Wahi, this temple houses a Makoki Stone- a fragment of a key needed to access the lair "
 "of Makuta. It seems that only Turaga Nokama knows the secret to unlocking it."
 msgstr ""
-"Га-Кини – храм Воды. Частично погружённый в воды Га-Вахи, дворец хранит в себе Камень "
+"Га-Кини – храм Воды. Частично погружённый в воды Га-Вахи, храм хранит в себе Камень "
 "Макоки – фрагмент ключа, необходимый для доступа в логово Макуты. По всей видимости, "
 "только Турага Нокама знает секрет его открытия."
 
@@ -2670,7 +2670,7 @@ msgstr "Джала, это ты?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoExit.Default__DL_DamemoExit_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_DamemoExit_PlayerResponse_1"
 msgid "You as well."
-msgstr "Тебе того же."
+msgstr "И тебе того же."
 
 #. Key:	DL_DamemoLeave_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLeave.Default__DL_DamemoLeave_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
