@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-17 16:05+0300\n"
+"PO-Revision-Date: 2025-04-18 14:46+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -8452,7 +8452,7 @@ msgstr "«Этот город кипит жизнью.»"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok10.Default__DL_Talok10_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Talok10_PlayerResponse_2"
 msgid "\"Smoke rises to greet the sun.\""
-msgstr "«Дым поднимается чтобы приветствовать солнце.»"
+msgstr "«Дым поднимается вверх, чтобы приветствовать солнце.»"
 
 #. Key:	DL_Talok10_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok10.Default__DL_Talok10_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -25813,7 +25813,7 @@ msgstr ""
 "<Key>Маски Силы находились в разработке более 6 лет, а с окончанием разработки Legacy-"
 "версии мы теперь можем полностью сосредоточиться на разработке версии 2.0. Спасибо, что "
 "были с нами всё это время, мы надеемся, что вам понравилось, и вы с нетерпением ждёте "
-"наших новых проектов</>\r\n"
+"наших новых проектов!</>\r\n"
 "\r\n"
 "<Key>Чтобы следить за нашим </>Legacy<Key>, загляните в наши социальные сети:</>"
 
