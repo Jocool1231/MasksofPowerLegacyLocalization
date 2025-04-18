@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-18 14:46+0300\n"
+"PO-Revision-Date: 2025-04-18 15:05+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -24395,7 +24395,7 @@ msgid ""
 "a Toa.</> "
 msgstr ""
 "<Makuta>У вас нет единства. Вы одни. Отпустите</> <Key>{Action1}</> <Makuta>, чтобы "
-"выбрать Тоа.</> "
+"выбрать Тоа.</>"
 
 #. Key:	Tut_ToaWheel
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_ToaWheel.Tut_ToaWheel.Text
@@ -25736,7 +25736,7 @@ msgstr "Основные Квесты:"
 #: /Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_3.Text
 msgctxt "UIText_Description,StatsMenu_Quests_SideQuests"
 msgid "Side Quests: "
-msgstr "Дополнительные Квесты: "
+msgstr "Дополнительные Квесты:"
 
 #. Key:	TabMenu_Codex_Entries
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock_8.Text
