@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-19 19:50+0300\n"
+"PO-Revision-Date: 2025-04-20 13:22+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -22650,7 +22650,7 @@ msgstr "Поговорить с {NPC}"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_SuvaInteract"
 msgid "Unlock Golden Mask for {Toa}"
-msgstr "Тоа {Toa}: Разблокировать Золотую Маску"
+msgstr "Разблокировать Золотую Маску для данного Тоа: {Toa}"
 
 #. Key:	Gen_Telescope
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
