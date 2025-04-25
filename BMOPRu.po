@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-20 13:22+0300\n"
+"PO-Revision-Date: 2025-04-25 11:25+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25736,7 +25736,7 @@ msgstr "Основные Квесты:"
 #: /Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_3.Text
 msgctxt "UIText_Description,StatsMenu_Quests_SideQuests"
 msgid "Side Quests: "
-msgstr "Дополнительные Квесты:"
+msgstr "Дополнительные Квесты: "
 
 #. Key:	TabMenu_Codex_Entries
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock_8.Text
