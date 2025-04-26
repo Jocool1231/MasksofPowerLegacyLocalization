@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-26 13:32+0300\n"
+"PO-Revision-Date: 2025-04-26 13:43+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25988,7 +25988,7 @@ msgid ""
 "the mask pulses slowly, as if breathing... "
 msgstr ""
 "Таинственная Комау, покрытая странным чёрным веществом. Материал на поверхности маски "
-"медленно пульсирует и как будто дышит..."
+"медленно пульсирует, и как будто дышит..."
 
 #. Key:	Cosmetics_CopperMask_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
