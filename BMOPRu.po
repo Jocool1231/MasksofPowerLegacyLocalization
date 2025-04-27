@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-27 13:38+0300\n"
+"PO-Revision-Date: 2025-04-27 13:44+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -305,9 +305,9 @@ msgid ""
 "groups when they do. If you find a group of them, make sure you’re prepared to deal with "
 "them all."
 msgstr ""
-"Скорпионоподобные Рахи, управляемые Макутой. Белый их вариант можно найти в Ко-Вахи. "
-"Хотя они появляются не очень часто, они появляются в группах. Если вы увидели группу, "
-"будьте готовы разобраться с каждым из них."
+"Скорпионоподобные Рахи, управляемые Макутой. Белую их разновидность можно найти в Ко-"
+"Вахи. Хотя они появляются не очень часто, они появляются в группах. Если вы увидели "
+"группу, будьте готовы разобраться с каждым из них."
 
 #. Key:	CodexPage_IceTarakava_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_IceTarakava.Default__LocationEntry_IceTarakava_C.Location Description
@@ -321,7 +321,7 @@ msgid ""
 "powerful than an average Tarakava."
 msgstr ""
 "Эти опасные Рахи славятся своими мощными передними лапами, с помощью которых они атакуют "
-"свою добычу. Белый вариант с шипами встречается преимущественно в Ко-Вахи. Суровый "
+"свою добычу. Белая разновидность с шипами встречается преимущественно в Ко-Вахи. Суровый "
 "климат закалил Таракав и превратил их в ужасных зверей. Они более быстрые и более "
 "сильные, нежели обычный Таракава."
 
@@ -516,9 +516,9 @@ msgid ""
 "powerful Rahi. Handle them with caution."
 msgstr ""
 "Эти опасные Рахи славятся своими мощными передними лапами, с помощью которых они атакуют "
-"свою добычу. Красный их вариант можно найти в районе Та-Вахи, они больше стандартных "
-"Таракав. Если вы столкнётесь с одним из этих сильных Рахи, то вам придётся сражаться. "
-"Сражайтесь против них с осторожностью."
+"свою добычу. Красную их разновидность можно найти в районе Та-Вахи, они больше "
+"стандартных Таракав. Если вы столкнётесь с одним из этих сильных Рахи, то вам придётся "
+"сражаться. Сражайтесь против них с осторожностью."
 
 #. Key:	CodexPage_LeKini_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeKini.Default__LocationEntry_LeKini_C.Location Description
@@ -1341,9 +1341,9 @@ msgid ""
 "caution when facing them."
 msgstr ""
 "Эти опасные Рахи славятся своими мощными передними лапами, с помощью которых они атакуют "
-"свою добычу. Синий их вариант можно найти по всему Мата Нуи. Эти Рахи могут очень быстро "
-"нанести немало урона, так что лучше сохранять дистанцию и действовать против них с "
-"осторожностью."
+"свою добычу. Синюю их разновидность можно найти по всему Мата Нуи. Эти Рахи могут очень "
+"быстро нанести немало урона, так что лучше сохранять дистанцию и действовать против них "
+"с осторожностью."
 
 #. Key:	CodexPage_TaTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TaTemple.Default__LocationEntry_TaTemple_C.Location Description
@@ -17746,9 +17746,9 @@ msgid ""
 "villagers. Little did they know that they were searching for you... "
 msgstr ""
 "Боже-боже, твой разум работает очень странно, Тоа. Ну хорошо, я расскажу тебе... Капитан "
-"Стражи собрал небольшую команду охотников и отправился в сгоревший лес, они пытались "
+"стражи собрал небольшую команду охотников и отправился в сгоревший лес, они пытались "
 "поймать страшного и жуткого зверя, замеченного несколькими жителями. Но они не знали, "
-"что они искали тебя..."
+"что искали-то тебя..."
 
 #. Key:	DL_VakamaPostKini
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Turaga/DL_VakamaPostKini.Default__DL_VakamaPostKini_C.DialogueText
@@ -17939,8 +17939,8 @@ msgid ""
 "Uhh, let me rephrase that. I believe that you have made a critical error in judgement "
 "$T, however only time will tell."
 msgstr ""
-"Позвольте перефразировать. Я считаю, что вы совершаете критическую ошибку в суждении, "
-"$T, но, как говорится, время покажет."
+"Эм... позвольте перефразировать. Я считаю, что вы совершаете критическую ошибку в "
+"суждении, $T, но, как говорится, время покажет."
 
 #. Key:	DL_WhagnaMeeting_Parhi1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/Meeting/DL_WhagnaMeeting_Parhi1.Default__DL_WhagnaMeeting_Parhi1_C.DialogueText
