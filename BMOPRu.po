@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-27 13:44+0300\n"
+"PO-Revision-Date: 2025-04-27 18:57+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -79,8 +79,8 @@ msgid ""
 "swiftly attack those who are less attentive."
 msgstr ""
 "Скорпионообразные Рахи, управляемые Макутой. Их синюю разновидность можно найти "
-"преимущественно в По-Вахи. Они славятся тем, что подкрадываются к путешественникам за "
-"стены каньона и быстро нападают на тех, кто недостаточно внимателен."
+"преимущественно в По-Вахи. Они славятся тем, что подкрадываются к путешественникам из-за "
+"стен каньона и быстро нападают на тех, кто недостаточно внимателен."
 
 #. Key:	CodexPage_Docks_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Docks.Default__LocationEntry_Docks_C.Location Description
@@ -95,7 +95,7 @@ msgid ""
 msgstr ""
 "Эти доки позволят вам путешествовать между различными точками на Мата Нуи. Они "
 "чрезвычайно полезны для перемещения по огромному острову, так что обязательно ищите их. "
-"Марка, дежурная по докам, не особо любить давать кому-то свои лодки, поэтому лучше "
+"Марка, дежурная по докам, не особо любит давать кому-то свои лодки, поэтому лучше "
 "передать управление ей."
 
 #. Key:	CodexPage_Drifts_Desc
@@ -114,7 +114,7 @@ msgstr ""
 "обильный снег снижают видимость практически до нуля. Некоторые Матораны используют флаги "
 "для того, чтобы проложить маршрут через заснеженные районы, но даже в таком случае вам "
 "нужно остерегаться Рахи, которые могут напасть на неудачливых путешественников. Если вы "
-"всё же хотите пройти, будьте очень внимательны."
+"всё же отважитесь пройти, будьте очень внимательны."
 
 #. Key:	CodexPage_FikouNui_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location Description
