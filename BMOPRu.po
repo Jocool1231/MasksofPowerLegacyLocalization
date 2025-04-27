@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-26 13:43+0300\n"
+"PO-Revision-Date: 2025-04-27 08:56+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5203,7 +5203,7 @@ msgstr "Конечно, я тогда не буду мешать."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoroLewa1.Default__DL_MatauKoroLewa1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MatauKoroLewa1_PlayerResponse_1"
 msgid "What’s the trouble-matter?"
-msgstr "В чём проблема?"
+msgstr "В чём дело-проблема?"
 
 #. Key:	DL_MatauKoroLewa2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoroLewa2.Default__DL_MatauKoroLewa2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
