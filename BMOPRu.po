@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-28 13:44+0300\n"
+"PO-Revision-Date: 2025-04-28 13:51+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -862,7 +862,7 @@ msgstr ""
 "Нуджу – Турага Ко-Коро. Он говорит исключительно на языке Рахи, поэтому нуждается в том, "
 "чтобы его переводчик, Маторо, всегда был рядом для интерпретации его речи. Добровольный "
 "ли это выбор или жизненно важная необходимость – предмет споров среди Ко-Маторанов. Но "
-"те, кто приложат силы в ведении разговоров с ним, будут вознаграждены его мудростью."
+"те, кто приложат усилия в ведении разговоров с ним, будут вознаграждены его мудростью."
 
 #. Key:	CodexPage_Onewa_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onewa.Default__LocationEntry_Onewa_C.Location Description
