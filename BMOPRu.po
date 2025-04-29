@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-29 12:48+0300\n"
+"PO-Revision-Date: 2025-04-29 13:16+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -2422,7 +2422,7 @@ msgstr "Почему нет? Что это за компания?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_Candles2.Default__DL_Candles2_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Candles2_PlayerResponse_3"
 msgid "I'll be leaving now."
-msgstr "Я уже ухожу."
+msgstr "Мне нужно идти."
 
 #. Key:	DL_CandlesCompany_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_CandlesCompany.Default__DL_CandlesCompany_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -17207,8 +17207,8 @@ msgid ""
 "For the most part, Parhi bought the materials, Kalhi helped move them, but me and my "
 "apprentice have done most of the work."
 msgstr ""
-"Ну, Пархи привёз материалы, Кали помогла их передвинуть... Но я и моя ученица сделали "
-"основную часть работы."
+"В основном, Пархи покупал материалы, Кали помогала их передвинуть... Но я и моя ученица "
+"сделали большую часть работы."
 
 #. Key:	DL_TaphalFixed5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed5.Default__DL_TaphalFixed5_C.DialogueText
@@ -23040,7 +23040,7 @@ msgstr "Продавец Свеч"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_CanyonNui-Jaga"
 msgid "Pako Nui-Jaga"
-msgstr "Пустынный Нуи-Джага"
+msgstr "Нуи-Джага Пако"
 
 #. Key:	Names_Dameo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -23474,7 +23474,7 @@ msgstr "Фермер у Лавы"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_LavaNui-Jaga"
 msgid "Ahie Nui-Jaga"
-msgstr "Лавовый Нуи-Джага"
+msgstr "Нуи-Джага Ахи"
 
 #. Key:	Names_LavaTarakava
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -25206,7 +25206,7 @@ msgstr "Закат"
 #: /Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.EditableTextBox_143.HintText
 msgctxt "UIText_Description,NewGame_EnterSaveName"
 msgid "Enter Save Name Here"
-msgstr "Введите тут название Сохранения"
+msgstr "Введите тут название cохранения"
 
 #. Key:	NewGame_SaveName
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.TextBlock_0.Text
