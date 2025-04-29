@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2025-01-28 00:44\n"
-"PO-Revision-Date: 2025-04-05 15:40+0200\n"
+"PO-Revision-Date: 2025-04-30 00:32+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
@@ -3435,10 +3435,9 @@ msgstr "Ich will nicht unhöflich sein, aber was für ein Matoraner bist du eige
 #. Key:	DL_KoTownBuyer_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownBuyer.Default__DL_KoTownBuyer_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownBuyer.Default__DL_KoTownBuyer_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_KoTownBuyer_PlayerResponse_2"
 msgid "I've never heard of this Protosteel, wouldn't a Protodermis pickaxe be a stronger tool for mining?"
-msgstr "I've never heard of this Protosteel, wouldn't a Protodermis pickaxe be a stronger tool for mining?"
+msgstr "Ich habe noch nie von diesem Protostahl gehört, wäre eine Protodermis-Spitzhacke nicht ein stärkeres Werkzeug für den Bergbau?"
 
 #. Key:	DL_KoTownBuyerGainQuest_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownBuyerGainQuest.Default__DL_KoTownBuyerGainQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
