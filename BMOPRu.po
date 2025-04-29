@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-29 13:16+0300\n"
+"PO-Revision-Date: 2025-04-29 13:25+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -20656,8 +20656,8 @@ msgid ""
 "Quater Master Niidok has gotten the wrong shipment of staves, he has requested that you "
 "speak to Takar the staff seller about this. He has a shop just outside Ta-koro."
 msgstr ""
-"Квартирмейстер Ниидок получил неправильный груз посохов, он попросил вас поговорить с "
-"продавцом посохов Такаром об этом. У него есть магазин недалеко от Та-Коро."
+"Квартирмейстер Ниидок получил неправильный груз посохов, он попросил вас поговорить об "
+"этом с продавцом посохов Такаром. У него есть магазин недалеко от Та-Коро."
 
 #. Key:	Quest_Tahu_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Tahu.Default__Quest_Tahu_C.Description
@@ -22455,7 +22455,7 @@ msgstr "Разговор"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Conv_HarekLaru"
 msgid "Harek and Laru"
-msgstr "Харек и Лару"
+msgstr "Хареком и Лару"
 
 #. Key:	Gen_Conv_PauriKauri
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22469,21 +22469,21 @@ msgstr "Паури и Каури"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Conv_TafallTaphal"
 msgid "Tafall and Taphal"
-msgstr "Тафол и Тафал"
+msgstr "Тафол и Тафалом"
 
 #. Key:	Gen_Conv_TapahlTafall
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Conv_TapahlTafall"
 msgid "Tapahl and Tafall"
-msgstr "Тафал и Тафол"
+msgstr "Тафалом и Тафол"
 
 #. Key:	Gen_Conv_Whagna
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Conv_Whagna"
 msgid "The Whagna Villagers"
-msgstr "Жители деревни Вагна"
+msgstr "Жителями деревни Вагна"
 
 #. Key:	Gen_CosmeticsBench
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
