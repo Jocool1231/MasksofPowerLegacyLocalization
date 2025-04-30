@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-30 16:57+0300\n"
+"PO-Revision-Date: 2025-04-30 17:05+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -429,7 +429,7 @@ msgid ""
 "The Kanohi Komau: the Noble Mask of Mind Control. This Mask allows you to make Rahi turn "
 "on their own kind, ignoring you in the process."
 msgstr ""
-"Канохи Комау: Благородная Маска Контроля Разума. Эта маска позволяет натравить Рахи "
+"Канохи Комау: Благородная Маска Контроля Разума. Эта маска позволит вам натравить Рахи "
 "против сородичей, таким образом отвлекая внимание от вас."
 
 #. Key:	CodexPage_Kopaka2_Desc
@@ -3896,7 +3896,7 @@ msgstr "Как ты, Кали?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoFishSellerAbandoned2.Default__DL_KoFishSellerAbandoned2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KoFishSellerAbandoned2_PlayerResponse_1"
 msgid "How are you finding Le-Koro, any better than before?"
-msgstr "Как тебе Ле-Коро, лучше чем было раньше?"
+msgstr "Как тебе Ле-Коро? Лучше, чем было раньше?"
 
 #. Key:	DL_KoFishSellerAbandoned2_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoFishSellerAbandoned2.Default__DL_KoFishSellerAbandoned2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
