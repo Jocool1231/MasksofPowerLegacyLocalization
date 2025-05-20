@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2025-01-28 00:44\n"
-"PO-Revision-Date: 2025-04-30 00:32+0200\n"
+"PO-Revision-Date: 2025-05-21 00:39+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
@@ -5386,10 +5386,9 @@ msgstr "It \"Powers\" the mask?"
 #. Key:	DL_Nuparu5_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu5.Default__DL_Nuparu5_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu5.Default__DL_Nuparu5_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Nuparu5_PlayerResponse_2"
 msgid "What's Wahae-Mata Gel?"
-msgstr "What's Wahae-Mata Gel?"
+msgstr "Was ist Wahae-Mata Gel?"
 
 #. Key:	DL_Nuparu5_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu5.Default__DL_Nuparu5_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5402,18 +5401,16 @@ msgstr "How does it do that?"
 #. Key:	DL_Nuparu5_PlayerResponse_4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu5.Default__DL_Nuparu5_C.Responses(3).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu5.Default__DL_Nuparu5_C.Responses(3).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Nuparu5_PlayerResponse_4"
 msgid "Fascinating."
-msgstr "Fascinating."
+msgstr "Faszinierend."
 
 #. Key:	DL_Nuparu_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu.Default__DL_Nuparu_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu.Default__DL_Nuparu_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Nuparu_PlayerResponse_1"
 msgid "Yes? What is it?"
-msgstr "Yes? What is it?"
+msgstr "Ja? Was ist?"
 
 #. Key:	DL_NuparuGel_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuGel.Default__DL_NuparuGel_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5426,7 +5423,6 @@ msgstr "What did you mean it \"Powers\" the mask?"
 #. Key:	DL_NuparuGel_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuGel.Default__DL_NuparuGel_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuGel.Default__DL_NuparuGel_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NuparuGel_PlayerResponse_2"
 msgid "How does it work?"
 msgstr "Wie funktioniert das?"
@@ -5434,10 +5430,9 @@ msgstr "Wie funktioniert das?"
 #. Key:	DL_NuparuGel_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuGel.Default__DL_NuparuGel_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuGel.Default__DL_NuparuGel_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NuparuGel_PlayerResponse_3"
 msgid "Thank you greatly, this is valuble information."
-msgstr "Thank you greatly, this is valuble information."
+msgstr "Vielen Dank, das ist eine wertvolle Information."
 
 #. Key:	DL_NuparuHow_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuHow.Default__DL_NuparuHow_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5450,34 +5445,30 @@ msgstr "What did you mean it \"Powers\" the mask?"
 #. Key:	DL_NuparuHow_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuHow.Default__DL_NuparuHow_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuHow.Default__DL_NuparuHow_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NuparuHow_PlayerResponse_2"
 msgid "What's the \"Wahae-Mata Gel\" you mentioned?"
-msgstr "What's the \"Wahae-Mata Gel\" you mentioned?"
+msgstr "Was ist das \"Wahae-Mata Gel\", dass du erwähnt haben?"
 
 #. Key:	DL_NuparuHow_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuHow.Default__DL_NuparuHow_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuHow.Default__DL_NuparuHow_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NuparuHow_PlayerResponse_3"
 msgid "Thank you greatly, this is valuble information."
-msgstr "Thank you greatly, this is valuble information."
+msgstr "Vielen Dank, das ist eine wertvolle Information."
 
 #. Key:	DL_NuparuPower_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuPower.Default__DL_NuparuPower_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuPower.Default__DL_NuparuPower_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NuparuPower_PlayerResponse_1"
 msgid "What's Wahae-Mata Gel?"
-msgstr "What's Wahae-Mata Gel?"
+msgstr "Was ist Wahae-Mata Gel?"
 
 #. Key:	DL_NuparuPower_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuPower.Default__DL_NuparuPower_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuPower.Default__DL_NuparuPower_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NuparuPower_PlayerResponse_2"
 msgid "How does the machine work?"
-msgstr "How does the machine work?"
+msgstr "Wie funktioniert die Maschine?"
 
 #. Key:	DL_NuparuPower_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_NuparuPower.Default__DL_NuparuPower_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
