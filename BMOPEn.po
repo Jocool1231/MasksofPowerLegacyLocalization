@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2025-07-15 05:56\n"
-"PO-Revision-Date: 2025-07-15 05:56\n"
+"POT-Creation-Date: 2025-07-16 08:40\n"
+"PO-Revision-Date: 2025-07-16 08:40\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -19137,6 +19137,13 @@ msgctxt "ST_Localization,UITriggersLR"
 msgid "Left & Right Triggers"
 msgstr "Left & Right Triggers"
 
+#. Key:	UIUnlimited
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIUnlimited"
+msgid "Unlimited"
+msgstr "Unlimited"
+
 #. Key:	UIUse
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -20852,6 +20859,13 @@ msgctxt "UIText_Description,4D5674834AEA963B60A20793D52469E1"
 msgid "There is already a savefile with that name, do you want to Overwrite?"
 msgstr "There is already a savefile with that name, do you want to Overwrite?"
 
+#. Key:	8A84782A4AE07BE1F77B838E7FFF9D8D
+#. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.IconOpacityBaseText
+#: /Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.IconOpacityBaseText
+msgctxt "UIText_Description,8A84782A4AE07BE1F77B838E7FFF9D8D"
+msgid "{Input} <Key>change icon opacity</>"
+msgstr "{Input} <Key>change icon opacity</>"
+
 #. Key:	CosmeticsMenu_EquippedCosmetics
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticsMenu.CosmeticsMenu_C:WidgetTree.TextBlock_1.Text
 #: /Game/BluePrints/UI/CosmeticsMenu.CosmeticsMenu_C:WidgetTree.TextBlock_1.Text
@@ -20901,6 +20915,13 @@ msgctxt "UIText_Description,GiveMask_Description"
 msgid "Pick A Toa to recieve the {Mask}:"
 msgstr "Pick A Toa to recieve the {Mask}:"
 
+#. Key:	KeybindingPrompt
+#. SourceLocation:	/Game/BluePrints/UI/BMOPBindCapturePrompt.BMOPBindCapturePrompt_C:WidgetTree.TextBlock_2.Text
+#: /Game/BluePrints/UI/BMOPBindCapturePrompt.BMOPBindCapturePrompt_C:WidgetTree.TextBlock_2.Text
+msgctxt "UIText_Description,KeybindingPrompt"
+msgid "PRESS KEY TO BIND"
+msgstr "PRESS KEY TO BIND"
+
 #. Key:	Map_MarkerOpacity
 #. SourceLocation:	/Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock_56.Text
 #: /Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock_56.Text
@@ -20914,6 +20935,13 @@ msgstr "Marker Opacity"
 msgctxt "UIText_Description,Map_MarkerSize"
 msgid "Marker Size"
 msgstr "Marker Size"
+
+#. Key:	MapCtrlsWidget_IconSize
+#. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.IconSizeBaseText
+#: /Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.IconSizeBaseText
+msgctxt "UIText_Description,MapCtrlsWidget_IconSize"
+msgid "{Input} <Key>change icon size</>"
+msgstr "{Input} <Key>change icon size</>"
 
 #. Key:	MapCtrlsWidget_ToMove
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.MoveBaseText
@@ -21661,8 +21689,8 @@ msgstr "Thank you for playing!"
 #. SourceLocation:	/Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.RichTextBlock_111.Text
 #: /Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.RichTextBlock_111.Text
 msgctxt "UIText_Description,ThankYou_Message"
-msgid "<Key>We at Team Kanohi Thank you for playing our game!</>\r\n\r\n<Key>Masks of Power has been in the works for over 6 years now, and with Legacy finally complete we will be able to fully focus on 2.0. Thank you for sticking with us for all this time, we hope you enjoyed, and are looking forward to our future projects!</>\r\n\r\n<Key>To keep a closer eye on our </>Legacy<Key>, check out our social media:</>"
-msgstr "<Key>We at Team Kanohi Thank you for playing our game!</>\r\n\r\n<Key>Masks of Power has been in the works for over 6 years now, and with Legacy finally complete we will be able to fully focus on 2.0. Thank you for sticking with us for all this time, we hope you enjoyed, and are looking forward to our future projects!</>\r\n\r\n<Key>To keep a closer eye on our </>Legacy<Key>, check out our social media:</>"
+msgid "<Key>We at Team Kanohi Thank you for playing our game!</>\r\n\r\n<Key>Masks of Power has been in the works for over 6 years now.</>\r\n<Key>Thank you for sticking with us for all this time, we hope you enjoyed, and are looking forward to our future projects!</>\r\n\r\n<Key>To keep a closer eye on our </>Legacy<Key> as </>Unmasked Games<Key>, check out our social media:</>"
+msgstr "<Key>We at Team Kanohi Thank you for playing our game!</>\r\n\r\n<Key>Masks of Power has been in the works for over 6 years now.</>\r\n<Key>Thank you for sticking with us for all this time, we hope you enjoyed, and are looking forward to our future projects!</>\r\n\r\n<Key>To keep a closer eye on our </>Legacy<Key> as </>Unmasked Games<Key>, check out our social media:</>"
 
 #. Key:	ThankYou_Website
 #. SourceLocation:	/Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.TextBlock_3.Text
