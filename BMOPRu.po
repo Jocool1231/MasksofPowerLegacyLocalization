@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
-"POT-Creation-Date: 2025-02-12 01:31\n"
-"PO-Revision-Date: 2025-04-30 17:17+0300\n"
+"POT-Creation-Date: 2025-07-17 05:57\n"
+"PO-Revision-Date: 2025-07-18 21:19+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -16,39 +16,11 @@ msgstr ""
 "X-Generator: Poedit 3.6\n"
 
 #. Key:	Loading
-#. SourceLocation:	Config/DefaultGame.ini:774
-#: Config/DefaultGame.ini:774
+#. SourceLocation:	Config/DefaultGame.ini:111
+#: Config/DefaultGame.ini:111
 msgctxt "AsyncLoadingScreen,Loading"
 msgid "LOADING"
 msgstr "ЗАГРУЗКА"
-
-#. Key:	AltKey
-#. SourceLocation:	Config/DefaultGame.ini:802
-#: Config/DefaultGame.ini:802
-msgctxt "AutoSettings,AltKey"
-msgid "Alt"
-msgstr "Alt"
-
-#. Key:	CmdKey
-#. SourceLocation:	Config/DefaultGame.ini:803
-#: Config/DefaultGame.ini:803
-msgctxt "AutoSettings,CmdKey"
-msgid "Cmd"
-msgstr "Cmd"
-
-#. Key:	CtrlKey
-#. SourceLocation:	Config/DefaultGame.ini:801
-#: Config/DefaultGame.ini:801
-msgctxt "AutoSettings,CtrlKey"
-msgid "Ctrl"
-msgstr "Ctrl"
-
-#. Key:	ShiftKey
-#. SourceLocation:	Config/DefaultGame.ini:800
-#: Config/DefaultGame.ini:800
-msgctxt "AutoSettings,ShiftKey"
-msgid "Shift"
-msgstr "Shift"
 
 #. Key:	CodexPage_Akaku_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Akaku.Default__LocationEntry_Akaku_C.Location Description
@@ -15501,7 +15473,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy6.Default__DL_RacePohatuWhy6_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuWhy6"
 msgid ""
-"Oh, quit being so serious all the time, Kopaka! You’re always the one who is most "
+"Yes! Oh, quit being so serious all the time, Kopaka! You’re always the one who is most "
 "dedicated out of all of us - don’t you think you deserve a little bit of fun now and "
 "then?"
 msgstr ""
@@ -20287,15 +20259,15 @@ msgstr ""
 "Текст кажется неразборчивым. Это может быть как старый диалект, так и почерк Килмы..."
 
 #. Key:	Loading_Text
-#. SourceLocation:	Config/DefaultGame.ini:775
-#: Config/DefaultGame.ini:775
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "Loading,Loading_Text"
 msgid "Loading..."
 msgstr "Загрузка..."
 
 #. Key:	Tip_AkakuZoom
-#. SourceLocation:	Config/DefaultGame.ini:775
-#: Config/DefaultGame.ini:775
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "LoadingTip_Text,Tip_AkakuZoom"
 msgid ""
 "You can zoom while wearing the Akaku by pressing the assigned key (Default is Left ALT)."
@@ -20304,22 +20276,22 @@ msgstr ""
 "умолчанию – Левый ALT)."
 
 #. Key:	Tip_CodexHints
-#. SourceLocation:	Config/DefaultGame.ini:775
-#: Config/DefaultGame.ini:775
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "LoadingTip_Text,Tip_CodexHints"
 msgid "The Codex contains not only lore, but also Gameplay hints."
 msgstr "Кодекс содержит не только информацию по лору, но и Игровые подсказки."
 
 #. Key:	Tip_MeditationStoneAutosave
-#. SourceLocation:	Config/DefaultGame.ini:775
-#: Config/DefaultGame.ini:775
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "LoadingTip_Text,Tip_MeditationStoneAutosave"
 msgid "The game Autosaves when interacting with a meditation stone."
 msgstr "Игра сохраняется автоматически при взаимодействии с Камнем Медитации."
 
 #. Key:	Tip_MeditationStonesHeal
-#. SourceLocation:	Config/DefaultGame.ini:775
-#: Config/DefaultGame.ini:775
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "LoadingTip_Text,Tip_MeditationStonesHeal"
 msgid ""
 "Meditation Stones Heal all Toa on interaction, there's no need to actually meditate for "
@@ -20329,36 +20301,36 @@ msgstr ""
 "не нужно специально медитировать у него."
 
 #. Key:	Tip_MeditationStonesInteract
-#. SourceLocation:	Config/DefaultGame.ini:775
-#: Config/DefaultGame.ini:775
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "LoadingTip_Text,Tip_MeditationStonesInteract"
 msgid "Press the interaction key while in meditation stone menu to quickly exit it."
 msgstr "Нажмите кнопку взаимодействия в меню камня медитации, чтобы быстро выйти из него."
 
 #. Key:	Tip_ObjectivesAkaku
-#. SourceLocation:	Config/DefaultGame.ini:775
-#: Config/DefaultGame.ini:775
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "LoadingTip_Text,Tip_ObjectivesAkaku"
 msgid "Quest objectives can be seen in the world when using the Akaku."
 msgstr "Квестовые задачи можно увидеть в мире при использовании Акаку."
 
 #. Key:	Tip_Save
-#. SourceLocation:	Config/DefaultGame.ini:775
-#: Config/DefaultGame.ini:775
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "LoadingTip_Text,Tip_Save"
 msgid "Remember to manually save OFTEN!"
 msgstr "Не забывайте ЧАСТО сохраняться вручную!"
 
 #. Key:	Tip_SaveSlots
-#. SourceLocation:	Config/DefaultGame.ini:775
-#: Config/DefaultGame.ini:775
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "LoadingTip_Text,Tip_SaveSlots"
 msgid "It's a good idea to Save in multiple slots."
 msgstr "Неплохой идеей будет сохраняться в нескольких слотах."
 
 #. Key:	Tip_UnderwaterElementalAttacks
-#. SourceLocation:	Config/DefaultGame.ini:775
-#: Config/DefaultGame.ini:775
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "LoadingTip_Text,Tip_UnderwaterElementalAttacks"
 msgid "Elemental Attacks can be triggered in water."
 msgstr "Атаки Стихии можно активировать в воде."
@@ -22678,6 +22650,16 @@ msgctxt "ST_GeneralLocalization,Gen_Window"
 msgid "Window"
 msgstr "Оконный"
 
+#. Key:	UIAnalogR
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#, fuzzy
+#| msgctxt "ST_GeneralLocalization,Gen_RightBlock"
+#| msgid "Right Block"
+msgctxt "ST_Localization,UIAnalogR"
+msgid "Right Analog Stick"
+msgstr "Правый Блок"
+
 #. Key:	UIAutoSave
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22797,6 +22779,13 @@ msgctxt "ST_Localization,UIExit"
 msgid "Exit"
 msgstr "Выход"
 
+#. Key:	UIExitControlScheme
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIExitControlScheme"
+msgid "{Input} <Key>to exit</>"
+msgstr "{Input} <Key>, чтобы выйти</>"
+
 #. Key:	UIFullScreen
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22817,6 +22806,13 @@ msgstr "Высокий"
 msgctxt "ST_Localization,UIHigher"
 msgid "Higher"
 msgstr "Выше"
+
+#. Key:	UILMB
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UILMB"
+msgid "Left Mouse Button"
+msgstr "Левая Кнопка Мыши"
 
 #. Key:	UILoadGame
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22852,6 +22848,13 @@ msgstr "Ниже"
 msgctxt "ST_Localization,UIMedium"
 msgid "Medium"
 msgstr "Средний"
+
+#. Key:	UIMouse
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIMouse"
+msgid "Mouse"
+msgstr "Мышь"
 
 #. Key:	UIMultiple
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22944,12 +22947,40 @@ msgctxt "ST_Localization,UISaves"
 msgid "Saves"
 msgstr "Сохранения"
 
+#. Key:	UIScroll
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIScroll"
+msgid "Scroll Wheel"
+msgstr "Колесо Мыши"
+
+#. Key:	UISelect
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UISelect"
+msgid "Select"
+msgstr "Выбрать"
+
 #. Key:	UISettings
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UISettings"
 msgid "Settings"
 msgstr "Настройки"
+
+#. Key:	UITriggersLR
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UITriggersLR"
+msgid "Left & Right Triggers"
+msgstr "Левый и Правый Триггеры"
+
+#. Key:	UIUnlimited
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIUnlimited"
+msgid "Unlimited"
+msgstr "Бесконечный"
 
 #. Key:	UIUse
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22978,6 +23009,13 @@ msgstr "Оконный"
 msgctxt "ST_Localization,UIYes"
 msgid "Yes"
 msgstr "Да"
+
+#. Key:	UIZoomControlScheme
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIZoomControlScheme"
+msgid "{Input} <Key>to zoom</>"
+msgstr "{Input} <Key>, чтобы увеличить/уменьшить</>"
 
 #. Key:	Names_Ahkmou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -24444,6 +24482,92 @@ msgstr "Обработка"
 #. Key:	CreditsScroll
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/CreditsScroll.CreditsScroll_C:WidgetTree.RichTextBlock_47.Text
 #: /Game/BluePrints/UI/MainMenu/CreditsScroll.CreditsScroll_C:WidgetTree.RichTextBlock_47.Text
+#, fuzzy
+#| msgctxt "UIText,CreditsScroll"
+#| msgid ""
+#| "Bionicle: Masks Of Power \r\n"
+#| "<Key>=Legacy=</>\r\n"
+#| "\r\n"
+#| "\r\n"
+#| "Created by:\r\n"
+#| "<Key>Team Kanohi</>\r\n"
+#| "\r\n"
+#| "Legacy Creator/Team Kanohi Founder:\r\n"
+#| "<Key>Jordan (Jocool1231) Willis</>\r\n"
+#| "\r\n"
+#| "Programmers:\r\n"
+#| "<Key>Ian (y8u332) Willis</>\r\n"
+#| "<Key>Jordan (Jocool1231) Willis</>\r\n"
+#| "<Key>ASCII (NonLocality Software)</>\r\n"
+#| "\r\n"
+#| "Animation:\r\n"
+#| "<Key>The Scarlet One</>\r\n"
+#| "<Key>Frambo</>\r\n"
+#| "<Key>ONI 3d Arts</>\r\n"
+#| "<Key>Garmagic</>\r\n"
+#| "\r\n"
+#| "Art:\r\n"
+#| "<Key>Kluuucha (Original Logo)</>\r\n"
+#| "<Key>Bumblebeelow (New Logo)</>\r\n"
+#| "<Key>Dazalius (Last Minute Level design)</>\r\n"
+#| "\r\n"
+#| "Writing:\r\n"
+#| "<Key>Markle</>\r\n"
+#| "<Key>Shinebox</>\r\n"
+#| "<Key>Jordan (Jocool1231) Willis</>\r\n"
+#| "<Key>Ian (y8u332) Willis</>\r\n"
+#| "\r\n"
+#| "Music & SFX:\r\n"
+#| "<Key>Francisco Pérez</>\r\n"
+#| "<Key>Jordan (Jocool1231) Willis</>\r\n"
+#| "<Key>Toa Aletrax</>\r\n"
+#| "\r\n"
+#| "PR/Staff & Mods:\r\n"
+#| "<Key>Jordan (Jocool1231) Willis</>\r\n"
+#| "<Key>Xeron</>\r\n"
+#| "<Key>Mid Blue</>\r\n"
+#| "<Key>Vahkiti</>\r\n"
+#| "\r\n"
+#| "Past Team Members:\r\n"
+#| "<Key>Rowan (Mod)</>\r\n"
+#| "<Key>Lil (Mod)</>\r\n"
+#| "<Key>Robert Randall (Music)</>\r\n"
+#| "<Key>Louis ''Tek16'' Ginesy (Animation)</>\r\n"
+#| "<Key>That Gary Fella (UI)</>\r\n"
+#| "<Key>Philosophy101 (Modeling)</>\r\n"
+#| "<Key>Automatik (Textures)</>\r\n"
+#| "\r\n"
+#| "Thanks to:\r\n"
+#| "<Key>FreeSound</>\r\n"
+#| "<Key>Ldraw.org</>\r\n"
+#| "<Key>Texures.com</>\r\n"
+#| "<Key>The BioPack, and all who created it</>\r\n"
+#| "<Key>Lehvak Nuva (Original Mask models)</>\r\n"
+#| "\r\n"
+#| "Special thanks to:\r\n"
+#| "\r\n"
+#| "Unreal Engine \r\n"
+#| "<Key>For having an great, and garbage engine at the same time.</>\r\n"
+#| "\r\n"
+#| "Lego \r\n"
+#| "<Key>For making an amazing IP.</>\r\n"
+#| "\r\n"
+#| "Eljay of TTV\r\n"
+#| "<Key>For helping create a fanbase for the game.</>\r\n"
+#| "\r\n"
+#| "Unreal Slackers Discord Server\r\n"
+#| "<Key>For knowing how Unreal Engine works when no one else does.</>\r\n"
+#| "\r\n"
+#| "The Bionicle Community\r\n"
+#| "<Key>You guys are ACTUALLY insane.</>\r\n"
+#| "\r\n"
+#| "All the content creators\r\n"
+#| "<Key>We love watching you play the game.</>\r\n"
+#| "<Key>Keep on doing it!</>\r\n"
+#| "\r\n"
+#| "And of course all of our loyal fans!\r\n"
+#| "\r\n"
+#| "Thank you for sticking with us this far, and may the great spirit guide you."
 msgctxt "UIText,CreditsScroll"
 msgid ""
 "Bionicle: Masks Of Power \r\n"
@@ -24498,11 +24622,22 @@ msgid ""
 "<Key>Philosophy101 (Modeling)</>\r\n"
 "<Key>Automatik (Textures)</>\r\n"
 "\r\n"
+"Translators:\r\n"
+"<Key>English Edits - NarsikTOP</>\r\n"
+"<Key>Russian - Nemezidych</>\r\n"
+"<Key>German - Thowlon & Ketooth</>\r\n"
+"<Key>French - maxim21T & ToaPohatu</>\r\n"
+"<Key>Brazilian Portuguese - PhanStove & omegalucas</>\r\n"
+"<Key>Swedish - ONI3dArts</>\r\n"
+"<Key>Polish - Turambar3791 & Kluuucha</>\r\n"
+"<Key>Hungarian - csababerencsi</>\r\n"
+"\r\n"
 "Thanks to:\r\n"
 "<Key>FreeSound</>\r\n"
 "<Key>Ldraw.org</>\r\n"
 "<Key>Texures.com</>\r\n"
-"<Key>The BioPack, and all who created it</>\r\n"
+"<Key>Stud.io</>\r\n"
+"<Key>The BioPack</>\r\n"
 "<Key>Lehvak Nuva (Original Mask models)</>\r\n"
 "\r\n"
 "Special thanks to:\r\n"
@@ -24510,11 +24645,8 @@ msgid ""
 "Unreal Engine \r\n"
 "<Key>For having an great, and garbage engine at the same time.</>\r\n"
 "\r\n"
-"Lego \r\n"
+"Christian Faber & The Original Bionicle Team\r\n"
 "<Key>For making an amazing IP.</>\r\n"
-"\r\n"
-"Eljay of TTV\r\n"
-"<Key>For helping create a fanbase for the game.</>\r\n"
 "\r\n"
 "Unreal Slackers Discord Server\r\n"
 "<Key>For knowing how Unreal Engine works when no one else does.</>\r\n"
@@ -24523,12 +24655,15 @@ msgid ""
 "<Key>You guys are ACTUALLY insane.</>\r\n"
 "\r\n"
 "All the content creators\r\n"
-"<Key>We love watching you play the game.</>\r\n"
-"<Key>Keep on doing it!</>\r\n"
+"<Key>We love watching you play the game!</>\r\n"
 "\r\n"
 "And of course all of our loyal fans!\r\n"
 "\r\n"
-"Thank you for sticking with us this far, and may the great spirit guide you."
+"Thank you for sticking with us, and may the great spirit guide you.\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"<Key>In memory of Crainy Creations & TheShadowedOne1</>"
 msgstr ""
 "Bionicle: Маски Силы \r\n"
 "<Key>=Legacy=</>\r\n"
@@ -24887,12 +25022,22 @@ msgctxt "UIText_Cosmetics,Cosmetics_VeryCoolHat_Name"
 msgid "Very Cool Hat™"
 msgstr "Очень Крутая Шапка™"
 
-#. Key:	272ECEC04193E04D6A7407BE37473CDD
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_5.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_5.Text
-msgctxt "UIText_Description,272ECEC04193E04D6A7407BE37473CDD"
-msgid "Noclip (To use if stuck):"
-msgstr "Noclip (если вы застряли):"
+#. Key:	4D5674834AEA963B60A20793D52469E1
+#. SourceLocation:	/Game/BluePrints/UI/Widget_OverwriteSaveModal.Widget_OverwriteSaveModal_C:WidgetTree.RichTextBlock_55.Text
+#: /Game/BluePrints/UI/Widget_OverwriteSaveModal.Widget_OverwriteSaveModal_C:WidgetTree.RichTextBlock_55.Text
+#, fuzzy
+#| msgctxt "UIText_Description,SaveGame_Overwrite"
+#| msgid "There is already a savefile with that name, do you want to Overwrite?"
+msgctxt "UIText_Description,4D5674834AEA963B60A20793D52469E1"
+msgid "There is already a savefile with that name, do you want to Overwrite?"
+msgstr "Сохранение с данным именем уже существует, вы хотите перезаписать его?"
+
+#. Key:	8A84782A4AE07BE1F77B838E7FFF9D8D
+#. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.IconOpacityBaseText
+#: /Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.IconOpacityBaseText
+msgctxt "UIText_Description,8A84782A4AE07BE1F77B838E7FFF9D8D"
+msgid "{Input} <Key>change icon opacity</>"
+msgstr "{Input} <Key>изменить прозрачность иконок</>"
 
 #. Key:	CosmeticsMenu_EquippedCosmetics
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticsMenu.CosmeticsMenu_C:WidgetTree.TextBlock_1.Text
@@ -24914,13 +25059,6 @@ msgstr "Нет Открытых Аксессуаров"
 msgctxt "UIText_Description,CosmeticsMenu_UnlockedCosmetics"
 msgid "Unlocked Cosmetics"
 msgstr "Открытые Аксессуары"
-
-#. Key:	GaGateCtrlsWidget_EToExit
-#. SourceLocation:	/Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_2.Text
-#: /Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_2.Text
-msgctxt "UIText_Description,GaGateCtrlsWidget_EToExit"
-msgid "E to exit"
-msgstr "Е, чтобы выйти"
 
 #. Key:	GaGateCtrlsWidget_PickupRocks
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_574.Text
@@ -24953,6 +25091,13 @@ msgctxt "UIText_Description,GiveMask_Description"
 msgid "Pick A Toa to recieve the {Mask}:"
 msgstr "Выберите Тоа, который получит {Mask}:"
 
+#. Key:	KeybindingPrompt
+#. SourceLocation:	/Game/BluePrints/UI/BMOPBindCapturePrompt.BMOPBindCapturePrompt_C:WidgetTree.TextBlock_2.Text
+#: /Game/BluePrints/UI/BMOPBindCapturePrompt.BMOPBindCapturePrompt_C:WidgetTree.TextBlock_2.Text
+msgctxt "UIText_Description,KeybindingPrompt"
+msgid "PRESS KEY TO BIND"
+msgstr "НАЖМИТЕ КЛАВИШУ ДЛЯ ПРИВЯЗКИ"
+
 #. Key:	Map_MarkerOpacity
 #. SourceLocation:	/Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock_56.Text
 #: /Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock_56.Text
@@ -24967,27 +25112,19 @@ msgctxt "UIText_Description,Map_MarkerSize"
 msgid "Marker Size"
 msgstr "Размер Маркера"
 
-#. Key:	MapCtrlsWidget_DragToMove
-#. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.ControlSchemes_MapWidget_C:WidgetTree.TextBlock.Text
-#: /Game/BluePrints/UI/ControlSchemes_MapWidget.ControlSchemes_MapWidget_C:WidgetTree.TextBlock.Text
-msgctxt "UIText_Description,MapCtrlsWidget_DragToMove"
-msgid "Left click and drag to move the map"
-msgstr "Удерживайте левую кнопку мыши и перемещайте её, чтобы передвинуть карту"
+#. Key:	MapCtrlsWidget_IconSize
+#. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.IconSizeBaseText
+#: /Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.IconSizeBaseText
+msgctxt "UIText_Description,MapCtrlsWidget_IconSize"
+msgid "{Input} <Key>change icon size</>"
+msgstr "{Input} <Key>изменить размер иконок</>"
 
-#. Key:	MapCtrlsWidget_InteractToExit
-#. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.To Exit Preamble
-#: /Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.To Exit
-#: Preamble
-msgctxt "UIText_Description,MapCtrlsWidget_InteractToExit"
-msgid "{Key} to Exit"
-msgstr "{Key}, чтобы Выйти"
-
-#. Key:	MapCtrlsWidget_ScrollToZoom
-#. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.ControlSchemes_MapWidget_C:WidgetTree.TextBlock_1.Text
-#: /Game/BluePrints/UI/ControlSchemes_MapWidget.ControlSchemes_MapWidget_C:WidgetTree.TextBlock_1.Text
-msgctxt "UIText_Description,MapCtrlsWidget_ScrollToZoom"
-msgid "Scroll to zoom"
-msgstr "Прокрутите колесо для изменения масштаба"
+#. Key:	MapCtrlsWidget_ToMove
+#. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.MoveBaseText
+#: /Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.MoveBaseText
+msgctxt "UIText_Description,MapCtrlsWidget_ToMove"
+msgid "{Input} <Key>to move the map</>"
+msgstr "{Input} <Key>, чтобы переместить карту</>"
 
 #. Key:	MaskPowerStation_AreYouSure
 #. SourceLocation:	/Game/BluePrints/UI/PowerMask.Default__PowerMask_C.PowerMaskDescription
@@ -25238,22 +25375,22 @@ msgid "Tutorial:"
 msgstr "Тренировка:"
 
 #. Key:	PausedControls_ActivateMask
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_16.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_16.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_9.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_9.Text
 msgctxt "UIText_Description,PausedControls_ActivateMask"
 msgid "Activate Mask:"
 msgstr "Активировать Маску:"
 
 #. Key:	PausedControls_AkakuZoom
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_23.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_23.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_22.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_22.Text
 msgctxt "UIText_Description,PausedControls_AkakuZoom"
 msgid "Akaku Zoom:"
 msgstr "Увеличительный режим Акаку:"
 
 #. Key:	PausedControls_Attack
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_14.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_14.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_13.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_13.Text
 msgctxt "UIText_Description,PausedControls_Attack"
 msgid "Attack:"
 msgstr "Атака:"
@@ -25266,8 +25403,8 @@ msgid "Attacking Enters Combat:"
 msgstr "Атака, включающая Боевой режим:"
 
 #. Key:	PausedControls_AutoWalk
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_21.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_21.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_20.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_20.Text
 msgctxt "UIText_Description,PausedControls_AutoWalk"
 msgid "Auto Walk:"
 msgstr "Авто-ходьба:"
@@ -25279,19 +25416,39 @@ msgctxt "UIText_Description,PausedControls_BackMovement"
 msgid "Backward Movement:"
 msgstr "Движение Назад:"
 
-#. Key:	PausedControls_ConsumeSlot1
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_40.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_40.Text
-msgctxt "UIText_Description,PausedControls_ConsumeSlot1"
+#. Key:	PausedControls_ConsumableSlot1
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_15.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_15.Text
+#, fuzzy
+#| msgctxt "UIText_Description,PausedControls_ConsumeSlot1"
+#| msgid "Consumable Slot 1:"
+msgctxt "UIText_Description,PausedControls_ConsumableSlot1"
 msgid "Consumable Slot 1:"
 msgstr "Расходник в Слоте 1:"
 
-#. Key:	PausedControls_ConsumeSlot2
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_41.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_41.Text
-msgctxt "UIText_Description,PausedControls_ConsumeSlot2"
+#. Key:	PausedControls_ConsumableSlot2
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_40.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_40.Text
+#, fuzzy
+#| msgctxt "UIText_Description,PausedControls_ConsumeSlot2"
+#| msgid "Consumable Slot 2:"
+msgctxt "UIText_Description,PausedControls_ConsumableSlot2"
 msgid "Consumable Slot 2:"
 msgstr "Расходник в Слоте 2:"
+
+#. Key:	PausedControls_ControllerInputIcons
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_5.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_5.Text
+msgctxt "UIText_Description,PausedControls_ControllerInputIcons"
+msgid "Controller Input Icons:"
+msgstr "Значки Ввода Контроллера:"
+
+#. Key:	PausedControls_ControllerLookSpeed
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_44.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_44.Text
+msgctxt "UIText_Description,PausedControls_ControllerLookSpeed"
+msgid "Controller Look Speed:"
+msgstr "Скорость поворота (Контроллер):"
 
 #. Key:	PausedControls_Crouch
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_8.Text
@@ -25301,8 +25458,8 @@ msgid "Crouch:"
 msgstr "Присесть:"
 
 #. Key:	PausedControls_ElementalPower
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_15.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_15.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_14.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_14.Text
 msgctxt "UIText_Description,PausedControls_ElementalPower"
 msgid "Elemental Power:"
 msgstr "Сила Стихии:"
@@ -25314,9 +25471,23 @@ msgctxt "UIText_Description,PausedControls_ForewardMovement"
 msgid "Forward Movement:"
 msgstr "Движение Вперёд:"
 
+#. Key:	PausedControls_InputIcons_DualShock
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.BmopComboBoxSetting_Fog.Options(1).Options.Label
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.BmopComboBoxSetting_Fog.Options(1).Options.Label
+msgctxt "UIText_Description,PausedControls_InputIcons_DualShock"
+msgid "DualShock"
+msgstr "DualShock"
+
+#. Key:	PausedControls_InputIcons_Xbox
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.BmopComboBoxSetting_Fog.Options(0).Options.Label
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.BmopComboBoxSetting_Fog.Options(0).Options.Label
+msgctxt "UIText_Description,PausedControls_InputIcons_Xbox"
+msgid "Xbox"
+msgstr "Xbox"
+
 #. Key:	PausedControls_Interact
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_9.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_9.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_43.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_43.Text
 msgctxt "UIText_Description,PausedControls_Interact"
 msgid "Interact:"
 msgstr "Взаимодействие:"
@@ -25336,8 +25507,8 @@ msgid "Left Movement:"
 msgstr "Движение Влево:"
 
 #. Key:	PausedControls_LockOn
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_22.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_22.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_21.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_21.Text
 msgctxt "UIText_Description,PausedControls_LockOn"
 msgid "Lock On:"
 msgstr "Зафиксировать цель:"
@@ -25364,36 +25535,43 @@ msgid "Mask Shortcuts:"
 msgstr "Переключение на Маску:"
 
 #. Key:	PausedControls_MaskWheel
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_11.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_11.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_10.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_10.Text
 msgctxt "UIText_Description,PausedControls_MaskWheel"
 msgid "Mask Wheel:"
 msgstr "Колесо Масок:"
 
-#. Key:	PausedControls_OpenInv
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_39.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_39.Text
-msgctxt "UIText_Description,PausedControls_OpenInv"
+#. Key:	PausedControls_Noclip
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_37.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_37.Text
+msgctxt "UIText_Description,PausedControls_Noclip"
+msgid "Noclip (To use if stuck):"
+msgstr "Noclip (если вы застряли):"
+
+#. Key:	PausedControls_OpenInventory
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_17.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_17.Text
+msgctxt "UIText_Description,PausedControls_OpenInventory"
 msgid "Open Inventory:"
 msgstr "Открыть Инвентарь:"
 
 #. Key:	PausedControls_OpenMap
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_17.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_17.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_18.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_18.Text
 msgctxt "UIText_Description,PausedControls_OpenMap"
 msgid "Open Map:"
 msgstr "Открыть Карту:"
 
 #. Key:	PausedControls_QuestMenu
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_18.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_18.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_41.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_41.Text
 msgctxt "UIText_Description,PausedControls_QuestMenu"
 msgid "Quest Menu:"
 msgstr "Меню Квестов:"
 
 #. Key:	PausedControls_ReadyWeapon
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_13.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_13.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_11.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_11.Text
 msgctxt "UIText_Description,PausedControls_ReadyWeapon"
 msgid "Ready Weapon:"
 msgstr "Приготовить Оружие:"
@@ -25406,8 +25584,8 @@ msgid "Right Movement:"
 msgstr "Движение Вправо:"
 
 #. Key:	PausedControls_SlowWalk
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_20.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_20.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_39.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_39.Text
 msgctxt "UIText_Description,PausedControls_SlowWalk"
 msgid "Slow Walk:"
 msgstr "Ходьба:"
@@ -25419,16 +25597,19 @@ msgctxt "UIText_Description,PausedControls_Sprint"
 msgid "Sprint:"
 msgstr "Бег:"
 
-#. Key:	PausedControls_SwapMasksBack
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_37.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_37.Text
-msgctxt "UIText_Description,PausedControls_SwapMasksBack"
+#. Key:	PausedControls_SwapMasksBackward
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_38.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_38.Text
+#, fuzzy
+#| msgctxt "UIText_Description,PausedControls_SwapMasksBack"
+#| msgid "Swap Masks Backward:"
+msgctxt "UIText_Description,PausedControls_SwapMasksBackward"
 msgid "Swap Masks Backward:"
 msgstr "Переключить на Предыдущую Маску:"
 
 #. Key:	PausedControls_SwapMasksForward
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_38.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_38.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_19.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_19.Text
 msgctxt "UIText_Description,PausedControls_SwapMasksForward"
 msgid "Swap Masks Forward:"
 msgstr "Переключить на Следующую Маску:"
@@ -25441,16 +25622,19 @@ msgid "Switch Views:"
 msgstr "Переключить вид (1/3 лицо):"
 
 #. Key:	PausedControls_ToaWheel
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_10.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_10.Text
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_16.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_16.Text
 msgctxt "UIText_Description,PausedControls_ToaWheel"
 msgid "Toa Wheel:"
 msgstr "Колесо Тоа:"
 
-#. Key:	PausedControls_ToggleHud
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_19.Text
-#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_19.Text
-msgctxt "UIText_Description,PausedControls_ToggleHud"
+#. Key:	PausedControls_ToggleHUD
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_23.Text
+#: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_23.Text
+#, fuzzy
+#| msgctxt "UIText_Description,PausedControls_ToggleHud"
+#| msgid "Toggle HUD:"
+msgctxt "UIText_Description,PausedControls_ToggleHUD"
 msgid "Toggle HUD:"
 msgstr "Включить/выключить HUD:"
 
@@ -25601,6 +25785,14 @@ msgctxt "UIText_Description,PausedGraphicsSettings_VSync"
 msgid "Vsync:          "
 msgstr "Вертикальная синхронизация:          "
 
+#. Key:	Powermask_Cost
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_FilteredUse.UI_FilteredUse_C:ExecuteUbergraph_UI_FilteredUse [Script Bytecode]
+#: /Game/BluePrints/Classes/Inventory/UI_FilteredUse.UI_FilteredUse_C:ExecuteUbergraph_UI_FilteredUse
+#: [Script Bytecode]
+msgctxt "UIText_Description,Powermask_Cost"
+msgid "Powering this mask requires: <Key>{Cost}</>  Wahae Mata Gel."
+msgstr "Для зарядки данной маски потребуется: <Key>{Cost}</> единиц Геля Вахе Мата.</>"
+
 #. Key:	PowerMask_Gel_ToolTip
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_FilteredUse.UI_FilteredUse_C:WidgetTree.ItemName.Text
 #: /Game/BluePrints/Classes/Inventory/UI_FilteredUse.UI_FilteredUse_C:WidgetTree.ItemName.Text
@@ -25621,13 +25813,6 @@ msgstr "Сохранение Игрока"
 msgctxt "UIText_Description,SaveGame_NameInputHint"
 msgid "Enter Save Name Here"
 msgstr "Введите тут название Сохранения"
-
-#. Key:	SaveGame_Overwrite
-#. SourceLocation:	/Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.RichTextBlock_55.Text
-#: /Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.RichTextBlock_55.Text
-msgctxt "UIText_Description,SaveGame_Overwrite"
-msgid "There is already a savefile with that name, do you want to Overwrite?"
-msgstr "Сохранение с данным именем уже существует, вы хотите перезаписать его?"
 
 #. Key:	Saves_Auto
 #. SourceLocation:	/Game/BluePrints/Classes/Saving/TypeSave.TypeSave.DisplayNameMap(0 - Value).DisplayNameMap
@@ -25764,27 +25949,12 @@ msgctxt "UIText_Description,TabMenu_Quest_SideQuests"
 msgid "OPTIONAL QUESTS"
 msgstr "ДОПОЛНИТЕЛЬНЫЕ КВЕСТЫ"
 
-#. Key:	TelescopeCtrlsWidget_InteractToExit
-#. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_TelescopeWidget.Default__ControlSchemes_TelescopeWidget_C.To Exit Preamble
-#: /Game/BluePrints/UI/ControlSchemes_TelescopeWidget.Default__ControlSchemes_TelescopeWidget_C.To
-#: Exit Preamble
-msgctxt "UIText_Description,TelescopeCtrlsWidget_InteractToExit"
-msgid "{Key} to Exit"
-msgstr "{Key}, чтобы Выйти"
-
-#. Key:	TelescopeCtrlsWidget_MouseToRotate
-#. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_TelescopeWidget.ControlSchemes_TelescopeWidget_C:WidgetTree.TextBlock.Text
-#: /Game/BluePrints/UI/ControlSchemes_TelescopeWidget.ControlSchemes_TelescopeWidget_C:WidgetTree.TextBlock.Text
-msgctxt "UIText_Description,TelescopeCtrlsWidget_MouseToRotate"
-msgid "Move mouse to rotate camera"
-msgstr "Двигайте мышкой, чтобы вращать камеру"
-
-#. Key:	TelescopeCtrlsWidget_ScrollToZoom
-#. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_TelescopeWidget.ControlSchemes_TelescopeWidget_C:WidgetTree.TextBlock_1.Text
-#: /Game/BluePrints/UI/ControlSchemes_TelescopeWidget.ControlSchemes_TelescopeWidget_C:WidgetTree.TextBlock_1.Text
-msgctxt "UIText_Description,TelescopeCtrlsWidget_ScrollToZoom"
-msgid "Scroll to zoom"
-msgstr "Прокрутите колесо, чтобы изменить масштаб"
+#. Key:	TelescopeCtrlsWidget_ToLook
+#. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_TelescopeNewWidget.Default__ControlSchemes_TelescopeNewWidget_C.LookBaseText
+#: /Game/BluePrints/UI/ControlSchemes_TelescopeNewWidget.Default__ControlSchemes_TelescopeNewWidget_C.LookBaseText
+msgctxt "UIText_Description,TelescopeCtrlsWidget_ToLook"
+msgid "{Input} <Key>to rotate telescope</>"
+msgstr "{Input} <Key>, чтобы навести телескоп</>"
 
 #. Key:	ThankYou_Header
 #. SourceLocation:	/Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.TextBlock_196.Text
@@ -25796,15 +25966,27 @@ msgstr "Спасибо за игру!"
 #. Key:	ThankYou_Message
 #. SourceLocation:	/Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.RichTextBlock_111.Text
 #: /Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.RichTextBlock_111.Text
+#, fuzzy
+#| msgctxt "UIText_Description,ThankYou_Message"
+#| msgid ""
+#| "<Key>We at Team Kanohi Thank you for playing our game!</>\r\n"
+#| "\r\n"
+#| "<Key>Masks of Power has been in the works for over 6 years now, and with Legacy "
+#| "finally complete we will be able to fully focus on 2.0. Thank you for sticking with "
+#| "us for all this time, we hope you enjoyed, and are looking forward to our future "
+#| "projects!</>\r\n"
+#| "\r\n"
+#| "<Key>To keep a closer eye on our </>Legacy<Key>, check out our social media:</>"
 msgctxt "UIText_Description,ThankYou_Message"
 msgid ""
 "<Key>We at Team Kanohi Thank you for playing our game!</>\r\n"
 "\r\n"
-"<Key>Masks of Power has been in the works for over 6 years now, and with Legacy finally "
-"complete we will be able to fully focus on 2.0. Thank you for sticking with us for all "
-"this time, we hope you enjoyed, and are looking forward to our future projects!</>\r\n"
+"<Key>Masks of Power has been in the works for over 6 years now.</>\r\n"
+"<Key>Thank you for sticking with us for all this time, we hope you enjoyed, and are "
+"looking forward to our future projects!</>\r\n"
 "\r\n"
-"<Key>To keep a closer eye on our </>Legacy<Key>, check out our social media:</>"
+"<Key>To keep a closer eye on our </>Legacy<Key> as </>Unmasked Games<Key>, check out our "
+"social media:</>"
 msgstr ""
 "<Key>Мы в Team Kanohi благодарим вас за то, что вы сыграли в нашу игру!</>\r\n"
 "\r\n"
@@ -25851,20 +26033,6 @@ msgstr "(Продавец купит это по цене <Key>{Ниже/Выш�
 msgctxt "UIText_Description,TradeMenu_SellAmount"
 msgid "Sell for: {Amount}"
 msgstr "Продать за: {Amount}"
-
-#. Key:	TradeMenu_TotalCost
-#. SourceLocation:	/Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.WidgetsLostText.Text
-#: /Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.WidgetsLostText.Text
-msgctxt "UIText_Description,TradeMenu_TotalCost"
-msgid "Spend:"
-msgstr "Будет потрачено:"
-
-#. Key:	TradeMenu_TotalProfit
-#. SourceLocation:	/Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.WidgetsGainedText.Text
-#: /Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.WidgetsGainedText.Text
-msgctxt "UIText_Description,TradeMenu_TotalProfit"
-msgid "Sell for:"
-msgstr "Продать за:"
 
 #. Key:	TradeMenu_TraderInv
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.TradeMenu_C:WidgetTree.TraderTitle.Text
@@ -26249,8 +26417,8 @@ msgid "The Resolution the game is displayed at."
 msgstr "Разрешение, в котором отображается игра."
 
 #. Key:	PausedDisplaySettings_ResolutionPercent_Tooltip
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.BMOPSliderSettingClamped_C_9.ToolTipText
-#: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.BMOPSliderSettingClamped_C_9.ToolTipText
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.ResPercentSlider.ToolTipText
+#: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.ResPercentSlider.ToolTipText
 msgctxt "UIText_ToolTip,PausedDisplaySettings_ResolutionPercent_Tooltip"
 msgid "The percentage of resolution the game renders."
 msgstr "Процент разрешения, который отображает игра."
@@ -26349,8 +26517,8 @@ msgid "Changes the field of vision for the camera."
 msgstr "Изменение угла обзора для камеры."
 
 #. Key:	PausedGraphicsSettings_FrameLimit_ToolTip
-#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.FOVSlider_1.ToolTipText
-#: /Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.FOVSlider_1.ToolTipText
+#. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.FrameLimitSlider.ToolTipText
+#: /Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.FrameLimitSlider.ToolTipText
 msgctxt "UIText_ToolTip,PausedGraphicsSettings_FrameLimit_ToolTip"
 msgid "Limit the framerate of the game."
 msgstr "Ограничение частоты кадров в игре."
@@ -26401,6 +26569,58 @@ msgid ""
 msgstr ""
 "Устраняет разрыв изображения путём ограничения \r\n"
 "частоты кадров до частоты обновления экрана"
+
+#~ msgctxt "AutoSettings,AltKey"
+#~ msgid "Alt"
+#~ msgstr "Alt"
+
+#~ msgctxt "AutoSettings,CmdKey"
+#~ msgid "Cmd"
+#~ msgstr "Cmd"
+
+#~ msgctxt "AutoSettings,CtrlKey"
+#~ msgid "Ctrl"
+#~ msgstr "Ctrl"
+
+#~ msgctxt "AutoSettings,ShiftKey"
+#~ msgid "Shift"
+#~ msgstr "Shift"
+
+#~ msgctxt "UIText_Description,GaGateCtrlsWidget_EToExit"
+#~ msgid "E to exit"
+#~ msgstr "Е, чтобы выйти"
+
+#~ msgctxt "UIText_Description,MapCtrlsWidget_DragToMove"
+#~ msgid "Left click and drag to move the map"
+#~ msgstr "Удерживайте левую кнопку мыши и перемещайте её, чтобы передвинуть карту"
+
+#~ msgctxt "UIText_Description,MapCtrlsWidget_InteractToExit"
+#~ msgid "{Key} to Exit"
+#~ msgstr "{Key}, чтобы Выйти"
+
+#~ msgctxt "UIText_Description,MapCtrlsWidget_ScrollToZoom"
+#~ msgid "Scroll to zoom"
+#~ msgstr "Прокрутите колесо для изменения масштаба"
+
+#~ msgctxt "UIText_Description,TelescopeCtrlsWidget_InteractToExit"
+#~ msgid "{Key} to Exit"
+#~ msgstr "{Key}, чтобы Выйти"
+
+#~ msgctxt "UIText_Description,TelescopeCtrlsWidget_MouseToRotate"
+#~ msgid "Move mouse to rotate camera"
+#~ msgstr "Двигайте мышкой, чтобы вращать камеру"
+
+#~ msgctxt "UIText_Description,TelescopeCtrlsWidget_ScrollToZoom"
+#~ msgid "Scroll to zoom"
+#~ msgstr "Прокрутите колесо, чтобы изменить масштаб"
+
+#~ msgctxt "UIText_Description,TradeMenu_TotalCost"
+#~ msgid "Spend:"
+#~ msgstr "Будет потрачено:"
+
+#~ msgctxt "UIText_Description,TradeMenu_TotalProfit"
+#~ msgid "Sell for:"
+#~ msgstr "Продать за:"
 
 #~ msgctxt "Dialogue_Text,DL_LightstoneCaveMaster_Help"
 #~ msgid ""
