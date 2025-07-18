@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-07-18 21:32+0300\n"
+"PO-Revision-Date: 2025-07-18 21:34+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -24662,7 +24662,7 @@ msgstr ""
 "\r\n"
 "\r\n"
 "\r\n"
-"<Key>В память Crainy Creations и TheShadowedOne1</>"
+"<Key>В память о Crainy Creations и TheShadowedOne1</>"
 
 #. Key:	Dead_Descriptions
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Dead.Widget_Dead_C:WidgetTree.TextBlock_0.Text
