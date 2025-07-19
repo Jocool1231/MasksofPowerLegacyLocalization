@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-07-19 09:21+0300\n"
+"PO-Revision-Date: 2025-07-19 09:28+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12175,8 +12175,8 @@ msgid ""
 "Why this is another Protosteel tool! I would have left here with it long ago, however "
 "I'm not strong enough to pull it from the stone!"
 msgstr ""
-"Конечно чтобы продавать! Лавка инструментов и оружия Кохи станет лучшим и единственным "
-"поставщиком вооружения из Протостали!"
+"О, это ещё один инструмент из Протостали! Я бы давно вернулся с ним обратно, но я "
+"недостаточно силён, чтобы вытащить его из камня!"
 
 #. Key:	DL_KoTownSeller
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSeller.Default__DL_KoTownSeller_C.DialogueText
@@ -13444,7 +13444,7 @@ msgid ""
 "gone behind Nuju’s back to complete this task. I still feel uneasy about this..."
 msgstr ""
 "Я... я знаю, что делаю всё правильно, помогая вам... но я сделал это без ведома Нуджу, "
-"чтобы помочь. Мне всё ещё немножко не по себе."
+"чтобы выполнить эту задачу. Мне всё ещё немножко не по себе..."
 
 #. Key:	DL_MatoroKiniReturn3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniReturn3.Default__DL_MatoroKiniReturn3_C.DialogueText
@@ -14036,7 +14036,7 @@ msgstr "Ирик, Клак, Клак."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovo1.Default__DL_NujuCovo1_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuCovo1"
 msgid "Nuju extends his welcome to you, $T."
-msgstr "Нуджу рад тебя приветствовать, $T."
+msgstr "Нуджу рад вас приветствовать, $T."
 
 #. Key:	DL_NujuCovoBlocked
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoBlocked.Default__DL_NujuCovoBlocked_C.DialogueText
@@ -14057,14 +14057,14 @@ msgstr "Клик кик-чирик ирик..."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoFinal1.Default__DL_NujuCovoFinal1_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuCovoFinal1"
 msgid "Nuju extends his welcome to you, $T."
-msgstr "Нуджу рад тебя приветствовать, $T."
+msgstr "Нуджу рад вас приветствовать, $T."
 
 #. Key:	DL_NujuCovoKiniReturn
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturn.Default__DL_NujuCovoKiniReturn_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturn.Default__DL_NujuCovoKiniReturn_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuCovoKiniReturn"
 msgid "Nuju extends his welcome to you, $T."
-msgstr "Нуджу рад тебя приветствовать, $T."
+msgstr "Нуджу рад вас приветствовать, $T."
 
 #. Key:	DL_NujuCovoKiniReturnKopaka
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturnKopaka.Default__DL_NujuCovoKiniReturnKopaka_C.DialogueText
