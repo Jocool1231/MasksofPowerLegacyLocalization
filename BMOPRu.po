@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-07-19 11:50+0300\n"
+"PO-Revision-Date: 2025-07-19 11:52+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25908,7 +25908,8 @@ msgstr ""
 "<Key>Спасибо, что были с нами всё это время, мы надеемся, что вам понравилось, и вы с "
 "нетерпением ждёте наших новых проектов!</>\r\n"
 "\r\n"
-"<Key>Чтобы следить за нашим </>Legacy<Key>, загляните в наши социальные сети:</>"
+"<Key>Чтобы следить за нашим </>Legacy<Key> в лице </>Unmasked Games<Key>, загляните в "
+"наши социальные сети:</>"
 
 #. Key:	ThankYou_Website
 #. SourceLocation:	/Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.TextBlock_3.Text
