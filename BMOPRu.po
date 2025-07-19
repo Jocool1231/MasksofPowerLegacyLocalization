@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-07-19 11:52+0300\n"
+"PO-Revision-Date: 2025-07-19 11:59+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -7478,7 +7478,7 @@ msgstr "Можно взглянуть?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMaskJuiceQuestion.Default__DL_SellerMaskJuiceQuestion_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_SellerMaskJuiceQuestion_PlayerResponse_2"
 msgid "I'm not interested."
-msgstr "Я не  {G}|gender(заинтересован, заинтересована)."
+msgstr "Я не {G}|gender(заинтересован, заинтересована)."
 
 #. Key:	DL_SellerMasks1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasks1.Default__DL_SellerMasks1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
