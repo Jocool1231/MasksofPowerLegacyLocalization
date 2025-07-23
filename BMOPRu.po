@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-07-23 16:56+0300\n"
+"PO-Revision-Date: 2025-07-23 17:04+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -17460,7 +17460,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_ThueiIntro.Default__DL_ThueiIntro_C.DialogueText
 msgctxt "Dialogue_Text,DL_ThueiIntro"
 msgid "A little to the left, maybe... No, that wouldn't look right..."
-msgstr "Чуть-чуть влево, может... Нет, это не так выглядит..."
+msgstr "Чуть-чуть влево, может... Нет, это не так хорошо будет выглядеть..."
 
 #. Key:	DL_ThueiOutro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_ThueiOutro.Default__DL_ThueiOutro_C.DialogueText
