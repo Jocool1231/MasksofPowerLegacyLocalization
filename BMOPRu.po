@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-07-23 17:12+0300\n"
+"PO-Revision-Date: 2025-07-30 12:48+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -2231,7 +2231,7 @@ msgstr "Нет, не {G}|gender(сказал, сказала) бы."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFStones2.Default__DL_Allknowingmatoran_WDYFStones2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFStones2_PlayerResponse_1"
 msgid "Yes, In fact there was, he was purple and white, and was wearing a Huna."
-msgstr "Да, в действительности был. Он был фиолетовым и белым, а ещё он носил Хуну."
+msgstr "Да, действительно был. Он был фиолетовым и белым, а ещё он носил Хуну."
 
 #. Key:	DL_Allknowingmatoran_WDYFStones_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFStones.Default__DL_Allknowingmatoran_WDYFStones_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
