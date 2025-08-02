@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-02 17:17+0200\n"
+"PO-Revision-Date: 2025-08-02 17:20+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE@formal\n"
@@ -18228,119 +18228,104 @@ msgstr "Ta Makoki Stone"
 #. Key:	Item_ThueiNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ThueiNote.Item_ThueiNote.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ThueiNote.Item_ThueiNote.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_ThueiNote"
 msgid "'Out carving!'"
-msgstr "'Out carving!'"
+msgstr "»Raus schnitzen!«"
 
 #. Key:	Item_TombKey
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_PirateKey.Item_PirateKey.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_PirateKey.Item_PirateKey.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_TombKey"
 msgid "Tomb Key"
-msgstr "Tomb Key"
+msgstr "Grab-Schlüssel"
 
 #. Key:	Item_UnpoweredAkaku
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredAkaku.Item_UnpoweredAkaku.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredAkaku.Item_UnpoweredAkaku.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_UnpoweredAkaku"
 msgid "Akaku (Unpowered)"
-msgstr "Akaku (Unpowered)"
+msgstr "Akaku (ohne Kraft)"
 
 #. Key:	Item_UnpoweredHuna
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredHuna.Item_UnpoweredHuna.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredHuna.Item_UnpoweredHuna.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_UnpoweredHuna"
 msgid "Huna (Unpowered)"
-msgstr "Huna (Unpowered)"
+msgstr "Huna (ohne Kraft)"
 
 #. Key:	Item_UnpoweredKaukau
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredKaukau.Item_UnpoweredKaukau.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredKaukau.Item_UnpoweredKaukau.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_UnpoweredKaukau"
 msgid "Kaukau (Unpowered)"
-msgstr "Kaukau (Unpowered)"
+msgstr "Kaukau (ohne Kraft)"
 
 #. Key:	Item_UnpoweredKomau
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredKomau.Item_UnpoweredKomau.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredKomau.Item_UnpoweredKomau.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_UnpoweredKomau"
 msgid "Komau (Unpowered)"
-msgstr "Komau (Unpowered)"
+msgstr "Komau (ohne Kraft)"
 
 #. Key:	Item_UnpoweredMahiki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMahiki.Item_UnpoweredMahiki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMahiki.Item_UnpoweredMahiki.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_UnpoweredMahiki"
 msgid "Mahiki (Unpowered)"
-msgstr "Mahiki (Unpowered)"
+msgstr "Mahiki (ohne Kraft)"
 
 #. Key:	Item_UnpoweredMatatu
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMatatu.Item_UnpoweredMatatu.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMatatu.Item_UnpoweredMatatu.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_UnpoweredMatatu"
 msgid "Matatu (Unpowered)"
-msgstr "Matatu (Unpowered)"
+msgstr "Matatu (ohne Kraft)"
 
 #. Key:	Item_UnpoweredMiru
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMiru.Item_UnpoweredMiru.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredMiru.Item_UnpoweredMiru.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_UnpoweredMiru"
 msgid "Miru (Unpowered)"
-msgstr "Miru (Unpowered)"
+msgstr "Miru (ohne Kraft)"
 
 #. Key:	Item_UnpoweredPakari
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredPakari.Item_UnpoweredPakari.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredPakari.Item_UnpoweredPakari.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_UnpoweredPakari"
 msgid "Pakari (Unpowered)"
-msgstr "Pakari (Unpowered)"
+msgstr "Pakari (ohne Kraft)"
 
 #. Key:	Item_UnpoweredRau
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredRau.Item_UnpoweredRau.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredRau.Item_UnpoweredRau.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_UnpoweredRau"
 msgid "Rau (Unpowered)"
-msgstr "Rau (Unpowered)"
+msgstr "Rau (Ohne Kraft)"
 
 #. Key:	Item_UnpoweredRuru
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredRuru.Item_UnpoweredRuru.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_UnpoweredRuru.Item_UnpoweredRuru.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_UnpoweredRuru"
 msgid "Ruru (Unpowered)"
-msgstr "Ruru (Unpowered)"
+msgstr "Ruru (ohne Kraft)"
 
 #. Key:	Item_VuataMacaSeeds
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_VuataMacaSeeds.Item_VuataMacaSeeds.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_VuataMacaSeeds.Item_VuataMacaSeeds.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_VuataMacaSeeds"
 msgid "Vuata Maca Seeds"
-msgstr "Vuata Maca Seeds"
+msgstr "Vuata Maca Samen"
 
 #. Key:	Item_WaheCanister
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Item_WaheCanister.Item_WaheCanister.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Item_WaheCanister.Item_WaheCanister.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_WaheCanister"
 msgid "Wahae-Mata Gel Canister"
-msgstr "Wahae-Mata Gel Canister"
+msgstr "Wahae-Mata Gel-Kanister"
 
 #. Key:	Item_WaheGel
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Item_WaheGel.Item_WaheGel.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Item_WaheGel.Item_WaheGel.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_WaheGel"
 msgid "Wahae-Mata Gel"
 msgstr "Wahae-Mata Gel"
@@ -18348,15 +18333,13 @@ msgstr "Wahae-Mata Gel"
 #. Key:	Item_WhakaNui
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_WhakaNui.Item_WhakaNui.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_WhakaNui.Item_WhakaNui.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_WhakaNui"
 msgid "Whakata Nui Cell"
-msgstr "Whakata Nui Cell"
+msgstr "Whakata Nui Zelle"
 
 #. Key:	Item_Widgets
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Widgets.Item_Widgets.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Widgets.Item_Widgets.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_Widgets"
 msgid "Widgets"
 msgstr "Widgets"
@@ -18364,10 +18347,9 @@ msgstr "Widgets"
 #. Key:	Item_WoodStatue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_WoodStatue"
 msgid "Wood Head Statue"
-msgstr "Wood Head Statue"
+msgstr "Holzkopf-Statue"
 
 #. Key:	Item_WorldMap
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Name
@@ -19389,10 +19371,9 @@ msgstr "Der Toa der Lüfte"
 #. Key:	Quest_LostResearch
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_LostResearch.Default__Quest_LostResearch_C.QuestName
 #: /Game/BluePrints/Classes/Quests/Quest_LostResearch.Default__Quest_LostResearch_C.QuestName
-#, fuzzy
 msgctxt "Quest_Name,Quest_LostResearch"
 msgid "Lost Research"
-msgstr "Lost Research"
+msgstr "Verlorene Forschung"
 
 #. Key:	Quest_Mangaia
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.QuestName
