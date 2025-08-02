@@ -22110,6 +22110,7 @@ msgstr "The Density of Foliage\r\n(Grass, Bushes, etc.)"
 #: /Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.FOVSlider.ToolTipText
 msgctxt "UIText_ToolTip,PausedGraphicsSettings_FOV_ToolTip"
 msgid "Changes the field of vision for the camera."
+msgstr "Changes the field of vision for the camera."
 
 #. Key:	PausedGraphicsSettings_FrameLimit_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.FrameLimitSlider.ToolTipText
