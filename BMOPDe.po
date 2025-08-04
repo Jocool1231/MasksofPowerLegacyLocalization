@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-02 17:20+0200\n"
+"PO-Revision-Date: 2025-08-04 17:04+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE@formal\n"
@@ -3891,186 +3891,163 @@ msgstr "Noch nicht."
 #. Key:	DL_KylmaNotesFound_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaNotesFound.Default__DL_KylmaNotesFound_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaNotesFound.Default__DL_KylmaNotesFound_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_KylmaNotesFound_PlayerResponse_1"
 msgid "If you insist."
-msgstr "If you insist."
+msgstr "Wenn du darauf bestehst."
 
 #. Key:	DL_KylmaReading_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaReading.Default__DL_KylmaReading_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaReading.Default__DL_KylmaReading_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_KylmaReading_PlayerResponse_1"
 msgid "It was no trouble."
-msgstr "It was no trouble."
+msgstr "Es war kein Problem."
 
 #. Key:	DL_KylmaRuins_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaRuins.Default__DL_KylmaRuins_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaRuins.Default__DL_KylmaRuins_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_KylmaRuins_PlayerResponse_1"
 msgid "Then I'll return once I've recovered your research."
-msgstr "Then I'll return once I've recovered your research."
+msgstr "Dann werde ich zurückkehren, sobald ich Eure Nachforschungen wiedergefunden habe."
 
 #. Key:	DL_KylmaTrouble2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble2.Default__DL_KylmaTrouble2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble2.Default__DL_KylmaTrouble2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_KylmaTrouble2_PlayerResponse_1"
 msgid "And your research was left there?"
-msgstr "And your research was left there?"
+msgstr "Und deine Forschung wurde dort gelassen?"
 
 #. Key:	DL_KylmaTrouble3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble3.Default__DL_KylmaTrouble3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble3.Default__DL_KylmaTrouble3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_KylmaTrouble3_PlayerResponse_1"
 msgid "And you want me to recover it for you?"
-msgstr "And you want me to recover it for you?"
+msgstr "Und du willst, dass ich es für dich zurückhole?"
 
 #. Key:	DL_KylmaTrouble4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble4.Default__DL_KylmaTrouble4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble4.Default__DL_KylmaTrouble4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_KylmaTrouble4_PlayerResponse_1"
 msgid "Where exactly are theese ruins?"
-msgstr "Where exactly are theese ruins?"
+msgstr "Wo genau befinden sich diese Ruinen?"
 
 #. Key:	DL_KylmaTrouble_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble.Default__DL_KylmaTrouble_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble.Default__DL_KylmaTrouble_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_KylmaTrouble_PlayerResponse_1"
 msgid "Do you have any idea where it could be?"
-msgstr "Do you have any idea where it could be?"
+msgstr "Hast du eine Idee, wo es sein könnte?"
 
 #. Key:	DL_KylmaWhere_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_KylmaWhere_PlayerResponse_1"
 msgid "What seems to be the problem little one?"
-msgstr "What seems to be the problem little one?"
+msgstr "Was scheint das Problem zu sein, Kleiner?"
 
 #. Key:	DL_KylmaWhere_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_KylmaWhere_PlayerResponse_2"
 msgid "I have recovered your research"
-msgstr "I have recovered your research"
+msgstr "Ich habe deine Forschung gefunden"
 
 #. Key:	DL_LavaFarmerBreak_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_LavaFarmerBreak.Default__DL_LavaFarmerBreak_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_LavaFarmerBreak.Default__DL_LavaFarmerBreak_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LavaFarmerBreak_PlayerResponse_1"
 msgid "I bet it is."
-msgstr "I bet it is."
+msgstr "Ich wette, das ist es."
 
 #. Key:	DL_LeQuestExpos_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestExpos.Default__DL_LeQuestExpos_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestExpos.Default__DL_LeQuestExpos_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestExpos_PlayerResponse_1"
 msgid "I'll find your friend."
-msgstr "I'll find your friend."
+msgstr "Ich werde deinen Freund finden."
 
 #. Key:	DL_LeQuestExpos_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestExpos.Default__DL_LeQuestExpos_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestExpos.Default__DL_LeQuestExpos_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestExpos_PlayerResponse_2"
 msgid "Your friend will have to stay lost for now."
-msgstr "Your friend will have to stay lost for now."
+msgstr "Dein Freund muss vorerst verschollen bleiben"
 
 #. Key:	DL_LeQuestKumo_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumo.Default__DL_LeQuestKumo_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumo.Default__DL_LeQuestKumo_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestKumo_PlayerResponse_1"
 msgid "From what?"
-msgstr "From what?"
+msgstr "Wovor?"
 
 #. Key:	DL_LeQuestKumo_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumo.Default__DL_LeQuestKumo_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumo.Default__DL_LeQuestKumo_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestKumo_PlayerResponse_2"
 msgid "Yes, Your friend sent me."
-msgstr "Yes, Your friend sent me."
+msgstr "Ja, dein Freund hat mich geschickt."
 
 #. Key:	DL_LeQuestKumo_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumo.Default__DL_LeQuestKumo_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumo.Default__DL_LeQuestKumo_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestKumo_PlayerResponse_3"
 msgid "No."
-msgstr "No."
+msgstr "Nein."
 
 #. Key:	DL_LeQuestKumoGood_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGood.Default__DL_LeQuestKumoGood_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGood.Default__DL_LeQuestKumoGood_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestKumoGood_PlayerResponse_1"
 msgid "South, but wouldn't you like me to take you there? There are Rahi about!"
-msgstr "South, but wouldn't you like me to take you there? There are Rahi about!"
+msgstr "Süden, aber möchtest du nicht, dass ich dich dorthin bringe? Es gibt Rahi!"
 
 #. Key:	DL_LeQuestKumoGoodAddQuest_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGoodAddQuest.Default__DL_LeQuestKumoGoodAddQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGoodAddQuest.Default__DL_LeQuestKumoGoodAddQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestKumoGoodAddQuest_PlayerResponse_1"
 msgid "South, but wouldn't you like me to take you there? There are Rahi about!"
-msgstr "South, but wouldn't you like me to take you there? There are Rahi about!"
+msgstr "Süden, aber möchtest du nicht, dass ich dich dorthin bringe? Es gibt Rahi!"
 
 #. Key:	DL_LeQuestKumoHelp_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoHelp.Default__DL_LeQuestKumoHelp_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoHelp.Default__DL_LeQuestKumoHelp_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestKumoHelp_PlayerResponse_1"
 msgid "Well I can help you then."
-msgstr "Well I can help you then."
+msgstr "Nun, dann kann ich Ihnen helfen."
 
 #. Key:	DL_LeQuestKumoImlost_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoImlost.Default__DL_LeQuestKumoImlost_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoImlost.Default__DL_LeQuestKumoImlost_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestKumoImlost_PlayerResponse_1"
 msgid "Yes, Your friend sent me."
-msgstr "Yes, Your friend sent me."
+msgstr "Ja, dein Freund hat mich geschickt."
 
 #. Key:	DL_LeQuestKumoImlost_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoImlost.Default__DL_LeQuestKumoImlost_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoImlost.Default__DL_LeQuestKumoImlost_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestKumoImlost_PlayerResponse_2"
 msgid "Do you need help?"
-msgstr "Do you need help?"
+msgstr "Benötigst du Hilfe?"
 
 #. Key:	DL_LeQuestKumoNextime_2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoNextime_2.Default__DL_LeQuestKumoNextime_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoNextime_2.Default__DL_LeQuestKumoNextime_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestKumoNextime_2_PlayerResponse_1"
 msgid "Ahh, very well then."
-msgstr "Ahh, very well then."
+msgstr "Ahh, na gut."
 
 #. Key:	DL_LeQuestKumoNextime_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoNextime.Default__DL_LeQuestKumoNextime_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoNextime.Default__DL_LeQuestKumoNextime_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestKumoNextime_PlayerResponse_1"
 msgid "Ahh, Alright"
-msgstr "Ahh, Alright"
+msgstr "Ahh, in Ordnung"
 
 #. Key:	DL_LeQuestKumoThanks_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoThanks.Default__DL_LeQuestKumoThanks_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoThanks.Default__DL_LeQuestKumoThanks_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_LeQuestKumoThanks_PlayerResponse_1"
 msgid "It was no trouble at all."
-msgstr "It was no trouble at all."
+msgstr "Es war überhaupt kein Problem."
 
 #. Key:	DL_LightstoneCaveMaster1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster1.Default__DL_LightstoneCaveMaster1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -17725,231 +17702,202 @@ msgstr "These strange peices of metal seem to be used as a currency primarily by
 #. Key:	Item_WoodStatue_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Description
-#, fuzzy
 msgctxt "InvItem_Description,Item_WoodStatue_Desc"
 msgid "A small wooden likeness. Somewhat resembles a Matoran's head."
-msgstr "A small wooden likeness. Somewhat resembles a Matoran's head."
+msgstr "Ein kleines hölzernes Abbild. Ähnelt ein wenig dem Kopf eines Matoraners."
 
 #. Key:	Item_WorldMap_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Description
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Description
-#, fuzzy
 msgctxt "InvItem_Description,Item_WorldMap_Desc"
 msgid "A full map of the Island of Mata-Nui."
-msgstr "A full map of the Island of Mata-Nui."
+msgstr "Eine vollständige Karte der Insel Mata-Nui."
 
 #. Key:	KylmaNote_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/KylmaNote.KylmaNote.Description
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/KylmaNote.KylmaNote.Description
-#, fuzzy
 msgctxt "InvItem_Description,KylmaNote_Desc"
 msgid "The research notes lost by Kylma"
-msgstr "The research notes lost by Kylma"
+msgstr "Die von Kylma verlorenen Forschungsnotizen"
 
 #. Key:	Item_AmanaVoloSphere
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_AmanaVoloSphere.Item_AmanaVoloSphere.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_AmanaVoloSphere.Item_AmanaVoloSphere.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_AmanaVoloSphere"
 msgid "Amana Volo Sphere"
-msgstr "Amana Volo Sphere"
+msgstr "Amana Volo Kugel"
 
 #. Key:	Item_ArakaNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ArakaNote.Item_ArakaNote.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ArakaNote.Item_ArakaNote.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_ArakaNote"
 msgid "Araka: Gone Shopping"
-msgstr "Araka: Gone Shopping"
+msgstr "Araka: Einkaufen gegangen"
 
 #. Key:	Item_Blackmask
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Blackmask.Item_Blackmask.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Blackmask.Item_Blackmask.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_Blackmask"
 msgid "The Black Mask"
-msgstr "The Black Mask"
+msgstr "Die schwarze Maske"
 
 #. Key:	Item_BrothersNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_BrothersNote.Item_BrothersNote.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_BrothersNote.Item_BrothersNote.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_BrothersNote"
 msgid "The Note of the Brother"
-msgstr "The Note of the Brother"
+msgstr "Die Notiz des Bruders"
 
 #. Key:	Item_Candle
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Candle.Item_Candle.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Candle.Item_Candle.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_Candle"
 msgid "Carving Candle"
-msgstr "Carving Candle"
+msgstr "Schnitz-Kerze"
 
 #. Key:	Item_Comets
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Comets.Item_Comets.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Comets.Item_Comets.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_Comets"
 msgid "Comet Kolhii Ball"
-msgstr "Comet Kolhii Ball"
+msgstr "Komet Kolhii Ball"
 
 #. Key:	Item_CookBook
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_CookBook.Item_CookBook.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_CookBook.Item_CookBook.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_CookBook"
 msgid "Manha's Special Recipes"
-msgstr "Manha's Special Recipes"
+msgstr "Manhas spezielle Rezepte"
 
 #. Key:	Item_DoorKeyNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_DoorKeyNote.Item_DoorKeyNote.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_DoorKeyNote.Item_DoorKeyNote.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_DoorKeyNote"
 msgid "Door Icon Key"
-msgstr "Door Icon Key"
+msgstr "Tür-Icon-Schlüssel"
 
 #. Key:	Item_FirstMateLog1
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog1.Item_FirstMateLog1.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog1.Item_FirstMateLog1.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_FirstMateLog1"
 msgid "First Mate Dakk's Log #1"
-msgstr "First Mate Dakk's Log #1"
+msgstr "Das Logbuch des Ersten Offiziers Dakk #1"
 
 #. Key:	Item_FirstMateLog2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog2.Item_FirstMateLog2.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog2.Item_FirstMateLog2.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_FirstMateLog2"
 msgid "First Mate Dakk's Log #2"
-msgstr "First Mate Dakk's Log #2"
+msgstr "Tagebuch des Ersten Offiziers Dakk #2"
 
 #. Key:	Item_FirstMateLog3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog3.Item_FirstMateLog3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog3.Item_FirstMateLog3.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_FirstMateLog3"
 msgid "First Mate Dakk's Log #3"
-msgstr "First Mate Dakk's Log #3"
+msgstr "Tagebuch des Ersten Offiziers Dakk #3"
 
 #. Key:	Item_FirstMateLog4
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog4.Item_FirstMateLog4.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog4.Item_FirstMateLog4.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_FirstMateLog4"
 msgid "First Mate Dakk's Log #4"
-msgstr "First Mate Dakk's Log #4"
+msgstr "Tagebuch des Ersten Offiziers Dakk #4"
 
 #. Key:	Item_FirstMateLog5
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog5.Item_FirstMateLog5.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog5.Item_FirstMateLog5.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_FirstMateLog5"
 msgid "First Mate Dakk's Log #5"
-msgstr "First Mate Dakk's Log #5"
+msgstr "Tagebuch des Ersten Offiziers Dakk #5"
 
 #. Key:	Item_FirstMateLog6
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog6.Item_FirstMateLog6.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog6.Item_FirstMateLog6.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_FirstMateLog6"
 msgid "First Mate Dakk's Log #6"
-msgstr "First Mate Dakk's Log #6"
+msgstr "Tagebuch des Ersten Offiziers Dakk #6"
 
 #. Key:	Item_GaMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_GaMakoki.Item_GaMakoki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_GaMakoki.Item_GaMakoki.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_GaMakoki"
 msgid "Ga Makoki Stone"
-msgstr "Ga Makoki Stone"
+msgstr "Ga Makoki Stein"
 
 #. Key:	Item_GlowCrystal
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GlowCrystal.Item_GlowCrystal.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GlowCrystal.Item_GlowCrystal.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_GlowCrystal"
 msgid "Glow Crystal"
-msgstr "Glow Crystal"
+msgstr "Glühender Kristall"
 
 #. Key:	Item_GoldBars
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldBars.Item_GoldBars.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldBars.Item_GoldBars.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_GoldBars"
 msgid "Gold Bars"
-msgstr "Gold Bars"
+msgstr "Goldbarren"
 
 #. Key:	Item_GoldenMahi
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenMahi.Item_GoldenMahi.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenMahi.Item_GoldenMahi.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_GoldenMahi"
 msgid "The Golden Mahi"
-msgstr "The Golden Mahi"
+msgstr "Der Goldene Mahi"
 
 #. Key:	Item_GoldenRama
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRama.Item_GoldenRama.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRama.Item_GoldenRama.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_GoldenRama"
 msgid "The Golden Rama"
-msgstr "The Golden Rama"
+msgstr "Das Goldene Rama"
 
 #. Key:	Item_GoldenRuki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRuki.Item_GoldenRuki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRuki.Item_GoldenRuki.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_GoldenRuki"
 msgid "The Golden Ruki"
-msgstr "The Golden Ruki"
+msgstr "Der Goldene Ruki"
 
 #. Key:	Item_GoldenStatue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenStatue.Item_GoldenStatue.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenStatue.Item_GoldenStatue.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_GoldenStatue"
 msgid "The Golden Mata"
-msgstr "The Golden Mata"
+msgstr "Die Goldene Mata"
 
 #. Key:	Item_GoldenUssal
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenUssal.Item_GoldenUssal.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenUssal.Item_GoldenUssal.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_GoldenUssal"
 msgid "The Golden Ussal"
-msgstr "The Golden Ussal"
+msgstr "Der goldene Ussal"
 
 #. Key:	Item_HauUnpowered
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_HauUnpowered.Item_HauUnpowered.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_HauUnpowered.Item_HauUnpowered.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_HauUnpowered"
 msgid "Hau (Unpowered)"
-msgstr "Hau (Unpowered)"
+msgstr "Hau (ohne Kraft)"
 
 #. Key:	Item_InfectedMasks
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_InfectedMasks.Item_InfectedMasks.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_InfectedMasks.Item_InfectedMasks.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_InfectedMasks"
 msgid "Infected Mask"
-msgstr "Infected Mask"
+msgstr "Infizierte Maske"
 
 #. Key:	Item_KakamaUnpowered
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_KakamaUnpowered.Item_KakamaUnpowered.Name
 #: /Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_KakamaUnpowered.Item_KakamaUnpowered.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_KakamaUnpowered"
 msgid "Kakama (Unpowered)"
-msgstr "Kakama (Unpowered)"
+msgstr "Kakama (ohne Kraft)"
 
 #. Key:	Item_KolhiiBall
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_KolhiiBall.Item_KolhiiBall.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_KolhiiBall.Item_KolhiiBall.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_KolhiiBall"
 msgid "Kolhii Ball"
 msgstr "Kolhii Ball"
@@ -17957,194 +17905,170 @@ msgstr "Kolhii Ball"
 #. Key:	Item_KoMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_KoMakoki.Item_KoMakoki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_KoMakoki.Item_KoMakoki.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_KoMakoki"
 msgid "Ko Makoki Stone"
-msgstr "Ko Makoki Stone"
+msgstr "Ko Makoki Stein"
 
 #. Key:	Item_LeMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_LeMakoki.Item_LeMakoki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_LeMakoki.Item_LeMakoki.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_LeMakoki"
 msgid "Le Makoki Stone"
-msgstr "Le Makoki Stone"
+msgstr "Le Makoki Stein"
 
 #. Key:	Item_MahaiTea
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_MahaiTea.Item_MahaiTea.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_MahaiTea.Item_MahaiTea.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_MahaiTea"
 msgid "Mahai Tea"
-msgstr "Mahai Tea"
+msgstr "Mahai Tee"
 
 #. Key:	Item_MarenMap1
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap1.Item_MarenMap1.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap1.Item_MarenMap1.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_MarenMap1"
 msgid "Blackmask's Treasure Map #1"
-msgstr "Blackmask's Treasure Map #1"
+msgstr "Blackmasks Schatzkarte #1"
 
 #. Key:	Item_MarenMap2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap2.Item_MarenMap2.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap2.Item_MarenMap2.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_MarenMap2"
 msgid "Blackmask's Treasure Map #2"
-msgstr "Blackmask's Treasure Map #2"
+msgstr "Blackmasks Schatzkarte #2"
 
 #. Key:	Item_MarenMap3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap3.Item_MarenMap3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap3.Item_MarenMap3.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_MarenMap3"
 msgid "Blackmask's Treasure Map #3"
-msgstr "Blackmask's Treasure Map #3"
+msgstr "Blackmasks Schatzkarte #3"
 
 #. Key:	Item_MarenMap4
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap4.Item_MarenMap4.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap4.Item_MarenMap4.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_MarenMap4"
 msgid "Blackmask's Treasure Map #4"
-msgstr "Blackmask's Treasure Map #4"
+msgstr "Blackmasks Schatzkarte #4"
 
 #. Key:	Item_MaskFinder
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskFinder.Item_MaskFinder.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskFinder.Item_MaskFinder.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_MaskFinder"
 msgid "The Mask Finder"
-msgstr "The Mask Finder"
+msgstr "Der Maskenfinder"
 
 #. Key:	Item_MaskLocator
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskLocator.Item_MaskLocator.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskLocator.Item_MaskLocator.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_MaskLocator"
 msgid "The Mask Finder"
-msgstr "The Mask Finder"
+msgstr "Der Maskenfinder"
 
 #. Key:	Item_MetallicProtodermisIngots
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_MetallicProtodermisIngots"
 msgid "Metallic Protodermis Ingots"
-msgstr "Metallic Protodermis Ingots"
+msgstr "Metallische Protodermis-Barren"
 
 #. Key:	Item_OnuMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_OnuMakoki.Item_OnuMakoki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_OnuMakoki.Item_OnuMakoki.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_OnuMakoki"
 msgid "Onu Makoki Stone"
-msgstr "Onu Makoki Stone"
+msgstr "Onu Makoki Stein"
 
 #. Key:	Item_Pocketdermis
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_Pocketdermis.Item_Pocketdermis.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_Pocketdermis.Item_Pocketdermis.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_Pocketdermis"
 msgid "Pocketdermis"
-msgstr "Pocketdermis"
+msgstr "Taschendermis"
 
 #. Key:	Item_PoetNoteBurns
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteBurns.Item_PoetNoteBurns.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteBurns.Item_PoetNoteBurns.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_PoetNoteBurns"
 msgid "Talok: The Ballad of Ta-koro Part 2"
-msgstr "Talok: The Ballad of Ta-koro Part 2"
+msgstr "Talok: Die Ballade von Ta-koro Teil 2"
 
 #. Key:	Item_PoetNoteHot
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteHot.Item_PoetNoteHot.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteHot.Item_PoetNoteHot.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_PoetNoteHot"
 msgid "Talok: The Ballad of Ta-koro Part 2"
-msgstr "Talok: The Ballad of Ta-koro Part 2"
+msgstr "Talok: Die Ballade von Ta-koro Teil 2"
 
 #. Key:	Item_PoetNoteLight
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteLight.Item_PoetNoteLight.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteLight.Item_PoetNoteLight.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_PoetNoteLight"
 msgid "Talok: The Ballad of Ta-koro Part 2"
-msgstr "Talok: The Ballad of Ta-koro Part 2"
+msgstr "Talok: Die Ballade von Ta-koro Teil 2"
 
 #. Key:	Item_PoetNotePart1
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart1.Item_PoetNotePart1.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart1.Item_PoetNotePart1.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_PoetNotePart1"
 msgid "Talok: The Ballad of Ta-koro Part 1"
-msgstr "Talok: The Ballad of Ta-koro Part 1"
+msgstr "Talok: Die Ballade von Ta-koro Teil 1"
 
 #. Key:	Item_PoetNotePart3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart3.Item_PoetNotePart3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart3.Item_PoetNotePart3.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_PoetNotePart3"
 msgid "Talok: The Ballad of Ta-koro Part 3"
-msgstr "Talok: The Ballad of Ta-koro Part 3"
+msgstr "Talok: Die Ballade von Ta-koro Teil 3"
 
 #. Key:	Item_PoetNoteSmoke
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteSmoke.Item_PoetNoteSmoke.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteSmoke.Item_PoetNoteSmoke.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_PoetNoteSmoke"
 msgid "Talok: The Ballad of Ta-koro Part 2"
-msgstr "Talok: The Ballad of Ta-koro Part 2"
+msgstr "Talok: Die Ballade von Ta-koro Teil 2"
 
 #. Key:	Item_PoMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_PoMakoki.Item_PoMakoki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_PoMakoki.Item_PoMakoki.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_PoMakoki"
 msgid "Po Makoki Stone"
-msgstr "Po Makoki Stone"
+msgstr "Po Makoki Stein"
 
 #. Key:	Item_Pots
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Pots.Item_Pots.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Pots.Item_Pots.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_Pots"
 msgid "Po-Koro Pot"
-msgstr "Po-Koro Pot"
+msgstr "Po-Koro Topf"
 
 #. Key:	Item_ProtoCell
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCell.Item_ProtoCell.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCell.Item_ProtoCell.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_ProtoCell"
 msgid "Protodermis Cell"
-msgstr "Protodermis Cell"
+msgstr "Protodermis-Zelle"
 
 #. Key:	Item_ProtoCharge
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCharge.Item_ProtoCharge.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCharge.Item_ProtoCharge.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_ProtoCharge"
 msgid "Protodermis Charge"
-msgstr "Protodermis Charge"
+msgstr "Protodermis-Ladung"
 
 #. Key:	Item_ResearchNotes
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_ResearchNotes"
 msgid "The Artifact from Below"
-msgstr "The Artifact from Below"
+msgstr "Das Artefakt von unten"
 
 #. Key:	Item_RestorationGel
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_RestorationGel.Item_RestorationGel.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Consumables/Item_RestorationGel.Item_RestorationGel.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_RestorationGel"
 msgid "Restoration Gel"
-msgstr "Restoration Gel"
+msgstr "Wiederherstellungs-Gel"
 
 #. Key:	Item_RockHat
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_RockHat.Item_RockHat.Name
@@ -18156,74 +18080,65 @@ msgstr "Felsen"
 #. Key:	Item_ShoppingList
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ShoppingList.Item_ShoppingList.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ShoppingList.Item_ShoppingList.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_ShoppingList"
 msgid "Metonu's Shopping List"
-msgstr "Metonu's Shopping List"
+msgstr "Metonus Einkaufsliste"
 
 #. Key:	Item_SouthernTipNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SouthernTipNote.Item_SouthernTipNote.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SouthernTipNote.Item_SouthernTipNote.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_SouthernTipNote"
 msgid "Southern Tip Note"
-msgstr "Southern Tip Note"
+msgstr "Südlicher Tipp Hinweis"
 
 #. Key:	Item_StaffClass2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_StaffClass2.Item_StaffClass2.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_StaffClass2.Item_StaffClass2.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_StaffClass2"
 msgid "Takoro Guard Staff Class 2"
-msgstr "Takoro Guard Staff Class 2"
+msgstr "Takoro Wachstab Klasse 2"
 
 #. Key:	Item_Statuette
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Statuette.Item_Statuette.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Statuette.Item_Statuette.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_Statuette"
 msgid "Toa Statuette"
-msgstr "Toa Statuette"
+msgstr "Toa-Statuette"
 
 #. Key:	Item_StoneCarving
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_StoneCarving.Item_StoneCarving.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_StoneCarving.Item_StoneCarving.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_StoneCarving"
 msgid "Mata-Nui Carving"
-msgstr "Mata-Nui Carving"
+msgstr "Mata-Nui-Schnitzerei"
 
 #. Key:	Item_SwordStatueNotePart1
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart1.Item_SwordStatueNotePart1.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart1.Item_SwordStatueNotePart1.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_SwordStatueNotePart1"
 msgid "The Legend of The Swords: Part 1"
-msgstr "The Legend of The Swords: Part 1"
+msgstr "Die Legende der Schwerter: Teil 1"
 
 #. Key:	Item_SwordStatueNotePart2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart2.Item_SwordStatueNotePart2.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart2.Item_SwordStatueNotePart2.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_SwordStatueNotePart2"
 msgid "The Legend of The Swords: Part 2"
-msgstr "The Legend of The Swords: Part 2"
+msgstr "Die Legende der Schwerter: Teil 2"
 
 #. Key:	Item_SwordStatuesNotePart3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatuesNotePart3.Item_SwordStatuesNotePart3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatuesNotePart3.Item_SwordStatuesNotePart3.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_SwordStatuesNotePart3"
 msgid "The Legend of The Swords: Part 3"
-msgstr "The Legend of The Swords: Part 3"
+msgstr "Die Legende der Schwerter: Teil 3"
 
 #. Key:	Item_TaMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_TaMakoki.Item_TaMakoki.Name
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_TaMakoki.Item_TaMakoki.Name
-#, fuzzy
 msgctxt "InvItem_Name,Item_TaMakoki"
 msgid "Ta Makoki Stone"
-msgstr "Ta Makoki Stone"
+msgstr "Ta Makoki Stein"
 
 #. Key:	Item_ThueiNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_ThueiNote.Item_ThueiNote.Name
@@ -20420,18 +20335,16 @@ msgstr "Enough of your deceitful words. Your reign ends here!"
 #. Key:	MakutaIntro_Line15
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,MakutaIntro_Line15"
 msgid "We won’t allow you to reset us again!"
-msgstr "We won’t allow you to reset us again!"
+msgstr "Wir lassen nicht zu, dass du uns noch einmal zurücksetzt!"
 
 #. Key:	MakutaIntro_Line16
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,MakutaIntro_Line16"
 msgid "...Yes... I believe you are correct."
-msgstr "...Yes... I believe you are correct."
+msgstr "... Ja... Ich glaube, du hast Recht."
 
 #. Key:	MakutaIntro_Line17
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -20443,26 +20356,23 @@ msgstr "Was?"
 #. Key:	MakutaIntro_Line18
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,MakutaIntro_Line18"
 msgid "I enjoyed toying with you, Toa. Watching you struggle past all of my challenges only to fail again, and again, and again. But I believe... that time has passed."
-msgstr "I enjoyed toying with you, Toa. Watching you struggle past all of my challenges only to fail again, and again, and again. But I believe... that time has passed."
+msgstr "Ich habe es genossen, mit euch zu spielen, Toa. Zu sehen, wie ihr euch an all meinen Herausforderungen vorbei kämpft, nur um wieder und wieder und wieder zu scheitern. Aber ich glaube... Diese Zeit ist vorbei."
 
 #. Key:	MakutaIntro_Line19
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,MakutaIntro_Line19"
 msgid "I’ll be sure to kill you this time."
-msgstr "I’ll be sure to kill you this time."
+msgstr "Ich werde euch dieses Mal sicher umbringen."
 
 #. Key:	MakutaIntro_Line2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,MakutaIntro_Line2"
 msgid "Welcome, Toa."
-msgstr "Welcome, Toa."
+msgstr "Willkommen, Toa."
 
 #. Key:	MakutaIntro_Line20
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -20495,26 +20405,23 @@ msgstr "Es ist ein Trick... eine weitere Illusion von Makuta."
 #. Key:	MakutaIntro_Line6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,MakutaIntro_Line6"
 msgid "You defile Mata Nui’s name by taking the form of the matoran!"
-msgstr "You defile Mata Nui’s name by taking the form of the matoran!"
+msgstr "Du beschmutzst den Namen von Mata Nui, indem du die Gestalt des Matoraners annimmst!"
 
 #. Key:	MakutaIntro_Line7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,MakutaIntro_Line7"
 msgid "You know nothing of my brother’s name, nor his will. You do not even know the truth..."
-msgstr "You know nothing of my brother’s name, nor his will. You do not even know the truth..."
+msgstr "Ihr wisst weder den Namen meines Bruders noch sein Testament. Ihr kennt nicht einmal die Wahrheit..."
 
 #. Key:	MakutaIntro_Line8
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,MakutaIntro_Line8"
 msgid "We know the truth! We know what you’ve done to us in the past!"
-msgstr "We know the truth! We know what you’ve done to us in the past!"
+msgstr "Wir kennen die Wahrheit! Wir wissen, was du uns in der Vergangenheit angetan haben!"
 
 #. Key:	MakutaIntro_Line9
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -20526,82 +20433,72 @@ msgstr "... Oh?"
 #. Key:	MakutaReturn_Line1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,MakutaReturn_Line1"
 msgid "Why must you persist? Can you not see how futile your struggle is?"
-msgstr "Why must you persist? Can you not see how futile your struggle is?"
+msgstr "Warum müsst ihr so hartnäckig bleiben? Siehst du nicht, wie vergeblich euer Kampf ist?"
 
 #. Key:	MakutaReturn_Line2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,MakutaReturn_Line2"
 msgid "You cannot hold us any longer! This cycle ends here!"
-msgstr "You cannot hold us any longer! This cycle ends here!"
+msgstr "Ihr könnt uns nicht länger halten! Dieser Zyklus endet hier!"
 
 #. Key:	MakutaReturn_Line3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,MakutaReturn_Line3"
 msgid "I shall use this mask to rule over the Matoran! It is my destiny!"
-msgstr "I shall use this mask to rule over the Matoran! It is my destiny!"
+msgstr "Ich werde diese Maske benutzen, um über die Matoraner zu herrschen! Es ist mein Schicksal!"
 
 #. Key:	MakutaReturn_Line4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,MakutaReturn_Line4"
 msgid "And it is our destiny to defeat you!"
-msgstr "And it is our destiny to defeat you!"
+msgstr "Und es ist unser Schicksal, dich zu besiegen!"
 
 #. Key:	POTM_Line1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,POTM_Line1"
 msgid "So it seems you've found me... You cannot stop my crusade, your time will come toa... For I am THE PROPHET OF THE MAKUTA!"
-msgstr "So it seems you've found me... You cannot stop my crusade, your time will come toa... For I am THE PROPHET OF THE MAKUTA!"
+msgstr "Es scheint also, als hättest du mich gefunden... Ihr könnt meinen Kreuzzug nicht aufhalten, eure Zeit wird kommen... Denn Ich bin DER PROPHET DES MAKUTA!"
 
 #. Key:	POTM_Line10
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,POTM_Line10"
 msgid "Wait, What? What's this about equality?"
-msgstr "Wait, What? What's this about equality?"
+msgstr "Moment, was? Was ist das über \"Gleichberechtigung\"?"
 
 #. Key:	POTM_Line11
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,POTM_Line11"
 msgid "Remember when we made the three tenets? Do you remember what they are?"
-msgstr "Remember when we made the three tenets? Do you remember what they are?"
+msgstr "Erinnerst du dich, als wir die drei Grundsätze aufgestellt haben? Weißt du noch, welche das sind?"
 
 #. Key:	POTM_Line12
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,POTM_Line12"
 msgid "Destruction... Creation... Peace... "
-msgstr "Destruction... Creation... Peace... "
+msgstr "Zerstörung... Kreation... Friede... "
 
 #. Key:	POTM_Line2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,POTM_Line2"
 msgid "What is this crusade? And what would you have to gain from siding with the Makuta? "
-msgstr "What is this crusade? And what would you have to gain from siding with the Makuta? "
+msgstr "Was ist dieser Kreuzzug? Und was hättest du davon, wenn du dich auf die Seite der Makuta stellen würdest? "
 
 #. Key:	POTM_Line3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
-#, fuzzy
 msgctxt "ST_CutsceneDialogue,POTM_Line3"
 msgid "My Quest is to show my fellow Matoran what really happened that day. That Makuta Defeated Mata Nui and therefore is the greater being! Why are they all worshiping Mata Nui when he was the one that fell?!?"
-msgstr "My Quest is to show my fellow Matoran what really happened that day. That Makuta Defeated Mata Nui and therefore is the greater being! Why are they all worshiping Mata Nui when he was the one that fell?!?"
+msgstr "Meine Aufgabe ist es, meinen Matoraner-Kollegen zu zeigen, was an diesem Tag wirklich passiert ist. Dieser Makuta hat Mata Nui besiegt und ist daher das größere Wesen! Warum verehren sie alle Mata Nui, wenn er derjenige war, der gefallen ist?!?"
 
 #. Key:	POTM_Line4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
