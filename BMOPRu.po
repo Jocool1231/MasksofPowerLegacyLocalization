@@ -15505,7 +15505,7 @@ msgstr "Почему вы говорите со мной? Р... Рахи, они
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_RockGuy.Default__DL_RockGuy_C.DialogueText
 msgctxt "Dialogue_Text,DL_RockGuy"
 msgid "Howdy Toa, Welcome to the back end of nowhere - otherwise known as my shop!"
-msgstr "Добро пожаловать в отдалённую глушь – также известную как моя лавка!"
+msgstr "Приветствую, Тоа! Добро пожаловать в отдалённую глушь – также известную как моя лавка!"
 
 #. Key:	DL_SadKolhiiPlayer
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayer.Default__DL_SadKolhiiPlayer_C.DialogueText
