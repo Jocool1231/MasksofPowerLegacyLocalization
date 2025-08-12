@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-12 18:23+0300\n"
+"PO-Revision-Date: 2025-08-12 18:27+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13454,7 +13454,7 @@ msgstr ""
 "Я попросил своего друга Нупару создать чертежи небольшого устройства, которое может искать "
 "энергетические сигналы масок силы! Ну, по крайней мере, на бумаге... Текущая версия пока "
 "может отслеживать лишь один тип масок. Если оно тебе нужно, мне потребуются кое-какие редкие "
-"материалы для создания. Думаю, что для Тоа вроде вас это будет пустяком."
+"материалы, чтобы собрать его. Думаю, что для Тоа вроде вас это будет пустяком."
 
 #. Key:	DL_MetonuGive
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuGive.Default__DL_MetonuGive_C.DialogueText
