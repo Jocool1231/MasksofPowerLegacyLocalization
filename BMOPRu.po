@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-12 15:51+0300\n"
+"PO-Revision-Date: 2025-08-12 16:54+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11770,7 +11770,7 @@ msgstr "Пожалуйста, найдите-отыщите его, я волн�
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_KonguReturn.Default__DL_KonguReturn_C.DialogueText
 msgctxt "Dialogue_Text,DL_KonguReturn"
 msgid "You are still seek-finding our Turaga, right Toa-Hero?"
-msgstr "Вы же всё ещё ищете-разыщете нашего Турагу, да, герой Тоа?"
+msgstr "Вы же всё ещё ищете-разыщете нашего Турагу, да, Тов-Герой?"
 
 #. Key:	DL_KonguSaved
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_KonguSaved.Default__DL_KonguSaved_C.DialogueText
@@ -22854,7 +22854,7 @@ msgstr "Дамео"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_DockMaster"
 msgid "Dock Master Marka"
-msgstr "Управляющий доком Марка"
+msgstr "Управляющая доком Марка"
 
 #. Key:	Names_Exilon
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -24123,7 +24123,7 @@ msgid ""
 "Manual Saving is available in the Pause Menu. it is HIGHLY RECCOMENDED that you save OFTEN!"
 msgstr ""
 "Эта структура представляет собой <Key>Камни Медитации</>, которые можно найти по всему "
-"острову, воспользуйтесь ими, чтобы автоматически сохраниться, сменить время суток, а также "
+"острову. Dоспользуйтесь ими, чтобы автоматически сохраниться, сменить время суток, а также "
 "восстановить здоровье всех Тоа.\r\n"
 "(Вам не нужно менять время суток или лечиться для сохранения!)\r\n"
 "\r\n"
