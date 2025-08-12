@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-12 16:54+0300\n"
+"PO-Revision-Date: 2025-08-12 16:57+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11770,7 +11770,7 @@ msgstr "Пожалуйста, найдите-отыщите его, я волн�
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_KonguReturn.Default__DL_KonguReturn_C.DialogueText
 msgctxt "Dialogue_Text,DL_KonguReturn"
 msgid "You are still seek-finding our Turaga, right Toa-Hero?"
-msgstr "Вы же всё ещё ищете-разыщете нашего Турагу, да, Тов-Герой?"
+msgstr "Вы же всё ещё ищете-разыщете нашего Турагу, да, Тоа-Герой?"
 
 #. Key:	DL_KonguSaved
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_KonguSaved.Default__DL_KonguSaved_C.DialogueText
