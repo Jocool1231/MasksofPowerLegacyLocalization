@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-12 17:03+0300\n"
+"PO-Revision-Date: 2025-08-12 18:23+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13339,7 +13339,7 @@ msgid ""
 "behind Nuju’s back to complete this task. I still feel uneasy about this..."
 msgstr ""
 "Я... я знаю, что делаю всё правильно, помогая вам... но я сделал это без ведома Нуджу, чтобы "
-"выполнить эту задачу. Мне всё ещё немножко не по себе..."
+"выполнить задачу. Мне всё ещё немножко не по себе..."
 
 #. Key:	DL_MatoroKiniReturn3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniReturn3.Default__DL_MatoroKiniReturn3_C.DialogueText
