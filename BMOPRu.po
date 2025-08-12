@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-12 18:27+0300\n"
+"PO-Revision-Date: 2025-08-12 22:41+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13743,7 +13743,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaBase1.Default__DL_NokamaBase1_C.DialogueText
 msgctxt "Dialogue_Text,DL_NokamaBase1"
 msgid "$T! It is good to see you. It has been quite some time since I’ve seen a friendly face."
-msgstr "$T! Рада вас видеть. Я давно не видела дружественное лицо."
+msgstr "$T! Рада тебя видеть. Я давно не видела дружественное лицо."
 
 #. Key:	DL_NokamaHeadBack
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaHeadBack.Default__DL_NokamaHeadBack_C.DialogueText
