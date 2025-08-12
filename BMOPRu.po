@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-12 15:37+0300\n"
+"PO-Revision-Date: 2025-08-12 15:51+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -14611,7 +14611,7 @@ msgstr "Личные дела, $T. Те, о которых мне не нужн�
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaWhy.Default__DL_OnewaWhy_C.DialogueText
 msgctxt "Dialogue_Text,DL_OnewaWhy"
 msgid "Toa $N! It's good to finally meet you."
-msgstr "Тоа $N! Рад наконец-то вас встретить!"
+msgstr "Тоа $N! Рад наконец-то тебя встретить!"
 
 #. Key:	DL_Outcast
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_Outcast.Default__DL_Outcast_C.DialogueText
@@ -14815,8 +14815,8 @@ msgid ""
 "I wasn’t told much, only that it was urgent for you to hear this. You must travel to the "
 "very northern tip of Po-Wahi, past the old Temple."
 msgstr ""
-"Мне сказали не особо много, лишь то, что это нечто важное для вас. Вам нужно отправиться на "
-"самую северную оконечность По-Вахи, у старого храма."
+"Мне сказали не особо много: всего лишь то, что это нечто важное для вас. Вам нужно "
+"отправиться на самую северную оконечность По-Вахи, близ старого храма."
 
 #. Key:	DL_PoduRaceKopakaCutscene
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRaceKopakaCutscene.Default__DL_PoduRaceKopakaCutscene_C.DialogueText
@@ -18137,8 +18137,8 @@ msgid ""
 "Well, when you live underground long enough, finding yourself too far above it becomes "
 "rather nauseating."
 msgstr ""
-"Ну, когда ты долго живёшь под землёй, найти себя над ней – удовольствие не сказать, что из "
-"приятных."
+"Ну, когда ты долго живёшь под землёй, то найти себя над ней – удовольствие не сказать, что "
+"из приятных."
 
 #. Key:	DL_WinRacePodu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/WinRace/DL_WinRacePodu.Default__DL_WinRacePodu_C.DialogueText
