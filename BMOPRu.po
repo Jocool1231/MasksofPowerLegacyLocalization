@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-12 14:14+0300\n"
+"PO-Revision-Date: 2025-08-12 14:33+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -6624,7 +6624,7 @@ msgstr "Копака уже вернулся?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/DeclineReturn/DL_PoduRaceReturn1.Default__DL_PoduRaceReturn1_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PoduRaceReturn1_PlayerResponse_3"
 msgid "What’s a Matoran like you doing all the way out here?"
-msgstr "Что Маторан вроде тебя делает здесь?"
+msgstr "Что Маторан в твоём лице делает здесь?"
 
 #. Key:	DL_PoduRaceReturnKopakaPohatu1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/DeclineReturn/DL_PoduRaceReturnKopakaPohatu1.Default__DL_PoduRaceReturnKopakaPohatu1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6883,7 +6883,7 @@ msgstr "О нет... Только не говори, что это была тв
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatu2.Default__DL_RacePohatu2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_RacePohatu2_PlayerResponse_1"
 msgid "We’re brothers. Not friends."
-msgstr "Мы братья. Не друзья."
+msgstr "Мы братья, а не друзья."
 
 #. Key:	DL_RacePohatu3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatu3.Default__DL_RacePohatu3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7212,7 +7212,7 @@ msgstr "Не за что – и спасибо."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo1.Default__DL_ScaredConvo1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_ScaredConvo1_PlayerResponse_2"
 msgid "Omak sent me, you're the couriers for this shipment?"
-msgstr "Омак прислал меня, вы являетесь курьерами этого груза?"
+msgstr "Омак прислал меня, вы являетесь перевозчиками этого груза?"
 
 #. Key:	DL_ScaredConvo2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo2.Default__DL_ScaredConvo2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7310,7 +7310,7 @@ msgstr "Ты говоришь не так, как другие Га-Матора
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtinii.Default__DL_SellerConsumablesHewtinii_C.Responses(3).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_SellerConsumablesHewtinii_PlayerResponse_4"
 msgid "Maybe another time."
-msgstr "Может в другой раз."
+msgstr "Может, в другой раз."
 
 #. Key:	DL_SellerConsumablesHewtiniiFikouNui_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiFikouNui.Default__DL_SellerConsumablesHewtiniiFikouNui_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7394,7 +7394,7 @@ msgstr "Станет ли тебе легче, если я дам слово п�
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura4.Default__DL_SellerConsumablesHewtiniiKapura4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiKapura4_PlayerResponse_1"
 msgid "Then it's a promise."
-msgstr "Значит я даю слово."
+msgstr "Значит, я даю слово."
 
 #. Key:	DL_SellerConsumablesTimed_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesTimed.Default__DL_SellerConsumablesTimed_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7871,7 +7871,7 @@ msgstr "Спасибо за помощь."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperWhatHappened.Default__DL_ShipperWhatHappened_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_ShipperWhatHappened_PlayerResponse_1"
 msgid "Is this attack why the recent shipment to Po-Koro is late?"
-msgstr "Из-за этой ли атаки отправка в По-Коро задерживается?"
+msgstr "Не из-за этой ли атаки отправка в По-Коро задерживается?"
 
 #. Key:	DL_ShipperWhatHappened_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperWhatHappened.Default__DL_ShipperWhatHappened_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7892,7 +7892,7 @@ msgstr "Они, должно быть, действительно что-то х
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperWhatPlace.Default__DL_ShipperWhatPlace_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_ShipperWhatPlace_PlayerResponse_1"
 msgid "I need to check a shipment that should have been delivered to Po-Koro by today."
-msgstr "Мне нужно проверить отправку, которая должна дойти до По-Коро к сегодняшнему дню."
+msgstr "Мне нужно проверить отправку, которая должна была дойти до По-Коро к сегодняшнему дню."
 
 #. Key:	DL_ShipperWhatPlace_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperWhatPlace.Default__DL_ShipperWhatPlace_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7976,7 +7976,7 @@ msgstr "Ещё нет."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster5.Default__DL_StaffSellerQuartermaster5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_StaffSellerQuartermaster5_PlayerResponse_1"
 msgid "Then my work is done here."
-msgstr "Значит моя работа здесь закончена."
+msgstr "Значит, моя работа здесь закончена."
 
 #. Key:	DL_StaffSellerQuartermaster6_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster6.Default__DL_StaffSellerQuartermaster6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
