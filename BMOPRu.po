@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-12 22:41+0300\n"
+"PO-Revision-Date: 2025-08-13 09:37+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -66,8 +66,8 @@ msgid ""
 "so it’s best to simply let her drive."
 msgstr ""
 "Эти доки позволят вам путешествовать между различными точками на Мата Нуи. Они чрезвычайно "
-"полезны для перемещения по огромному острову, так что обязательно ищите их. Марка, дежурный "
-"по докам, не особо любит давать кому-то свои лодки, поэтому лучше передать управление ему."
+"полезны для перемещения по огромному острову, так что обязательно ищите их. Марка, дежурная "
+"по докам, не особо любит давать кому-то свои лодки, поэтому лучше передать управление ей."
 
 #. Key:	CodexPage_Drifts_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Drifts.Default__LocationEntry_Drifts_C.Location Description
@@ -16373,7 +16373,7 @@ msgid ""
 "Like I told you last time Tafall, I can't teach you right now! Plus Marka just asked me to "
 "start building a new boat, ontop of everything else I need to get finished already!"
 msgstr ""
-"Как я уже говорил ранее, Тафол, я сейчас не могу тебя учить! К тому же, Марка меня попросил "
+"Как я уже говорил ранее, Тафол, я сейчас не могу тебя учить! К тому же, Марка меня попросила "
 "начать строительство новой лодки, не говоря обо всём остальном, что нужно закончить!"
 
 #. Key:	DL_TafallAbandoned3
@@ -22854,7 +22854,7 @@ msgstr "Дамео"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_DockMaster"
 msgid "Dock Master Marka"
-msgstr "Дежурный по докам Марка"
+msgstr "Дежурная по докам Марка"
 
 #. Key:	Names_Exilon
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
