@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-13 12:08+0300\n"
+"PO-Revision-Date: 2025-08-13 14:48+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -21129,7 +21129,7 @@ msgstr "Решите головоломку, чтобы сбежать."
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_4"
 msgid "Return to the strange matoran in le-koro and tell him of your findings."
-msgstr "Вернитесь к странному маторану в Ле-Коро и расскажите ему о своих находках."
+msgstr "Вернитесь к Странному Маторану в Ле-Коро и расскажите ему о своих находках."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_5
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21139,8 +21139,8 @@ msgid ""
 "Find and the Insane Matoran. There is a lock on the door to the cave he is hiding in, the "
 "strange matoran said the code would be Faith, Creation, Peace."
 msgstr ""
-"Найдите и Безумного Маторана. На двери пещеры, где он прячется, установлен замок. Странный "
-"Маторан говорит, что кодом является «Вера, Созидание, Мир»."
+"Теперь найдите Безумного Маторана. На двери пещеры, где он прячется, установлен замок. "
+"Странный Маторан говорит, что кодом является «Вера, Созидание, Мир»."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21883,7 +21883,7 @@ msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line5"
 msgid ""
 "This lake contains holy water, it should be contained. Not allowed to run off into the sea."
 msgstr ""
-"Это озеро содержит в себе святую воду, его нужно удерживать. Не позволять озерной воде "
+"Это озеро содержит в себе святую воду, её нужно удерживать. Не позволять озерной воде "
 "вытекать в море."
 
 #. Key:	TarakavaOfFrost_Line6
