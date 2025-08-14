@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-14 17:17+0300\n"
+"PO-Revision-Date: 2025-08-14 17:51+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -6941,7 +6941,7 @@ msgid ""
 "here, on the edge of the Po-Wahi desert? Are you always this cruel to your own Matoran?"
 msgstr ""
 "Сказать ему, что у тебя какая-то «архиважная» миссия, заставлять его ждать в По-Коро, а "
-"затем посылать его сюда, на окраину пустыни По-Вахи? Ты всегда так жестоко себя ведёшь со "
+"затем посылать его сюда, на окраину пустыни По-Вахи? Ты всегда так жестоко обращаешься со "
 "своими Маторанами?"
 
 #. Key:	DL_RacePohatuPodu2_PlayerResponse_1
@@ -9754,7 +9754,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFWhatToDo.Default__DL_Allknowingmatoran_WDYFWhatToDo_C.DialogueText
 msgctxt "Dialogue_Text,DL_Allknowingmatoran_WDYFWhatToDo"
 msgid "I... Just try talking him down, if not... Then I don't know."
-msgstr "Я... Попробую разговорить его, если не получится... То я не знаю..."
+msgstr "Я... Попробую разговорить его, но если не получится... То я не знаю..."
 
 #. Key:	DL_Allknowingmatoran_Whatdidyoufind
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Whatdidyoufind.Default__DL_Allknowingmatoran_Whatdidyoufind_C.DialogueText
@@ -20034,7 +20034,7 @@ msgstr ""
 "Ушёл заниматься резьбой! Если вы хотите узнать о статусе вашего заказа, то он наверняка "
 "будет закончен, в зависимости от факторов, в срок от 2 до 30 недель! Спасибо!\r\n"
 "\r\n"
-"Тюи"
+"-Тюи"
 
 #. Key:	KylmaNote_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/KylmaNote.KylmaNote.TextToDisplay
@@ -20058,8 +20058,8 @@ msgctxt "LoadingTip_Text,Tip_AkakuZoom"
 msgid ""
 "You can zoom while wearing the Akaku by pressing the assigned key (Default is Left ALT)."
 msgstr ""
-"Вы можете изменять масштаб при использовании Акаку, нажав назначенную кнопку (По умолчанию – "
-"Левый ALT)."
+"Вы можете использовать увеличение при использовании Акаку, нажав назначенную кнопку (По "
+"умолчанию – Левый ALT)."
 
 #. Key:	Tip_CodexHints
 #. SourceLocation:	Config/DefaultGame.ini:112
@@ -24429,7 +24429,7 @@ msgstr ""
 "\r\n"
 "И, конечно же, всем нашим преданным фанатам!\r\n"
 "\r\n"
-"Спасибо, что остаётесь с нами и да хранит вас Великий Дух.\r\n"
+"Спасибо, что остаётесь с нами и пусть Великий Дух хранит вас.\r\n"
 "\r\n"
 "\r\n"
 "\r\n"
