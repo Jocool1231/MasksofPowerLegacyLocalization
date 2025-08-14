@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-14 21:11+0300\n"
+"PO-Revision-Date: 2025-08-14 22:17+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -1286,7 +1286,7 @@ msgid ""
 msgstr ""
 "Эти опасные Рахи славятся своими мощными передними лапами, с помощью которых они атакуют "
 "свою добычу. Синюю их разновидность можно найти по всему Мата Нуи. Эти Рахи могут очень "
-"быстро нанести немало урона, так что лучше сохранять дистанцию и действовать против них с "
+"быстро нанести немало урона, так что лучше сохранять дистанцию и сражаться против них с "
 "осторожностью."
 
 #. Key:	CodexPage_TaTemple_Desc
@@ -1492,7 +1492,7 @@ msgstr "Га-Коро"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_GalisLanding"
 msgid "Gali’s Landing"
-msgstr "Место посадки Гали"
+msgstr "Канистра Гали"
 
 #. Key:	CodexPage_GaTemple
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaTemple.Default__LocationEntry_GaTemple_C.Location Name
@@ -1548,7 +1548,7 @@ msgstr "Ко-Коро"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_KopakasLanding"
 msgid "Kopaka’s Landing"
-msgstr "Место посадки Копаки"
+msgstr "Канистра Копаки"
 
 #. Key:	CodexPage_KoTower
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KoTower.Default__LocationEntry_KoTower_C.Location Name
@@ -1604,7 +1604,7 @@ msgstr "Ле-Вахи"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_LewasLanding"
 msgid "Lewa’s Landing"
-msgstr "Место посадки Левы"
+msgstr "Канистра Левы"
 
 #. Key:	CodexPage_Log
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Log.Default__LocationEntry_Log_C.Location Name
@@ -1652,7 +1652,7 @@ msgstr "Ону-Вахи"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_OnuasLanding"
 msgid "Onua’s Landing"
-msgstr "Место посадки Онуа"
+msgstr "Канистра Онуа"
 
 #. Key:	CodexPage_OnuKini
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuKini.Default__LocationEntry_OnuKini_C.Location Name
@@ -1684,7 +1684,7 @@ msgstr "Обзорная площадка"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_PohatusLanding"
 msgid "Pohatu’s Landing"
-msgstr "Место посадки Похату"
+msgstr "Канистра Похату"
 
 #. Key:	CodexPage_PoKini
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoKini.Default__LocationEntry_PoKini_C.Location Name
@@ -1748,7 +1748,7 @@ msgstr "Та-Вахи"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_TahusLanding"
 msgid "Tahu’s Landing"
-msgstr "Место посадки Таху"
+msgstr "Канистра Таху"
 
 #. Key:	CodexPage_TaKini
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TaKini.Default__LocationEntry_TaKini_C.Location Name
@@ -18666,7 +18666,7 @@ msgstr "Небольшая каменная фигурка Тоа."
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_StoneCarving.Item_StoneCarving.Description
 msgctxt "InvItem_Description,Item_StoneCarving_Desc"
 msgid "Crudely carved stone in the shape of the Great Spirit."
-msgstr "Грубо огранённый камень в форме Великого Духа."
+msgstr "Грубо огранённый камень, выполненный в форме Великого Духа."
 
 #. Key:	Item_SwordStatueNotePart1_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatueNotePart1.Item_SwordStatueNotePart1.Description
@@ -18954,42 +18954,42 @@ msgstr "Знаки на двери"
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog1.Item_FirstMateLog1.Name
 msgctxt "InvItem_Name,Item_FirstMateLog1"
 msgid "First Mate Dakk's Log #1"
-msgstr "Лог Старшего Помощника Дакка #1"
+msgstr "Журнал Старпома Дакка #1"
 
 #. Key:	Item_FirstMateLog2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog2.Item_FirstMateLog2.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog2.Item_FirstMateLog2.Name
 msgctxt "InvItem_Name,Item_FirstMateLog2"
 msgid "First Mate Dakk's Log #2"
-msgstr "Лог Старшего Помощника Дакка #2"
+msgstr "Журнал Старпома Дакка #2"
 
 #. Key:	Item_FirstMateLog3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog3.Item_FirstMateLog3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog3.Item_FirstMateLog3.Name
 msgctxt "InvItem_Name,Item_FirstMateLog3"
 msgid "First Mate Dakk's Log #3"
-msgstr "Лог Старшего Помощника Дакка #3"
+msgstr "Журнал Старпома Дакка #3"
 
 #. Key:	Item_FirstMateLog4
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog4.Item_FirstMateLog4.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog4.Item_FirstMateLog4.Name
 msgctxt "InvItem_Name,Item_FirstMateLog4"
 msgid "First Mate Dakk's Log #4"
-msgstr "Лог Старшего Помощника Дакка #4"
+msgstr "Журнал Старпома Дакка #4"
 
 #. Key:	Item_FirstMateLog5
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog5.Item_FirstMateLog5.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog5.Item_FirstMateLog5.Name
 msgctxt "InvItem_Name,Item_FirstMateLog5"
 msgid "First Mate Dakk's Log #5"
-msgstr "Лог Старшего Помощника Дакка #5"
+msgstr "Журнал Старпома Дакка #5"
 
 #. Key:	Item_FirstMateLog6
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog6.Item_FirstMateLog6.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog6.Item_FirstMateLog6.Name
 msgctxt "InvItem_Name,Item_FirstMateLog6"
 msgid "First Mate Dakk's Log #6"
-msgstr "Лог Старшего Помощника Дакка #6"
+msgstr "Журнал Старпома Дакка #6"
 
 #. Key:	Item_GaMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_GaMakoki.Item_GaMakoki.Name
@@ -19136,14 +19136,14 @@ msgstr "Детектор Масок"
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskLocator.Item_MaskLocator.Name
 msgctxt "InvItem_Name,Item_MaskLocator"
 msgid "The Mask Finder"
-msgstr "Локатор Масок"
+msgstr "Детектор Масок"
 
 #. Key:	Item_MetallicProtodermisIngots
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Name
 msgctxt "InvItem_Name,Item_MetallicProtodermisIngots"
 msgid "Metallic Protodermis Ingots"
-msgstr "Слитки металлического Протодермиса"
+msgstr "Металлический Протодермис"
 
 #. Key:	Item_OnuMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_OnuMakoki.Item_OnuMakoki.Name
@@ -20137,7 +20137,7 @@ msgid ""
 "This Cave sanctuary is infested by rahi, Free it so that the matoran may return to their "
 "Temple."
 msgstr ""
-"Эта пещерное святилище захвачено Рахи. Освободите его, чтобы Матораны могли вернуться в свой "
+"Это пещерное святилище захвачено Рахи. Освободите его, чтобы Матораны могли вернуться в свой "
 "храм."
 
 #. Key:	Quest_Challange_Desc
@@ -20148,8 +20148,8 @@ msgid ""
 "Kopaka has been informed by a Po-matoran in Ko-koro that he has been summoned to the tip of "
 "Po-wahi for an urgent purpose."
 msgstr ""
-"По-Маторан в Ко-Коро рассказал Копаке о том, что он был призван на окраину По-Вахи по важной "
-"причине."
+"По-Маторан в Ко-Коро рассказал Копаке о том, что он был призван на окраину По-Вахи по "
+"архиважной причине."
 
 #. Key:	Quest_CometHunt_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_CometHunt.Default__Quest_CometHunt_C.Description
@@ -22408,7 +22408,7 @@ msgstr "Торговля"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Waikiru"
 msgid "Fragments of a First Mate's log from a ship named the 'Waikiru'"
-msgstr "Фрагменты лога Старшего Помощника с корабля под названием «Вайкиру»"
+msgstr "Фрагменты журнала Старшего Помощника с корабля под названием «Вайкиру»"
 
 #. Key:	Gen_Window
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22758,7 +22758,7 @@ msgstr "Использовать"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIView"
 msgid "View"
-msgstr "Вид"
+msgstr "Посмотреть"
 
 #. Key:	UIWindowed
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -23423,7 +23423,7 @@ msgstr "Маторо"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_MeditationPoint"
 msgid "Meditation Point"
-msgstr "Точка для Медитации"
+msgstr "Точка Медитации"
 
 #. Key:	Names_Metonu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -23528,7 +23528,7 @@ msgstr "Нупару"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_OceanTarakava"
 msgid "Ocean Tarakava"
-msgstr "Океанический Таракава"
+msgstr "Таракава океанов"
 
 #. Key:	Names_Okin
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -25844,7 +25844,7 @@ msgstr "Медная маска победы, найденная в По-хра�
 msgctxt "UIText_Description_Cosmetics,Cosmetics_CrystalMask_Description"
 msgid "A Nearly Clear mask Made out of Ice, Why does it work, who made it, Who knows?"
 msgstr ""
-"Практически Прозрачная маска, сделанная из льда. Почему она работает, кто её создал? Кто "
+"Практически Прозрачная маска, сделанная из льда. Почему она работает? Кто её создал? Кто "
 "знает?"
 
 #. Key:	Cosmetics_FestiveHat_Description
