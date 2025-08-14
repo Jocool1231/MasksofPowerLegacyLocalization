@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-14 17:55+0300\n"
+"PO-Revision-Date: 2025-08-14 21:11+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -478,8 +478,8 @@ msgid ""
 msgstr ""
 "Эти опасные Рахи славятся своими мощными передними лапами, с помощью которых они атакуют "
 "свою добычу. Красную их разновидность можно найти в районе Та-Вахи, они больше стандартных "
-"Таракав. Если вы столкнётесь с одним из этих сильных Рахи, то вам придётся сражаться. "
-"Сражайтесь против них с осторожностью."
+"Таракав. Если вы столкнётесь с одним из этих сильных Рахи, то вам придётся сражаться. Будьте "
+"осторожны с ними."
 
 #. Key:	CodexPage_LeKini_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeKini.Default__LocationEntry_LeKini_C.Location Description
@@ -1134,9 +1134,9 @@ msgid ""
 "trading Ruki a heavily monitored activity in many Koros."
 msgstr ""
 "Небольшие Рахи, которых нередко можно найти плывущими в водах Га-Вахи. Они являются мирными "
-"созданиями, Маторанов нередко можно найти в процессе их ловли. Однако, неконтролируемая "
+"созданиями, а Маторанов нередко можно найти за процессом их ловли. Однако, неконтролируемая "
 "рыбалка некоторых Маторанов привела к тому, что некоторые редкие типы Руки практически "
-"полностью вымерли, из-за чего торговля Руки сильно регулируется во множестве Коро."
+"полностью вымерли, из-за чего торговля Руки строго регулируется во множестве Коро."
 
 #. Key:	CodexPage_Ruru_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ruru.Default__LocationEntry_Ruru_C.Location Description
@@ -10878,7 +10878,8 @@ msgid ""
 "Hmm, very well then. Perhaps they're just decorative then? Ahh, either way you can keep that "
 "one $T."
 msgstr ""
-"Хм, ладно. Может это просто украшения? Эээ, в любом случае, вы можете оставить одну себе, $T."
+"Хм, ладно. Может, это просто украшения? Эээ, в любом случае, вы можете оставить одну себе, "
+"$T."
 
 #. Key:	DL_Huki1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Huki1.Default__DL_Huki1_C.DialogueText
