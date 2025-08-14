@@ -371,7 +371,7 @@ msgstr "Matoranie są mieszkańcami Mata Nui i jej wiosek — stanowią samo ser
 #: Description
 msgctxt "CodexPage_Description,CodexPage_MeditationPoints_Desc"
 msgid "These odd stones appear all around the island. Nobody knows exactly what they are or why they are here, but they act as places for frequent meditation for Matoran, Toa, and Turaga alike. You are able to use these stones to meditate, passing the time as you sit and ponder the will of Mata Nui."
-msgstr "Te dziwne kamienie pojawiają się w różnych miejscach na wyspie. Nikt dokładnie nie wie, czym są ani dlaczego tu się znajdują, ale służą jako punkty medytacyjne dla Matoran, Toa i Turagów. Możesz używać tych kamieni do medytacji, spędzając czas na rozmyślaniu o woli Mata Nui."
+msgstr "Te dziwne kamienie pojawiają się w różnych miejscach na wyspie. Nikt dokładnie nie wie, czym są ani dlaczego tu się znajdują, ale służą jako punkty medytacyjne dla Matoran, Toa i Turaga. Możesz używać tych kamieni do medytacji, spędzając czas na rozmyślaniu o woli Mata Nui."
 
 #. Key:	CodexPage_Miru_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Miru.Default__LocationEntry_Miru_C.Location Description
@@ -2142,7 +2142,7 @@ msgstr "Dlaczego jesteś tutaj, na górze? Nui-Rama mogłaby Cię stąd łatwo p
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_2.Default__DL_GeneralKokoranbyprotopool_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GeneralKokoranbyprotopool_2_PlayerResponse_1"
 msgid "Fair enough."
-msgstr "Wszystko w porządku."
+msgstr "Rozumiem."
 
 #. Key:	DL_GeneralKokoranbyprotopool_3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_3.Default__DL_GeneralKokoranbyprotopool_3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4557,14 +4557,14 @@ msgstr "Wyruszam na poszukiwania."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKini1.Default__DL_MatoroKini1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MatoroKini1_PlayerResponse_1"
 msgid "I am ready."
-msgstr "Jestem {G}|gender(gotów, gotowa)."
+msgstr "Jestem gotów."
 
 #. Key:	DL_MatoroKini1_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKini1.Default__DL_MatoroKini1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKini1.Default__DL_MatoroKini1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MatoroKini1_PlayerResponse_2"
 msgid "What are you doing here, Matoro?"
-msgstr "Co tuaj robisz, Matoro?"
+msgstr "Co tutaj robisz, Matoro?"
 
 #. Key:	DL_MatoroKiniExplanation1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniExplanation1.Default__DL_MatoroKiniExplanation1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9457,7 +9457,7 @@ msgstr "*Ziew* Cześć, Toa. Co słychać?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_2.Default__DL_GeneralKokoranbyprotopool_2_C.DialogueText
 msgctxt "Dialogue_Text,DL_GeneralKokoranbyprotopool_2"
 msgid "Oh, I like the sound. It makes me feel at peace."
-msgstr "Och, lubię jego dźwięk, bo mnie uspokaja."
+msgstr "Och, lubię jego dźwięk. Uspokaja mnie."
 
 #. Key:	DL_GeneralKokoranbyprotopool_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_3.Default__DL_GeneralKokoranbyprotopool_3_C.DialogueText
@@ -11011,7 +11011,7 @@ msgstr "Są na małej wyspie u wybrzeża, niedaleko granicy Ko-Wahi z Le-Wahi."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble.Default__DL_KylmaTrouble_C.DialogueText
 msgctxt "Dialogue_Text,DL_KylmaTrouble"
 msgid "Oh, Hello Toa $T! Well, simply put I cannot find some of my research."
-msgstr "Och, witaj, Toa $T! Cóż, po prostu nie mogę znaleźć moich części moich notatek badawczych."
+msgstr "Och, witaj, Toa $T! Cóż, po prostu nie mogę znaleźć części moich notatek badawczych."
 
 #. Key:	DL_KylmaTrouble2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble2.Default__DL_KylmaTrouble2_C.DialogueText
@@ -11291,7 +11291,7 @@ msgstr "Witaj ponownie, Toa! {G}|gender(Znalazłeś, Znalazłaś) jakiś fajny s
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_MarkleMasks.Default__DL_MarkleMasks_C.DialogueText
 msgctxt "Dialogue_Text,DL_MarkleMasks"
 msgid "Oh... *sigh.* Hey there, Toa. Welcome to Kita's Kanohi, Got some masks if you want to quick-snatch some."
-msgstr "Och... Witaj, Toa, w Kanohi Kita. Mam kilka masek, jeśli jakieś zgarnąć."
+msgstr "Och... Witaj, Toa, w Kanohi Kita. Mam kilka masek, jeśli chcesz jakieś zgarnąć."
 
 #. Key:	DL_MarkleQuestion
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_MarkleQuestion.Default__DL_MarkleQuestion_C.DialogueText
@@ -11676,7 +11676,7 @@ msgstr "Obawiam się, że nie mamy wyboru, Kopaka."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniExplanation9.Default__DL_MatoroKiniExplanation9_C.DialogueText
 msgctxt "Dialogue_Text,DL_MatoroKiniExplanation9"
 msgid "I will accompany you. The temple remains locked, and I know the secret to unlocking it. I... hope that Nuju can forgive me for this, but this must be done. I cannot allow Nuju’s skepticism to prevent it."
-msgstr "Będę Ci towarzyszył. Świątynia pozostaje zamknięta, a ja wiem, jak ją otworzyć. Mam... mam nadzieję, że Nuju mi to wybaczy, ale musimy to zrobić. Nie pozwolę, by sceptyzm Nuju powstrzymał nas."
+msgstr "Będę Ci towarzyszył. Świątynia pozostaje zamknięta, a ja wiem, jak ją otworzyć. Mam... mam nadzieję, że Nuju mi to wybaczy, ale musimy to zrobić. Nie pozwolę, by sceptyzm Nuju nas powstrzymał."
 
 #. Key:	DL_MatoroKiniKopaka1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniKopaka1.Default__DL_MatoroKiniKopaka1_C.DialogueText
@@ -11767,7 +11767,7 @@ msgstr "Hmm... nareszcie gotowe."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_Metonu1.Default__DL_Metonu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Metonu1"
 msgid "Oh it's nothing... Well it was actually quite a feat - But nothing you need concern yourself with Toa."
-msgstr "Och, to nic takieg... Cóż, właściwie to niezłe osiągnięcie - ale nic, czym musisz się martwić, Toa."
+msgstr "Och, to nic takiego... Cóż, właściwie to niezłe osiągnięcie - ale nic, czym musisz się martwić, Toa."
 
 #. Key:	DL_Metonu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_Metonu2.Default__DL_Metonu2_C.DialogueText
@@ -11928,7 +11928,7 @@ msgstr "Cześć, $T!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Midak2.Default__DL_Midak2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Midak2"
 msgid "I'm not a fan of the dark, so I stay out here."
-msgstr "Nie jestem fanem ciemności, więc zostałem tutaj na zewnątrz."
+msgstr "Nie jestem fanem ciemności, więc zostałem tutaj."
 
 #. Key:	DL_MiningMatoran1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_MiningMatoran1.Default__DL_MiningMatoran1_C.DialogueText
@@ -12880,7 +12880,7 @@ msgstr "Nie... nie jestem pewien, szczerze mówiąc. Wiem tylko, że to pilne. Z
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWho.Default__DL_PoduRaceKopakaWho_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceKopakaWho"
 msgid "I... was told to keep it anonymous. All I was told to say is that it came from a good friend of yours. ...Sorry."
-msgstr "...Powiedziano mi. żebym zachował to w tajemnicy. Jedyne co mi przekazano, to że pochodzi to Twój dobry przyjaciel. ...Przepraszam."
+msgstr "...Powiedziano mi. żebym zachował to w tajemnicy. Jedyne co mi przekazano, to że pochodzi od Twojego dobrego przyjaciela. ...Przepraszam."
 
 #. Key:	DL_PoduRaceKopakaWho2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWho2.Default__DL_PoduRaceKopakaWho2_C.DialogueText
@@ -13419,7 +13419,7 @@ msgstr "Och, tak, oczywiście. Ummm, mogę dać Ci trochę widżetów z tego, co
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerRewardItem.Default__DL_SadKolhiiPlayerRewardItem_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerRewardItem"
 msgid "Uhh, perhaps I can give you... Umm... This! I found it lying around outside Po-Koro, maybe it's worth something?"
-msgstr "Och, w może mogę Ci dać... Umm... To! Znalazłem to leżące na zewnątrz Po-Koro. Może jest coś warte? "
+msgstr "Och, w zamian mogę Ci dać... Umm... To! Znalazłem to leżące na zewnątrz Po-Koro. Może jest coś warte? "
 
 #. Key:	DL_ScaredConvo1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo1.Default__DL_ScaredConvo1_C.DialogueText
@@ -15372,7 +15372,7 @@ msgstr "Wracałem do Onu-Koro, kiedy pojawił się rój Nui-Jaga i zaczął mnie
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaLost3.Default__DL_WhenuaLost3_C.DialogueText
 msgctxt "Dialogue_Text,DL_WhenuaLost3"
 msgid "Well... yes I do. I’m not particularly fond of heights..."
-msgstr "Cóz... tak, potrzebuje. Nie jestem fanem wysokości..."
+msgstr "Cóż... tak, potrzebuje. Nie jestem fanem wysokości..."
 
 #. Key:	DL_WhenuaOnua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaOnua.Default__DL_WhenuaOnua_C.DialogueText
@@ -15687,7 +15687,7 @@ msgstr "Hau, Wielka Maska Osłony. Ta maska została wykonana przez Matoran i ni
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_InfectedMasks.Item_InfectedMasks.Description
 msgctxt "InvItem_Description,Item_InfectedMasks_Desc"
 msgid "These masks seem to be under a strange power from Makuta. Perhaps they are worth some widgets?"
-msgstr "Te maski wydają się być po wpływem tajemniczej mocy Makuty. Mogą być warte trochę widżetów?"
+msgstr "Te maski wydają się być po wpływem tajemniczej mocy Makuty. Może są warte trochę widżetów?"
 
 #. Key:	Item_KakamaUnpowered_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_KakamaUnpowered.Item_KakamaUnpowered.Description
@@ -16590,7 +16590,7 @@ msgstr "Widżety"
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Name
 msgctxt "InvItem_Name,Item_WoodStatue"
 msgid "Wood Head Statue"
-msgstr "Drewniana Rzeźba Głowa"
+msgstr "Drewniana Rzeźba Głowy"
 
 #. Key:	Item_WorldMap
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Name
@@ -16686,7 +16686,7 @@ msgstr ""
 "Nattie zachowuje się dziwnie. Bez konsultacji ze mną kazała nam obrać nowy kurs. Próbowałem z nią rozmawiać, ale ona... kazał zwracać się do siebie 'Kapitanie'. Załoga zaczyna być zmęczona, ale ona ciągle każe nam pracować.\r\n"
 "\r\n"
 "Wpis 22\r\n"
-"Kapitan... Nattie.. Zmusiła nas do kradzieży złota innym Matoranom. Próbowałem ją postrzymać… zagroziła mi, że wyrzuci mnie za burtę na pożarcie Rybą Kolcowym. Załoga posłuchała jej rozkazów. Wygłada na to, że głównie ze strachu."
+"Kapitan... Nattie.. Zmusiła nas do kradzieży złota innym Matoranom. Próbowałem ją postrzymać… zagroziła mi, że wyrzuci mnie za burtę na pożarcie Rybą Kolcowym. Załoga posłuchała jej rozkazów. Wygląda na to, że głównie ze strachu."
 
 #. Key:	Item_FirstMateLog3_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog3.Item_FirstMateLog3.TextToDisplay
@@ -17038,7 +17038,7 @@ msgstr ""
 "\r\n"
 "Stały wyższe, niż mogłem sobie to wyobrazić przez cały ten czas. \r\n"
 "Kiedy na początku rozpocząłem swoją podróż, nie wierzyłem, że kiedykolwiek znajdę to święte miejsce - wątpiłem nawet w jego istnienie. Ale teraz, kiedy tu jestem, nareszcie znalazłem ukojenie.\r\n"
-"Medytując w pobliskiej konstrukcji, tuż pod potęgą Mata-Nui, czuję się bardziej odświeżony i pełen życia niż kiedykolwiek wcześniej.\r\n"
+"Medytując w pobliskiej budowli, tuż pod potęgą Mata-Nui, czuję się bardziej odświeżony i pełen życia niż kiedykolwiek wcześniej.\r\n"
 "Mam wrażenie, że sam Mata-Nui pobłogosławił te posągi swoją boską wolą.\r\n"
 "\r\n"
 "Choć Pahtu nigdzie nie widać, wierzę, że to tutaj zakończyła się jego podróż. Coś się z nim stało i nikt nigdy się nie pozna prawdy. Mam jednak przeczucie, że nie został zabity - wciąż żyje, gdzieś i jakoś.\r\n"
@@ -17817,7 +17817,7 @@ msgstr "Porozmawiaj z pozostałymi Toa przy Kini-Nui."
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Kokoro.Default__Quest_Kokoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Kokoro_Objective_1"
 msgid "Travel to Ko-Koro and find Matoro"
-msgstr "Udaj się do Ko-Koro i znajdź Matoro"
+msgstr "Udaj się do Ko-Koro i znajdź Matoro."
 
 #. Key:	Quest_KoMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -17985,21 +17985,21 @@ msgstr "Udaj się do Po-Koro i wejdź w interakcję z Suvą."
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Pokoro.Default__Quest_Pokoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Pokoro_Objective_1"
 msgid "Travel to Po-Koro and speak to Huki"
-msgstr "Udaj się do Po-Koro i porozmawiaj z Huki"
+msgstr "Udaj się do Po-Koro i porozmawiaj z Huki."
 
 #. Key:	Quest_PoMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_PoMakokiStone.Default__Quest_PoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_PoMakokiStone.Default__Quest_PoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_PoMakokiStone_Objective_1"
 msgid "Speak to Onewa in Po-koro"
-msgstr "Porozmawiaj z Onewą w Po-Koro"
+msgstr "Porozmawiaj z Onewą w Po-Koro."
 
 #. Key:	Quest_PoTemple_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_PoTemple_Objective_1"
 msgid "Find the tresure"
-msgstr "Znajdź skarb"
+msgstr "Znajdź skarb."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -18041,14 +18041,14 @@ msgstr "Znajdź Obłąkanego Matoranina. Wrota do jaskini, w której się ukrywa
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_6"
 msgid "Talk To The Insane Matoran"
-msgstr "Porozmawiaj z Obłąkanym Matoraninem"
+msgstr "Porozmawiaj z Obłąkanym Matoraninem."
 
 #. Key:	Quest_Protosteel_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_1"
 msgid "Return to the Town"
-msgstr "Wróć do miasta"
+msgstr "Wróć do miasta."
 
 #. Key:	Quest_Protosteel_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -18062,35 +18062,35 @@ msgstr "Dowiedz się, co stało się z miastem."
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_3"
 msgid "Find Kohi (He went to Ga-Koro to charter a boat)"
-msgstr "Znajdź Kohiego (Udał się do Ga-Koro, aby wyczarterować łódź)"
+msgstr "Znajdź Kohiego. (Udał się do Ga-Koro, aby wyczarterować łódź)"
 
 #. Key:	Quest_Protosteel_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_4"
 msgid "Pull the protosteel sword from the stone"
-msgstr "Wyciągnij protostalowy miecz z kamienia"
+msgstr "Wyciągnij protostalowy miecz z kamienia."
 
 #. Key:	Quest_Protosteel_Objective_5
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_5"
 msgid "Speak to Kohi"
-msgstr "Porozmawiaj z Kohim"
+msgstr "Porozmawiaj z Kohim."
 
 #. Key:	Quest_Protosteel_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_6"
 msgid "Visit Kohi's forge in Po-koro"
-msgstr "Odwiedź kuźnię Kohiego w Po-Koro"
+msgstr "Odwiedź kuźnię Kohiego w Po-Koro."
 
 #. Key:	Quest_Protosteel_Objective_7
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_7"
 msgid "Recive Kohi's Gift"
-msgstr "Odbierz prezent od Kohiego"
+msgstr "Odbierz prezent od Kohiego."
 
 #. Key:	Quest_Staff_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -18867,7 +18867,7 @@ msgstr "To żaden problem."
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,IWill"
 msgid "I will."
-msgstr "Tak zrobię."
+msgstr "Dobrze."
 
 #. Key:	Leave
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -18972,7 +18972,7 @@ msgstr "Co masz na myśli?"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Whatisit"
 msgid "What is it?"
-msgstr "Co to?"
+msgstr "O co chodzi?"
 
 #. Key:	WhatYouHave
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -19175,7 +19175,7 @@ msgstr "Środkowy Blok"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_ObtaintheMakokiStone"
 msgid "Obtain the Makoki Stone."
-msgstr "Zdobyto Kamień Makoki."
+msgstr "Zdobądź Kamień Makoki."
 
 #. Key:	Gen_Open
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -19217,14 +19217,14 @@ msgstr "Lina"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Speak"
 msgid "Speak with {Facing}"
-msgstr "Rozmawiaj z {Facing}"
+msgstr "Porozmawiaj z {Facing}"
 
 #. Key:	Gen_SpeakTo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_SpeakTo"
 msgid "Speak to {NPC}"
-msgstr "Mów do {NPC}"
+msgstr "Porozmawiaj z {NPC}"
 
 #. Key:	Gen_SuvaInteract
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -19287,14 +19287,14 @@ msgstr "Wróć"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIBindFirst"
 msgid "Bind to First Slot"
-msgstr "Przypisz do pierwszego miejsca szybkiego dostępu"
+msgstr "Przypisz do slotu 1"
 
 #. Key:	UIBindSecond
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIBindSecond"
 msgid "Bind to Second Slot"
-msgstr "Przypisz do drugiego miejsca szybkiego dostępu"
+msgstr "Przypisz do slotu 2"
 
 #. Key:	UIBorderless
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -19350,7 +19350,7 @@ msgstr "Napisy"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UICrush"
 msgid "Crush"
-msgstr "Crush"
+msgstr "Zgnieć"
 
 #. Key:	UIDisabled
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -19371,7 +19371,7 @@ msgstr "Włącz"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIEnabled"
 msgid "Enabled"
-msgstr "Wyłączone"
+msgstr "Włączone"
 
 #. Key:	UIEpic
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -19392,7 +19392,7 @@ msgstr "Wyjdź"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIExitControlScheme"
 msgid "{Input} <Key>to exit</>"
-msgstr "{Input} <Key>, aby wyjść</>"
+msgstr "{Input} <Key>aby wyjść</>"
 
 #. Key:	UIFullScreen
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -19602,7 +19602,7 @@ msgstr "Użyj"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIView"
 msgid "View"
-msgstr "Widok"
+msgstr "Pokaż"
 
 #. Key:	UIWindowed
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -19623,7 +19623,7 @@ msgstr "Tak"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIZoomControlScheme"
 msgid "{Input} <Key>to zoom</>"
-msgstr "{Input} <Key>, aby przybliżyć</>"
+msgstr "{Input} <Key>aby przybliżyć</>"
 
 #. Key:	Names_Ahkmou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20064,7 +20064,7 @@ msgstr "Komeke"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Kongu"
 msgid "Kongu"
-msgstr "Komgu"
+msgstr "Kongu"
 
 #. Key:	Names_Kopaka
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20866,7 +20866,7 @@ msgid ""
 "Press <Key>{Action1}</> to enter combat mode"
 msgstr ""
 "<Key>Życie samo się nie regeneruje!</>\r\n"
-"Aby zregenerować życie, musisz znaleźć Punkt Medytacyjny albo użyć odpowiedniego przedmiotu.\n"
+"Aby zregenerować życie, musisz znaleźć Punkt Medytacyjny albo użyć odpowiedniego przedmiotu.\r\n"
 "\r\n"
 "\r\n"
 "Naciśnij <Key>{Action1}</>, aby wejść w tryb walki"
@@ -20917,7 +20917,7 @@ msgstr "Kiedy celujesz w maskę środkiem ekranu, naciśnij <Key>{Action1}</>, a
 #: /Game/BluePrints/Classes/Tutorial/Tut_Jump.Tut_Jump.Text
 msgctxt "Tutorial_Text,Tut_Jump"
 msgid "Press <Key>{Action1}</> to jump"
-msgstr "Naciśnij <Key>{Action1}, aby skoczyć"
+msgstr "Naciśnij <Key>{Action1}</>, aby skoczyć"
 
 #. Key:	Tut_LookAround
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_LookAround.Tut_LookAround.Text
@@ -21328,7 +21328,7 @@ msgstr "Rozpocznij Nową Grę"
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_3.Text
 msgctxt "UIText_Button,Pause_AudioSettingsButton"
 msgid "Audio Settings"
-msgstr "Ustawienie dźwięku"
+msgstr "Ustawienia dźwięku"
 
 #. Key:	Pause_DisplaySettingsButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_2.Text
@@ -21384,7 +21384,7 @@ msgstr "Zapisz"
 #: /Game/BluePrints/UI/Widget_Pause.Widget_Pause_C:WidgetTree.TextBlock_5.Text
 msgctxt "UIText_Button,Pause_StatsButton"
 msgid "Stats"
-msgstr "Statstyki"
+msgstr "Statystyki"
 
 #. Key:	Skip_Description
 #. SourceLocation:	/Game/BluePrints/UI/Skip.Skip_C:WidgetTree.RichTextBlock_71.Text
@@ -21636,7 +21636,7 @@ msgstr "{Input} <Key>zmień wielkość ikon</>"
 #: /Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.MoveBaseText
 msgctxt "UIText_Description,MapCtrlsWidget_ToMove"
 msgid "{Input} <Key>to move the map</>"
-msgstr "{Input} <Key>, aby poruszać mapą</>"
+msgstr "{Input} <Key>aby poruszać mapą</>"
 
 #. Key:	MaskPowerStation_AreYouSure
 #. SourceLocation:	/Game/BluePrints/UI/PowerMask.Default__PowerMask_C.PowerMaskDescription
@@ -22333,7 +22333,7 @@ msgstr "Ręczny Zapis"
 #: /Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName.Text
 msgctxt "UIText_Description,StatsMenu_MaskPickups"
 msgid "Mask Pickups:"
-msgstr "Podnieś maskę:"
+msgstr "Podniesione maski:"
 
 #. Key:	StatsMenu_Misc
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_5.Text
@@ -22410,14 +22410,14 @@ msgstr "Misje:"
 #: /Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_4.Text
 msgctxt "UIText_Description,StatsMenu_Quests_MainQuests"
 msgid "Main Quests:"
-msgstr "Główne Misje:"
+msgstr "Misje Główne:"
 
 #. Key:	StatsMenu_Quests_SideQuests
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_3.Text
 #: /Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_3.Text
 msgctxt "UIText_Description,StatsMenu_Quests_SideQuests"
 msgid "Side Quests: "
-msgstr "Poboczne Misje: "
+msgstr "Misje Poboczne: "
 
 #. Key:	TabMenu_Codex_Entries
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock_8.Text
@@ -22431,7 +22431,7 @@ msgstr "Wpisy"
 #: /Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.MainQuestTitle.Text
 msgctxt "UIText_Description,TabMenu_Quest_MainQuests"
 msgid "MAIN QUESTS"
-msgstr "GŁÓWNE MISJE"
+msgstr "MISJE GŁÓWNE"
 
 #. Key:	TabMenu_Quest_Objectives
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.ObjectivesTitleText.Text
@@ -22445,14 +22445,14 @@ msgstr "Cele:"
 #: /Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.SideQuestsTitle.Text
 msgctxt "UIText_Description,TabMenu_Quest_SideQuests"
 msgid "OPTIONAL QUESTS"
-msgstr "POBOCZNE MISJE"
+msgstr "MISJE POBOCZNE"
 
 #. Key:	TelescopeCtrlsWidget_ToLook
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_TelescopeNewWidget.Default__ControlSchemes_TelescopeNewWidget_C.LookBaseText
 #: /Game/BluePrints/UI/ControlSchemes_TelescopeNewWidget.Default__ControlSchemes_TelescopeNewWidget_C.LookBaseText
 msgctxt "UIText_Description,TelescopeCtrlsWidget_ToLook"
 msgid "{Input} <Key>to rotate telescope</>"
-msgstr "{Input} <Key>, aby obrócić teleskop</>"
+msgstr "{Input} <Key>aby obrócić teleskop</>"
 
 #. Key:	ThankYou_Header
 #. SourceLocation:	/Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.TextBlock_196.Text
@@ -22500,7 +22500,7 @@ msgstr "Wydaj: {Amount}"
 #: [Script Bytecode]
 msgctxt "UIText_Description,TradeMenu_ItemBuyValue"
 msgid "(Seller sells this at a <Key>{Low/High}</> price than normal)"
-msgstr "(Sprzedawca sprzedaj ten przedmiot za <Key>{Niższą/Wyższą}</>cenę niż normalna)"
+msgstr "(Sprzedawca sprzedaj ten przedmiot za <Key>{Low/High}</>cenę niż normalna)"
 
 #. Key:	TradeMenu_ItemSellValue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
@@ -22508,7 +22508,7 @@ msgstr "(Sprzedawca sprzedaj ten przedmiot za <Key>{Niższą/Wyższą}</>cenę n
 #: [Script Bytecode]
 msgctxt "UIText_Description,TradeMenu_ItemSellValue"
 msgid "(Seller will buy this at a <Key>{Low/High}</> price than normal)"
-msgstr "(Sprzedawca kupi ten przedmiot za <Key>{Niższą/Wyższą}</> cenę niż normalna)"
+msgstr "(Sprzedawca kupi ten przedmiot za <Key>{Low/High}</> cenę niż normalna)"
 
 #. Key:	TradeMenu_SellAmount
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.Default__TradeMenu_C.SellFor
