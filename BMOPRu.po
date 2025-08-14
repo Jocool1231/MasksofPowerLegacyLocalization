@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-13 15:16+0300\n"
+"PO-Revision-Date: 2025-08-14 17:17+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -22165,21 +22165,21 @@ msgstr "Системой канатной дороги"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Climb"
 msgid "Climb {Facing}"
-msgstr "Взобраться по {Facing}"
+msgstr "Забраться на: {Facing}"
 
 #. Key:	Gen_ClimbDown
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_ClimbDown"
 msgid "Climb Down {Facing}"
-msgstr "Спуститься по {Facing}"
+msgstr "Спуститься по: {Facing}"
 
 #. Key:	Gen_ClimbUp
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_ClimbUp"
 msgid "Climb Up {Facing}"
-msgstr "Взобраться по {Facing}"
+msgstr "Взобраться по: {Facing}"
 
 #. Key:	Gen_Conv_Conversation
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22249,14 +22249,14 @@ msgstr "Ворота"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Interact"
 msgid "Interact with {Facing}"
-msgstr "Взаимодействовать с {Facing}"
+msgstr "Взаимодействовать с: {Facing}"
 
 #. Key:	Gen_Ladder
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Ladder"
 msgid "Ladder"
-msgstr "Лестнице"
+msgstr "Лестница"
 
 #. Key:	Gen_LeftBlock
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22270,7 +22270,7 @@ msgstr "Левый Блок"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Lever"
 msgid "Lever"
-msgstr "Рычагом"
+msgstr "Рычаг"
 
 #. Key:	Gen_LeverOne
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22298,7 +22298,7 @@ msgstr "Рычаг 2"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Listen"
 msgid "Listen to {Facing}"
-msgstr "Послушать {Facing}"
+msgstr "Послушать: {Facing}"
 
 #. Key:	Gen_LockedDoor
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22333,14 +22333,14 @@ msgstr "Достаньте Камень Макоки."
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Open"
 msgid "Open {Facing}"
-msgstr "Открыть {Facing}"
+msgstr "Открыть: {Facing}"
 
 #. Key:	Gen_Pickup
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Pickup"
 msgid "Pick up {Facing}"
-msgstr "Подобрать {Facing}"
+msgstr "Подобрать: {Facing}"
 
 #. Key:	Gen_RestoryMyMemory
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22365,7 +22365,7 @@ msgstr "Правый Блок"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Rope"
 msgid "Rope"
-msgstr "Верёвке"
+msgstr "Верёвка"
 
 #. Key:	Gen_Speak
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22393,7 +22393,7 @@ msgstr "Разблокировать Золотую Маску для данно
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Telescope"
 msgid "Telescope"
-msgstr "Телескопом"
+msgstr "Телескоп"
 
 #. Key:	Gen_TradeDeal
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22547,7 +22547,7 @@ msgstr "Выход"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIExitControlScheme"
 msgid "{Input} <Key>to exit</>"
-msgstr "{Input} <Key>, чтобы выйти</>"
+msgstr "{Input} <Key> для выхода</>"
 
 #. Key:	UIFullScreen
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22778,7 +22778,7 @@ msgstr "Да"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIZoomControlScheme"
 msgid "{Input} <Key>to zoom</>"
-msgstr "{Input} <Key>, чтобы увеличить/уменьшить</>"
+msgstr "{Input} <Key> для изменения масштаба</>"
 
 #. Key:	Names_Ahkmou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -24059,7 +24059,7 @@ msgid ""
 "0 stamina will result in not being able to run or attack.\r\n"
 "0 Health will result in a death."
 msgstr ""
-"Это ваши полоски здоровья и энергии, внимательно следите за ними.\r\n"
+"Это – ваши полоски здоровья и энергии, внимательно следите за ними.\r\n"
 "0 энергии приведёт к невозможности бегать или атаковать.\r\n"
 "0 здоровья приведёт к смерти."
 
@@ -24070,21 +24070,22 @@ msgctxt "Tutorial_Text,Tut_Interact"
 msgid ""
 "While aiming at it with the center of the screen, press <Key>{Action1}</> to pick up the "
 "mask."
-msgstr "Наведясь на неё в центр экрана, нажмите <Key>{Action1}</>, чтобы подобрать маску."
+msgstr ""
+"Наведясь на неё в центр экрана, нажмите <Key>{Action1}</> для того, чтобы подобрать маску."
 
 #. Key:	Tut_Jump
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Jump.Tut_Jump.Text
 #: /Game/BluePrints/Classes/Tutorial/Tut_Jump.Tut_Jump.Text
 msgctxt "Tutorial_Text,Tut_Jump"
 msgid "Press <Key>{Action1}</> to jump"
-msgstr "Нажмите <Key>{Action1}</>, чтобы прыгнуть"
+msgstr "Нажмите <Key>{Action1}</> для того, чтобы прыгнуть"
 
 #. Key:	Tut_LookAround
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_LookAround.Tut_LookAround.Text
 #: /Game/BluePrints/Classes/Tutorial/Tut_LookAround.Tut_LookAround.Text
 msgctxt "Tutorial_Text,Tut_LookAround"
 msgid "Use <Key>{Action1} and {Action2}</> to look around"
-msgstr "Используйте <Key>{Action1} и {Action2}</>, чтобы осмотреться"
+msgstr "Используйте <Key>{Action1} и {Action2}</> для того, чтобы осмотреться"
 
 #. Key:	Tut_MapFragments
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_MapFragments.Tut_MapFragments.Text
