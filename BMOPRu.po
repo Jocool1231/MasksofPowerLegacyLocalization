@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-15 11:01+0300\n"
+"PO-Revision-Date: 2025-08-15 11:56+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5757,7 +5757,7 @@ msgstr "Что-то не так, Турага?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoFinal1.Default__DL_NujuCovoFinal1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NujuCovoFinal1_PlayerResponse_1"
 msgid "Do you have anything else for me to do?"
-msgstr "У вас есть ещё что-то, что я могу сделать?"
+msgstr "Есть ли у вас что-то ещё, что я могу сделать?"
 
 #. Key:	DL_NujuCovoKiniReturn_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturn.Default__DL_NujuCovoKiniReturn_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -16819,7 +16819,7 @@ msgid ""
 "Haikus! Yeah, Don't start telling me about how \"Haikus\" don't have to rhyme!"
 msgstr ""
 "Ваши поэмы даже не имеют рифмы, не нужно мне говорить про... Эмм... Ха... Хайку! Да, не "
-"заставляйте меня слушать про то, что «Хайку» не должны рифмоваться!"
+"говорите мне о том, что «Хайку» не должны рифмоваться!"
 
 #. Key:	DL_Talok4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok4.Default__DL_Talok4_C.DialogueText
@@ -17377,7 +17377,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutFinalDialouge_Wake.Default__DL_TutFinalDialouge_Wake_C.DialogueText
 msgctxt "Dialogue_Text,DL_TutFinalDialouge_Wake"
 msgid "Through the light, Toa..."
-msgstr "Через свет, Тоа..."
+msgstr "Выходите в свет, Тоа..."
 
 #. Key:	DL_TutFinalDialouge_Where
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutFinalDialouge_Where.Default__DL_TutFinalDialouge_Where_C.DialogueText
@@ -22548,7 +22548,7 @@ msgstr "Выход"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIExitControlScheme"
 msgid "{Input} <Key>to exit</>"
-msgstr "{Input} <Key> для выхода</>"
+msgstr "{Input} <Key>для выхода</>"
 
 #. Key:	UIFullScreen
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22744,7 +22744,7 @@ msgstr "Левый и Правый Триггеры"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIUnlimited"
 msgid "Unlimited"
-msgstr "Бесконечный"
+msgstr "Неограниченный"
 
 #. Key:	UIUse
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
