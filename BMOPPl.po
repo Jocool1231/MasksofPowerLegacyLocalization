@@ -1281,7 +1281,7 @@ msgstr "Niestety, jeszcze go nie znalazłem."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Explaination.Default__DL_Allknowingmatoran_Explaination_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_Explaination_PlayerResponse_1"
 msgid "Hmm, Interesting"
-msgstr "Hmm… Interesujące"
+msgstr "Hmm… Interesujące."
 
 #. Key:	DL_Allknowingmatoran_Komaru_Reward_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Komaru_Reward.Default__DL_Allknowingmatoran_Komaru_Reward_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1309,7 +1309,7 @@ msgstr "Mnie? Nie sądzę, żebyśmy się znali."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_1"
 msgid "What where you talking about, \"Equality\"?"
-msgstr "Co mówiłeś o na temat \"Równowagi\"?"
+msgstr "Co mówiłeś na temat \"Równowagi\"?"
 
 #. Key:	DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1694,7 +1694,7 @@ msgstr "Czy znalazłeś jeszcze jakieś inne maski?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerIntroNoKakama.Default__DL_CartographerIntroNoKakama_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerIntroNoKakama_PlayerResponse_2"
 msgid "Nothing, thank you."
-msgstr "Nic, dziękuję"
+msgstr "Nic, dziękuję."
 
 #. Key:	DL_CartographerNeedMap_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerNeedMap.Default__DL_CartographerNeedMap_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1855,7 +1855,7 @@ msgstr "Co tutaj robisz?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_Cleaning.Default__DL_Cleaning_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Cleaning_PlayerResponse_2"
 msgid "Jaller, is that you?"
-msgstr "Czy to Ty, Jaller?"
+msgstr "Czy to Ty, Jala?"
 
 #. Key:	DL_DamemoExit_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoExit.Default__DL_DamemoExit_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1897,14 +1897,14 @@ msgstr "Dokąd się udasz?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLose.Default__DL_DamemoLose_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_DamemoLose_PlayerResponse_1"
 msgid "<Lie> Indeed, however I was unable to clear the blockage. The beast proved too strong for even me."
-msgstr "<Lie> Tak, ale nie udało mi się usunąć blokady. Bestia okazała się za silna nawet dla mnie."
+msgstr "<Skłam> Tak, ale nie udało mi się usunąć blokady. Bestia okazała się za silna nawet dla mnie."
 
 #. Key:	DL_DamemoLose_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLose.Default__DL_DamemoLose_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLose.Default__DL_DamemoLose_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_DamemoLose_PlayerResponse_2"
 msgid "<Truth> Yes, however you cannot stay here."
-msgstr "<Truth> Tak, ale nie możesz tutaj zostać."
+msgstr "<Powiedz prawdę> Tak, ale nie możesz tutaj zostać."
 
 #. Key:	DL_DamemoRuki_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoRuki.Default__DL_DamemoRuki_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4158,7 +4158,7 @@ msgstr "Tylko dla mnie."
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_MackuTidbit.Default__DL_MackuTidbit_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MackuTidbit_PlayerResponse_1"
 msgid "Hmm, I didn't know that, Thank you."
-msgstr "Hmm, nie {G}|gender(wiedziałem, wiedziałam) o tego. Dziękuję."
+msgstr "Hmm, nie {G}|gender(wiedziałem, wiedziałam) tego. Dziękuję."
 
 #. Key:	DL_Maren1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_Maren1.Default__DL_Maren1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5712,7 +5712,7 @@ msgstr "Znowu Ty? O co w tym wszystkim chodzi?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRace2.Default__DL_PoduRace2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PoduRace2_PlayerResponse_2"
 msgid "Just hang in there… I’m sure Kopaka will be here any minute now!"
-msgstr "Poczekaj tu chwilę... Jestem {G}|gender(pewny, pewna), że Kopaka będzie tu za chwilę!"
+msgstr "Poczekaj tu chwilę... Jestem pewny, że Kopaka za chwilę tu będzie!"
 
 #. Key:	DL_PoduRace2_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRace2.Default__DL_PoduRace2_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6510,7 +6510,7 @@ msgstr "{G}|gender(Chciałbym, Chciałabym) zobaczyć, co masz."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtinii.Default__DL_SellerConsumablesHewtinii_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_SellerConsumablesHewtinii_PlayerResponse_2"
 msgid "I heard a rumor about Kapura and your name came up, what's up with him?"
-msgstr "{G}|gender(Słyszałem, Słyszałam) plotki o Kapurze i pojawiło się w nich Twoje imię - co się z nim dzieje?"
+msgstr "{G}|gender(Słyszałem, Słyszałam) plotki o Kapurze i pojawiło się w nich Twoje imię - o co chodzi?"
 
 #. Key:	DL_SellerConsumablesHewtinii_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtinii.Default__DL_SellerConsumablesHewtinii_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7147,7 +7147,7 @@ msgstr "Nie, na razie nie."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSeller2.Default__DL_StaffSeller2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_StaffSeller2_PlayerResponse_1"
 msgid "I'm afraid I don't have any use for one at the moment."
-msgstr "Obawiam się, że na razie i tak nie będę jej potrzebować."
+msgstr "Obawiam się, że na razie i tak nie będę go potrzebować."
 
 #. Key:	DL_StaffSellerQuartermaster2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster2.Default__DL_StaffSellerQuartermaster2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8148,7 +8148,7 @@ msgstr "O co chodzi?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ukkar2.Default__DL_Ukkar2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Ukkar2_PlayerResponse_1"
 msgid "I've seen a fair amount of it."
-msgstr "{G}|gender(Zdązyłem, Zdązyłam) już dużo zwiedzić."
+msgstr "{G}|gender(Zdążyłem, Zdążyłam) już dużo zwiedzić."
 
 #. Key:	DL_Ukkar3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ukkar3.Default__DL_Ukkar3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8792,14 +8792,14 @@ msgstr "Zaczekaj! Znalazłem ten pancerz podczas moich podróży. Może mógłby
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Komaru_Thanks.Default__DL_Allknowingmatoran_Komaru_Thanks_C.DialogueText
 msgctxt "Dialogue_Text,DL_Allknowingmatoran_Komaru_Thanks"
 msgid "Thank you for snaping me out of it Toa!"
-msgstr "Dziękuję Ci, Toa, że wyrwałeś mnie z tego!"
+msgstr "Dziękuję Ci, Toa, że mnie z tego wyrwałeś!"
 
 #. Key:	DL_Allknowingmatoran_ThanksForSavingHim
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.DialogueText
 msgctxt "Dialogue_Text,DL_Allknowingmatoran_ThanksForSavingHim"
 msgid "Thank you for helping save Komaru $T!"
-msgstr "Dziękuję za pomoc w uratowania Komaru $T!"
+msgstr "Dziękuję za pomoc w uratowania Komaru, $T!"
 
 #. Key:	DL_Allknowingmatoran_Visions
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Visions.Default__DL_Allknowingmatoran_Visions_C.DialogueText
@@ -8841,7 +8841,7 @@ msgstr "Nie mamy na to czasu, Toa. Musisz znaleźć tego Matoranina. Jeśli tego
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHimDoor.Default__DL_Allknowingmatoran_WDYFFindHimDoor_C.DialogueText
 msgctxt "Dialogue_Text,DL_Allknowingmatoran_WDYFFindHimDoor"
 msgid "There should be a rock door with three spinning rocks on it, The order is Faith, Creation, then Peace"
-msgstr "Powinny tam być kamienne drzwi z trzema obrotowymi skałami. Kolejność to: Wiara, Kreacja, Pokój"
+msgstr "Powinny tam być kamienne drzwi z trzema obrotowymi skałami. Kolejność to: Wiara, Kreacja, Pokój."
 
 #. Key:	DL_Allknowingmatoran_WDYFLiar
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFLiar.Default__DL_Allknowingmatoran_WDYFLiar_C.DialogueText
@@ -9415,14 +9415,14 @@ msgstr "Lubię podziwiać stąd widoki. Czasami dobrze zrobić sobie krótką pr
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Fish.Default__DL_Fish_C.DialogueText
 msgctxt "Dialogue_Text,DL_Fish"
 msgid "I once caught a fish *this* big!"
-msgstr "Kiedyś złapałem *taką* rybę!"
+msgstr "Kiedyś złapałam *taką* rybę!"
 
 #. Key:	DL_Fish2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Fish2.Default__DL_Fish2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Fish2.Default__DL_Fish2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Fish2"
 msgid "Oh yeah, Well I once caught a fish *thiiiis* big!"
-msgstr "Och, tak? A ja kiedyś złapałem *taaaaką* rybę!"
+msgstr "Och, tak? A ja kiedyś złapałam *taaaaką* rybę!"
 
 #. Key:	DL_FishSeller
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_FishSeller.Default__DL_FishSeller_C.DialogueText
@@ -9625,14 +9625,14 @@ msgstr "Hmm… Może jednak mogę... Powodzenia w twoich podróżach, Toa."
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard1.Default__DL_Guard1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Guard1"
 msgid "Halt, may I see your credentials?"
-msgstr "Stój! Mogę zobaczyć Twoją dokumenty?"
+msgstr "Stój! Mogę zobaczyć Twoje dokumenty?"
 
 #. Key:	DL_Guard2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard2.Default__DL_Guard2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard2.Default__DL_Guard2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Guard2"
 msgid "Umm... I still need them - some form of ID?"
-msgstr "Umm… Ciągle ich potrzebuję -masz coś, co potwierdzi Twoją tożsamość?"
+msgstr "Umm… Ciągle ich potrzebuję - masz coś, co potwierdzi Twoją tożsamość?"
 
 #. Key:	DL_Guard3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard3.Default__DL_Guard3_C.DialogueText
@@ -9877,7 +9877,7 @@ msgstr "Na co czekasz, Toa? Onewa może być w niebezpieczeństwie - idź go zna
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_HukiSaved.Default__DL_HukiSaved_C.DialogueText
 msgctxt "Dialogue_Text,DL_HukiSaved"
 msgid "Heard you found the great craftsman! We're all very glad that Turaga Onewa is safe!"
-msgstr "Słyszałem, że znalazłeś wielkiego rzemieślnika! Wszyscy bardzo się cieszymy, że Turaga Onewa jest bezpieczny!"
+msgstr "Słyszałem, że {G}|gender(znalazłeś, znalazłaś) wielkiego rzemieślnika! Wszyscy bardzo się cieszymy, że Turaga Onewa jest bezpieczny!"
 
 #. Key:	DL_ImportedPlantSeller
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_ImportedPlantSeller.Default__DL_ImportedPlantSeller_C.DialogueText
@@ -9954,7 +9954,7 @@ msgstr "Nic specjalnego, poza powrotem Vakamy, za który jestem wdzięczny. Spok
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Jala/DL_JalaTakoro.Default__DL_JalaTakoro_C.DialogueText
 msgctxt "Dialogue_Text,DL_JalaTakoro"
 msgid "Use the lever behind me to cross the moat. We keep the bridge lowered to protect the village from Rahi, so try to remember to lower it again once you’re across."
-msgstr "Użyj dźwigni za mną, aby podnieść most. Trzymamy most opuszczony, żeby chronić wioskę przed Rahi, więc pamiętaj, aby opuścić go z powrotem, kiedy będziesz już po drugiej stronie."
+msgstr "Użyj dźwigni za mną, aby podnieść most. Trzymamy go opuszczony, żeby chronić wioskę przed Rahi, więc pamiętaj, aby opuścić go z powrotem, kiedy będziesz już po drugiej stronie."
 
 #. Key:	DL_JalaWho
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Jala/DL_JalaWho.Default__DL_JalaWho_C.DialogueText
@@ -10661,7 +10661,7 @@ msgstr "Cóż, próbowałem przetopić te narzędzia, które znaleźliśmy, i na
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelDiscovered4.Default__DL_KoTownKohiProtosteelDiscovered4_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownKohiProtosteelDiscovered4"
 msgid "In an admittedly embarrassing fit of rage, I attempted to bend the tools with my bare hands. Surprisingly, it worked! There was some sort of electricity between my hands, the metal became soft and began to glow. So I placed it into the furnace and they melted!"
-msgstr "W, co przyznaję, zawstydzającym wybuchu złości, spróbowałem wygiąć narzędzia gołymi dłońmi. Ku mojemu zdziwieniu, udało się! Między moimi dłońmi pojawił się jakiś rodzaj elektryczności, metal zmiękł i zaczął świecić. Więc włożyłem je do pieca i stopił się!"
+msgstr "W, co przyznaję, zawstydzającym wybuchu złości, spróbowałem wygiąć narzędzia gołymi dłońmi. Ku mojemu zdziwieniu, udało mi się! Między moimi dłońmi pojawił się jakiś rodzaj elektryczności, metal zmiękł i zaczął świecić. Więc włożyłem je do pieca i stopił się!"
 
 #. Key:	DL_KoTownKohiProtosteelGift
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelGift.Default__DL_KoTownKohiProtosteelGift_C.DialogueText
@@ -10724,7 +10724,7 @@ msgstr "Oczywiście, że będę ją sprzedawać! Narzędzia i Zbroje Kohiego bę
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelQuestion.Default__DL_KoTownKohiProtosteelQuestion_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownKohiProtosteelQuestion"
 msgid "You're accusing me Toa? *Huff* No, $T I did not have anything to do with that. As I said, it's a shame and I hope every one's alright, but there's no reason for you to be blaming me when I wasn't even there!"
-msgstr "Czy Ty mnie oskarżasz, Toa? *Huff* Nie, $T, nie miałem z tym nic wspólnego. Jak już mówiłem, to przykre i mam nadzieję, że nikomu nic się nie stało, ale nie masz powodu, by mnie o to obwiniać, skoro nawet mnie tam wetdy nie było!"
+msgstr "Czy Ty mnie oskarżasz, Toa? *Huff* Nie, $T, nie miałem z tym nic wspólnego. Jak już mówiłem, to przykre i mam nadzieję, że nikomu nic się nie stało, ale nie masz powodu, by mnie o to obwiniać, skoro nawet mnie tam wtedy nie było!"
 
 #. Key:	DL_KoTownKohiProtosteelWaitingfor
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelWaitingfor.Default__DL_KoTownKohiProtosteelWaitingfor_C.DialogueText
@@ -12061,7 +12061,7 @@ msgstr "Jak miło Cię widzieć, Toa $T. Mam nadzieję, że dobrze się czujesz 
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaKoroGali1.Default__DL_NokamaKoroGali1_C.DialogueText
 msgctxt "Dialogue_Text,DL_NokamaKoroGali1"
 msgid "I did, Gali. There is another artifact which you must collect, alongside your great masks. It is called a Makoki Stone, and it is a part of a key to the Makuta’s lair."
-msgstr "Tak, Gali. Jest jeszcze jeden artefakt, który musisz zdobyć, oprócz Wielkimi Maskami. Nazywa się Kamień Makoki i stanowi część klucza do kryjówki Makuty."
+msgstr "Tak, Gali. Jest jeszcze jeden artefakt, który musisz zdobyć, oprócz Wielkich Masek. Nazywa się Kamień Makoki i stanowi część klucza do kryjówki Makuty."
 
 #. Key:	DL_NokamaKoroGali2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaKoroGali2.Default__DL_NokamaKoroGali2_C.DialogueText
@@ -13125,7 +13125,7 @@ msgstr "Witaj z powrotem, Toa. {G}|gender(Rozmawiałeś, Rozmawiałaś) już z t
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster5.Default__DL_QuarterMaster5_C.DialogueText
 msgctxt "Dialogue_Text,DL_QuarterMaster5"
 msgid "Finally, some good news. Did he send you to pick up these ones then?"
-msgstr "Nareszcie jakieś dobre wieści. Czy wysłała Cię, aby wziął te właściwe?"
+msgstr "Nareszcie jakieś dobre wieści. Czy wysłała Cię, abyś zabrał te niewłaściwe?"
 
 #. Key:	DL_QuarterMaster6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster6.Default__DL_QuarterMaster6_C.DialogueText
@@ -13230,7 +13230,7 @@ msgstr "Huh? A co to ma wspólnego ze mną?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuPodu2.Default__DL_RacePohatuPodu2_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuPodu2"
 msgid "Half of it was my idea."
-msgstr "Połowa tego to była moim pomysłem."
+msgstr "Połowa tego to był mój pomysł."
 
 #. Key:	DL_RacePohatuWhy
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy.Default__DL_RacePohatuWhy_C.DialogueText
@@ -13979,7 +13979,7 @@ msgstr "Ojej, co jest nie tak?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster2.Default__DL_StaffSellerQuartermaster2_C.DialogueText
 msgctxt "Dialogue_Text,DL_StaffSellerQuartermaster2"
 msgid "Gahh! I knew I'd get those mixed up at some point, they look exactly the same! I'll correct that straight away... Hmm, perhaps you would be willing to bring the class two's back for me?"
-msgstr "Ach! Wiedziałem, że kiedyś się pomylę - wyglądają identycznie! Już to naprawię... Hm, może {G}|gender(mógłbyś, mogłabyś) przynieść mi z powrotem ten klasy drugiej?"
+msgstr "Ach! Wiedziałem, że kiedyś się pomylę - wyglądają identycznie! Już to naprawię... Hm, może {G}|gender(mógłbyś, mogłabyś) przynieść mi z powrotem te klasy drugiej?"
 
 #. Key:	DL_StaffSellerQuartermaster3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster3.Default__DL_StaffSellerQuartermaster3_C.DialogueText
@@ -16707,13 +16707,13 @@ msgstr ""
 "Dziennik pierwszego oficera:\r\n"
 "\r\n"
 "Wpis 31\r\n"
-"Teraz większość załogi ślepo wykonuje jej rozkazy. Niewielu z nas przeprowadza sekretne spotkania, staramy się jakoś ją powstrzymać... ale w tym momencie jesteśmy przeciwko całej załodze.\r\n"
+"Teraz większość załogi ślepo wykonuje jej rozkazy. Garstka z nas przeprowadza sekretne spotkania, staramy się jakoś ją powstrzymać... ale w tym momencie jesteśmy przeciwko całej załodze.\r\n"
 "\r\n"
 "Wpis 32\r\n"
 "Widziałem coś dziwnego na masce Kapitana. Małą łatkę czarnego materiału. Nie mam pojęcia co to... chociaż mogę mieć paranoje. Nie pozwala nam ostatnio spać.\r\n"
 "\r\n"
 "Wpis 61\r\n"
-"Zebraliśmy tyle złota. Popełniliśmy tle karygodnych czynów. Życzliwa Matoranka, którą kiedyś znałem zniknęła za sczerniałą maską. Pozostaję na pokładzie w razie, gdyby nadarzyła się okazja, żeby jakoś ją powstrzymać."
+"Zebraliśmy tyle złota. Popełniliśmy tyle karygodnych czynów. Życzliwa Matoranka, którą kiedyś znałem zniknęła za sczerniałą maską. Pozostaję na pokładzie w razie, gdyby nadarzyła się okazja, żeby jakoś ją powstrzymać."
 
 #. Key:	Item_FirstMateLog4_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog4.Item_FirstMateLog4.TextToDisplay
@@ -17334,7 +17334,7 @@ msgstr "Po-Matoranin Kohi szuka rzadkich narzędzi z Protostali. Zdobyłeś narz
 #: /Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Description
 msgctxt "Quest_Description,Quest_Staff_Desc"
 msgid "Quater Master Niidok has gotten the wrong shipment of staves, he has requested that you speak to Takar the staff seller about this. He has a shop just outside Ta-koro."
-msgstr "Niidok, Dowódca Kwater, dostał błędne zamówienie kosturów i poprosił Cię, abyś porozmawiał o tym z ich sprzedawcą, Takarem. Prowadzi on sklep poza granicami Ta-Koro."
+msgstr "Kwatermistrz Niidok, dostał błędne zamówienie kosturów i poprosił Cię, abyś porozmawiał o tym z ich sprzedawcą, Takarem. Prowadzi on sklep poza granicami Ta-Koro."
 
 #. Key:	Quest_Tahu_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Tahu.Default__Quest_Tahu_C.Description
@@ -17936,14 +17936,14 @@ msgstr "Reka polecił Ci znaleźć lokalnego Mistrza Zleceń - Khalo. Może mie�
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnTheLine_Objective_2"
 msgid "Jobmaster Khalo told you to investigate the Onu-Koro shipping center and determine the status of his shipment."
-msgstr "Khalo, Mistrz Zleceń, wysłał Cię na targ w Onu-Koro, abyś zbadał status jego przesyłki."
+msgstr "Khalo, Mistrz Zleceń, wysłał Cię do centrum przesyłkowego w Onu-Koro, abyś zbadał status jego przesyłki."
 
 #. Key:	Quest_OnTheLine_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnTheLine_Objective_3"
 msgid "Omak has told you the couriers with Khalo's shipment may be somewhere in the Pillar-Lands north-east of the shipment center."
-msgstr "Omak powiedział Ci, że kurierzy z przesyłką Khalo mogą być gdzieś na północny-wschód od targu, w Krainie Filarów."
+msgstr "Omak powiedział Ci, że kurierzy z przesyłką Khalo mogą być gdzieś na północny-wschód od centrum przesyłkowego, w Krainie Filarów."
 
 #. Key:	Quest_OnTheLine_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -18300,7 +18300,7 @@ msgstr "Znajdź Nokamę."
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfWater_Objective_2"
 msgid "Defeat the Tarakava."
-msgstr "Pokonaj Tarakavę."
+msgstr "Pokonaj Tarakava."
 
 #. Key:	Quest_TheTuragaOfWater_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -18615,7 +18615,7 @@ msgstr "Wygląda na to, że mnie znalazłeś... Nie możesz powstrzymać mojej k
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,POTM_Line10"
 msgid "Wait, What? What's this about equality?"
-msgstr "Czekaj, co? Co ma znaczyć ta mowa równowadze?"
+msgstr "Czekaj, co? Co ma znaczyć ta mowa o równowadze?"
 
 #. Key:	POTM_Line11
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -18643,7 +18643,7 @@ msgstr "Co to za krucjata? I co zyskasz, sprzymierzając się z Makutą?"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,POTM_Line3"
 msgid "My Quest is to show my fellow Matoran what really happened that day. That Makuta Defeated Mata Nui and therefore is the greater being! Why are they all worshiping Mata Nui when he was the one that fell?!?"
-msgstr "Moją misją jest uświadomienie innym Matoranom co naprawdę wydarzyło się tamtego dnia. Że to Makuta pokonał Mata Nui i dlatego jest istotą wyższą. Dlaczego wszyscy czczą Mata Nui, skoro to on był, który przegrał?!?"
+msgstr "Moją misją jest uświadomienie innym Matoranom co naprawdę wydarzyło się tamtego dnia. Że to Makuta pokonał Mata Nui i dlatego jest istotą wyższą. Dlaczego wszyscy czczą Mata Nui, skoro to on był tym, który przegrał?!?"
 
 #. Key:	POTM_Line4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -18741,14 +18741,14 @@ msgstr "Nie jestem tu, aby je skrzywdzić. Chcę tylko przywrócić bieg rzeki."
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line5"
 msgid "This lake contains holy water, it should be contained. Not allowed to run off into the sea."
-msgstr "To jezioro zawiera świętą wodę i tak powinno zostać. Nie może pozwolić, by spłynąć do morza."
+msgstr "To jezioro zawiera świętą wodę i tak powinno zostać. Nie mogę pozwolić, by spłynęła do morza."
 
 #. Key:	TarakavaOfFrost_Line6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line6"
 msgid "There are other Matoran and Rahi that rely on this river, would you have them displaced from their homes just to keep your water?"
-msgstr "Inni Matoranie i Rahi czerpią z tej rzece. Chcesz zmusić ich do opuszczenia swoich domów, tylko po to, aby zachować swoją wodę?"
+msgstr "Inni Matoranie i Rahi czerpią polegają na tej rzece. Chcesz zmusić ich do opuszczenia swoich domów, tylko po to, aby zachować swoją wodę?"
 
 #. Key:	TarakavaOfFrost_Line7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -20708,7 +20708,7 @@ msgstr "Taphal"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_TarakavaofFrost"
 msgid "Tarakava of the Frost"
-msgstr "Tarakava Mrozu"
+msgstr "Tarakava Zmrożenia"
 
 #. Key:	Names_TempleMaster
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
