@@ -43,7 +43,7 @@ msgstr "Skorpionopodobne Rahi kontrolowane przez Makutę. Niebieską odmianę mo
 #: Description
 msgctxt "CodexPage_Description,CodexPage_Docks_Desc"
 msgid "These docks allow you to travel between multiple points on Mata Nui. They’re extremely useful for getting around the large island, so make sure to keep an eye out for them. Marka, the dock master, isn’t particularly fond of others using her boats without her permission, so it’s best to simply let her drive."
-msgstr "Te doki umożliwiają podróżowanie pomiędzy wieloma miejscami na Mata Nui. Są niezwykle przydatne do poruszania się po dużej wyspie, więc wypatruj ich uważnie. Marka, kapitan doków, nie lubi, gdy inni korzystają z jego łodzi bez pozwolenia, więc najlepiej pozwolić mu prowadzić."
+msgstr "Te doki umożliwiają podróżowanie pomiędzy wieloma miejscami na Mata Nui. Są niezwykle przydatne do poruszania się po dużej wyspie, więc wypatruj ich uważnie. Marka, Zarządczyni Portu, nie lubi, gdy inni korzystają z jej łodzi bez pozwolenia, więc najlepiej pozwolić jej prowadzić."
 
 #. Key:	CodexPage_Drifts_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Drifts.Default__LocationEntry_Drifts_C.Location Description
@@ -14084,7 +14084,7 @@ msgstr "Ponieważ tak chcę i nie mam nic innego do roboty! Dlaczego mi nie pozw
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned2.Default__DL_TafallAbandoned2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallAbandoned2"
 msgid "Like I told you last time Tafall, I can't teach you right now! Plus Marka just asked me to start building a new boat, ontop of everything else I need to get finished already!"
-msgstr "Mówiłem Ci już ostatnim razem, Tafall — nie mogę Cię teraz uczyć! A do tego Marka właśnie poprosił mnie, żebym zaczął budować nową łódź, na dodatek do wszystkiego, co już muszę skończyć!"
+msgstr "Mówiłem Ci już ostatnim razem, Tafall — nie mogę Cię teraz uczyć! A do tego Marka właśnie poprosiła mnie, żebym zaczął budować nową łódź, na dodatek do wszystkiego, co już muszę skończyć!"
 
 #. Key:	DL_TafallAbandoned3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned3.Default__DL_TafallAbandoned3_C.DialogueText
@@ -19700,7 +19700,7 @@ msgstr "Dameo"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_DockMaster"
 msgid "Dock Master Marka"
-msgstr "Zarządca portu Marka"
+msgstr "Zarządczyni Portu Marka"
 
 #. Key:	Names_Exilon
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
