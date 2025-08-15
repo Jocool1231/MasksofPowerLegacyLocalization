@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-14 22:17+0300\n"
+"PO-Revision-Date: 2025-08-15 11:01+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -147,7 +147,7 @@ msgstr ""
 "предоставляет Га-Маторанам лёгкий доступ к морю для рыболовства, плавания и других задач. "
 "Хотя деревня является тихим и спокойным местом, Га-Матораны всё ещё могут постоять за себя в "
 "случае необходимости. Врата, ограждающие деревню, сложно открыть какому-либо Рахи, а "
-"расстояние до суши тоже считается немаловажным преимуществом в обороне. И хотя Га-Матораны "
+"расстояние до суши также считается немаловажным преимуществом в обороне. И хотя Га-Матораны "
 "являются достаточно миролюбивыми, они не такие уж и беспомощные."
 
 #. Key:	CodexPage_Gali_Desc
@@ -1169,7 +1169,7 @@ msgstr ""
 "Маторанов Песчаные Таракавы считаются крайне редкими. Немногие видели их, ещё меньше – "
 "вернулись и рассказали о них. В сравнении с обычными Таракавами они медлительны, но "
 "компенсируют это более мощными атаками, поэтому лучше попытаться обойти их стороной, а не "
-"восхищаться ими."
+"восхищаться ими. "
 
 #. Key:	CodexPage_StrangeCave_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_StrangeCave.Default__LocationEntry_StrangeCave_C.Location Description
@@ -21024,7 +21024,7 @@ msgid ""
 "Reka has told you to find Khalo, the local Jobmaster; He may have a way for you to earn the "
 "widgets."
 msgstr ""
-"Река сказал вам найти Кало, местного Ремесленника; Возможно, у него есть способ заработка "
+"Река сказал вам найти Кало, местного ремесленника; Возможно, у него есть способ заработка "
 "пары виджетов."
 
 #. Key:	Quest_OnTheLine_Objective_2
@@ -21169,7 +21169,7 @@ msgstr "Выясните, что случилось с городком."
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_3"
 msgid "Find Kohi (He went to Ga-Koro to charter a boat)"
-msgstr "Найдите Кохи (Он отправился в Га-Коро, чтобы арендовать лодку)"
+msgstr "Найдите Кохи (Он отправился в Га-Коро, чтобы арендовать лодку)."
 
 #. Key:	Quest_Protosteel_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21260,7 +21260,7 @@ msgstr "Найдите причину остановки течения реки
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheLakeOfFrost_Objective_2"
 msgid "Defeat the \"Tarakava of the Frost\""
-msgstr "Одолейте «Таракаву Холода»"
+msgstr "Одолейте «Таракаву Холода»."
 
 #. Key:	Quest_TheLakeOfFrost_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21761,7 +21761,7 @@ msgstr "Разрушение... Созидание... Мир... "
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,POTM_Line2"
 msgid "What is this crusade? And what would you have to gain from siding with the Makuta? "
-msgstr "Что это за цели? И что ты получишь, встав на одну сторону с Макутой?"
+msgstr "Что это за цели? И что ты получишь, встав на одну сторону с Макутой? "
 
 #. Key:	POTM_Line3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -24194,7 +24194,7 @@ msgid ""
 "Toa.</> "
 msgstr ""
 "<Makuta>У вас нет единства. Вы одни. Отпустите</> <Key>{Action1}</> <Makuta>, чтобы выбрать "
-"Тоа.</>"
+"Тоа.</> "
 
 #. Key:	Tut_ToaWheel
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_ToaWheel.Tut_ToaWheel.Text
@@ -25827,7 +25827,7 @@ msgid ""
 "mask pulses slowly, as if breathing... "
 msgstr ""
 "Таинственная Комау, покрытая странным чёрным веществом. Материал на поверхности маски "
-"медленно пульсирует, и как будто дышит..."
+"медленно пульсирует, и как будто дышит... "
 
 #. Key:	Cosmetics_CopperMask_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
