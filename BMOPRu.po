@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-16 15:12+0300\n"
+"PO-Revision-Date: 2025-08-16 15:14+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -244,7 +244,7 @@ msgid ""
 msgstr ""
 "Канохи Хау: Великая Маска Защиты. Её можно использовать для защиты от любого типа "
 "повреждений ценой расхода энергии. В бою данная маска является очень эффективной, но "
-"обязательно обращайте внимание на счётчик энергии дабы не истратить её впустую в пылу не "
+"обязательно обращайте внимание на счётчик энергии, дабы не истратить её впустую в пылу не "
 "очень простого сражения."
 
 #. Key:	CodexPage_Huna_Desc
@@ -9539,7 +9539,7 @@ msgid ""
 "I'm currently packing for my trip home, I was just here to help Akamar with Po-Koro. He "
 "won't need me for his next job... *Grumbles*"
 msgstr ""
-"Я готовлюсь к возвращению домой, я был тут дабы помочь Акамару с По-Коро. Для следующей "
+"Я готовлюсь к возвращению домой, я был тут, дабы помочь Акамару с По-Коро. Для следующей "
 "работы я ему не нужен... *Ворчит*"
 
 #. Key:	DL_AkamarBuddy3
@@ -11903,8 +11903,8 @@ msgid ""
 "island to find and study these rare tools. I'm Kohi by the way."
 msgstr ""
 "Ах, да... Протодермис более распространён, в то время как Протосталь – материал редкий и "
-"крепкий, с которым могут работать лишь немногие. Я путешествовал по всему острову дабы найти "
-"и изучить эти редкие инструменты. Кстати, я Кохи."
+"крепкий, с которым могут работать лишь немногие. Я путешествовал по всему острову, дабы "
+"найти и изучить эти редкие инструменты. Кстати, я Кохи."
 
 #. Key:	DL_KoTownBuyerOnua1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownBuyerOnua1.Default__DL_KoTownBuyerOnua1_C.DialogueText
