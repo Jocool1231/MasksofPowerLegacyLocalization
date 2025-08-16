@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-15 11:56+0300\n"
+"PO-Revision-Date: 2025-08-16 15:08+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -856,7 +856,7 @@ msgstr ""
 "Коро, куда Матораны со всего острова приходят продавать свои товары. Что же до самих Ону-"
 "Маторанов, они добывают в шахтах Протодермис и Камни Света, а потому проводят большую часть "
 "времени под землёй. Здесь нередко встречаются Крабы Уссалы, используемые как Уссальской "
-"Гвардией, так и Маторанами для транспортировки и спорта."
+"Гвардией, так и Маторанами для перевозки вещей и спорта."
 
 #. Key:	CodexPage_Onu-Wahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onu-Wahi.Default__LocationEntry_Onu-Wahi_C.Location Description
