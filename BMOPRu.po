@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-16 15:24+0300\n"
+"PO-Revision-Date: 2025-08-18 10:12+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -35,10 +35,10 @@ msgid ""
 "items."
 msgstr ""
 "Канохи Акаку: Великая Маска Рентгеновского Зрения. Эта маска подсвечивает ключевые объекты, "
-"такие как другие маски, источники Протодермиса, камни медитации и даже задачи/предметы, "
-"появляющиеся на карте для текущего отслеживаемого квеста. Вы также можете использовать линзы "
-"Акаку, чтобы увеличить изображение и увидеть локации издалека. Это очень полезная маска для "
-"исследования и поиска полезных предметов."
+"по типу других масок, источников Протодермиса, камней медитации, а также даже задачи/"
+"предметы, появляющиеся на карте для текущего отслеживаемого квеста. Вы также можете "
+"использовать линзы Акаку, чтобы увеличить изображение и увидеть локации издалека. Это очень "
+"полезная маска для исследования и поиска полезных предметов."
 
 #. Key:	CodexPage_CanyonNuiJaga_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_CanyonNuiJaga.Default__LocationEntry_CanyonNuiJaga_C.Location Description
@@ -723,9 +723,9 @@ msgid ""
 "the will of Mata Nui."
 msgstr ""
 "Эти странные камни распространены по всему острову. Никто не знает, что это такое или зачем "
-"они там, но они служат местом медитации как для Маторанов или Тоа, так и для Тураг. Вы "
-"можете использовать данные камни, чтобы помедитировать, скоротав время за поклонением воле "
-"Мата Нуи."
+"они там, но они служат традиционным местом медитации как для Маторанов, так и для Тоа и даже "
+"Тураг. Вы можете использовать данные камни, чтобы помедитировать, скоротав время за "
+"поклонением воле Мата Нуи."
 
 #. Key:	CodexPage_Miru_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Miru.Default__LocationEntry_Miru_C.Location Description
@@ -2771,7 +2771,7 @@ msgstr "Я {G}|gender(одолел, одолела) тебя?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamMaster3.Default__DL_DamMaster3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_DamMaster3_PlayerResponse_1"
 msgid "So you're an environmentalist?"
-msgstr "Значит ты защитник окружающей среды?"
+msgstr "Значит, ты защитник окружающей среды?"
 
 #. Key:	DL_DamMaster4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamMaster4.Default__DL_DamMaster4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4671,7 +4671,7 @@ msgstr "Это не составило труда."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaRuins.Default__DL_KylmaRuins_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KylmaRuins_PlayerResponse_1"
 msgid "Then I'll return once I've recovered your research."
-msgstr "Значит я вернусь, как только добуду твоё исследование."
+msgstr "Значит, я вернусь, как только добуду твоё исследование."
 
 #. Key:	DL_KylmaTrouble2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble2.Default__DL_KylmaTrouble2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4776,7 +4776,7 @@ msgstr "На юге, но не хотел бы ты, чтобы я отвёл т
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoHelp.Default__DL_LeQuestKumoHelp_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_LeQuestKumoHelp_PlayerResponse_1"
 msgid "Well I can help you then."
-msgstr "Ну, значит я могу помочь тебе."
+msgstr "Ну, значит, я могу помочь тебе."
 
 #. Key:	DL_LeQuestKumoImlost_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoImlost.Default__DL_LeQuestKumoImlost_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5344,7 +5344,7 @@ msgstr "Маторо? В чём дело?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniExplanation2.Default__DL_MatoroKiniExplanation2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MatoroKiniExplanation2_PlayerResponse_1"
 msgid "So there IS something he’s hiding. What is it?"
-msgstr "Значит он ТОЧНО что-то скрывает. И что же именно?"
+msgstr "Значит, он ТОЧНО что-то скрывает. И что же именно?"
 
 #. Key:	DL_MatoroKiniExplanation3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniExplanation3.Default__DL_MatoroKiniExplanation3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -10626,7 +10626,7 @@ msgid ""
 "turned him over I knew who it was, even without a mask I could tell it was my brother."
 msgstr ""
 "Спустя день я вернулся на этот остров и обнаружил Маторана на песке. Когда я перевернул его, "
-"я сразу узнал его. Даже без маски я мог сказать, что это был мой брат."
+"то сразу узнал его. Даже без маски я мог сказать, что это был мой брат."
 
 #. Key:	DL_GreavingMatoran9
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran9.Default__DL_GreavingMatoran9_C.DialogueText
@@ -10850,7 +10850,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Halloween/DL_HalloweenMan3.Default__DL_HalloweenMan3_C.DialogueText
 msgctxt "Dialogue_Text,DL_HalloweenMan3"
 msgid "YOU CAN SEE THEM TOO?! So I'm not crazy then!"
-msgstr "ВЫ ТОЖЕ МОЖЕТЕ ИХ ВИДЕТЬ?! Значит я не сошёл с ума!"
+msgstr "ВЫ ТОЖЕ МОЖЕТЕ ИХ ВИДЕТЬ?! Значит, я не сошёл с ума!"
 
 #. Key:	DL_HalloweenMan4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Halloween/DL_HalloweenMan4.Default__DL_HalloweenMan4_C.DialogueText
@@ -10860,7 +10860,7 @@ msgid ""
 "Not exactly no... But I picked one up, and I thought... what if it's like one of your masks "
 "of power? So, would you care to try it on?"
 msgstr ""
-"Нет, не совсем... Но я подобрал одну и подумал... А что если это похоже на одну из ваших "
+"Нет, не совсем... Но я подобрал одну и подумал... А что, если это похоже на одну из ваших "
 "масок силы? Попробуете надеть?"
 
 #. Key:	DL_HalloweenMan5
@@ -12450,7 +12450,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.DialogueText
 msgctxt "Dialogue_Text,DL_KylmaWhere"
 msgid "It's not here either, then it must be..."
-msgstr "Здесь тоже нет, значит они должны быть..."
+msgstr "Здесь тоже нет, значит, они должны быть..."
 
 #. Key:	DL_LavaFarmerBreak
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_LavaFarmerBreak.Default__DL_LavaFarmerBreak_C.DialogueText
@@ -15229,7 +15229,7 @@ msgid ""
 "Oh, what’s the difference? But hey, if that’s gonna be your attitude about it, it's a good "
 "thing I brought you down here for some good old friendly competition."
 msgstr ""
-"А какая разница? Но если ты так на это реагируешь, то значит я не зря притащил тебя сюда "
+"А какая разница? Но если ты так на это реагируешь, то, значит, я не зря притащил тебя сюда "
 "ради старого доброго дружеского соревнования."
 
 #. Key:	DL_RacePohatu4
@@ -17500,7 +17500,7 @@ msgid ""
 "troubled. I shall stay here and meditate upon the will of Mata Nui."
 msgstr ""
 "Да, и ещё. Пока ты ищешь маски, присмотри ещё за... ладно, неважно. Он наверняка прибудет "
-"вовремя. Прошу меня извинить, Тоа. Мой разум ещё неспокоен. Я останусь здесь и буду "
+"вовремя. Прошу меня извинить, Тоа. Мой разум всё ещё неспокоен. Я останусь здесь и буду "
 "медитировать во имя воли Мата Нуи."
 
 #. Key:	DL_VakamaBeforeRescueMap
@@ -21450,7 +21450,7 @@ msgstr "Это единственный способ избавиться от �
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaExplode_Line13"
 msgid "Then it is what we must do."
-msgstr "Значит это то, что мы должны сделать."
+msgstr "Значит, это то, что мы должны сделать."
 
 #. Key:	MakutaExplode_Line14
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
