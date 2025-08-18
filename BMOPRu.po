@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-18 18:33+0300\n"
+"PO-Revision-Date: 2025-08-18 19:33+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -9244,7 +9244,7 @@ msgstr "В каком смысле?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaOnua2.Default__DL_WhenuaOnua2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_WhenuaOnua2_PlayerResponse_1"
 msgid "What do you mean “again”?"
-msgstr "В каком смысле «опять»?"
+msgstr "В каком смысле «снова»?"
 
 #. Key:	DL_WhenuaOnua3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaOnua3.Default__DL_WhenuaOnua3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -18053,8 +18053,8 @@ msgid ""
 msgstr ""
 "Как ты можешь видеть с нашей великой шахтой, фрагменты туннелей Ону-Вахи стали куда менее "
 "стабильными, чем раньше. Обвалы стали происходить гораздо чаще, что даже начало оказывать "
-"влияние на поверхность. По видимому, эти толчки повлияли на храм Ону-Кини, что лишает нас "
-"возможности попасть в храм снизу. Это было большое удобство, которого мы, к сожалению, "
+"влияние на поверхность. По видимому, эти толчки повлияли на храм Ону-Кини, что снова лишает "
+"нас возможности попасть в храм снизу. Это было большое удобство, которого мы, к сожалению, "
 "лишились."
 
 #. Key:	DL_WhenuaOnua3
