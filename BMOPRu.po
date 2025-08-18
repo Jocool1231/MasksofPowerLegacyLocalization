@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-18 10:17+0300\n"
+"PO-Revision-Date: 2025-08-18 18:33+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -22159,7 +22159,7 @@ msgstr "Я посмотрю что можно сделать."
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_CableTransport"
 msgid "Cable Transport System"
-msgstr "Системой канатной дороги"
+msgstr "Система канатной дороги"
 
 #. Key:	Gen_Climb
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22779,7 +22779,7 @@ msgstr "Да"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIZoomControlScheme"
 msgid "{Input} <Key>to zoom</>"
-msgstr "{Input} <Key> для изменения масштаба</>"
+msgstr "{Input} <Key>для изменения масштаба</>"
 
 #. Key:	Names_Ahkmou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -23528,7 +23528,7 @@ msgstr "Нупару"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_OceanTarakava"
 msgid "Ocean Tarakava"
-msgstr "Таракава океанов"
+msgstr "Таракава Океанов"
 
 #. Key:	Names_Okin
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -24002,7 +24002,7 @@ msgid ""
 "Now defeat the beast."
 msgstr ""
 "Нажмите <Key>{Action1}</> в боевом режиме, чтобы выполнить базовую атаку. Также вы можете "
-"нажать <Key>{Action2}</>, чтобы совершить атаку стихии.\r\n"
+"нажать <Key>{Action2}</> для того, чтобы совершить атаку стихии.\r\n"
 "А теперь одолейте зверя."
 
 #. Key:	Tut_CantSave
@@ -24028,14 +24028,14 @@ msgstr ""
 "здоровье.\r\n"
 "\r\n"
 "\r\n"
-"Нажмите <Key>{Action1}</>, чтобы войти в боевой режим"
+"Нажмите <Key>{Action1}</>для перехода в боевой режим"
 
 #. Key:	Tut_Crouch
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Crouch.Tut_Crouch.Text
 #: /Game/BluePrints/Classes/Tutorial/Tut_Crouch.Tut_Crouch.Text
 msgctxt "Tutorial_Text,Tut_Crouch"
 msgid "Press <Key>{Action1}</> to Crouch"
-msgstr "Нажмите <Key>{Action1}</>, чтобы Присесть"
+msgstr "Нажмите <Key>{Action1}</>для того, чтобы Присесть"
 
 #. Key:	Tut_Crush
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Corrupted/Tut_Crush.Tut_Crush.Text
@@ -24126,7 +24126,7 @@ msgid ""
 "Manual Saving is available in the Pause Menu. it is HIGHLY RECCOMENDED that you save OFTEN!"
 msgstr ""
 "Эта структура представляет собой <Key>Камни Медитации</>, которые можно найти по всему "
-"острову. Dоспользуйтесь ими, чтобы автоматически сохраниться, сменить время суток, а также "
+"острову. Воспользуйтесь ими, чтобы автоматически сохраниться, сменить время суток, а также "
 "восстановить здоровье всех Тоа.\r\n"
 "(Вам не нужно менять время суток или лечиться для сохранения!)\r\n"
 "\r\n"
@@ -25477,7 +25477,7 @@ msgstr "Вертикальная синхронизация:          "
 #: [Script Bytecode]
 msgctxt "UIText_Description,Powermask_Cost"
 msgid "Powering this mask requires: <Key>{Cost}</>  Wahae Mata Gel."
-msgstr "Для зарядки данной маски потребуется: <Key>{Cost}</> единиц Геля Вахе Мата."
+msgstr "Для зарядки данной маски потребуется: <Key>{Cost}</>  единиц Геля Вахе Мата."
 
 #. Key:	PowerMask_Gel_ToolTip
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_FilteredUse.UI_FilteredUse_C:WidgetTree.ItemName.Text
