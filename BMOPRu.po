@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-19 10:52+0300\n"
+"PO-Revision-Date: 2025-08-19 10:54+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13720,7 +13720,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Nokama1.Default__DL_Nokama1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Nokama1"
 msgid "A truth that, we confess, should have been told to you from the beginning."
-msgstr "Правду, которую мы, должны признаться, должны были рассказать вам с самого начала."
+msgstr "С правдой, которую нам, должны признаться, стоило рассказать вам с самого начала."
 
 #. Key:	DL_Nokama2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Nokama2.Default__DL_Nokama2_C.DialogueText
