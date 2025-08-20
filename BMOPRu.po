@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-19 11:06+0300\n"
+"PO-Revision-Date: 2025-08-20 09:45+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -2646,7 +2646,7 @@ msgid ""
 "<Lie> Indeed, however I was unable to clear the blockage. The beast proved too strong for "
 "even me."
 msgstr ""
-"<Lie> Действительно, но мне не удалось расчистить завалы. Зверь оказался сильным даже для "
+"<Ложь> Действительно, но мне не удалось расчистить завалы. Зверь оказался сильным даже для "
 "меня."
 
 #. Key:	DL_DamemoLose_PlayerResponse_2
@@ -2654,7 +2654,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLose.Default__DL_DamemoLose_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_DamemoLose_PlayerResponse_2"
 msgid "<Truth> Yes, however you cannot stay here."
-msgstr "<Truth> Да, но тебе нельзя там оставаться."
+msgstr "<Правда> Да, но тебе нельзя там оставаться."
 
 #. Key:	DL_DamemoRuki_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoRuki.Default__DL_DamemoRuki_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -15850,7 +15850,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksQuestion.Default__DL_SellerMasksQuestion_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMasksQuestion"
 msgid "Yes really! Although they are made for Matoran, they may work on a Toa who knows?"
-msgstr "Да! Хотя они сделаны для Маторанов, они могут сработать и на Тоа. Кто знает..."
+msgstr "Да! Хотя они сделаны для Маторанов, они могут сработать и на Тоа. Кто знает... ?"
 
 #. Key:	DL_SellerMetal1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMetal1.Default__DL_SellerMetal1_C.DialogueText
@@ -16433,7 +16433,7 @@ msgstr "Огромное спасибо, Тоа! Я уверена, что мн�
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandonedReturn.Default__DL_TafallAbandonedReturn_C.DialogueText
 msgctxt "Dialogue_Text,DL_TafallAbandonedReturn"
 msgid "Thank you again $T, I know this apprenticeship will be great."
-msgstr "Ещё раз спасибо, $T, я уверен, что эта практика будет отличной!"
+msgstr "Ещё раз спасибо, $T, я уверена, что эта практика будет отличной!"
 
 #. Key:	DL_TafallFixing1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallFixing1.Default__DL_TafallFixing1_C.DialogueText
