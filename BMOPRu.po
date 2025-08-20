@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-20 09:45+0300\n"
+"PO-Revision-Date: 2025-08-20 09:48+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -16593,7 +16593,7 @@ msgstr "Вы не должны тут находиться, Тоа."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreeting4.Default__DL_TakoroGuardGreeting4_C.DialogueText
 msgctxt "Dialogue_Text,DL_TakoroGuardGreeting4"
 msgid "This walkway is Ta-Koro guard only Toa."
-msgstr "Эта дорога только для стражников Та-Коро, Тоа."
+msgstr "Эта дорога – только для стражников Та-Коро, Тоа."
 
 #. Key:	DL_TakoroGuardGreeting_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreeting_1.Default__DL_TakoroGuardGreeting_1_C.DialogueText
