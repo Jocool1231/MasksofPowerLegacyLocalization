@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-20 23:17+0300\n"
+"PO-Revision-Date: 2025-08-21 15:01+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -20888,7 +20888,7 @@ msgstr "Отправляйтесь в Га-Коро и воспользуйте�
 #: /Game/BluePrints/Classes/Quests/Main/Quest_GaMakokiStone.Default__Quest_GaMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_GaMakokiStone_Objective_1"
 msgid "Speak to Nokama in Ga-koro"
-msgstr "Поговорите с Нокамой в Га-Коро"
+msgstr "Поговорите с Нокамой в Га-Коро."
 
 #. Key:	Quest_Infestation_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -20909,7 +20909,7 @@ msgstr "Поговорите с другими Тоа в Кини-Нуи."
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Kokoro.Default__Quest_Kokoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Kokoro_Objective_1"
 msgid "Travel to Ko-Koro and find Matoro"
-msgstr "Отправляйтесь в Ко-Коро и найдите Маторо"
+msgstr "Отправляйтесь в Ко-Коро и найдите Маторо."
 
 #. Key:	Quest_KoMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_KoMakokiStone.Default__Quest_KoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -20958,7 +20958,7 @@ msgstr "Отправляйтесь в Ко-Коро и воспользуйте�
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Lekoro.Default__Quest_Lekoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Lekoro_Objective_1"
 msgid "Travel to Le-Koro and find Kongu"
-msgstr "Отправляйтесь в Ле-Коро и найдите Конгу"
+msgstr "Отправляйтесь в Ле-Коро и найдите Конгу."
 
 #. Key:	Quest_LeMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_LeMakokiStone.Default__Quest_LeMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -20993,7 +20993,7 @@ msgstr "Добудьте исследование Килмы из разруше
 #: /Game/BluePrints/Classes/Quests/Quest_LostResearch.Default__Quest_LostResearch_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_LostResearch_Objective_2"
 msgid "Return the papers to Kylma"
-msgstr "Верните записи Килме"
+msgstr "Верните записи Килме."
 
 #. Key:	Quest_Mangaia_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21067,14 +21067,14 @@ msgstr "Отправляйтесь в Ону-Коро и воспользуйт�
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Onukoro.Default__Quest_Onukoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Onukoro_Objective_1"
 msgid "Travel to Onu-Koro and find Onepu"
-msgstr "Отправляйтесь в Ону-Коро и найдите Онепу"
+msgstr "Отправляйтесь в Ону-Коро и найдите Онепу."
 
 #. Key:	Quest_OnuMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_OnuMakokiStone.Default__Quest_OnuMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_OnuMakokiStone.Default__Quest_OnuMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnuMakokiStone_Objective_1"
 msgid "Speak to Whenua in Onu-koro"
-msgstr "Поговорите с Венуа в Ону-Коро"
+msgstr "Поговорите с Венуа в Ону-Коро."
 
 #. Key:	Quest_Pohatu_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Pohatu.Default__Quest_Pohatu_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21095,14 +21095,14 @@ msgstr "Отправляйтесь в По-Коро и поговорите с �
 #: /Game/BluePrints/Classes/Quests/Main/Quest_PoMakokiStone.Default__Quest_PoMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_PoMakokiStone_Objective_1"
 msgid "Speak to Onewa in Po-koro"
-msgstr "Поговорите с Оневой в По-Коро"
+msgstr "Поговорите с Оневой в По-Коро."
 
 #. Key:	Quest_PoTemple_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_PoTemple_Objective_1"
 msgid "Find the tresure"
-msgstr "Найдите сокровище"
+msgstr "Найдите сокровище."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21148,14 +21148,14 @@ msgstr ""
 #: /Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_ProphetOfTheMakuta_Objective_6"
 msgid "Talk To The Insane Matoran"
-msgstr "Поговорите с Безумным Матораном"
+msgstr "Поговорите с Безумным Матораном."
 
 #. Key:	Quest_Protosteel_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_1"
 msgid "Return to the Town"
-msgstr "Вернитесь в Город"
+msgstr "Вернитесь в Город."
 
 #. Key:	Quest_Protosteel_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21176,28 +21176,28 @@ msgstr "Найдите Кохи (Он отправился в Га-Коро, ч�
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_4"
 msgid "Pull the protosteel sword from the stone"
-msgstr "Вытащите из камня протостальной меч"
+msgstr "Вытащите из камня протостальной меч."
 
 #. Key:	Quest_Protosteel_Objective_5
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_5"
 msgid "Speak to Kohi"
-msgstr "Поговорите с Кохи"
+msgstr "Поговорите с Кохи."
 
 #. Key:	Quest_Protosteel_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_6"
 msgid "Visit Kohi's forge in Po-koro"
-msgstr "Посетите кузницу Кохи в По-Коро"
+msgstr "Посетите кузницу Кохи в По-Коро."
 
 #. Key:	Quest_Protosteel_Objective_7
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Protosteel_Objective_7"
 msgid "Recive Kohi's Gift"
-msgstr "Получите подарок Кохи"
+msgstr "Получите подарок Кохи."
 
 #. Key:	Quest_Staff_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Staff.Default__Quest_Staff_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21281,49 +21281,49 @@ msgstr "Доложите Дамео."
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_1"
 msgid "Find Mask"
-msgstr "Найдите Маску"
+msgstr "Найдите Маску."
 
 #. Key:	Quest_TheToaOfFire1_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_2"
 msgid "Pick Up Mask"
-msgstr "Подберите Маску"
+msgstr "Подберите Маску."
 
 #. Key:	Quest_TheToaOfFire1_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_3"
 msgid "Use Mask Power"
-msgstr "Используйте Силу Маски"
+msgstr "Используйте Силу Маски."
 
 #. Key:	Quest_TheToaOfFire1_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_4"
 msgid "Retrive Sword"
-msgstr "Достаньте меч"
+msgstr "Достаньте меч."
 
 #. Key:	Quest_TheToaOfFire1_Objective_5
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(4).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_5"
 msgid "Defeat the Rahi"
-msgstr "Одолейте Рахи"
+msgstr "Одолейте Рахи."
 
 #. Key:	Quest_TheToaOfFire1_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_6"
 msgid "Investigate The Figure"
-msgstr "Осмотрите фигуру"
+msgstr "Осмотрите фигуру."
 
 #. Key:	Quest_TheToaOfFire1_Objective_7
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(6).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_7"
 msgid "Head to Ta Koro"
-msgstr "Оправляйтесь в Та-Коро"
+msgstr "Оправляйтесь в Та-Коро."
 
 #. Key:	Quest_TheTuragaOfAir_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfAir.Default__Quest_TheTuragaOfAir_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21386,14 +21386,14 @@ msgstr "Найдите Оневу и поговорите с ним."
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfStone_Objective_2"
 msgid "Attack the pillar to make a ramp up for Onewa"
-msgstr "Ударьте колонну, чтобы сделать пандус для Оневы"
+msgstr "Ударьте колонну, чтобы сделать пандус для Оневы."
 
 #. Key:	Quest_TheTuragaOfStone_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfStone.Default__Quest_TheTuragaOfStone_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfStone_Objective_3"
 msgid "Talk To Onewa"
-msgstr "Поговорите с Оневой"
+msgstr "Поговорите с Оневой."
 
 #. Key:	Quest_TheTuragaOfWater_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfWater.Default__Quest_TheTuragaOfWater_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
