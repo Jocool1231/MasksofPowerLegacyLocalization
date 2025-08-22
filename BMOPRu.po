@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-22 05:28\n"
-"PO-Revision-Date: 2025-08-22 09:15+0300\n"
+"PO-Revision-Date: 2025-08-22 09:28+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -4762,7 +4762,7 @@ msgstr "Какие-то проблемы, малец?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KylmaWhere_PlayerResponse_2"
 msgid "I have recovered your research"
-msgstr "Я {G}|gender(нашёл, нашла) твоё исследование."
+msgstr "Я {G}|gender(нашёл, нашла) твои записи."
 
 #. Key:	DL_LavaFarmerBreak_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_LavaFarmerBreak.Default__DL_LavaFarmerBreak_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
