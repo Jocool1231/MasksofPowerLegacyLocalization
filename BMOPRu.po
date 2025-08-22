@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-22 05:28\n"
-"PO-Revision-Date: 2025-08-22 19:06+0300\n"
+"PO-Revision-Date: 2025-08-22 19:14+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25117,7 +25117,7 @@ msgstr "{Input} <Key>изменить размер иконок</>"
 #: /Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.MoveBaseText
 msgctxt "UIText_Description,MapCtrlsWidget_ToMove"
 msgid "{Input} <Key>to move the map</>"
-msgstr "{Input} <Key>, чтобы переместить карту</>"
+msgstr "{Input} <Key>для перемещения карты</>"
 
 #. Key:	MaskPowerStation_AreYouSure
 #. SourceLocation:	/Game/BluePrints/UI/PowerMask.Default__PowerMask_C.PowerMaskDescription
@@ -25947,7 +25947,7 @@ msgstr "ДОП. КВЕСТЫ"
 #: /Game/BluePrints/UI/ControlSchemes_TelescopeNewWidget.Default__ControlSchemes_TelescopeNewWidget_C.LookBaseText
 msgctxt "UIText_Description,TelescopeCtrlsWidget_ToLook"
 msgid "{Input} <Key>to rotate telescope</>"
-msgstr "{Input} <Key>, чтобы навести телескоп</>"
+msgstr "{Input} <Key>для наведения телескопа</>"
 
 #. Key:	ThankYou_Header
 #. SourceLocation:	/Game/BluePrints/UI/Thankyou.Thankyou_C:WidgetTree.TextBlock_196.Text
