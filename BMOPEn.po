@@ -4,14 +4,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-07-17 05:57\n"
+"POT-Creation-Date: 2025-08-22 05:24\n"
+"PO-Revision-Date: 2025-08-22 05:24\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	D542F6924EBA70E65249DC9508DD4D2C
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/WorldItem.WorldItem_C:ReturnPromptString [Script Bytecode]
+#: /Game/BluePrints/Classes/Inventory/WorldItem.WorldItem_C:ReturnPromptString [Script Bytecode]
+msgctxt ",D542F6924EBA70E65249DC9508DD4D2C"
+msgid "{PickupLine} x{Count}"
+msgstr "{PickupLine} x{Count}"
 
 #. Key:	Loading
 #. SourceLocation:	Config/DefaultGame.ini:111
@@ -16093,8 +16100,8 @@ msgid "Kolhii Ball"
 msgstr "Kolhii Ball"
 
 #. Key:	Item_KoMakoki
-#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_KoMakoki.Item_KoMakoki.Name
-#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_KoMakoki.Item_KoMakoki.Name
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_Ko_Makoki.Item_Ko_Makoki.Name
+#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_Ko_Makoki.Item_Ko_Makoki.Name
 msgctxt "InvItem_Name,Item_KoMakoki"
 msgid "Ko Makoki Stone"
 msgstr "Ko Makoki Stone"
@@ -16645,6 +16652,13 @@ msgctxt "LoadingTip_Text,Tip_CodexHints"
 msgid "The Codex contains not only lore, but also Gameplay hints."
 msgstr "The Codex contains not only lore, but also Gameplay hints."
 
+#. Key:	Tip_Cosmetics
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
+msgctxt "LoadingTip_Text,Tip_Cosmetics"
+msgid "Cosmetics found in the world are applied automatically, you can disable them from cosmetic benches."
+msgstr "Cosmetics found in the world are applied automatically, you can disable them from cosmetic benches."
+
 #. Key:	Tip_MeditationStoneAutosave
 #. SourceLocation:	Config/DefaultGame.ini:112
 #: Config/DefaultGame.ini:112
@@ -16693,6 +16707,13 @@ msgstr "It's a good idea to Save in multiple slots."
 msgctxt "LoadingTip_Text,Tip_UnderwaterElementalAttacks"
 msgid "Elemental Attacks can be triggered in water."
 msgstr "Elemental Attacks can be triggered in water."
+
+#. Key:	Tip_WaterDash
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
+msgctxt "LoadingTip_Text,Tip_WaterDash"
+msgid "Tap your sprint button to dash underwater"
+msgstr "Tap your sprint button to dash underwater"
 
 #. Key:	Quest_Amongsttheburnttrees_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Amongsttheburnttrees.Default__Quest_Amongsttheburnttrees_C.Description
@@ -18640,6 +18661,13 @@ msgctxt "ST_GeneralLocalization,Gen_Door"
 msgid "Door"
 msgstr "Door"
 
+#. Key:	Gen_ElevatorLever
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_ElevatorLever"
+msgid "Elevator Lever"
+msgstr "Elevator Lever"
+
 #. Key:	Gen_Gate
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18850,6 +18878,13 @@ msgctxt "ST_Localization,UIBindSecond"
 msgid "Bind to Second Slot"
 msgstr "Bind to Second Slot"
 
+#. Key:	UIBoat
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIBoat"
+msgid "Boat"
+msgstr "Boat"
+
 #. Key:	UIBorderless
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -19004,6 +19039,13 @@ msgctxt "ST_Localization,UILower"
 msgid "Lower"
 msgstr "Lower"
 
+#. Key:	UIMeditationPoint
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIMeditationPoint"
+msgid "Meditation Point"
+msgstr "Meditation Point"
+
 #. Key:	UIMedium
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -19045,6 +19087,13 @@ msgstr "No"
 msgctxt "ST_Localization,UINone"
 msgid "None"
 msgstr "None"
+
+#. Key:	UIObjective
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIObjective"
+msgid "Objective"
+msgstr "Objective"
 
 #. Key:	UIPlayerSave
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -19157,6 +19206,13 @@ msgstr "Use"
 msgctxt "ST_Localization,UIView"
 msgid "View"
 msgstr "View"
+
+#. Key:	UIWidgets
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIWidgets"
+msgid "Widgets:"
+msgstr "Widgets:"
 
 #. Key:	UIWindowed
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -20576,8 +20632,8 @@ msgstr "Processing"
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/CreditsScroll.CreditsScroll_C:WidgetTree.RichTextBlock_47.Text
 #: /Game/BluePrints/UI/MainMenu/CreditsScroll.CreditsScroll_C:WidgetTree.RichTextBlock_47.Text
 msgctxt "UIText,CreditsScroll"
-msgid "Bionicle: Masks Of Power \r\n<Key>=Legacy=</>\r\n\r\n\r\nCreated by:\r\n<Key>Team Kanohi</>\r\n\r\nLegacy Creator/Team Kanohi Founder:\r\n<Key>Jordan (Jocool1231) Willis</>\r\n\r\nProgrammers:\r\n<Key>Ian (y8u332) Willis</>\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>ASCII (NonLocality Software)</>\r\n\r\nAnimation:\r\n<Key>The Scarlet One</>\r\n<Key>Frambo</>\r\n<Key>ONI 3d Arts</>\r\n<Key>Garmagic</>\r\n\r\nArt:\r\n<Key>Kluuucha (Original Logo)</>\r\n<Key>Bumblebeelow (New Logo)</>\r\n<Key>Dazalius (Last Minute Level design)</>\r\n\r\nWriting:\r\n<Key>Markle</>\r\n<Key>Shinebox</>\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>Ian (y8u332) Willis</>\r\n\r\nMusic & SFX:\r\n<Key>Francisco Pérez</>\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>Toa Aletrax</>\r\n\r\nPR/Staff & Mods:\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>Xeron</>\r\n<Key>Mid Blue</>\r\n<Key>Vahkiti</>\r\n\r\nPast Team Members:\r\n<Key>Rowan (Mod)</>\r\n<Key>Lil (Mod)</>\r\n<Key>Robert Randall (Music)</>\r\n<Key>Louis ''Tek16'' Ginesy (Animation)</>\r\n<Key>That Gary Fella (UI)</>\r\n<Key>Philosophy101 (Modeling)</>\r\n<Key>Automatik (Textures)</>\r\n\r\nTranslators:\r\n<Key>English Edits - NarsikTOP</>\r\n<Key>Russian - Nemezidych</>\r\n<Key>German - Thowlon & Ketooth</>\r\n<Key>French - maxim21T & ToaPohatu</>\r\n<Key>Brazilian Portuguese - PhanStove & omegalucas</>\r\n<Key>Swedish - ONI3dArts</>\r\n<Key>Polish - Turambar3791 & Kluuucha</>\r\n<Key>Hungarian - csababerencsi</>\r\n\r\nThanks to:\r\n<Key>FreeSound</>\r\n<Key>Ldraw.org</>\r\n<Key>Texures.com</>\r\n<Key>Stud.io</>\r\n<Key>The BioPack</>\r\n<Key>Lehvak Nuva (Original Mask models)</>\r\n\r\nSpecial thanks to:\r\n\r\nUnreal Engine \r\n<Key>For having an great, and garbage engine at the same time.</>\r\n\r\nChristian Faber & The Original Bionicle Team\r\n<Key>For making an amazing IP.</>\r\n\r\nUnreal Slackers Discord Server\r\n<Key>For knowing how Unreal Engine works when no one else does.</>\r\n\r\nThe Bionicle Community\r\n<Key>You guys are ACTUALLY insane.</>\r\n\r\nAll the content creators\r\n<Key>We love watching you play the game!</>\r\n\r\nAnd of course all of our loyal fans!\r\n\r\nThank you for sticking with us, and may the great spirit guide you.\r\n\r\n\r\n\r\n<Key>In memory of Crainy Creations & TheShadowedOne1</>"
-msgstr "Bionicle: Masks Of Power \r\n<Key>=Legacy=</>\r\n\r\n\r\nCreated by:\r\n<Key>Team Kanohi</>\r\n\r\nLegacy Creator/Team Kanohi Founder:\r\n<Key>Jordan (Jocool1231) Willis</>\r\n\r\nProgrammers:\r\n<Key>Ian (y8u332) Willis</>\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>ASCII (NonLocality Software)</>\r\n\r\nAnimation:\r\n<Key>The Scarlet One</>\r\n<Key>Frambo</>\r\n<Key>ONI 3d Arts</>\r\n<Key>Garmagic</>\r\n\r\nArt:\r\n<Key>Kluuucha (Original Logo)</>\r\n<Key>Bumblebeelow (New Logo)</>\r\n<Key>Dazalius (Last Minute Level design)</>\r\n\r\nWriting:\r\n<Key>Markle</>\r\n<Key>Shinebox</>\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>Ian (y8u332) Willis</>\r\n\r\nMusic & SFX:\r\n<Key>Francisco Pérez</>\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>Toa Aletrax</>\r\n\r\nPR/Staff & Mods:\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>Xeron</>\r\n<Key>Mid Blue</>\r\n<Key>Vahkiti</>\r\n\r\nPast Team Members:\r\n<Key>Rowan (Mod)</>\r\n<Key>Lil (Mod)</>\r\n<Key>Robert Randall (Music)</>\r\n<Key>Louis ''Tek16'' Ginesy (Animation)</>\r\n<Key>That Gary Fella (UI)</>\r\n<Key>Philosophy101 (Modeling)</>\r\n<Key>Automatik (Textures)</>\r\n\r\nTranslators:\r\n<Key>English Edits - NarsikTOP</>\r\n<Key>Russian - Nemezidych</>\r\n<Key>German - Thowlon & Ketooth</>\r\n<Key>French - maxim21T & ToaPohatu</>\r\n<Key>Brazilian Portuguese - PhanStove & omegalucas</>\r\n<Key>Swedish - ONI3dArts</>\r\n<Key>Polish - Turambar3791 & Kluuucha</>\r\n<Key>Hungarian - csababerencsi</>\r\n\r\nThanks to:\r\n<Key>FreeSound</>\r\n<Key>Ldraw.org</>\r\n<Key>Texures.com</>\r\n<Key>Stud.io</>\r\n<Key>The BioPack</>\r\n<Key>Lehvak Nuva (Original Mask models)</>\r\n\r\nSpecial thanks to:\r\n\r\nUnreal Engine \r\n<Key>For having an great, and garbage engine at the same time.</>\r\n\r\nChristian Faber & The Original Bionicle Team\r\n<Key>For making an amazing IP.</>\r\n\r\nUnreal Slackers Discord Server\r\n<Key>For knowing how Unreal Engine works when no one else does.</>\r\n\r\nThe Bionicle Community\r\n<Key>You guys are ACTUALLY insane.</>\r\n\r\nAll the content creators\r\n<Key>We love watching you play the game!</>\r\n\r\nAnd of course all of our loyal fans!\r\n\r\nThank you for sticking with us, and may the great spirit guide you.\r\n\r\n\r\n\r\n<Key>In memory of Crainy Creations & TheShadowedOne1</>"
+msgid "Bionicle: Masks Of Power \r\n<Key>=Legacy=</>\r\n\r\n\r\nCreated by:\r\n<Key>Team Kanohi</>\r\n\r\nLegacy Creator/Team Kanohi Founder:\r\n<Key>Jordan (Jocool1231) Willis</>\r\n\r\nProgrammers:\r\n<Key>Ian (y8u332) Willis</>\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>ASCII (NonLocality Software)</>\r\n\r\nAnimation:\r\n<Key>The Scarlet One</>\r\n<Key>Frambo</>\r\n<Key>ONI 3d Arts</>\r\n<Key>Garmagic</>\r\n\r\nArt:\r\n<Key>Kluuucha (Original Logo)</>\r\n<Key>Bumblebeelow (New Logo)</>\r\n<Key>Dazalius (Last Minute Level design)</>\r\n\r\nWriting:\r\n<Key>Markle</>\r\n<Key>Shinebox</>\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>Ian (y8u332) Willis</>\r\n\r\nMusic & SFX:\r\n<Key>Francisco Pérez</>\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>Toa Aletrax</>\r\n\r\nPR/Staff & Mods:\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>Xeron</>\r\n<Key>Mid Blue</>\r\n<Key>Vahkiti</>\r\n\r\nPast Team Members:\r\n<Key>Rowan (Mod)</>\r\n<Key>Lil (Mod)</>\r\n<Key>Robert Randall (Music)</>\r\n<Key>Louis ''Tek16'' Ginesy (Animation)</>\r\n<Key>That Gary Fella (UI)</>\r\n<Key>Philosophy101 (Modeling)</>\r\n<Key>Automatik (Textures)</>\r\n\r\nTranslators:\r\n<Key>English Edits - NarsikTOP</>\r\n<Key>Russian - Nemezidych</>\r\n<Key>German - Thowlon & Ketooth</>\r\n<Key>French - maxim21T & ToaPohatu</>\r\n<Key>Brazilian Portuguese - Felipe L.A. & omegalucas</>\r\n<Key>Polish - Andrzej Szary & Kluuucha</>\r\n<Key>Hungarian - csababerencsi</>\r\n<Key>Italian - Davide Goisis</>\r\n\r\nThanks to:\r\n<Key>FreeSound</>\r\n<Key>Ldraw.org</>\r\n<Key>Texures.com</>\r\n<Key>Stud.io</>\r\n<Key>The BioPack</>\r\n<Key>Lehvak Nuva (Original Mask models)</>\r\n\r\nSpecial thanks to:\r\n\r\nUnreal Engine \r\n<Key>For having an great, and garbage engine at the same time.</>\r\n\r\nChristian Faber & The Original Bionicle Team\r\n<Key>For making an amazing IP.</>\r\n\r\nUnreal Slackers Discord Server\r\n<Key>For knowing how Unreal Engine works when no one else does.</>\r\n\r\nThe Bionicle Community\r\n<Key>You guys are ACTUALLY insane.</>\r\n\r\nAll the content creators\r\n<Key>We love watching you play the game!</>\r\n\r\nAnd of course all of our loyal fans!\r\n\r\nThank you for sticking with us, and may the great spirit guide you.\r\n\r\n\r\n\r\n<Key>In memory of Crainy Creations & TheShadowedOne1</>"
+msgstr "Bionicle: Masks Of Power \r\n<Key>=Legacy=</>\r\n\r\n\r\nCreated by:\r\n<Key>Team Kanohi</>\r\n\r\nLegacy Creator/Team Kanohi Founder:\r\n<Key>Jordan (Jocool1231) Willis</>\r\n\r\nProgrammers:\r\n<Key>Ian (y8u332) Willis</>\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>ASCII (NonLocality Software)</>\r\n\r\nAnimation:\r\n<Key>The Scarlet One</>\r\n<Key>Frambo</>\r\n<Key>ONI 3d Arts</>\r\n<Key>Garmagic</>\r\n\r\nArt:\r\n<Key>Kluuucha (Original Logo)</>\r\n<Key>Bumblebeelow (New Logo)</>\r\n<Key>Dazalius (Last Minute Level design)</>\r\n\r\nWriting:\r\n<Key>Markle</>\r\n<Key>Shinebox</>\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>Ian (y8u332) Willis</>\r\n\r\nMusic & SFX:\r\n<Key>Francisco Pérez</>\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>Toa Aletrax</>\r\n\r\nPR/Staff & Mods:\r\n<Key>Jordan (Jocool1231) Willis</>\r\n<Key>Xeron</>\r\n<Key>Mid Blue</>\r\n<Key>Vahkiti</>\r\n\r\nPast Team Members:\r\n<Key>Rowan (Mod)</>\r\n<Key>Lil (Mod)</>\r\n<Key>Robert Randall (Music)</>\r\n<Key>Louis ''Tek16'' Ginesy (Animation)</>\r\n<Key>That Gary Fella (UI)</>\r\n<Key>Philosophy101 (Modeling)</>\r\n<Key>Automatik (Textures)</>\r\n\r\nTranslators:\r\n<Key>English Edits - NarsikTOP</>\r\n<Key>Russian - Nemezidych</>\r\n<Key>German - Thowlon & Ketooth</>\r\n<Key>French - maxim21T & ToaPohatu</>\r\n<Key>Brazilian Portuguese - Felipe L.A. & omegalucas</>\r\n<Key>Polish - Andrzej Szary & Kluuucha</>\r\n<Key>Hungarian - csababerencsi</>\r\n<Key>Italian - Davide Goisis</>\r\n\r\nThanks to:\r\n<Key>FreeSound</>\r\n<Key>Ldraw.org</>\r\n<Key>Texures.com</>\r\n<Key>Stud.io</>\r\n<Key>The BioPack</>\r\n<Key>Lehvak Nuva (Original Mask models)</>\r\n\r\nSpecial thanks to:\r\n\r\nUnreal Engine \r\n<Key>For having an great, and garbage engine at the same time.</>\r\n\r\nChristian Faber & The Original Bionicle Team\r\n<Key>For making an amazing IP.</>\r\n\r\nUnreal Slackers Discord Server\r\n<Key>For knowing how Unreal Engine works when no one else does.</>\r\n\r\nThe Bionicle Community\r\n<Key>You guys are ACTUALLY insane.</>\r\n\r\nAll the content creators\r\n<Key>We love watching you play the game!</>\r\n\r\nAnd of course all of our loyal fans!\r\n\r\nThank you for sticking with us, and may the great spirit guide you.\r\n\r\n\r\n\r\n<Key>In memory of Crainy Creations & TheShadowedOne1</>"
 
 #. Key:	Dead_Descriptions
 #. SourceLocation:	/Game/BluePrints/UI/Widget_Dead.Widget_Dead_C:WidgetTree.TextBlock_0.Text
