@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-22 05:28\n"
-"PO-Revision-Date: 2025-08-22 19:03+0300\n"
+"PO-Revision-Date: 2025-08-22 19:06+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25940,7 +25940,7 @@ msgstr "Задачи:"
 #: /Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.SideQuestsTitle.Text
 msgctxt "UIText_Description,TabMenu_Quest_SideQuests"
 msgid "OPTIONAL QUESTS"
-msgstr "ДОПОЛНИТЕЛЬНЫЕ КВЕСТЫ"
+msgstr "ДОП. КВЕСТЫ"
 
 #. Key:	TelescopeCtrlsWidget_ToLook
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_TelescopeNewWidget.Default__ControlSchemes_TelescopeNewWidget_C.LookBaseText
