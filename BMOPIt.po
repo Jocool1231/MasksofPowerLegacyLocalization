@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-07-27 17:05+0200\n"
+"POT-Creation-Date: 2025-08-22 05:28\n"
+"PO-Revision-Date: 2025-08-22 08:56+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: it\n"
@@ -12,7 +12,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.7\n"
+
+#. Key:	D542F6924EBA70E65249DC9508DD4D2C
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/WorldItem.WorldItem_C:ReturnPromptString [Script Bytecode]
+#: /Game/BluePrints/Classes/Inventory/WorldItem.WorldItem_C:ReturnPromptString [Script
+#: Bytecode]
+msgctxt ",D542F6924EBA70E65249DC9508DD4D2C"
+msgid "{PickupLine} x{Count}"
+msgstr "{PickupLine} x{Count}"
 
 #. Key:	Loading
 #. SourceLocation:	Config/DefaultGame.ini:111
@@ -19444,8 +19452,8 @@ msgid "Kolhii Ball"
 msgstr "Palla da Kolhii"
 
 #. Key:	Item_KoMakoki
-#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_KoMakoki.Item_KoMakoki.Name
-#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_KoMakoki.Item_KoMakoki.Name
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_Ko_Makoki.Item_Ko_Makoki.Name
+#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_Ko_Makoki.Item_Ko_Makoki.Name
 msgctxt "InvItem_Name,Item_KoMakoki"
 msgid "Ko Makoki Stone"
 msgstr "Pietra Ko-Makoki"
@@ -20469,6 +20477,17 @@ msgctxt "LoadingTip_Text,Tip_CodexHints"
 msgid "The Codex contains not only lore, but also Gameplay hints."
 msgstr "Il Codex contiene non solo informazioni sul mondo, ma anche suggerimenti di gioco."
 
+#. Key:	Tip_Cosmetics
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
+msgctxt "LoadingTip_Text,Tip_Cosmetics"
+msgid ""
+"Cosmetics found in the world are applied automatically, you can disable them from "
+"cosmetic benches."
+msgstr ""
+"I Cosmetici che trovi nel mondo vengono applicati automaticamente, puoi disattivarli dal "
+"menu dei cosmetici."
+
 #. Key:	Tip_MeditationStoneAutosave
 #. SourceLocation:	Config/DefaultGame.ini:112
 #: Config/DefaultGame.ini:112
@@ -20524,6 +20543,13 @@ msgstr "È una buona idea salvare su più slot."
 msgctxt "LoadingTip_Text,Tip_UnderwaterElementalAttacks"
 msgid "Elemental Attacks can be triggered in water."
 msgstr "Gli Attacchi Elementali possono essere utilizzati in acqua."
+
+#. Key:	Tip_WaterDash
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
+msgctxt "LoadingTip_Text,Tip_WaterDash"
+msgid "Tap your sprint button to dash underwater"
+msgstr "Premi il tasto di scatto per lanciarti sott'acqua"
 
 #. Key:	Quest_Amongsttheburnttrees_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Amongsttheburnttrees.Default__Quest_Amongsttheburnttrees_C.Description
@@ -22670,6 +22696,13 @@ msgctxt "ST_GeneralLocalization,Gen_Door"
 msgid "Door"
 msgstr "Porta"
 
+#. Key:	Gen_ElevatorLever
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_ElevatorLever"
+msgid "Elevator Lever"
+msgstr "Leva Ascensore"
+
 #. Key:	Gen_Gate
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22884,6 +22917,13 @@ msgctxt "ST_Localization,UIBindSecond"
 msgid "Bind to Second Slot"
 msgstr "Assegna al Secondo Slot"
 
+#. Key:	UIBoat
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIBoat"
+msgid "Boat"
+msgstr "Barca"
+
 #. Key:	UIBorderless
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -23038,6 +23078,13 @@ msgctxt "ST_Localization,UILower"
 msgid "Lower"
 msgstr "Minima"
 
+#. Key:	UIMeditationPoint
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIMeditationPoint"
+msgid "Meditation Point"
+msgstr "Punto di Meditazione"
+
 #. Key:	UIMedium
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -23079,6 +23126,13 @@ msgstr "No"
 msgctxt "ST_Localization,UINone"
 msgid "None"
 msgstr "Nessuna"
+
+#. Key:	UIObjective
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIObjective"
+msgid "Objective"
+msgstr "Obbiettivo"
 
 #. Key:	UIPlayerSave
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -23191,6 +23245,13 @@ msgstr "Usa"
 msgctxt "ST_Localization,UIView"
 msgid "View"
 msgstr "Visualizza"
+
+#. Key:	UIWidgets
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIWidgets"
+msgid "Widgets:"
+msgstr "Congegni:"
 
 #. Key:	UIWindowed
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -24740,10 +24801,11 @@ msgid ""
 "<Key>Russian - Nemezidych</>\r\n"
 "<Key>German - Thowlon & Ketooth</>\r\n"
 "<Key>French - maxim21T & ToaPohatu</>\r\n"
-"<Key>Brazilian Portuguese - PhanStove & omegalucas</>\r\n"
-"<Key>Swedish - ONI3dArts</>\r\n"
-"<Key>Polish - Turambar3791 & Kluuucha</>\r\n"
+"<Key>Brazilian Portuguese - Felipe L.A. & omegalucas</>\r\n"
+"<Key>Polish - Andrzej Szary & Kluuucha</>\r\n"
 "<Key>Hungarian - csababerencsi</>\r\n"
+"<Key>Italian - Davide Goisis</>\r\n"
+"<Key>Greek - QymaenGreivous</>\r\n"
 "\r\n"
 "Thanks to:\r\n"
 "<Key>FreeSound</>\r\n"
@@ -24839,7 +24901,7 @@ msgstr ""
 "<Key>Svedese - ONI3dArts</>\r\n"
 "<Key>Polazzo - Turambar3791 & Kluuucha</>\r\n"
 "<Key>Ungherese - csababerencsi</>\r\n"
-"<Key>Italiano - D-E_GOISIS</>\r\n"
+"<Key>Italiano - Davide Goisis</>\r\n"
 "\r\n"
 "Grazie a:\r\n"
 "<Key>FreeSound</>\r\n"
