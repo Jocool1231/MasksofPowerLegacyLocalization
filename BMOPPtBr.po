@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-05 06:03-0300\n"
+"POT-Creation-Date: 2025-08-22 05:28\n"
+"PO-Revision-Date: 2025-08-23 04:07-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -11,7 +11,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: xls2po 3.3\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.7\n"
+
+#. Key:	D542F6924EBA70E65249DC9508DD4D2C
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/WorldItem.WorldItem_C:ReturnPromptString [Script Bytecode]
+#: /Game/BluePrints/Classes/Inventory/WorldItem.WorldItem_C:ReturnPromptString [Script
+#: Bytecode]
+msgctxt ",D542F6924EBA70E65249DC9508DD4D2C"
+msgid "{PickupLine} x{Count}"
+msgstr "{PickupLine} x {Count}"
 
 #. Key:	Loading
 #. SourceLocation:	Config/DefaultGame.ini:111
@@ -1410,9 +1418,9 @@ msgid ""
 "use them in races, some use them to help with physical labor, and others simply keep "
 "them as pets. They can be found in a wide variety of colors."
 msgstr ""
-"Caranguejos Ussal são um tipo popular de Rahi que os Matoran usam para uso doméstico. "
-"Alguns são usados em corridas, ou para ajudar no trabalho braçal, e outros como animais "
-"de estimação. Ussals existem numa grande variedade de cores."
+"Caranguejos Ussal são um tipo popular de Rahi que os Matoran mantém para uso doméstico. "
+"Alguns são usados em corridas, ou para ajudar no trabalho braçal, ou como animais de "
+"estimação. Ussals existem numa grande variedade de cores."
 
 #. Key:	CodexPage_Vakama_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Vakama.Default__LocationEntry_Vakama_C.Location Description
@@ -3196,14 +3204,14 @@ msgstr "Saudações, Hahli. O que você disse sobre a Turaga?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli3.Default__DL_Hahli3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Hahli3_PlayerResponse_1"
 msgid "Well that's not good. Any way I can help?"
-msgstr "Puxa, isso não é bom. Como posso ajudar?"
+msgstr "Puxa, isso não é bom. Posso ajudar de alguma forma?"
 
 #. Key:	DL_Hahli3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli3.Default__DL_Hahli3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli3.Default__DL_Hahli3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Hahli3_PlayerResponse_2"
 msgid "Well that's not good. Any way I can help?"
-msgstr "Puxa, isso não é bom. Como posso ajudar?"
+msgstr "Puxa, isso não é bom. Posso ajudar de alguma forma?"
 
 #. Key:	DL_Hahli4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli4.Default__DL_Hahli4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5710,21 +5718,21 @@ msgstr "Da última vez?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaKoroGali2.Default__DL_NokamaKoroGali2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NokamaKoroGali2_PlayerResponse_1"
 msgid "I understand. Thank you, Nokama."
-msgstr "Eu entendo. {G}|gender(Obrigado,Obrigada), Nokama."
+msgstr "Eu entendo. Obrigada, Nokama."
 
 #. Key:	DL_NokamaKoroGali3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaKoroGali3.Default__DL_NokamaKoroGali3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaKoroGali3.Default__DL_NokamaKoroGali3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NokamaKoroGali3_PlayerResponse_1"
 msgid "Thank you Turaga."
-msgstr "{G}|gender(Obrigado,Obrigada), Turaga."
+msgstr "Obrigada, Turaga."
 
 #. Key:	DL_NokamaKoroGali4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaKoroGali4.Default__DL_NokamaKoroGali4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaKoroGali4.Default__DL_NokamaKoroGali4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NokamaKoroGali4_PlayerResponse_1"
 msgid "Thank you Turaga."
-msgstr "{G}|gender(Obrigado,Obrigada), Turaga."
+msgstr "Obrigada, Turaga."
 
 #. Key:	DL_NokamaKoroPostKini_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaKoroPostKini.Default__DL_NokamaKoroPostKini_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6181,7 +6189,7 @@ msgstr "OK…"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuSaved.Default__DL_OnepuSaved_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_OnepuSaved_PlayerResponse_1"
 msgid "What do you mean? I saved Whenua."
-msgstr "O que quer dizer? Eu salvei Whenua."
+msgstr "O que quer dizer? Eu resgatei Whenua."
 
 #. Key:	DL_OnewaHelpMe_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaHelpMe.Default__DL_OnewaHelpMe_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6564,7 +6572,7 @@ msgstr "Estava me procurando? Do que precisa?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaExit.Default__DL_PoduRaceKopakaExit_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PoduRaceKopakaExit_PlayerResponse_1"
 msgid "I’ll keep that in mind."
-msgstr "Vou manter isso em mente."
+msgstr "Vou me lembrar disso."
 
 #. Key:	DL_PoduRaceKopakaWhat_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWhat.Default__DL_PoduRaceKopakaWhat_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7348,7 +7356,7 @@ msgstr "Você se acalmaria se eu prometesse tomar conta do Kapura?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran1.Default__DL_SellerConsumablesHewtiniiGamatoran1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran1_PlayerResponse_1"
 msgid "M-My apologies! I did not mean to misidentify you..!"
-msgstr "M-Me desculpa! Não quis de identificar errado…"
+msgstr "M-Me desculpa! Não quis te identificar errado…"
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran2.Default__DL_SellerConsumablesHewtiniiGamatoran2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7810,7 +7818,7 @@ msgstr "Só por diversão, meu amigo. Por que está deitado aí?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroRahi_Toa.Default__DL_ShipperIntroRahi_Toa_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_ShipperIntroRahi_Toa_PlayerResponse_1"
 msgid "I'll keep that in mind. Why are you lying down back there?"
-msgstr "Vou manter isso em mente. Por que está deitado aí?"
+msgstr "Vou me lembrar disso. Por que está deitado aí?"
 
 #. Key:	DL_ShipperIntroRahi_Ussal_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroRahi_Ussal.Default__DL_ShipperIntroRahi_Ussal_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8022,7 +8030,7 @@ msgstr "Sem problema."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster.Default__DL_StaffSellerQuartermaster_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_StaffSellerQuartermaster_PlayerResponse_1"
 msgid "You sent him class two's, not class one's."
-msgstr "Você enviou as Classe 2 para ele, não as Classe 1."
+msgstr "Você enviou as de Classe 2 para ele, não as de Classe 1."
 
 #. Key:	DL_StaffSellerQuartermasterRewardQuestion_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermasterRewardQuestion.Default__DL_StaffSellerQuartermasterRewardQuestion_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9336,7 +9344,7 @@ msgstr "Não sabia que tinha tanto medo de altura, Turaga."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaSaved.Default__DL_WhenuaSaved_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_WhenuaSaved_PlayerResponse_2"
 msgid "What were you saying about “back in your day?”"
-msgstr "O que você dizia sobre \"o seu tempo\"?"
+msgstr "O que dizia sobre \"no meu tempo\"?"
 
 #. Key:	DL_WinRacePodu_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/WinRace/DL_WinRacePodu.Default__DL_WinRacePodu_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9602,7 +9610,7 @@ msgid ""
 "*Mumbling* That's an M... Memory... Okay. *Mumbling* Ga-Koro should really be IN Naho "
 "Bay... *Mumbling*"
 msgstr ""
-"*Murmurando* Um M… Memória… Certo. *Murmurando* Ga-Koro devia estar DENTRO da Bahia de "
+"*Murmurando* Um M… de Memória… Certo. *Murmurando* Ga-Koro devia estar DENTRO da Baía de "
 "Naho… *Murmurando*"
 
 #. Key:	DL_Allknowingmatoran
@@ -9808,7 +9816,7 @@ msgstr ""
 "Uma noite, eu me deitei para descansar. Quando dormi, eu tive visões de um lugar "
 "estranho na montanha… Era um lugar frio, cheio de escuridão. Mas, de repente, eu senti "
 "um calor atrás de mim. Eu podia sentir que era um Toa. O Toa entrou, mas eu nunca o vi "
-"sair… E um pouco depois, eu acordei."
+"sair… E um tempinho depois, eu acordei."
 
 #. Key:	DL_Allknowingmatoran_Whathesaw_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Whathesaw_2.Default__DL_Allknowingmatoran_Whathesaw_2_C.DialogueText
@@ -10301,7 +10309,7 @@ msgid ""
 "Well, yes. But he was no rahi, mearly a poorly cobbled together imitation of a Rahi "
 "scavenged from existing parts."
 msgstr ""
-"Bem, sim. Mas não era um Rahi, apenas uma imitação mal feita de um Rahi, feito com peças "
+" sim. Mas não era um Rahi, apenas uma imitação mal feita de um Rahi, feito com peças "
 "usadas."
 
 #. Key:	DL_DamMaster6
@@ -10725,7 +10733,7 @@ msgstr "OK, isso funciona, eu acho… Pode entrar."
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Guard4.Default__DL_Guard4_C.DialogueText
 msgctxt "Dialogue_Text,DL_Guard4"
 msgid "Hail Toa $T. You are free to enter, if you can manage to open the gate of course."
-msgstr "Saúdem, Toa $T. Pode entrar à vontade, se conseguir abrir o portão, é claro."
+msgstr "Saúdem Toa $T. Pode entrar à vontade, se conseguir abrir o portão, é claro."
 
 #. Key:	DL_GuardCamp
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_GuardCamp.Default__DL_GuardCamp_C.DialogueText
@@ -11743,7 +11751,7 @@ msgid ""
 "almost anything metalic you see on Mata-Nui. It also happens to fuel your mask!"
 msgstr ""
 "Você não conhece Protoderme? Protoderme é o material de nossas ferramentas, e quase toda "
-"coisa metálica que se vê em Mata Nui. Por acaso isso também dá poder à sua máscara!"
+"coisa metálica que se vê em Mata Nui. Acontece que isso também dá poder à sua máscara!"
 
 #. Key:	DL_KokoroGuardProtodermis_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_KokoroGuardProtodermis_3.Default__DL_KokoroGuardProtodermis_3_C.DialogueText
@@ -12502,7 +12510,7 @@ msgid ""
 "could even aid in your quest Toa $T."
 msgstr ""
 "Eu agradeceria. Aliás, também achamos uma Grande Kanohi lá, então explorar as ruínas "
-"poderia até ajudar na sua missão, Toa ST."
+"poderia até ajudar na sua missão, Toa $T."
 
 #. Key:	DL_KylmaWhere
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaWhere.Default__DL_KylmaWhere_C.DialogueText
@@ -13308,7 +13316,7 @@ msgid ""
 "loyalties lie."
 msgstr ""
 "Os Turaga recentemente fizeram uma reunião para discutir… certas coisas que têm "
-"acontecido a vocês Toa. Nuju, infelizmente, chegou à conclusão de que ele não sabe para "
+"acontecido a vocês, Toa. Nuju, infelizmente, chegou à conclusão de que ele não sabe para "
 "quem vocês prestam lealdade."
 
 #. Key:	DL_MatoroKiniExplanation4
@@ -13528,7 +13536,7 @@ msgstr ""
 "Eu pedi pro meu amigo Nuparu rascunhar uns planos, pra um pequeno dispositivo capaz de "
 "rastrear sinais de energia únicos de máscaras carregadas! Ou era pra rastrear… O design "
 "atual só pode rastrear um tipo de máscara. Se quiser um, vou precisar de uns materiais "
-"raros para construi-lo. Para {G}|gender(um,uma) toa como você, não deve ser difícil."
+"raros para construí-lo. Para {G}|gender(um,uma) toa como você, não deve ser difícil."
 
 #. Key:	DL_MetonuGive
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuGive.Default__DL_MetonuGive_C.DialogueText
@@ -13970,7 +13978,7 @@ msgid ""
 "nature. One that I hope I shall be able to share with you soon enough."
 msgstr ""
 "Então… na verdade, eu não devia ter mencionado. Foi sobre um tema… um tanto delicado. Um "
-"que espero poder compartilhar com vocês logo."
+"que espero poder compartilhar com você logo."
 
 #. Key:	DL_NokamaScary
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaScary.Default__DL_NokamaScary_C.DialogueText
@@ -13989,7 +13997,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovo.Default__DL_NujuCovo_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuCovo"
 msgid "Fweet, Clack, Clack."
-msgstr "Fiu, click, clack."
+msgstr "Fiu, clique, claque."
 
 #. Key:	DL_NujuCovo1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovo1.Default__DL_NujuCovo1_C.DialogueText
@@ -14010,7 +14018,7 @@ msgstr "Fiu! Piu fiu fiu!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoBlocked1.Default__DL_NujuCovoBlocked1_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuCovoBlocked1"
 msgid "Click kik-tweet fweet..."
-msgstr "Clack kik piu fiu…"
+msgstr "Claque kik piu fiu…"
 
 #. Key:	DL_NujuCovoFinal1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoFinal1.Default__DL_NujuCovoFinal1_C.DialogueText
@@ -14095,7 +14103,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka.Default__DL_NujuCovoKopaka_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuCovoKopaka"
 msgid "Fweet fweet. Click click clack."
-msgstr "Fiu fiu. Click click clack."
+msgstr "Fiu fiu. Clique clique claque."
 
 #. Key:	DL_NujuCovoKopaka1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka1.Default__DL_NujuCovoKopaka1_C.DialogueText
@@ -14111,7 +14119,7 @@ msgstr "Hã… Turaga Nuju diz que não.. e só pede que você continue a busca 
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka2.Default__DL_NujuCovoKopaka2_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuCovoKopaka2"
 msgid "Clack Clack Tweeeet!"
-msgstr "Clack Clack Piiiiu!"
+msgstr "Claque Claque Piiiiu!"
 
 #. Key:	DL_NujuCovoKopaka3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka3.Default__DL_NujuCovoKopaka3_C.DialogueText
@@ -14161,42 +14169,42 @@ msgstr "Fiu! Piu fiu fiu!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuKini2.Default__DL_NujuKini2_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuKini2"
 msgid "Click kik-tweet fweet..."
-msgstr "Click cli-piu fiu…"
+msgstr "Clique cli-piu fiu…"
 
 #. Key:	DL_NujuLost1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost1.Default__DL_NujuLost1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost1.Default__DL_NujuLost1_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuLost1"
 msgid "Fweet! Click-click fweet!"
-msgstr "Fiu! Click click fiu!"
+msgstr "Fiu! Clique clique fiu!"
 
 #. Key:	DL_NujuLost2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost2.Default__DL_NujuLost2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost2.Default__DL_NujuLost2_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuLost2"
 msgid "Click-clack-click, tweet! Tweeeet!"
-msgstr "Click clack click, piu! Piiiiu!"
+msgstr "Clique claque clique, piu! Piiiiu!"
 
 #. Key:	DL_NujuLost4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost4.Default__DL_NujuLost4_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost4.Default__DL_NujuLost4_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuLost4"
 msgid "Click tweet, fweet."
-msgstr "Click piu, fiu."
+msgstr "Clique piu, fiu."
 
 #. Key:	DL_NujuSafe
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuSafe.Default__DL_NujuSafe_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuSafe.Default__DL_NujuSafe_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuSafe"
 msgid "Clack click, clack tweet."
-msgstr "Clack click, clack piu."
+msgstr "Claque clique, claque piu."
 
 #. Key:	DL_NujuTelling
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuTelling.Default__DL_NujuTelling_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuTelling.Default__DL_NujuTelling_C.DialogueText
 msgctxt "Dialogue_Text,DL_NujuTelling"
 msgid "Fweet. Fweet click, click clack."
-msgstr "Fiu. Fiu click, click clack."
+msgstr "Fiu. Fiu clique, clique claque."
 
 #. Key:	DL_NujuTelling1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuTelling1.Default__DL_NujuTelling1_C.DialogueText
@@ -14903,7 +14911,7 @@ msgid ""
 "very northern tip of Po-Wahi, past the old Temple."
 msgstr ""
 "Não me disseram muito, só que era urgente você ouvir isso. Você deve viajar pra ponta "
-"norte de Po-Wahi, passando do velho templo."
+"norte de Po-Wahi, além do velho templo."
 
 #. Key:	DL_PoduRaceKopakaCutscene
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRaceKopakaCutscene.Default__DL_PoduRaceKopakaCutscene_C.DialogueText
@@ -14931,7 +14939,7 @@ msgid ""
 "I’m… not quite sure honestly. All I know is that it’s urgent. There isn’t much past the "
 "hidden Temple, so your guess is as good as mine."
 msgstr ""
-"Eu… não sei, sinceramente. Tudo que sei é que é urgente. Não tem muita coisa indo além "
+"Eu… não sei, sinceramente. Tudo que sei é que é urgente. Não tem muita coisa para além "
 "do Templo Oculto, então sei tanto quanto você."
 
 #. Key:	DL_PoduRaceKopakaWho
@@ -14942,8 +14950,8 @@ msgid ""
 "I... was told to keep it anonymous. All I was told to say is that it came from a good "
 "friend of yours. ...Sorry."
 msgstr ""
-"Hãã… me disseram pra manter anônimo. Tudo que me falaram pra eu dizer foi que veio de um "
-"bom amigo seu… Desculpa."
+"Hãã… me pediram pra manter no anonimato. Tudo que me falaram pra eu dizer foi que veio "
+"de um bom amigo seu… Desculpa."
 
 #. Key:	DL_PoduRaceKopakaWho2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWho2.Default__DL_PoduRaceKopakaWho2_C.DialogueText
@@ -17812,7 +17820,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_VegSeller1.Default__DL_VegSeller1_C.DialogueText
 msgctxt "Dialogue_Text,DL_VegSeller1"
 msgid "Hmm... Still crooked..."
-msgstr "Hmm… Ainda torto…"
+msgstr "Hmm… Continua torto…"
 
 #. Key:	DL_VegSeller2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_VegSeller2.Default__DL_VegSeller2_C.DialogueText
@@ -18238,8 +18246,8 @@ msgid ""
 "your destiny. It is something the Makuta will use any means to prevent you from "
 "acquiring."
 msgstr ""
-"O Onu-Kini guarda uma pedra Makoki, parte de uma chave que vocês devem recuperar para "
-"completar seu destino. É algo que o Makuta vai impedi-los de pegar, usando qualquer meio "
+"O Onu-Kini guarda uma pedra Makoki, parte de uma chave que você deve recuperar para "
+"completar seu destino. É algo que o Makuta vai impedi-lo de pegar, usando qualquer meio "
 "possível."
 
 #. Key:	DL_WhenuaOnuaMap
@@ -18251,8 +18259,8 @@ msgid ""
 "your destiny. It is something the Makuta will use any means to prevent you from "
 "acquiring."
 msgstr ""
-"O Onu-Kini guarda uma pedra Makoki, parte de uma chave que vocês devem recuperar para "
-"completar seu destino. É algo que o Makuta vai impedi-los de pegar, usando qualquer meio "
+"O Onu-Kini guarda uma pedra Makoki, parte de uma chave que você deve recuperar para "
+"completar seu destino. É algo que o Makuta vai impedi-lo de pegar, usando qualquer meio "
 "possível."
 
 #. Key:	DL_WhenuaOtherToa
@@ -18285,8 +18293,7 @@ msgid ""
 "Oh… hah… that’s a story for another time, Toa. Perhaps one day I shall be able to tell "
 "it to you."
 msgstr ""
-"Oh… haha, é uma história para outra hora, Toa. Talvez um dia eu possa contá-la para "
-"vocês."
+"Oh… haha, é uma história para outra hora, Toa. Talvez um dia eu possa contá-la para você."
 
 #. Key:	DL_WhenuaSaved2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaSaved2.Default__DL_WhenuaSaved2_C.DialogueText
@@ -18342,7 +18349,7 @@ msgid ""
 "I like it out here. The ocean is nice, it’s peaceful and quiet, and there’s that temple "
 "full of swinging axes nearby in case I get bored!"
 msgstr ""
-"Gosto daqui. O oceano é legal, é pacífico e sossegado, e tem aquele templo aqui perto "
+"Gosto daqui. É pacífico e sossegado, o oceano é legal, e tem aquele templo aqui perto "
 "cheio de pêndulos da morte, caso eu caia no tédio!"
 
 #. Key:	DL_WinRacePoduPohatu1
@@ -18380,28 +18387,28 @@ msgstr "Ah, é claro! Aqui, deixa eu pegar pra você…"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/WinRace/DL_WinRacePohatu2.Default__DL_WinRacePohatu2_C.DialogueText
 msgctxt "Dialogue_Text,DL_WinRacePohatu2"
 msgid "I knew you’d enjoy it! I knew this whole task would be rewarding in the end."
-msgstr "Sabia que ia gostar! Sabia que essa tarefa toda ia compensar no fim."
+msgstr "Sabia que ia gostar! Tinha certeza que esse trabalho todo ia compensar no fim."
 
 #. Key:	DL_WinRacePohatu3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/WinRace/DL_WinRacePohatu3.Default__DL_WinRacePohatu3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/WinRace/DL_WinRacePohatu3.Default__DL_WinRacePohatu3_C.DialogueText
 msgctxt "Dialogue_Text,DL_WinRacePohatu3"
 msgid "Watch what you say about these! Podu made them."
-msgstr "Cuidado com o que fala deles! Foi Podu que fez."
+msgstr "Cuida com o que fala deles! Foi Podu quem fez."
 
 #. Key:	DL_WinRacePohatuGift
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/WinRace/DL_WinRacePohatuGift.Default__DL_WinRacePohatuGift_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/WinRace/DL_WinRacePohatuGift.Default__DL_WinRacePohatuGift_C.DialogueText
 msgctxt "Dialogue_Text,DL_WinRacePohatuGift"
 msgid "What did I say? Stylish, right? And I’ve got enough for all six of us to wear!"
-msgstr "O que eu disse? Estiloso, não? E eu tenho o bastante para nós seis usarmos!"
+msgstr "O que eu disse? Só estilo, né? E eu tenho o bastante para nós seis usarmos!"
 
 #. Key:	DL_YumaFishIntro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_YumaFishIntro.Default__DL_YumaFishIntro_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_YumaFishIntro.Default__DL_YumaFishIntro_C.DialogueText
 msgctxt "Dialogue_Text,DL_YumaFishIntro"
 msgid "Stop copying me! There's got to be a law against this!"
-msgstr "Para de me copiar! Tem que ter uma lei contra isso!"
+msgstr "Para de me copiar! Deve ter alguma lei contra isso!"
 
 #. Key:	DL_YumaFishIntro_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_YumaFishIntro_2.Default__DL_YumaFishIntro_2_C.DialogueText
@@ -18422,7 +18429,8 @@ msgid ""
 "Oh yeah. Guess I didn't think about that. If you catch any rare ones, you can always "
 "sell them to me!"
 msgstr ""
-"Ah é. Acho que não pensei nisso. Se pegar alguns raros, sempre pode vendê-los pra mim!"
+"Ah é. Acho que não pensei nisso. Se pegar alguns raros, sinta-se à vontade pra vendê-los "
+"pra mim!"
 
 #. Key:	DL_YumaFishIntro_lewa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_YumaFishIntro_lewa.Default__DL_YumaFishIntro_lewa_C.DialogueText
@@ -18602,8 +18610,8 @@ msgid ""
 "Tea made from Mahai bark. It tastes very bitter, and quite earthy. The Matoran use this "
 "drink for a boost of energy. It would probably work on a Toa, too."
 msgstr ""
-"Chá feito de casca de Mahai. Tem um gosto bem amargo, e meio terroso. Os Matoran usam "
-"bebem isto para um suplemento de energia, o que deve funcionar para um(a) Toa também."
+"Chá feito de casca de Mahai. Tem um gosto amargo, e meio terroso. Os Matoran bebem isto "
+"como suplemento de energia, o que deve servir para um(a) Toa também."
 
 #. Key:	Item_MarenMap1_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap1.Item_MarenMap1.Description
@@ -18740,7 +18748,7 @@ msgstr "Parte 2 de uma série escrita por Talok, o Grande Poeta, sobre Ta-Koro."
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Pots.Item_Pots.Description
 msgctxt "InvItem_Description,Item_Pots_Desc"
 msgid "An expertly crafted pot, for all your potting needs."
-msgstr "Um pote feito com maestria, para toda demanda potística."
+msgstr "Um pote feito com maestria, para todas as suas demandas potísticas."
 
 #. Key:	Item_ProtoCell_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCell.Item_ProtoCell.Description
@@ -18748,7 +18756,7 @@ msgstr "Um pote feito com maestria, para toda demanda potística."
 msgctxt "InvItem_Description,Item_ProtoCell_Desc"
 msgid "A small capsule filled with Protodermis, can be crushed to absorb it's power."
 msgstr ""
-"Uma pequena cápsula com Protoderme. Pode ser esmagada para absorver o poder de dentro."
+"Uma pequena cápsula com Protoderme. Pode ser esmagada para absorver a energia de dentro."
 
 #. Key:	Item_ProtoCharge_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_ProtoCharge.Item_ProtoCharge.Description
@@ -19052,7 +19060,7 @@ msgstr "Um mapa completo da ilha de Mata Nui."
 #: /Game/BluePrints/Classes/Inventory/Items/QuestItems/KylmaNote.KylmaNote.Description
 msgctxt "InvItem_Description,KylmaNote_Desc"
 msgid "The research notes lost by Kylma"
-msgstr "As notas de pesquisa perdidas do Kylma"
+msgstr "As notas perdidas da pesquisa do Kylma"
 
 #. Key:	Item_AmanaVoloSphere
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_AmanaVoloSphere.Item_AmanaVoloSphere.Name
@@ -19237,8 +19245,8 @@ msgid "Kolhii Ball"
 msgstr "Bola de Kolhii"
 
 #. Key:	Item_KoMakoki
-#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_KoMakoki.Item_KoMakoki.Name
-#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_KoMakoki.Item_KoMakoki.Name
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_Ko_Makoki.Item_Ko_Makoki.Name
+#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_Ko_Makoki.Item_Ko_Makoki.Name
 msgctxt "InvItem_Name,Item_KoMakoki"
 msgid "Ko Makoki Stone"
 msgstr "Pedra Ko-Makoki"
@@ -19605,7 +19613,7 @@ msgstr "Cabeça de Madeira"
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Name
 msgctxt "InvItem_Name,Item_WorldMap"
 msgid "World Map"
-msgstr "Mapa do Mundo"
+msgstr "Mapa da Ilha"
 
 #. Key:	KylmaNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/KylmaNote.KylmaNote.Name
@@ -20118,7 +20126,7 @@ msgstr ""
 "tornando mais e mais incontrolável a cada dia. Eu desejo uma forma de me livrar desses "
 "sentimentos, mas temo que talvez nunca tenha paz.\r\n"
 "\r\n"
-"Acabei de acordar de um sonho que só pode ter sido uma mensagem do próprio Grade "
+"Acabei de acordar de um sonho que só pode ter sido uma mensagem do próprio Grande "
 "Espírito. Neste sonho, eu estava aos pés de três espadas gigantes que se erguiam diante "
 "de mim. Elas chegavam tão alto que pareciam penetrar as nuvens.\r\n"
 "Um estranho e alto Ko-Matoran se encontrava no meio dessas três espadas. Ele proferiu "
@@ -20255,6 +20263,17 @@ msgctxt "LoadingTip_Text,Tip_CodexHints"
 msgid "The Codex contains not only lore, but also Gameplay hints."
 msgstr "O Códex contém não apenas história, mas também dicas de jogabilidade."
 
+#. Key:	Tip_Cosmetics
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
+msgctxt "LoadingTip_Text,Tip_Cosmetics"
+msgid ""
+"Cosmetics found in the world are applied automatically, you can disable them from "
+"cosmetic benches."
+msgstr ""
+"Cosméticos achados na ilha são aplicados automaticamente. Pode desabilitá-los na bancada "
+"de cosméticos."
+
 #. Key:	Tip_MeditationStoneAutosave
 #. SourceLocation:	Config/DefaultGame.ini:112
 #: Config/DefaultGame.ini:112
@@ -20285,7 +20304,7 @@ msgstr "Pressione a tecla de interação no menu do Ponto de Meditação para sa
 #: Config/DefaultGame.ini:112
 msgctxt "LoadingTip_Text,Tip_ObjectivesAkaku"
 msgid "Quest objectives can be seen in the world when using the Akaku."
-msgstr "Objetivos de missão podem ser vistos no mundo usando a Akaku."
+msgstr "Objetivos de missão podem ser vistos na ilha usando a Akaku."
 
 #. Key:	Tip_Save
 #. SourceLocation:	Config/DefaultGame.ini:112
@@ -20307,6 +20326,13 @@ msgstr "É uma boa ideia salvar o progresso em múltiplos espaços."
 msgctxt "LoadingTip_Text,Tip_UnderwaterElementalAttacks"
 msgid "Elemental Attacks can be triggered in water."
 msgstr "Ataques Elementais podem ser usados na água."
+
+#. Key:	Tip_WaterDash
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
+msgctxt "LoadingTip_Text,Tip_WaterDash"
+msgid "Tap your sprint button to dash underwater"
+msgstr "Toque no botão de corrida para dar um impulso embaixo d'água."
 
 #. Key:	Quest_Amongsttheburnttrees_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Amongsttheburnttrees.Default__Quest_Amongsttheburnttrees_C.Description
@@ -21829,8 +21855,8 @@ msgid ""
 "I enjoyed toying with you, Toa. Watching you struggle past all of my challenges only to "
 "fail again, and again, and again. But I believe... that time has passed."
 msgstr ""
-"Gostei de brincar com vocês, Toa. Vê-los lutarem através de meus desafios só para falhar "
-"de novo, e de novo, e de novo. Mas eu acredito... que esse tempo passou."
+"Gostei de brincar com vocês, Toa. Vê-los lutarem nos meus desafios só para falhar de "
+"novo, e de novo, e de novo. Mas, eu acredito... que esse tempo passou."
 
 #. Key:	MakutaIntro_Line19
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -21916,7 +21942,7 @@ msgstr "Por que ainda persistem? Não veem como sua luta é fútil?"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaReturn_Line2"
 msgid "You cannot hold us any longer! This cycle ends here!"
-msgstr "Não pode nos segurar mais! Este ciclo acaba aqui!"
+msgstr "Não pode mais nos parar! Este ciclo acaba aqui!"
 
 #. Key:	MakutaReturn_Line3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -22078,7 +22104,7 @@ msgstr "Que Tarakava enorme!"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line3"
 msgid "I am the spirit of this lake, You will not harm it Toa."
-msgstr "Sou o espírito deste lago. Não deve machucá-lo, Toa."
+msgstr "Sou o espírito deste lago. Não ouse machucá-lo, Toa."
 
 #. Key:	TarakavaOfFrost_Line4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -22094,7 +22120,8 @@ msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line5"
 msgid ""
 "This lake contains holy water, it should be contained. Not allowed to run off into the "
 "sea."
-msgstr "Este lago contém água benta, e deve ser contida, não deixada escorrer para o mar."
+msgstr ""
+"Este lago contém água sagrada que deve ser contida, não deixada para escorrer até o mar."
 
 #. Key:	TarakavaOfFrost_Line6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -22104,8 +22131,8 @@ msgid ""
 "There are other Matoran and Rahi that rely on this river, would you have them displaced "
 "from their homes just to keep your water?"
 msgstr ""
-"Há outros Matoran e Rahi que dependem desse rio, você tiraria o lar deles só para ficar "
-"com sua água?"
+"Há outros Matoran e Rahi que dependem desse rio, você quer tirar o lar deles só para "
+"ficar com sua água?"
 
 #. Key:	TarakavaOfFrost_Line7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -22115,7 +22142,7 @@ msgid ""
 "I would. I cannot allow other, more inferior beings to use my water for their own impure "
 "purposes."
 msgstr ""
-"Tiraria sim. Não posso deixar outros seres inferiores usarem minha água para seus "
+"Quero sim. Não posso deixar outros seres inferiores usarem minha água para seus "
 "propósitos impuros."
 
 #. Key:	TarakavaOfFrost_Line8
@@ -22277,7 +22304,7 @@ msgstr "Sabe por que o rio secou?"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,TakeLook"
 msgid "I'll take a look."
-msgstr "Darei uma olhada."
+msgstr "Vou dar uma olhada."
 
 #. Key:	ThankYou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -22333,7 +22360,7 @@ msgstr "O que quer dizer?"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Whatisit"
 msgid "What is it?"
-msgstr "O que foi?"
+msgstr "O que é?"
 
 #. Key:	WhatYouHave
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -22447,6 +22474,13 @@ msgctxt "ST_GeneralLocalization,Gen_Door"
 msgid "Door"
 msgstr "Porta"
 
+#. Key:	Gen_ElevatorLever
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+#: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
+msgctxt "ST_GeneralLocalization,Gen_ElevatorLever"
+msgid "Elevator Lever"
+msgstr "Alavanca do Elevador"
+
 #. Key:	Gen_Gate
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22536,7 +22570,7 @@ msgstr "Bloco do Meio"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_ObtaintheMakokiStone"
 msgid "Obtain the Makoki Stone."
-msgstr "Obter Pedra Makoki."
+msgstr "Obtenha a Pedra Makoki."
 
 #. Key:	Gen_Open
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22638,7 +22672,7 @@ msgstr "Analógico Direito"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIAutoSave"
 msgid "Auto Save"
-msgstr "Salvamento Automático"
+msgstr "Autossalvar"
 
 #. Key:	UIBack
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22660,6 +22694,13 @@ msgstr "Colocar no Espaço 1"
 msgctxt "ST_Localization,UIBindSecond"
 msgid "Bind to Second Slot"
 msgstr "Colocar no Espaço 2"
+
+#. Key:	UIBoat
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIBoat"
+msgid "Boat"
+msgstr "Barco"
 
 #. Key:	UIBorderless
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22815,6 +22856,13 @@ msgctxt "ST_Localization,UILower"
 msgid "Lower"
 msgstr "Mais Baixo"
 
+#. Key:	UIMeditationPoint
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIMeditationPoint"
+msgid "Meditation Point"
+msgstr "Ponto de Meditação"
+
 #. Key:	UIMedium
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22857,12 +22905,19 @@ msgctxt "ST_Localization,UINone"
 msgid "None"
 msgstr "Nada"
 
+#. Key:	UIObjective
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIObjective"
+msgid "Objective"
+msgstr "Objetivo"
+
 #. Key:	UIPlayerSave
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIPlayerSave"
 msgid "Player Save"
-msgstr "Arquivo do Jogador"
+msgstr "Jogo Salvo"
 
 #. Key:	UIPowerMask
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22911,7 +22966,7 @@ msgstr "Salvar Jogo"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UISaveName"
 msgid "Save Name:"
-msgstr "Nome do Arquivo:"
+msgstr "Nome do Jogo:"
 
 #. Key:	UISaves
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22969,6 +23024,13 @@ msgctxt "ST_Localization,UIView"
 msgid "View"
 msgstr "Visualizar"
 
+#. Key:	UIWidgets
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIWidgets"
+msgid "Widgets:"
+msgstr "Peças:"
+
 #. Key:	UIWindowed
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22988,7 +23050,7 @@ msgstr "Sim"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIZoomControlScheme"
 msgid "{Input} <Key>to zoom</>"
-msgstr "{Input} <Key>dá zoom</>"
+msgstr "{Input} <Key>: Zoom</>"
 
 #. Key:	Names_Ahkmou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -24515,10 +24577,11 @@ msgid ""
 "<Key>Russian - Nemezidych</>\r\n"
 "<Key>German - Thowlon & Ketooth</>\r\n"
 "<Key>French - maxim21T & ToaPohatu</>\r\n"
-"<Key>Brazilian Portuguese - PhanStove & omegalucas</>\r\n"
-"<Key>Swedish - ONI3dArts</>\r\n"
-"<Key>Polish - Turambar3791 & Kluuucha</>\r\n"
+"<Key>Brazilian Portuguese - Felipe L.A. & omegalucas</>\r\n"
+"<Key>Polish - Andrzej Szary & Kluuucha</>\r\n"
 "<Key>Hungarian - csababerencsi</>\r\n"
+"<Key>Italian - Davide Goisis</>\r\n"
+"<Key>Greek - QymaenGreivous</>\r\n"
 "\r\n"
 "Thanks to:\r\n"
 "<Key>FreeSound</>\r\n"
@@ -24611,9 +24674,10 @@ msgstr ""
 "<Key>Alemão - Thowlon & Ketooth</>\r\n"
 "<Key>Francês - maxim21T & ToaPohatu</>\r\n"
 "<Key>Português Brasileiro - Felipe L.A. & omegalucas</>\r\n"
-"<Key>Sweco - ONI3dArts</>\r\n"
 "<Key>Polonês - Turambar3791 & Kluuucha</>\r\n"
 "<Key>Húngaro - csababerencsi</>\r\n"
+"\v<Key>Italiano - Davide Goisis</>\r\n"
+"<Key>Grego - QymaenGreivous</>\r\n"
 "\r\n"
 "Agradecimentos:\r\n"
 "<Key>FreeSound</>\r\n"
@@ -24642,7 +24706,7 @@ msgstr ""
 "\r\n"
 "E é claro, a todos nossos leais fãs!\n"
 "\r\n"
-"Obrigado por nos acompanhar até aqui, e que o Grande Espírito guie vocês.\n"
+"Agradecemos por nos acompanhar até aqui, e que o Grande Espírito guie vocês.\n"
 "\r\n"
 "\r\n"
 "\r\n"
@@ -24968,7 +25032,7 @@ msgstr "Clique esquerdo para pegar pedras"
 #: /Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock.Text
 msgctxt "UIText_Description,GaGateCtrlsWidget_RockDistance"
 msgid "Right Click while holding a rock to move it closer or farther"
-msgstr "Click direito ao segurar uma pedra para aproximá-la ou afastá-la"
+msgstr "Clique direito ao segurar uma pedra para aproximá-la ou afastá-la"
 
 #. Key:	GaGateCtrlsWidget_ScrollToZoom
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_1.Text
@@ -25017,7 +25081,7 @@ msgstr "{Input} <Key>mudar tamanho de ícones</>"
 #: /Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.MoveBaseText
 msgctxt "UIText_Description,MapCtrlsWidget_ToMove"
 msgid "{Input} <Key>to move the map</>"
-msgstr "{Input} <Key>para mover o mapa</>"
+msgstr "{Input} <Key>: mover o mapa</>"
 
 #. Key:	MaskPowerStation_AreYouSure
 #. SourceLocation:	/Game/BluePrints/UI/PowerMask.Default__PowerMask_C.PowerMaskDescription
@@ -25235,14 +25299,14 @@ msgstr "Pôr do Sol"
 #: /Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.EditableTextBox_143.HintText
 msgctxt "UIText_Description,NewGame_EnterSaveName"
 msgid "Enter Save Name Here"
-msgstr "Inserir Nome de Arquivo Salvo"
+msgstr "Inserir Nome do Jogo"
 
 #. Key:	NewGame_SaveName
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.TextBlock_0.Text
 #: /Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.TextBlock_0.Text
 msgctxt "UIText_Description,NewGame_SaveName"
 msgid "Save Name:"
-msgstr "Nome de Arquivo:"
+msgstr "Nome de Save:"
 
 #. Key:	NewGame_SaveNameText
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.EditableTextBox_143.Text
@@ -25488,14 +25552,14 @@ msgstr "Correr:"
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_38.Text
 msgctxt "UIText_Description,PausedControls_SwapMasksBackward"
 msgid "Swap Masks Backward:"
-msgstr "Escolher Máscara Anterior:"
+msgstr "Usar Máscara Anterior:"
 
 #. Key:	PausedControls_SwapMasksForward
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_19.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_19.Text
 msgctxt "UIText_Description,PausedControls_SwapMasksForward"
 msgid "Swap Masks Forward:"
-msgstr "Escolher Próxima Máscara:"
+msgstr "Usar Próxima Máscara:"
 
 #. Key:	PausedControls_SwitchViews
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_12.Text
@@ -25685,14 +25749,14 @@ msgstr "Gel Wahae Mata:"
 #: /Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.Text
 msgctxt "UIText_Description,SaveGame_NameInput"
 msgid "Player Save"
-msgstr "Progresso Salvo"
+msgstr "Jogo Salvo"
 
 #. Key:	SaveGame_NameInputHint
 #. SourceLocation:	/Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.HintText
 #: /Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.HintText
 msgctxt "UIText_Description,SaveGame_NameInputHint"
 msgid "Enter Save Name Here"
-msgstr "Inserir Nome de Arquivo Aqui"
+msgstr "Inserir Nome de Jogo"
 
 #. Key:	Saves_Auto
 #. SourceLocation:	/Game/BluePrints/Classes/Saving/TypeSave.TypeSave.DisplayNameMap(0 - Value).DisplayNameMap
@@ -25700,7 +25764,7 @@ msgstr "Inserir Nome de Arquivo Aqui"
 #: Value).DisplayNameMap
 msgctxt "UIText_Description,Saves_Auto"
 msgid "Auto Save"
-msgstr "Salvamento Automático"
+msgstr "Autossalvar"
 
 #. Key:	Saves_Manual
 #. SourceLocation:	/Game/BluePrints/Classes/Saving/TypeSave.TypeSave.DisplayNameMap(1 - Value).DisplayNameMap
@@ -25993,7 +26057,7 @@ msgstr "Nova Página no Códex"
 #: [Script Bytecode]
 msgctxt "UIText_Description,UICodexPageAdded_ItemGained"
 msgid "Item Gathered"
-msgstr "Item Removido"
+msgstr "Item Adquirido"
 
 #. Key:	UICodexPageAdded_ItemRemoved
 #. SourceLocation:	/Game/BluePrints/UI/CodexPageAdded.CodexPageAdded_C:ExecuteUbergraph_CodexPageAdded [Script Bytecode]
@@ -26275,7 +26339,7 @@ msgstr ""
 #: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.ComboBox_Languages.ToolTipText
 msgctxt "UIText_ToolTip,PausedDisplaySettings_Language_Tooltip"
 msgid "Which language should the game be displayed in? (This option may require a restart)"
-msgstr "Em qual idioma exibir o jogo? (Talvez precise reiniciar para aplicar esta opção)"
+msgstr "Em qual idioma exibir o jogo? (Talvez precise reiniciar para ser aplicado)"
 
 #. Key:	PausedDisplaySettings_Resolution_Tooltip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.BmopComboBoxSetting_Resolution.ToolTipText
