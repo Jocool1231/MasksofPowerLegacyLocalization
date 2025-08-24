@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-22 05:28\n"
-"PO-Revision-Date: 2025-08-24 13:40+0300\n"
+"PO-Revision-Date: 2025-08-24 13:45+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25082,7 +25082,7 @@ msgstr ""
 #: /Game/BluePrints/UI/Widget_GiveMask.Widget_GiveMask_C:GetText_0 [Script Bytecode]
 msgctxt "UIText_Description,GiveMask_Description"
 msgid "Pick A Toa to recieve the {Mask}:"
-msgstr "Выберите Тоа, который получит {Mask}:"
+msgstr "Выберите Тоа, который получит Канохи {Mask}:"
 
 #. Key:	KeybindingPrompt
 #. SourceLocation:	/Game/BluePrints/UI/BMOPBindCapturePrompt.BMOPBindCapturePrompt_C:WidgetTree.TextBlock_2.Text
