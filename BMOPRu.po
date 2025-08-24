@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-24 10:40\n"
-"PO-Revision-Date: 2025-08-24 13:53+0300\n"
+"PO-Revision-Date: 2025-08-24 14:44+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18713,7 +18713,7 @@ msgid ""
 "$M."
 msgstr ""
 "Небольшое устройство, созданное Метону по чертежам Нупару, которое позволяет найти "
-"ближайшую маску $M."
+"ближайшую канохи $M."
 
 #. Key:	Item_MetallicProtodermisIngots_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Description
