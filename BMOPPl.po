@@ -22,8 +22,8 @@ msgid "{PickupLine} x{Count}"
 msgstr "{PickupLine} x{Count}"
 
 #. Key:	Loading
-#. SourceLocation:	Config/DefaultGame.ini:111
-#: Config/DefaultGame.ini:111
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "AsyncLoadingScreen,Loading"
 msgid "LOADING"
 msgstr "WCZYTYWANIE"
@@ -18940,6 +18940,12 @@ msgstr "Napisy"
 msgctxt "ST_Localization,UICrush"
 msgid "Crush"
 msgstr "Zgnieć"
+#. Key:	UIDisable
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIDisable"
+msgid "Disable"
+msgstr "Wyłącz"
 
 #. Key:	UIDisabled
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
