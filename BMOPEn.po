@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2025-08-22 05:28\n"
-"PO-Revision-Date: 2025-08-22 05:28\n"
+"POT-Creation-Date: 2025-08-24 10:40\n"
+"PO-Revision-Date: 2025-08-24 10:40\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -21,8 +21,8 @@ msgid "{PickupLine} x{Count}"
 msgstr "{PickupLine} x{Count}"
 
 #. Key:	Loading
-#. SourceLocation:	Config/DefaultGame.ini:111
-#: Config/DefaultGame.ini:111
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "AsyncLoadingScreen,Loading"
 msgid "LOADING"
 msgstr "LOADING"
@@ -16100,8 +16100,8 @@ msgid "Kolhii Ball"
 msgstr "Kolhii Ball"
 
 #. Key:	Item_KoMakoki
-#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_Ko_Makoki.Item_Ko_Makoki.Name
-#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_Ko_Makoki.Item_Ko_Makoki.Name
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/KoMakokistone.KoMakokistone.Name
+#: /Game/BluePrints/Classes/Inventory/Items/KoMakokistone.KoMakokistone.Name
 msgctxt "InvItem_Name,Item_KoMakoki"
 msgid "Ko Makoki Stone"
 msgstr "Ko Makoki Stone"
@@ -16632,85 +16632,85 @@ msgid "The text seems indecipherable. It might be an older dialect or just Kylma
 msgstr "The text seems indecipherable. It might be an older dialect or just Kylma's handwriting..."
 
 #. Key:	Loading_Text
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "Loading,Loading_Text"
 msgid "Loading..."
 msgstr "Loading..."
 
 #. Key:	Tip_AkakuZoom
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_AkakuZoom"
 msgid "You can zoom while wearing the Akaku by pressing the assigned key (Default is Left ALT)."
 msgstr "You can zoom while wearing the Akaku by pressing the assigned key (Default is Left ALT)."
 
 #. Key:	Tip_CodexHints
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_CodexHints"
 msgid "The Codex contains not only lore, but also Gameplay hints."
 msgstr "The Codex contains not only lore, but also Gameplay hints."
 
 #. Key:	Tip_Cosmetics
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_Cosmetics"
 msgid "Cosmetics found in the world are applied automatically, you can disable them from cosmetic benches."
 msgstr "Cosmetics found in the world are applied automatically, you can disable them from cosmetic benches."
 
 #. Key:	Tip_MeditationStoneAutosave
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_MeditationStoneAutosave"
 msgid "The game Autosaves when interacting with a meditation stone."
 msgstr "The game Autosaves when interacting with a meditation stone."
 
 #. Key:	Tip_MeditationStonesHeal
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_MeditationStonesHeal"
 msgid "Meditation Stones Heal all Toa on interaction, there's no need to actually meditate for this effect."
 msgstr "Meditation Stones Heal all Toa on interaction, there's no need to actually meditate for this effect."
 
 #. Key:	Tip_MeditationStonesInteract
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_MeditationStonesInteract"
 msgid "Press the interaction key while in meditation stone menu to quickly exit it."
 msgstr "Press the interaction key while in meditation stone menu to quickly exit it."
 
 #. Key:	Tip_ObjectivesAkaku
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_ObjectivesAkaku"
 msgid "Quest objectives can be seen in the world when using the Akaku."
 msgstr "Quest objectives can be seen in the world when using the Akaku."
 
 #. Key:	Tip_Save
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_Save"
 msgid "Remember to manually save OFTEN!"
 msgstr "Remember to manually save OFTEN!"
 
 #. Key:	Tip_SaveSlots
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_SaveSlots"
 msgid "It's a good idea to Save in multiple slots."
 msgstr "It's a good idea to Save in multiple slots."
 
 #. Key:	Tip_UnderwaterElementalAttacks
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_UnderwaterElementalAttacks"
 msgid "Elemental Attacks can be triggered in water."
 msgstr "Elemental Attacks can be triggered in water."
 
 #. Key:	Tip_WaterDash
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_WaterDash"
 msgid "Tap your sprint button to dash underwater"
 msgstr "Tap your sprint button to dash underwater"
@@ -18940,6 +18940,13 @@ msgstr "Credits"
 msgctxt "ST_Localization,UICrush"
 msgid "Crush"
 msgstr "Crush"
+
+#. Key:	UIDisable
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIDisable"
+msgid "Disable"
+msgstr "Disable"
 
 #. Key:	UIDisabled
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
