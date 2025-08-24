@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2025-08-22 05:28\n"
-"PO-Revision-Date: 2025-08-23 04:07-0300\n"
+"POT-Creation-Date: 2025-08-24 10:40\n"
+"PO-Revision-Date: 2025-08-24 08:41-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -22,8 +22,8 @@ msgid "{PickupLine} x{Count}"
 msgstr "{PickupLine} x {Count}"
 
 #. Key:	Loading
-#. SourceLocation:	Config/DefaultGame.ini:111
-#: Config/DefaultGame.ini:111
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "AsyncLoadingScreen,Loading"
 msgid "LOADING"
 msgstr "CARREGANDO"
@@ -5963,7 +5963,7 @@ msgstr "Olá Nuparu, o que faz aí?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu2.Default__DL_Nuparu2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Nuparu2_PlayerResponse_1"
 msgid "You're a mechanist?"
-msgstr "Você é um mecanista?"
+msgstr "Você é um mecânico?"
 
 #. Key:	DL_Nuparu3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu3.Default__DL_Nuparu3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -14315,7 +14315,7 @@ msgstr "Ahh, olá, Toa! Como está? Meu nome é Nuparu!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu2.Default__DL_Nuparu2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Nuparu2"
 msgid "Oh it's just this machine, it keeps breaking... why won't it just work."
-msgstr "Ah, é só essa máquina, ela fica quebrando… por que ela não funciona…"
+msgstr "Ah, é só essa máquina, ela fica quebrando… por que ela não funciona…?"
 
 #. Key:	DL_Nuparu3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu3.Default__DL_Nuparu3_C.DialogueText
@@ -14447,7 +14447,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu1.Default__DL_Onepu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Onepu1"
 msgid "Yes, sorry I know we've already met Toa, I just always do that."
-msgstr "Desculpa, sei que já nos conhecemos, Toa, eu só sempre faço isso."
+msgstr "Desculpa, sei que já nos conhecemos, Toa, eu sempre faço isso."
 
 #. Key:	DL_Onepu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu2.Default__DL_Onepu2_C.DialogueText
@@ -14476,7 +14476,8 @@ msgid ""
 "It'd be great if you could, being his aide it wouldn't look good for me if he never made "
 "it back."
 msgstr ""
-"Seria ótimo se você puder, ser o assessor dele não ficaria bem se ele nunca voltasse."
+"Seria ótimo se você puder, ser o assessor dele não pareceria bom pra mim se ele nunca "
+"voltasse."
 
 #. Key:	DL_Onepu5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu5.Default__DL_Onepu5_C.DialogueText
@@ -14494,8 +14495,8 @@ msgid ""
 "it back. Here's my map of the surface, it's only the Onu-Wahi surface - but it should "
 "help."
 msgstr ""
-"Seria ótimo se você puder, ser o assessor dele não ficaria bem se ele nunca voltasse. "
-"Aqui está um mapa da superfície, é só a superfície de Onu-Wahi, mas deve ajudar."
+"Seria ótimo se você puder, ser o assessor dele não pareceria bom pra mim se ele nunca "
+"voltasse. Aqui está um mapa da superfície, é só da de Onu-Wahi, mas deve ajudar."
 
 #. Key:	DL_OnepuReturn
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuReturn.Default__DL_OnepuReturn_C.DialogueText
@@ -14537,8 +14538,8 @@ msgid ""
 "I was told not to tell anyone, but it was some sort of meeting, and that's all I'll say "
 "about the matter!"
 msgstr ""
-"Me disseram para não contar pra ninguém, mas foi algum tipo de reunião, e é só isso que "
-"vou dizer sobre isso!"
+"Me disseram pra não contar pra ninguém, mas foi algum tipo de reunião, e é só isso que "
+"vou dizer!"
 
 #. Key:	DL_Onewa1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Onewa1.Default__DL_Onewa1_C.DialogueText
@@ -16057,7 +16058,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerTrade.Default__DL_SellerTrade_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerTrade"
 msgid "Yes, let's trade!"
-msgstr "Sim, vamos negociar!"
+msgstr "Claro, vamos negociar!"
 
 #. Key:	DL_SellerTrade2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerTrade2.Default__DL_SellerTrade2_C.DialogueText
@@ -17462,7 +17463,7 @@ msgstr "Quer negociar?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Trader2.Default__DL_Trader2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Trader2"
 msgid "You got it!"
-msgstr "Pode deixar!"
+msgstr "É pra já!"
 
 #. Key:	DL_TutCorruptedMakuta1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutCorruptedMakuta1.Default__DL_TutCorruptedMakuta1_C.DialogueText
@@ -18486,7 +18487,7 @@ msgstr "Uma carta mal escrita contando a história de dois Matoran."
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Candle.Item_Candle.Description
 msgctxt "InvItem_Description,Item_Candle_Desc"
 msgid "A candle sitting atop a small carving of the great spirit."
-msgstr "Uma vela em cima de uma pequena escultura do Grande Espírito."
+msgstr "Uma vela em cima de um pequeno ídolo do Grande Espírito."
 
 #. Key:	Item_Comets_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Comets.Item_Comets.Description
@@ -18825,7 +18826,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Statuette.Item_Statuette.Description
 msgctxt "InvItem_Description,Item_Statuette_Desc"
 msgid "A Small rock carving of a Toa."
-msgstr "Uma escultura de Toa feita de pedra."
+msgstr "Uma figura de um Toa feita de pedra."
 
 #. Key:	Item_StoneCarving_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_StoneCarving.Item_StoneCarving.Description
@@ -19095,7 +19096,7 @@ msgstr "Carta do Irmão"
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Candle.Item_Candle.Name
 msgctxt "InvItem_Name,Item_Candle"
 msgid "Carving Candle"
-msgstr "Vela de Escultura"
+msgstr "Vela com Entalhe"
 
 #. Key:	Item_Comets
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Comets.Item_Comets.Name
@@ -19245,8 +19246,8 @@ msgid "Kolhii Ball"
 msgstr "Bola de Kolhii"
 
 #. Key:	Item_KoMakoki
-#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_Ko_Makoki.Item_Ko_Makoki.Name
-#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_Ko_Makoki.Item_Ko_Makoki.Name
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/KoMakokistone.KoMakokistone.Name
+#: /Game/BluePrints/Classes/Inventory/Items/KoMakokistone.KoMakokistone.Name
 msgctxt "InvItem_Name,Item_KoMakoki"
 msgid "Ko Makoki Stone"
 msgstr "Pedra Ko-Makoki"
@@ -20241,15 +20242,15 @@ msgid ""
 msgstr "O texto parece indecifrável. Pode ser um velho dialeto, ou só a letra do Kylma..."
 
 #. Key:	Loading_Text
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "Loading,Loading_Text"
 msgid "Loading..."
 msgstr "Carregando…"
 
 #. Key:	Tip_AkakuZoom
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_AkakuZoom"
 msgid ""
 "You can zoom while wearing the Akaku by pressing the assigned key (Default is Left ALT)."
@@ -20257,15 +20258,15 @@ msgstr ""
 "Você pode dar zoom usando a Akaku pressionando a tecla definida (Padrão é Alt Esquerdo)"
 
 #. Key:	Tip_CodexHints
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_CodexHints"
 msgid "The Codex contains not only lore, but also Gameplay hints."
 msgstr "O Códex contém não apenas história, mas também dicas de jogabilidade."
 
 #. Key:	Tip_Cosmetics
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_Cosmetics"
 msgid ""
 "Cosmetics found in the world are applied automatically, you can disable them from "
@@ -20275,15 +20276,15 @@ msgstr ""
 "de cosméticos."
 
 #. Key:	Tip_MeditationStoneAutosave
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_MeditationStoneAutosave"
 msgid "The game Autosaves when interacting with a meditation stone."
 msgstr "O jogo salva automaticamente ao interagir com um Ponto de Meditação."
 
 #. Key:	Tip_MeditationStonesHeal
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_MeditationStonesHeal"
 msgid ""
 "Meditation Stones Heal all Toa on interaction, there's no need to actually meditate for "
@@ -20293,43 +20294,43 @@ msgstr ""
 "ativar este efeito."
 
 #. Key:	Tip_MeditationStonesInteract
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_MeditationStonesInteract"
 msgid "Press the interaction key while in meditation stone menu to quickly exit it."
 msgstr "Pressione a tecla de interação no menu do Ponto de Meditação para sair."
 
 #. Key:	Tip_ObjectivesAkaku
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_ObjectivesAkaku"
 msgid "Quest objectives can be seen in the world when using the Akaku."
 msgstr "Objetivos de missão podem ser vistos na ilha usando a Akaku."
 
 #. Key:	Tip_Save
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_Save"
 msgid "Remember to manually save OFTEN!"
 msgstr "Lembre-se de salvar manualmente COM FREQUÊNCIA!"
 
 #. Key:	Tip_SaveSlots
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_SaveSlots"
 msgid "It's a good idea to Save in multiple slots."
 msgstr "É uma boa ideia salvar o progresso em múltiplos espaços."
 
 #. Key:	Tip_UnderwaterElementalAttacks
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_UnderwaterElementalAttacks"
 msgid "Elemental Attacks can be triggered in water."
 msgstr "Ataques Elementais podem ser usados na água."
 
 #. Key:	Tip_WaterDash
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_WaterDash"
 msgid "Tap your sprint button to dash underwater"
 msgstr "Toque no botão de corrida para dar um impulso embaixo d'água."
@@ -22758,6 +22759,13 @@ msgctxt "ST_Localization,UICrush"
 msgid "Crush"
 msgstr "Esmagar"
 
+#. Key:	UIDisable
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIDisable"
+msgid "Disable"
+msgstr "Desabilitar"
+
 #. Key:	UIDisabled
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -25074,7 +25082,7 @@ msgstr "Tamanho de Marcador"
 #: /Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.IconSizeBaseText
 msgctxt "UIText_Description,MapCtrlsWidget_IconSize"
 msgid "{Input} <Key>change icon size</>"
-msgstr "{Input} <Key>mudar tamanho de ícones</>"
+msgstr "{Input} <Key>redimensionar ícones</>"
 
 #. Key:	MapCtrlsWidget_ToMove
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.MoveBaseText
@@ -25306,7 +25314,7 @@ msgstr "Inserir Nome do Jogo"
 #: /Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.TextBlock_0.Text
 msgctxt "UIText_Description,NewGame_SaveName"
 msgid "Save Name:"
-msgstr "Nome de Save:"
+msgstr "Nome de Jogo:"
 
 #. Key:	NewGame_SaveNameText
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.EditableTextBox_143.Text
@@ -25552,14 +25560,14 @@ msgstr "Correr:"
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_38.Text
 msgctxt "UIText_Description,PausedControls_SwapMasksBackward"
 msgid "Swap Masks Backward:"
-msgstr "Usar Máscara Anterior:"
+msgstr "Pôr  Máscara Anterior:"
 
 #. Key:	PausedControls_SwapMasksForward
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_19.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_19.Text
 msgctxt "UIText_Description,PausedControls_SwapMasksForward"
 msgid "Swap Masks Forward:"
-msgstr "Usar Próxima Máscara:"
+msgstr "Pôr Máscara Seguinte:"
 
 #. Key:	PausedControls_SwitchViews
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_12.Text
@@ -25950,7 +25958,7 @@ msgstr "Gastar: {Amount}"
 #: [Script Bytecode]
 msgctxt "UIText_Description,TradeMenu_ItemBuyValue"
 msgid "(Seller sells this at a <Key>{Low/High}</> price than normal)"
-msgstr "(Comerciante vende isto a um valor <Key>{mais baixo/mais alto}</> que o normal)"
+msgstr "(Comerciante vende isto a um valor <Key>{Low/High}</> que o normal)"
 
 #. Key:	TradeMenu_ItemSellValue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
@@ -25958,8 +25966,7 @@ msgstr "(Comerciante vende isto a um valor <Key>{mais baixo/mais alto}</> que o 
 #: [Script Bytecode]
 msgctxt "UIText_Description,TradeMenu_ItemSellValue"
 msgid "(Seller will buy this at a <Key>{Low/High}</> price than normal)"
-msgstr ""
-"(Comerciante comprará isto por um valor <Key>{mais baixo/mais alto}</> que o normal)"
+msgstr "(Comerciante compra isto por um valor <Key>{Low/High}</> que o normal)"
 
 #. Key:	TradeMenu_SellAmount
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.Default__TradeMenu_C.SellFor
@@ -26401,7 +26408,7 @@ msgstr ""
 "\r\n"
 "FXAA - Bordas um pouco suavizadas\r\n"
 "\r\n"
-"TemporalAA - Suaviza as bordas ao máximo, mas borra os pixels um pouco"
+"Temporal AA - Suaviza as bordas ao máximo, mas borra os pixels um pouco"
 
 #. Key:	PausedGraphicsSettings_ColorBlindnessSeverity_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BlindSeveritySlider.ToolTipText
