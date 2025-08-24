@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-22 05:28\n"
-"PO-Revision-Date: 2025-08-22 19:14+0300\n"
+"PO-Revision-Date: 2025-08-23 20:42+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -286,8 +286,8 @@ msgid ""
 "them all."
 msgstr ""
 "Скорпионоподобные Рахи, управляемые Макутой. Белую их разновидность можно найти в Ко-"
-"Вахи. Хотя они появляются не очень часто, они появляются в стаях. Если вы увидели их "
-"стаю, будьте готовы разобраться с каждым из них."
+"Вахи. Хотя они появляются не очень часто, они, как правило, появляются в достаточно "
+"больших стаях. Если вы увидели их стаю, будьте готовы разобраться с каждым из них."
 
 #. Key:	CodexPage_IceTarakava_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_IceTarakava.Default__LocationEntry_IceTarakava_C.Location Description
@@ -16309,10 +16309,10 @@ msgid ""
 "visit this location often. It's kinda confusing, I don't really know how it works. But I "
 "work here anyway."
 msgstr ""
-"Мы официальный центр доставки грузов для селения, поскольку мы – единственный порт Ону-"
+"Мы – официальный центр доставки грузов для селения, поскольку мы – единственный порт Ону-"
 "Вахи, но не все грузы из Ону-Коро проходят через нас. Более того, наш начальник даже не "
-"посещает так часто. Это немножко странно, я не до конца понимаю как это работает. Но я "
-"всё равно работаю здесь."
+"посещает это место так часто. Это немножко странно, я не до конца понимаю как это "
+"работает. Но я всё равно работаю здесь."
 
 #. Key:	DL_ShipperQuest1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperQuest1.Default__DL_ShipperQuest1_C.DialogueText
