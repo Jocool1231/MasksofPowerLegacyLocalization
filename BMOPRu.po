@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-22 05:28\n"
-"PO-Revision-Date: 2025-08-23 20:42+0300\n"
+"PO-Revision-Date: 2025-08-24 13:40+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -22330,7 +22330,7 @@ msgstr "Ты знаешь почему река высохла?"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,TakeLook"
 msgid "I'll take a look."
-msgstr "Я посмотрю."
+msgstr "Я бы {G}|gender(взглянул, взглянула)."
 
 #. Key:	ThankYou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -22414,7 +22414,7 @@ msgstr "Кто ты?"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,WillSee"
 msgid "I'll see what I can do."
-msgstr "Я посмотрю что можно сделать."
+msgstr "Я посмотрю, что можно сделать."
 
 #. Key:	Gen_CableTransport
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -24335,7 +24335,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Tutorial/Tut_Crouch.Tut_Crouch.Text
 msgctxt "Tutorial_Text,Tut_Crouch"
 msgid "Press <Key>{Action1}</> to Crouch"
-msgstr "Нажмите <Key>{Action1}</>для того, чтобы Присесть"
+msgstr "Нажмите <Key>{Action1}</> для того, чтобы Присесть"
 
 #. Key:	Tut_Crush
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Corrupted/Tut_Crush.Tut_Crush.Text
