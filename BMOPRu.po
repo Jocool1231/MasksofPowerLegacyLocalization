@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-24 10:40\n"
-"PO-Revision-Date: 2025-08-24 15:02+0300\n"
+"PO-Revision-Date: 2025-08-25 16:17+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -17764,7 +17764,7 @@ msgid ""
 "send him my way if you come across him."
 msgstr ""
 "На самом деле, мне нужно поговорить с Таху насчёт кое-каких важных дел... Пожалуйста, "
-"отправьте его ко мне, если вам удастся его встретить."
+"отправь его ко мне, если вдруг удастся его встретить."
 
 #. Key:	DL_VakamaPostRescueSafe
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Turaga/DL_VakamaPostRescueSafe.Default__DL_VakamaPostRescueSafe_C.DialogueText
