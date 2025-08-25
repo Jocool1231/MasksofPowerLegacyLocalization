@@ -22,8 +22,8 @@ msgid "{PickupLine} x{Count}"
 msgstr "{PickupLine} x{Count}"
 
 #. Key:	Loading
-#. SourceLocation:	Config/DefaultGame.ini:111
-#: Config/DefaultGame.ini:111
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "AsyncLoadingScreen,Loading"
 msgid "LOADING"
 msgstr "WCZYTYWANIE"
@@ -17539,14 +17539,14 @@ msgstr "Udaj się do Onu-Koro i wejdź w interakcję z Suvą."
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Onukoro.Default__Quest_Onukoro_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Onukoro_Objective_1"
 msgid "Travel to Onu-Koro and find Onepu"
-msgstr "Udaj się do Onu-Koro i znajdź Onepu"
+msgstr "Udaj się do Onu-Koro i znajdź Onepu."
 
 #. Key:	Quest_OnuMakokiStone_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_OnuMakokiStone.Default__Quest_OnuMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_OnuMakokiStone.Default__Quest_OnuMakokiStone_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_OnuMakokiStone_Objective_1"
 msgid "Speak to Whenua in Onu-koro"
-msgstr "Porozmawiaj z Whenuą w Onu-Koro"
+msgstr "Porozmawiaj z Whenuą w Onu-Koro."
 
 #. Key:	Quest_Pohatu_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Pohatu.Default__Quest_Pohatu_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -18940,6 +18940,12 @@ msgstr "Napisy"
 msgctxt "ST_Localization,UICrush"
 msgid "Crush"
 msgstr "Zgnieć"
+#. Key:	UIDisable
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIDisable"
+msgid "Disable"
+msgstr "Wyłącz"
 
 #. Key:	UIDisabled
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -20941,7 +20947,7 @@ msgstr "Brak Odblokowanych Przedmiotów Kosmetycznych"
 #: /Game/BluePrints/UI/CosmeticsMenu.CosmeticsMenu_C:WidgetTree.TextBlock_0.Text
 msgctxt "UIText_Description,CosmeticsMenu_UnlockedCosmetics"
 msgid "Unlocked Cosmetics"
-msgstr "Odblokowane Przedmioty Kosmetyczne"
+msgstr "Odblokowane Przedmioty Personalizacyjne"
 
 #. Key:	GaGateCtrlsWidget_PickupRocks
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemesGakoroGate_Widget.ControlSchemesGakoroGate_Widget_C:WidgetTree.TextBlock_574.Text
@@ -21214,14 +21220,14 @@ msgstr "Ruch Do Tyłu:"
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_15.Text
 msgctxt "UIText_Description,PausedControls_ConsumableSlot1"
 msgid "Consumable Slot 1:"
-msgstr "Miejsca Na Przedmiot Do Zużycia 1:"
+msgstr "Slot przedmiotu 1:"
 
 #. Key:	PausedControls_ConsumableSlot2
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_40.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_40.Text
 msgctxt "UIText_Description,PausedControls_ConsumableSlot2"
 msgid "Consumable Slot 2:"
-msgstr "Miejsca Na Przedmiot Do Zużycia 2:"
+msgstr "Slot przedmiotu 2:"
 
 #. Key:	PausedControls_ControllerInputIcons
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_5.Text
