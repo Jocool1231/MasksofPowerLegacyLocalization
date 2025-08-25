@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-24 10:40\n"
-"PO-Revision-Date: 2025-08-25 16:17+0300\n"
+"PO-Revision-Date: 2025-08-25 16:25+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5935,7 +5935,7 @@ msgstr "Ко-Коро? Ты возвращаешься?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Numai3.Default__DL_Numai3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Numai3_PlayerResponse_1"
 msgid "I see, Good luck."
-msgstr "Ясно, удачи."
+msgstr "Ясно, желаю удачи."
 
 #. Key:	DL_NumaiAbandoned1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_NumaiAbandoned1.Default__DL_NumaiAbandoned1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
