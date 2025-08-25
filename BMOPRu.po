@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
-"POT-Creation-Date: 2025-08-22 05:28\n"
-"PO-Revision-Date: 2025-08-23 20:42+0300\n"
+"POT-Creation-Date: 2025-08-24 10:40\n"
+"PO-Revision-Date: 2025-08-24 15:02+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -24,8 +24,8 @@ msgid "{PickupLine} x{Count}"
 msgstr "{PickupLine} x{Count}"
 
 #. Key:	Loading
-#. SourceLocation:	Config/DefaultGame.ini:111
-#: Config/DefaultGame.ini:111
+#. SourceLocation:	Config/DefaultGame.ini:112
+#: Config/DefaultGame.ini:112
 msgctxt "AsyncLoadingScreen,Loading"
 msgid "LOADING"
 msgstr "ЗАГРУЗКА"
@@ -18713,7 +18713,7 @@ msgid ""
 "$M."
 msgstr ""
 "Небольшое устройство, созданное Метону по чертежам Нупару, которое позволяет найти "
-"ближайшую маску $M."
+"ближайшую канохи $M."
 
 #. Key:	Item_MetallicProtodermisIngots_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Description
@@ -19027,7 +19027,7 @@ msgid ""
 "These seeds dropped from the rare Vuata Maca tree are said to help you recover from "
 "wounds."
 msgstr ""
-"Эти семена, упавшие с редкого дерева Вуата Мака могут, как поговаривают, помочь вам "
+"Эти семена, упавшие с редкого дерева Вуата Мака, могут, как поговаривают, помочь вам "
 "восстановиться от ран."
 
 #. Key:	Item_WaheCanister_Desc
@@ -19283,8 +19283,8 @@ msgid "Kolhii Ball"
 msgstr "Мяч для Колхи"
 
 #. Key:	Item_KoMakoki
-#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_Ko_Makoki.Item_Ko_Makoki.Name
-#: /Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_Ko_Makoki.Item_Ko_Makoki.Name
+#. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/KoMakokistone.KoMakokistone.Name
+#: /Game/BluePrints/Classes/Inventory/Items/KoMakokistone.KoMakokistone.Name
 msgctxt "InvItem_Name,Item_KoMakoki"
 msgid "Ko Makoki Stone"
 msgstr "Камень Ко-Макоки"
@@ -20270,15 +20270,15 @@ msgstr ""
 "Текст кажется неразборчивым. Это может быть как старый диалект, так и почерк Килмы..."
 
 #. Key:	Loading_Text
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "Loading,Loading_Text"
 msgid "Loading..."
 msgstr "Загрузка..."
 
 #. Key:	Tip_AkakuZoom
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_AkakuZoom"
 msgid ""
 "You can zoom while wearing the Akaku by pressing the assigned key (Default is Left ALT)."
@@ -20287,15 +20287,15 @@ msgstr ""
 "– Левый ALT)."
 
 #. Key:	Tip_CodexHints
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_CodexHints"
 msgid "The Codex contains not only lore, but also Gameplay hints."
 msgstr "Кодекс содержит не только информацию по лору, но и Игровые подсказки."
 
 #. Key:	Tip_Cosmetics
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_Cosmetics"
 msgid ""
 "Cosmetics found in the world are applied automatically, you can disable them from "
@@ -20305,15 +20305,15 @@ msgstr ""
 "лавок с аксессуарами."
 
 #. Key:	Tip_MeditationStoneAutosave
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_MeditationStoneAutosave"
 msgid "The game Autosaves when interacting with a meditation stone."
 msgstr "Игра сохраняется автоматически при взаимодействии с Камнем Медитации."
 
 #. Key:	Tip_MeditationStonesHeal
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_MeditationStonesHeal"
 msgid ""
 "Meditation Stones Heal all Toa on interaction, there's no need to actually meditate for "
@@ -20323,43 +20323,43 @@ msgstr ""
 "не нужно специально медитировать у него."
 
 #. Key:	Tip_MeditationStonesInteract
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_MeditationStonesInteract"
 msgid "Press the interaction key while in meditation stone menu to quickly exit it."
 msgstr "Нажмите кнопку взаимодействия в меню камня медитации, чтобы быстро выйти из него."
 
 #. Key:	Tip_ObjectivesAkaku
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_ObjectivesAkaku"
 msgid "Quest objectives can be seen in the world when using the Akaku."
 msgstr "Квестовые задачи можно увидеть в мире при использовании Акаку."
 
 #. Key:	Tip_Save
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_Save"
 msgid "Remember to manually save OFTEN!"
 msgstr "Не забывайте ЧАСТО сохраняться вручную!"
 
 #. Key:	Tip_SaveSlots
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_SaveSlots"
 msgid "It's a good idea to Save in multiple slots."
 msgstr "Неплохой идеей будет сохраняться в нескольких слотах."
 
 #. Key:	Tip_UnderwaterElementalAttacks
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_UnderwaterElementalAttacks"
 msgid "Elemental Attacks can be triggered in water."
 msgstr "Атаки Стихии можно активировать в воде."
 
 #. Key:	Tip_WaterDash
-#. SourceLocation:	Config/DefaultGame.ini:112
-#: Config/DefaultGame.ini:112
+#. SourceLocation:	Config/DefaultGame.ini:113
+#: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_WaterDash"
 msgid "Tap your sprint button to dash underwater"
 msgstr "Нажмите кнопку бега, чтобы совершить рывок под водой"
@@ -22330,7 +22330,7 @@ msgstr "Ты знаешь почему река высохла?"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,TakeLook"
 msgid "I'll take a look."
-msgstr "Я посмотрю."
+msgstr "Я бы {G}|gender(взглянул, взглянула)."
 
 #. Key:	ThankYou
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -22414,7 +22414,7 @@ msgstr "Кто ты?"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,WillSee"
 msgid "I'll see what I can do."
-msgstr "Я посмотрю что можно сделать."
+msgstr "Я посмотрю, что можно сделать."
 
 #. Key:	Gen_CableTransport
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -22783,6 +22783,13 @@ msgstr "Титры"
 msgctxt "ST_Localization,UICrush"
 msgid "Crush"
 msgstr "Сломать"
+
+#. Key:	UIDisable
+#. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+#: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
+msgctxt "ST_Localization,UIDisable"
+msgid "Disable"
+msgstr "Отключить"
 
 #. Key:	UIDisabled
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -24335,7 +24342,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Tutorial/Tut_Crouch.Tut_Crouch.Text
 msgctxt "Tutorial_Text,Tut_Crouch"
 msgid "Press <Key>{Action1}</> to Crouch"
-msgstr "Нажмите <Key>{Action1}</>для того, чтобы Присесть"
+msgstr "Нажмите <Key>{Action1}</> для того, чтобы Присесть"
 
 #. Key:	Tut_Crush
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Corrupted/Tut_Crush.Tut_Crush.Text
@@ -25082,7 +25089,7 @@ msgstr ""
 #: /Game/BluePrints/UI/Widget_GiveMask.Widget_GiveMask_C:GetText_0 [Script Bytecode]
 msgctxt "UIText_Description,GiveMask_Description"
 msgid "Pick A Toa to recieve the {Mask}:"
-msgstr "Выберите Тоа, который получит {Mask}:"
+msgstr "Выберите Тоа, который получит Канохи {Mask}:"
 
 #. Key:	KeybindingPrompt
 #. SourceLocation:	/Game/BluePrints/UI/BMOPBindCapturePrompt.BMOPBindCapturePrompt_C:WidgetTree.TextBlock_2.Text
