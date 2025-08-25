@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-24 10:40\n"
-"PO-Revision-Date: 2025-08-25 19:45+0300\n"
+"PO-Revision-Date: 2025-08-25 20:09+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -24045,7 +24045,7 @@ msgstr "Селтра"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_ShadowToa"
 msgid "Shadow {ToaName}"
-msgstr "{G}|gender(Тёмный, Тёмная) {ToaName}"
+msgstr "Тоа теней {ToaName}"
 
 #. Key:	Names_SingingMiner
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
