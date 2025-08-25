@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-24 10:40\n"
-"PO-Revision-Date: 2025-08-25 20:29+0300\n"
+"PO-Revision-Date: 2025-08-25 23:03+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25692,7 +25692,7 @@ msgstr "Истинное Разрешение:"
 #: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_1.Text
 msgctxt "UIText_Description,PausedDisplaySettings_WindowMode"
 msgid "Window mode:"
-msgstr "Оконный режим:"
+msgstr "Режим окна:"
 
 #. Key:	PausedGraphicsSettings_AntiAliasingQuality
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_2.Text
