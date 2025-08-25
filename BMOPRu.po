@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-24 10:40\n"
-"PO-Revision-Date: 2025-08-25 16:25+0300\n"
+"PO-Revision-Date: 2025-08-25 17:50+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25805,7 +25805,7 @@ msgstr "Гель Вахе Мата:"
 #: /Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.Text
 msgctxt "UIText_Description,SaveGame_NameInput"
 msgid "Player Save"
-msgstr "Сохранение Игрока"
+msgstr "Ручн. Сохранение"
 
 #. Key:	SaveGame_NameInputHint
 #. SourceLocation:	/Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.HintText
