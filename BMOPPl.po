@@ -14033,7 +14033,7 @@ msgstr "Tak, mamy bardzo podobne imiona, ale szczerze, nie ma tu nic ciekawego d
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Tahu1.Default__DL_Tahu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Tahu1"
 msgid "We are all gathered. We are ready and willing to face this threat at long last. Makuta falls this day!"
-msgstr "Zebraliśmy się wszyscy. Jesteśmy gotowi i chętni, by w końcu stawić czoła temu zagrożeniu. Dziś Makuta upadnie!”"
+msgstr "Zebraliśmy się wszyscy. Jesteśmy gotowi i chętni, by w końcu stawić czoła temu zagrożeniu. Dziś Makuta upadnie!"
 
 #. Key:	DL_Tahu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Tahu2.Default__DL_Tahu2_C.DialogueText
@@ -14712,7 +14712,7 @@ msgstr "Myślę, że to trwało wystarczająco długo."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutCorruptedMakuta2.Default__DL_TutCorruptedMakuta2_C.DialogueText
 msgctxt "Dialogue_Text,DL_TutCorruptedMakuta2"
 msgid "Your time has come to an end, Toa. Surely you can see that by now."
-msgstr "Wasz czas się skończył, Toa. Teraz możesz to jasno zobaczyć."
+msgstr "Wasz czas się skończył, Toa. Teraz możecie to jasno zobaczyć."
 
 #. Key:	DL_TutCorruptedMakuta3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutCorruptedMakuta3.Default__DL_TutCorruptedMakuta3_C.DialogueText
@@ -14810,7 +14810,7 @@ msgstr "Nie będzie świętowania, Tahu. Nie przynosimy dobrych wieści."
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Vakama2.Default__DL_Vakama2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Vakama2"
 msgid "No. For this time, you shall be armed with the truth."
-msgstr "Nie. Ty razem, będziecie uzbrojeni w prawdę."
+msgstr "Nie. Tym razem, będziecie uzbrojeni w prawdę."
 
 #. Key:	DL_Vakama3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Vakama3.Default__DL_Vakama3_C.DialogueText
@@ -15181,7 +15181,7 @@ msgstr "Przychodzimy z prawdą."
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Whenua2.Default__DL_Whenua2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Whenua2"
 msgid "We have spoken, and decided that you must be armed with this knowledge if you are to break the Makuta’s cycle."
-msgstr "Porozmawialiśmy  i zadecydowaliśmy, że musicie być uzbrojeni w tę wiedzę, aby przerwać cykl Makuty."
+msgstr "Porozmawialiśmy i zadecydowaliśmy, że musicie być uzbrojeni w tę wiedzę, aby przerwać cykl Makuty."
 
 #. Key:	DL_WhenuaBack
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaBack.Default__DL_WhenuaBack_C.DialogueText
@@ -16028,7 +16028,7 @@ msgstr "Ga Kamień Makoki"
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GlowCrystal.Item_GlowCrystal.Name
 msgctxt "InvItem_Name,Item_GlowCrystal"
 msgid "Glow Crystal"
-msgstr "Świecący Kryształ"
+msgstr "Kamień Świetlny"
 
 #. Key:	Item_GoldBars
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldBars.Item_GoldBars.Name
@@ -18134,7 +18134,7 @@ msgstr "Kalasz imię Mata Nui, przybierając formę Matoranina!"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaIntro_Line7"
 msgid "You know nothing of my brother’s name, nor his will. You do not even know the truth..."
-msgstr "Nie wiecie nic o imieniu mojego bracie, ani jego woli. Nie znacie nawet całej prawdy..."
+msgstr "Nie wiecie nic o imieniu mojego brata, ani jego woli. Nie znacie nawet całej prawdy..."
 
 #. Key:	MakutaIntro_Line8
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
