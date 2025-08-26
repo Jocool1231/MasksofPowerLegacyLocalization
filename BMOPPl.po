@@ -20205,7 +20205,7 @@ msgstr "Seltra"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_ShadowToa"
 msgid "Shadow {ToaName}"
-msgstr "Cienisty {ToaName}"
+msgstr "{G}|gender(Cienisty, Cienista) {ToaName}"
 
 #. Key:	Names_SingingMiner
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
