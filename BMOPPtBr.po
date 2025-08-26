@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2025-08-24 10:40\n"
-"PO-Revision-Date: 2025-08-24 08:41-0300\n"
+"POT-Creation-Date: 2025-08-26 01:01\n"
+"PO-Revision-Date: 2025-08-26 03:37-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -17385,7 +17385,7 @@ msgid ""
 "Well it's still on the drawing board, per se... It's going to be a statue of Onua riding "
 "a giant Ussal... fighting a Kane-Ra. Or... maybe it should be a Muaka?"
 msgstr ""
-"Então, ainda está no planejamento… Vai ser uma estátua do Onua montando num Ussal "
+"Então, ainda está no planejamento… Vai ser uma estátua do Onua montado num Ussal "
 "gigante… lutando contra um Kane-Ra. Ou… talvez deva ser um Muaka?"
 
 #. Key:	DL_Thuei3Onua
@@ -17396,7 +17396,7 @@ msgid ""
 "Well it's still on the drawing board, per se... It's going to be a statue of you riding "
 "a giant Ussal... fighting a Kane-Ra. Or... maybe it should be a Muaka?"
 msgstr ""
-"Então, ainda está no planejamento… Vai ser uma estátua de você montando num Ussal "
+"Então, ainda está no planejamento… Vai ser uma estátua de você montado num Ussal "
 "gigante… lutando contra um Kane-Ra. Ou… talvez deva ser um Muaka?"
 
 #. Key:	DL_ThueiFinish
@@ -17407,8 +17407,8 @@ msgid ""
 "Soon. Definitely soon. I just need to change a few things and then it will be perfect. "
 "Oh... wouldn't it be cool if Onua was riding the Muaka instead? Maybe you're there too..."
 msgstr ""
-"Logo, com certeza logo. Só preciso mudar umas coisas, e então ficará perfeita. Oh… não "
-"seria legal se o Onua estivesse na verdade montando no Muaka? Talvez com você também…"
+"Logo logo, com certeza. Só preciso mudar umas coisas, e então ficará perfeita. Oh… não "
+"seria legal se o Onua estivesse na verdade montado no Muaka? Talvez com você também…"
 
 #. Key:	DL_ThueiFinishOnua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_ThueiFinishOnua.Default__DL_ThueiFinishOnua_C.DialogueText
@@ -17418,8 +17418,8 @@ msgid ""
 "Soon. Definitely soon. I just need to change a few things and then it will be perfect. "
 "Oh... wouldn't it be cool if you were riding the Muaka instead? Maybe Lewa's there too..."
 msgstr ""
-"Logo, com certeza logo. Só preciso mudar umas coisas, e então ficará perfeita. Oh… não "
-"seria legal se você estivesse na verdade montando no Muaka? Talvez com o Lewa também…"
+"Logo logo, com certeza. Só preciso mudar umas coisas, e então ficará perfeita. Oh… não "
+"seria legal se você estivesse na verdade montado no Muaka? Talvez com o Lewa também…"
 
 #. Key:	DL_ThueiFun
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_ThueiFun.Default__DL_ThueiFun_C.DialogueText
@@ -17470,7 +17470,7 @@ msgstr "É pra já!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutCorruptedMakuta1.Default__DL_TutCorruptedMakuta1_C.DialogueText
 msgctxt "Dialogue_Text,DL_TutCorruptedMakuta1"
 msgid "I believe that this has gone on long enough."
-msgstr "Acredito que isso já durou tempo o bastante."
+msgstr "Acredito que isso já se prolongou o bastante."
 
 #. Key:	DL_TutCorruptedMakuta2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutCorruptedMakuta2.Default__DL_TutCorruptedMakuta2_C.DialogueText
@@ -17560,7 +17560,7 @@ msgid ""
 "Isn't it great! Ahh I truely admire Akamar for this feat, he nearly redesigned the "
 "entire village!"
 msgstr ""
-"Não é incrível? Ahh, eu admiro muito Akamar por essa conquista, ele quase redesenhou a "
+"Não é incrível? Ahh, eu admiro muito o Akamar por essa conquista, ele quase redesenhou a "
 "aldeia inteira!"
 
 #. Key:	DL_Ukkar4
@@ -17571,7 +17571,7 @@ msgid ""
 "Oh yes, If there's one thing I've learned about Akamar is that he gets things done! I am "
 "very excited to see what his next project will be..."
 msgstr ""
-"Oh sim! Se tem algo que aprendi sobre o Akamar, é que ele bota a mão na massa! Estou "
+"Oh sim! Se tem algo que aprendi sobre o Akamar, é que ele bota a mão na massa! Tô "
 "ansioso pra saber qual será o próximo projeto dele…"
 
 #. Key:	DL_UssalWasher
@@ -17603,8 +17603,8 @@ msgid ""
 "Makuta has stolen a mask of power... one that allows him to bend time itself to his "
 "will. One that he has used to reset your memories time and time again."
 msgstr ""
-"Makuta roubou uma máscara de poder… Uma que o permite dobrar o próprio tempo à sua "
-"vontade. Uma que ele usou para reiniciar as memórias de vocês várias e várias vezes."
+"Makuta roubou uma máscara de poder… Uma que o permite dobrar o tempo à sua vontade. Uma "
+"que ele usou para reiniciar as memórias de vocês várias e várias vezes."
 
 #. Key:	DL_Vakama4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Vakama4.Default__DL_Vakama4_C.DialogueText
@@ -18046,7 +18046,7 @@ msgid ""
 "matoran!"
 msgstr ""
 "O que você tá falando, \"trabalho demais\"? Faço tudo isso duas vezes mais rápido que "
-"qualquer Po- ou Onu-Matoran!"
+"qualquer Po ou Onu-Matoran!"
 
 #. Key:	DL_WhagnaMeeting_TaphalLeave
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/Meeting/DL_WhagnaMeeting_TaphalLeave.Default__DL_WhagnaMeeting_TaphalLeave_C.DialogueText
@@ -23207,6 +23207,13 @@ msgctxt "ST_Names,Names_GaKini"
 msgid "Ga-Kini"
 msgstr "Ga-Kini"
 
+#. Key:	Names_GaKoroDoor
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_GaKoroDoor"
+msgid "Ga-Koro Door"
+msgstr "Portão de Ga-Koro"
+
 #. Key:	Names_Gali
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -24998,7 +25005,7 @@ msgstr "Chapéu Bem Legal™"
 #: /Game/BluePrints/UI/Widget_OverwriteSaveModal.Widget_OverwriteSaveModal_C:WidgetTree.RichTextBlock_55.Text
 msgctxt "UIText_Description,4D5674834AEA963B60A20793D52469E1"
 msgid "There is already a savefile with that name, do you want to Overwrite?"
-msgstr "Já existe um arquivo salvo com este nome, quer substituí-lo?"
+msgstr "Já existe um jogo salvo com este nome, quer substituí-lo?"
 
 #. Key:	8A84782A4AE07BE1F77B838E7FFF9D8D
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.IconOpacityBaseText
