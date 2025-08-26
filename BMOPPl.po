@@ -19388,6 +19388,13 @@ msgctxt "ST_Names,Names_GaKini"
 msgid "Ga-Kini"
 msgstr "Ga-Kini"
 
+#. Key:	Names_GaKoroDoor
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_GaKoroDoor"
+msgid "Ga-Koro Door"
+msgstr "Bramą Ga-Koro"
+
 #. Key:	Names_Gali
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
