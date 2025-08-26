@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
-"POT-Creation-Date: 2025-08-24 10:40\n"
-"PO-Revision-Date: 2025-08-24 10:40\n"
+"POT-Creation-Date: 2025-08-26 01:01\n"
+"PO-Revision-Date: 2025-08-26 01:01\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -19388,6 +19388,13 @@ msgstr "Ga-Wahi"
 msgctxt "ST_Names,Names_GaKini"
 msgid "Ga-Kini"
 msgstr "Ga-Kini"
+
+#. Key:	Names_GaKoroDoor
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_GaKoroDoor"
+msgid "Ga-Koro Door"
+msgstr "Ga-Koro Door"
 
 #. Key:	Names_Gali
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
