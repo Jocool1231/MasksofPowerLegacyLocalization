@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-24 10:40\n"
-"PO-Revision-Date: 2025-08-24 15:02+0300\n"
+"PO-Revision-Date: 2025-08-25 23:03+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5935,7 +5935,7 @@ msgstr "Ко-Коро? Ты возвращаешься?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Numai3.Default__DL_Numai3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Numai3_PlayerResponse_1"
 msgid "I see, Good luck."
-msgstr "Ясно, удачи."
+msgstr "Ясно, желаю удачи."
 
 #. Key:	DL_NumaiAbandoned1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_NumaiAbandoned1.Default__DL_NumaiAbandoned1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -10437,8 +10437,8 @@ msgid ""
 "sight, that lake is where our river flows from, be careful Toa."
 msgstr ""
 "Тоа $T, подождите! Я слышал легенду о пике, которую вам следует узнать. Говорят, что "
-"Озеро Холода – дом некоего духа, который сразу же нападает на вас. Это озеро – источник "
-"воды, из которого течёт река. Будьте осторожны, Тоа."
+"Озеро Холода – дом некоего злого духа, который сразу же нападёт на вас. Это озеро – "
+"источник воды, из которого течёт река. Будьте осторожны, Тоа."
 
 #. Key:	DL_DamQuestStillHere
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestStillHere.Default__DL_DamQuestStillHere_C.DialogueText
@@ -10519,7 +10519,7 @@ msgctxt "Dialogue_Text,DL_Gali2"
 msgid ""
 "Have you not sensed that there is something off about all this? Something is not as it "
 "should be."
-msgstr "Ты не почувствовал что-то странное? Что-то здесь не так, как оно должно быть."
+msgstr "Ты не почувствовал чего-то странного? Что-то здесь не так, как оно должно быть."
 
 #. Key:	DL_GeneralKokoranbyprotopool
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool.Default__DL_GeneralKokoranbyprotopool_C.DialogueText
@@ -17764,7 +17764,7 @@ msgid ""
 "send him my way if you come across him."
 msgstr ""
 "На самом деле, мне нужно поговорить с Таху насчёт кое-каких важных дел... Пожалуйста, "
-"отправьте его ко мне, если вам удастся его встретить."
+"отправь его ко мне, если вдруг удастся его встретить."
 
 #. Key:	DL_VakamaPostRescueSafe
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Turaga/DL_VakamaPostRescueSafe.Default__DL_VakamaPostRescueSafe_C.DialogueText
@@ -21836,7 +21836,7 @@ msgid ""
 "you need to suffer before they revealed their secrets?"
 msgstr ""
 "Похоже, что глупые Турага устали от своего же вранья. Сколько поражений вам пришлось "
-"претерпеть до того, как они раскрыли свои секреты?"
+"претерпеть до того, как они раскрыли свои тайны?"
 
 #. Key:	MakutaIntro_Line13
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -22379,7 +22379,7 @@ msgstr "Что ты делаешь?"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Whatdoyoumean"
 msgid "What do you mean?"
-msgstr "Что ты имеешь в виду?"
+msgstr "В каком смысле?"
 
 #. Key:	Whatisit
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -24045,7 +24045,7 @@ msgstr "Селтра"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_ShadowToa"
 msgid "Shadow {ToaName}"
-msgstr "{G}|gender(Тёмный, Тёмная) {ToaName}"
+msgstr "Тоа теней {ToaName}"
 
 #. Key:	Names_SingingMiner
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -25692,7 +25692,7 @@ msgstr "Истинное Разрешение:"
 #: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_1.Text
 msgctxt "UIText_Description,PausedDisplaySettings_WindowMode"
 msgid "Window mode:"
-msgstr "Оконный режим:"
+msgstr "Режим окна:"
 
 #. Key:	PausedGraphicsSettings_AntiAliasingQuality
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_2.Text
@@ -25805,7 +25805,7 @@ msgstr "Гель Вахе Мата:"
 #: /Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.Text
 msgctxt "UIText_Description,SaveGame_NameInput"
 msgid "Player Save"
-msgstr "Сохранение Игрока"
+msgstr "Ручн. Сохранение"
 
 #. Key:	SaveGame_NameInputHint
 #. SourceLocation:	/Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.HintText
