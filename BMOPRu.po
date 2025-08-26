@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-26 09:46+0300\n"
+"PO-Revision-Date: 2025-08-26 10:50+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12475,7 +12475,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Kufa4.Default__DL_Kufa4_C.DialogueText
 msgctxt "Dialogue_Text,DL_Kufa4"
 msgid "It feels like it did before... Big changes are on the horizion."
-msgstr "Ощущение примерно те же... Впереди – большие перемены."
+msgstr "Ощущения примерно те же... Впереди – большие перемены."
 
 #. Key:	DL_KylmaInQuest
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaInQuest.Default__DL_KylmaInQuest_C.DialogueText
