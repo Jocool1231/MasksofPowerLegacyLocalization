@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-26 09:41+0300\n"
+"PO-Revision-Date: 2025-08-26 09:46+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -23240,7 +23240,7 @@ msgstr "Га-Кини"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_GaKoroDoor"
 msgid "Ga-Koro Door"
-msgstr "Дверь Га-Коро"
+msgstr "Врата Га-Коро"
 
 #. Key:	Names_Gali
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
