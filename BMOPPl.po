@@ -16708,6 +16708,7 @@ msgstr "Zaleca się dokonywanie zapisów na osobnych miejscach."
 msgctxt "LoadingTip_Text,Tip_UnderwaterElementalAttacks"
 msgid "Elemental Attacks can be triggered in water."
 msgstr "Ataki Żywiołu można wykonywać w wodzie."
+
 #. Key:	Tip_WaterDash
 #. SourceLocation:	Config/DefaultGame.ini:112
 #: Config/DefaultGame.ini:112
@@ -18589,21 +18590,21 @@ msgstr "Kolejka linowa"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Climb"
 msgid "Climb {Facing}"
-msgstr "Wespnij się po {Facing}"
+msgstr "{Facing} - wspinaj się"
 
 #. Key:	Gen_ClimbDown
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_ClimbDown"
 msgid "Climb Down {Facing}"
-msgstr "Zejdź po {Facing}"
+msgstr "{Facing} - zejdź"
 
 #. Key:	Gen_ClimbUp
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_ClimbUp"
 msgid "Climb Up {Facing}"
-msgstr "Wespnij się po {Facing}"
+msgstr "{Facing} - wespnij się"
 
 #. Key:	Gen_Conv_Conversation
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18680,7 +18681,7 @@ msgstr "Brama"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Interact"
 msgid "Interact with {Facing}"
-msgstr "Wejdź w interakcję z {Facing}"
+msgstr "{Facing} - interakcja"
 
 #. Key:	Gen_Ladder
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18729,7 +18730,7 @@ msgstr "Druga Dźwignia"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Listen"
 msgid "Listen to {Facing}"
-msgstr "Słuchaj {Facing}"
+msgstr "{Facing} - słuchaj"
 
 #. Key:	Gen_LockedDoor
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18764,14 +18765,14 @@ msgstr "Zdobądź Kamień Makoki."
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Open"
 msgid "Open {Facing}"
-msgstr "Otwórz {Facing}"
+msgstr "{Facing} - otwórz"
 
 #. Key:	Gen_Pickup
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Pickup"
 msgid "Pick up {Facing}"
-msgstr "Podnieś {Facing}"
+msgstr "{Facing} - podnieś"
 
 #. Key:	Gen_RestoryMyMemory
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -18799,14 +18800,14 @@ msgstr "Lina"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_Speak"
 msgid "Speak with {Facing}"
-msgstr "Porozmawiaj z {Facing}"
+msgstr "{Facing} - porozmawiaj"
 
 #. Key:	Gen_SpeakTo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_SpeakTo"
 msgid "Speak to {NPC}"
-msgstr "Porozmawiaj z {NPC}"
+msgstr "{NPC} - porozmawiaj"
 
 #. Key:	Gen_SuvaInteract
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
@@ -19387,6 +19388,13 @@ msgstr "Ga-Wahi"
 msgctxt "ST_Names,Names_GaKini"
 msgid "Ga-Kini"
 msgstr "Ga-Kini"
+
+#. Key:	Names_GaKoroDoor
+#. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+#: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
+msgctxt "ST_Names,Names_GaKoroDoor"
+msgid "Ga-Koro Door"
+msgstr "Brama Ga-Koro"
 
 #. Key:	Names_Gali
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -20198,7 +20206,7 @@ msgstr "Seltra"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_ShadowToa"
 msgid "Shadow {ToaName}"
-msgstr "Cienisty {ToaName}"
+msgstr "{G}|gender(Cienisty, Cienista) {ToaName}"
 
 #. Key:	Names_SingingMiner
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -21444,7 +21452,7 @@ msgstr "Język:"
 #: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_7.Text
 msgctxt "UIText_Description,PausedDisplaySettings_LanguageWarning"
 msgid "(Most languages are incomplete and will still contain English elements)"
-msgstr "(Większość języków wciąż jest niekompletna i będą zawierać teksty w języku angielskim)"
+msgstr "(Większość języków wciąż jest niekompletna i będzie zawierać teksty w języku angielskim)"
 
 #. Key:	PausedDisplaySettings_Resolution
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_0.Text
@@ -21577,7 +21585,7 @@ msgstr "Synchronizacja pionowa:          "
 #: /Game/BluePrints/Classes/Inventory/UI_FilteredUse.UI_FilteredUse_C:ExecuteUbergraph_UI_FilteredUse [Script Bytecode]
 msgctxt "UIText_Description,Powermask_Cost"
 msgid "Powering this mask requires: <Key>{Cost}</>  Wahae Mata Gel."
-msgstr "Zasilenie tej maski wymaga: <Key>{Cost}</>Żelu Wahae Mata."
+msgstr "Zasilenie tej maski wymaga: <Key>{Cost}</>  Żelu Wahae Mata."
 
 #. Key:	PowerMask_Gel_ToolTip
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_FilteredUse.UI_FilteredUse_C:WidgetTree.ItemName.Text
@@ -21836,7 +21844,7 @@ msgstr "<Key>OSTRZEŻENIE: Ten proces może potrwać trochę czasu. Gra może si
 #: /Game/BluePrints/UI/GetMaskDenyed.GetMaskDenyed_C:WidgetTree.TextBlock_0.Text
 msgctxt "UIText_Description,UI_GetMaskDenyed"
 msgid "All Toa Have This Mask"
-msgstr "Wszyscy Toa Posiadają Tę Maskę"
+msgstr "Wszyscy Toa Posiadają Już Tę Maskę"
 
 #. Key:	UI_NoItemsDesc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_TempInventory.Default__UI_TempInventory_C.NoItemsText
