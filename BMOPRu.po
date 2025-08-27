@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-26 12:14+0300\n"
+"PO-Revision-Date: 2025-08-27 16:30+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12340,8 +12340,8 @@ msgid ""
 "Ahh that would be because Numai is the only one not in high spirits. I'm not entirely "
 "sure why though, perhaps you would speak to him?"
 msgstr ""
-"А, это потому что Нумаи – единственный, кто не в настроении. Я до сих пор не уверен "
-"почему, может вам удастся поговорить с ним?"
+"А, это потому, что Нумаи – единственный, кто не в настроении. Я до сих пор не уверен "
+"почему, быть может, вам удастся поговорить с ним?"
 
 #. Key:	DL_KoTownSellerFixedWall
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerFixedWall.Default__DL_KoTownSellerFixedWall_C.DialogueText
@@ -12581,8 +12581,8 @@ msgid ""
 "Thank you Toa! His name's Kumo, you may be able to seek-find him in the swamp. He's "
 "always going swim-fishing by the lake, It's the one with the huge-big rock in it!"
 msgstr ""
-"Спасибо, Тоа! Его зовут Кумо, вы можете найти его у болот. Он часто ходит рыбачить у "
-"озера. Того, что с очень огромным булыжником в нём."
+"Спасибо, Тоа! Его зовут Кумо, вы можете найти-разыскать его у болот. Он часто ходит "
+"нырять-рыбачить у озера. Того, что с очень огромным булыжником в нём."
 
 #. Key:	DL_LeQuestExpos
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestExpos.Default__DL_LeQuestExpos_C.DialogueText
@@ -12593,7 +12593,7 @@ msgid ""
 "I fear-dread it might be past-late to save him!"
 msgstr ""
 "Мой друг пропал! Он отправился на сбор материалов, но с тех пор я ничего о нём не "
-"слышал! Я страшно боюсь того, что его уже не найти-обнаружить!"
+"слышал! Я страшно-пугающе боюсь того, что его уже не найти-обнаружить!"
 
 #. Key:	DL_LeQuestKumo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumo.Default__DL_LeQuestKumo_C.DialogueText
@@ -12948,8 +12948,9 @@ msgid ""
 "Yet each time you go to confront Makuta, you befall the same sorry-bad fate. The stones, "
 "the masks, and you return to where you came from... and you remember nothing."
 msgstr ""
-"И каждый раз, когда вы сталкиваетесь с Макутой, вас всех преследует одна и та же горькая "
-"участь. Камни, маски, затем вы возвращаетесь откуда пришли... и вы ничего не помните."
+"И каждый раз, когда вы сталкиваетесь с Макутой, вас всех преследует одна и та же грустно-"
+"горькая участь. Камни, маски, затем вы возвращаетесь откуда пришли... и вы ничего не "
+"помните."
 
 #. Key:	DL_MatauInTree
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauInTree.Default__DL_MatauInTree_C.DialogueText
@@ -13002,7 +13003,7 @@ msgid ""
 "in like that! Didn’t anyone ever learn-teach you any kind-manners?"
 msgstr ""
 "Ээээ... доброе утро, Тоа. ...или это ночь? Тебе следует предварительно стучаться, прежде "
-"чем так бесцеремонно вламываться! Разве никто тебя не учил тебя вести себя воспитанно?"
+"чем так бесцеремонно вламываться! Разве никто не учил тебя вести себя воспитанно?"
 
 #. Key:	DL_MatauKoroHowsgoing
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoroHowsgoing.Default__DL_MatauKoroHowsgoing_C.DialogueText
@@ -13515,7 +13516,7 @@ msgstr "Металлы, Статуи, Кристаллы! У меня есть �
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_Metonu.Default__DL_Metonu_C.DialogueText
 msgctxt "Dialogue_Text,DL_Metonu"
 msgid "Hmm... Finally done."
-msgstr "Хмм… Готово."
+msgstr "Хмм… Наконец-то оно готово."
 
 #. Key:	DL_Metonu1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_Metonu1.Default__DL_Metonu1_C.DialogueText
@@ -13771,7 +13772,7 @@ msgid ""
 "above the clouds, he was oh so very proud. Then one day the Makuta came, and took that "
 "all away. Mata-Nui Hit the ground and will, forever, slumber now."
 msgstr ""
-"*Поёт* Жил да был великий дух. Прозвали Мата Нуи, жил он где-то в облаках и был он очень "
+"*Поёт* Жил да был великий дух. Назвали Мата Нуи, жил он где-то в облаках и был он очень "
 "горд. Затем пришёл Макута и всё это забрал. Мата Нуи упал на землю и будет вечность "
 "спать."
 
@@ -13780,7 +13781,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_MiningMatoranLost.Default__DL_MiningMatoranLost_C.DialogueText
 msgctxt "Dialogue_Text,DL_MiningMatoranLost"
 msgid "*Cuckle* I don't know how I got out here."
-msgstr "*Удивлённо* Я не знаю как я сюда попал."
+msgstr "*Удивлённо* Я не знаю, как я сюда попал."
 
 #. Key:	DL_MiningMatoranUssal
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_MiningMatoranUssal.Default__DL_MiningMatoranUssal_C.DialogueText
