@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-27 16:30+0300\n"
+"PO-Revision-Date: 2025-08-27 16:34+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13773,8 +13773,7 @@ msgid ""
 "all away. Mata-Nui Hit the ground and will, forever, slumber now."
 msgstr ""
 "*Поёт* Жил да был великий дух. Назвали Мата Нуи, жил он где-то в облаках и был он очень "
-"горд. Затем пришёл Макута и всё это забрал. Мата Нуи упал на землю и будет вечность "
-"спать."
+"горд. Затем пришёл Макута и всё это забрал. Мата Нуи пал на землю и вечным сном уснёт."
 
 #. Key:	DL_MiningMatoranLost
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_MiningMatoranLost.Default__DL_MiningMatoranLost_C.DialogueText
