@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-27 16:34+0300\n"
+"PO-Revision-Date: 2025-08-27 17:52+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -481,7 +481,7 @@ msgstr ""
 "горы и холодный климат делают местность непроходимой. Вдобавок к этому, свирепые Рахи по "
 "типу Муаки бороздят холодные горы, что ещё сильнее демотивирует неготовых "
 "путешественников. Но те, кто всё же отважится покорить холодные ветра, воспринимают это "
-"как испытание на прочность и вызов окружающей среде. Просто потому что это место "
+"как испытание на прочность и вызов окружающей среде. Просто потому, что это место "
 "существует для того, чтобы его покорили."
 
 #. Key:	CodexPage_LavaTarakava_Desc
@@ -10556,14 +10556,14 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranGreeting.Default__DL_GeneralKokoranGreeting_C.DialogueText
 msgctxt "Dialogue_Text,DL_GeneralKokoranGreeting"
 msgid "Do you know where Nuju is? I can't seem to find him."
-msgstr "Ты знаешь где находится Нуджу? Я не могу найти его."
+msgstr "Ты знаешь, где находится Нуджу? Я не могу найти его."
 
 #. Key:	DL_GeneralKokoranGreeting_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranGreeting_3.Default__DL_GeneralKokoranGreeting_3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranGreeting_3.Default__DL_GeneralKokoranGreeting_3_C.DialogueText
 msgctxt "Dialogue_Text,DL_GeneralKokoranGreeting_3"
 msgid "Do you know where Nuju is? I can't seem to find him."
-msgstr "Ты знаешь где находится Нуджу? Я не могу найти его."
+msgstr "Ты знаешь, где находится Нуджу? Я не могу найти его."
 
 #. Key:	DL_GeneralKokoranGreeting_4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranGreeting_4.Default__DL_GeneralKokoranGreeting_4_C.DialogueText
@@ -13065,7 +13065,7 @@ msgid ""
 "Send him treebound- I’ve got something for him."
 msgstr ""
 "Всегда хочется новых опасных приключений, да? Ну, у меня ничего на данный момент нет. А "
-"вот если бы ты {G}|gender(был, была) Левой... Ты же наверняка знаешь где он прячется, "
+"вот если бы ты {G}|gender(был, была) Левой... Ты же наверняка знаешь, где он прячется, "
 "да? Отправь его к большому дереву – у меня для него кое-что есть."
 
 #. Key:	DL_MatauKoroPostKini
@@ -15129,7 +15129,7 @@ msgstr "Неплохо, брат! Ты почти обогнал меня. Ты 
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PohatuLoseRaceNo.Default__DL_PohatuLoseRaceNo_C.DialogueText
 msgctxt "Dialogue_Text,DL_PohatuLoseRaceNo"
 msgid "...Oh well. If you ever change your mind, you know where to find Podu! "
-msgstr "...Ну, ладно. Если передумаешь, ты знаешь где искать Поду! "
+msgstr "...Ну, ладно. Если передумаешь, ты знаешь, где искать Поду!"
 
 #. Key:	DL_PohatuLoseRaceYes
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/FailedReturn/DL_PohatuLoseRaceYes.Default__DL_PohatuLoseRaceYes_C.DialogueText
@@ -15897,7 +15897,7 @@ msgid ""
 "know what goes on in the heads of the Nui-Jaga, Nui-Rama, and... *gulp* F-Fikou-Nui..."
 msgstr ""
 "Нет, конечно есть вероятность, что они посчитают его слишком скучным для охоты, но "
-"никогда не знаешь что на уме у Нуи-Джаги, Нуи-Рамы и... *ик* Ф-Фику-Нуи…"
+"никогда не знаешь, что на уме у Нуи-Джаги, Нуи-Рамы и... *ик* Ф-Фику-Нуи…"
 
 #. Key:	DL_SellerConsumablesHewtiniiKapura4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiKapura4.Default__DL_SellerConsumablesHewtiniiKapura4_C.DialogueText
@@ -22323,7 +22323,7 @@ msgstr ">"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Riverdriedup"
 msgid "Do you know why the river dried up?"
-msgstr "Ты знаешь почему река высохла?"
+msgstr "Ты знаешь, почему река высохла?"
 
 #. Key:	TakeLook
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
