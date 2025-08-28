@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-28 11:48+0300\n"
+"PO-Revision-Date: 2025-08-28 13:14+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12456,7 +12456,7 @@ msgid ""
 "Guess not then. I thought that maybe a Toa-Hero would know of the before-time, but I "
 "suppose it's just me."
 msgstr ""
-"Значит нет. Я думал, что возможно Тоа-Герой будет что-то знать из прошлого, но похоже, "
+"Значит нет. Я думал, что, возможно, Тоа-Герой будет что-то знать из прошлого, но похоже, "
 "что это лишь мои домыслы."
 
 #. Key:	DL_Kufa3
@@ -15673,8 +15673,8 @@ msgid ""
 "Uhh, perhaps I can give you... Umm... This! I found it lying around outside Po-Koro, "
 "maybe it's worth something?"
 msgstr ""
-"Эээ, возможно я могу дать вам... Эмм... Вот это! Нашёл это лежащим где-то недалеко от По-"
-"Коро, может оно что-то стоит?"
+"Эээ, возможно, я могу дать вам... Эмм... Вот это! Нашёл это лежащим где-то недалеко от "
+"По-Коро. Может, оно что-то стоит?"
 
 #. Key:	DL_ScaredConvo1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo1.Default__DL_ScaredConvo1_C.DialogueText
