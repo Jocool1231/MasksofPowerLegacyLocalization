@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-28 11:44+0300\n"
+"PO-Revision-Date: 2025-08-28 11:46+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18551,7 +18551,7 @@ msgstr "Записка, показывающая значения различн
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GlowCrystal.Item_GlowCrystal.Description
 msgctxt "InvItem_Description,Item_GlowCrystal_Desc"
 msgid "A shard of green glow crystal, may be worth something."
-msgstr "Осколок светящегося зелёного кристалла. Может, он чего-то стоит."
+msgstr "Осколок зелёного кристалла света. Может, он чего-то стоит."
 
 #. Key:	Item_GoldBars_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldBars.Item_GoldBars.Description
