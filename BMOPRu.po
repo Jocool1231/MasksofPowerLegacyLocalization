@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-28 09:52+0300\n"
+"PO-Revision-Date: 2025-08-28 11:35+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -24501,7 +24501,7 @@ msgstr "Нажмите <Key>{Action1}</>, чтобы Бежать"
 #: /Game/BluePrints/Classes/Tutorial/Tut_ToaSwitching.Tut_ToaSwitching.Text
 msgctxt "Tutorial_Text,Tut_ToaSwitching"
 msgid "Release <Key>{Action1}</> when hovered over your selection to switch toa"
-msgstr "Отпустите <Key>{Action1}</> после наведения курсора на героя, чтобы сменить Тоа"
+msgstr "Отпустите <Key>{Action1}</> после наведения курсора на Тоа, чтобы сменить его"
 
 #. Key:	Tut_ToaSwitchingCorrupted
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Corrupted/Tut_ToaSwitchingCorrupted.Tut_ToaSwitchingCorrupted.Text
@@ -24511,8 +24511,8 @@ msgid ""
 "<Makuta>You have no unity. You are alone. Release</> <Key>{Action1}</> <Makuta>to select "
 "a Toa.</> "
 msgstr ""
-"<Makuta>У вас нет единства. Вы одни. Отпустите</> <Key>{Action1}</> <Makuta>, чтобы "
-"выбрать Тоа.</> "
+"<Makuta>У вас нет единства. Вы одни. Отпустите</> <Key>{Action1}</> <Makuta>для того, "
+"чтобы выбрать Тоа.</> "
 
 #. Key:	Tut_ToaWheel
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_ToaWheel.Tut_ToaWheel.Text
@@ -24737,7 +24737,7 @@ msgstr ""
 "Unreal Engine \r\n"
 "<Key>За замечательный и в то же время мусорный движок.</>\r\n"
 "\r\n"
-"Кристиан Фейбер и команда Bionicle \r\n"
+"Кристиан Фейбер и команда Bionicle\r\n"
 "<Key>За создание замечательной франшизы.</>\r\n"
 "\r\n"
 "Discord-сервер Unreal Slackers\r\n"
