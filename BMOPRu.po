@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-28 09:09+0300\n"
+"PO-Revision-Date: 2025-08-28 09:22+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10556,14 +10556,14 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranGreeting.Default__DL_GeneralKokoranGreeting_C.DialogueText
 msgctxt "Dialogue_Text,DL_GeneralKokoranGreeting"
 msgid "Do you know where Nuju is? I can't seem to find him."
-msgstr "Ты знаешь, где находится Нуджу? Я не могу найти его."
+msgstr "Вы знаете, где находится Нуджу? Я не могу найти его."
 
 #. Key:	DL_GeneralKokoranGreeting_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranGreeting_3.Default__DL_GeneralKokoranGreeting_3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranGreeting_3.Default__DL_GeneralKokoranGreeting_3_C.DialogueText
 msgctxt "Dialogue_Text,DL_GeneralKokoranGreeting_3"
 msgid "Do you know where Nuju is? I can't seem to find him."
-msgstr "Ты знаешь, где находится Нуджу? Я не могу найти его."
+msgstr "Вы знаете, где находится Нуджу? Я не могу найти его."
 
 #. Key:	DL_GeneralKokoranGreeting_4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranGreeting_4.Default__DL_GeneralKokoranGreeting_4_C.DialogueText
