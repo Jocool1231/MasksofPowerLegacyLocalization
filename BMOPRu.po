@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-29 11:27+0300\n"
+"PO-Revision-Date: 2025-08-29 11:33+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13004,7 +13004,7 @@ msgid ""
 "in like that! Didn’t anyone ever learn-teach you any kind-manners?"
 msgstr ""
 "Ээээ... доброе утро, Тоа. ...или это ночь? Тебе следует предварительно стучаться, прежде "
-"чем так бесцеремонно вламываться! Разве никто не учил тебя вести себя воспитанно?"
+"чем так бесцеремонно вламываться! Разве тебя никто не учил вести себя воспитанно?"
 
 #. Key:	DL_MatauKoroHowsgoing
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoroHowsgoing.Default__DL_MatauKoroHowsgoing_C.DialogueText
