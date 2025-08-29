@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-28 13:50+0300\n"
+"PO-Revision-Date: 2025-08-29 11:27+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -2437,7 +2437,8 @@ msgstr "Думаю, я пока повременю с этим."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerIntro_2.Default__DL_CartographerIntro_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_CartographerIntro_2_PlayerResponse_1"
 msgid "I could use a mask, do you have one that's powered?"
-msgstr "Я мог бы использовать маску. У тебя есть маски, заряженные силой?"
+msgstr ""
+"Я {G}|gender(мог, могла) бы использовать маску. У тебя есть маски, заряженные силой?"
 
 #. Key:	DL_CartographerIntro_2_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerIntro_2.Default__DL_CartographerIntro_2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2665,7 +2666,7 @@ msgid ""
 "You probably shouldn't attempt to restore the river yourself, it would be better if you "
 "moved on."
 msgstr ""
-"Тебе, наверное, не стоило пытаться восстановить течение реки самостоятельно, будет "
+"Тебе, наверное, не стоило пытаться восстановить течение реки самостоятельно. Будет "
 "лучше, если ты просто пойдёшь дальше по жизни."
 
 #. Key:	DL_DamemoLose1_PlayerResponse_2
@@ -3054,7 +3055,7 @@ msgstr "Извини, не {G}|gender(хотел, хотела) беспокои
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GreavingMatoran3_PlayerResponse_1"
 msgid "I'll listen."
-msgstr "Я слушаю."
+msgstr "Я послушаю."
 
 #. Key:	DL_GreavingMatoran3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
