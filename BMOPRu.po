@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-29 11:36+0300\n"
+"PO-Revision-Date: 2025-08-29 13:47+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -7711,7 +7711,7 @@ msgstr "Я {G}|gender(видел, видела) нескольких интер�
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Seltra4.Default__DL_Seltra4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Seltra4_PlayerResponse_1"
 msgid "Well there was this one..."
-msgstr "Ну, бы один..."
+msgstr "Ну, был тут один..."
 
 #. Key:	DL_Seltra5_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Seltra5.Default__DL_Seltra5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -14762,7 +14762,7 @@ msgid ""
 "my man."
 msgstr ""
 "ПРРРРИИИИИВЕТСТВУЮ! Добро пожаловать в мой Санктум, Тоа! Чувствуй себя, как дома и "
-"оставайся здесь сколько вам хочется, друг мой."
+"оставайся здесь сколько тебе хочется, друг мой."
 
 #. Key:	DL_OutcastGrass
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_OutcastGrass.Default__DL_OutcastGrass_C.DialogueText
@@ -14791,7 +14791,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_OutcastWhy.Default__DL_OutcastWhy_C.DialogueText
 msgctxt "Dialogue_Text,DL_OutcastWhy"
 msgid "I'm here to protect my plants mannn..."
-msgstr "Потому что я защищаю растения, чувак..."
+msgstr "Потому что я защищаю растения, {G}|gender(чувак, чувиха)..."
 
 #. Key:	DL_OutcastWhy1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_OutcastWhy1.Default__DL_OutcastWhy1_C.DialogueText
@@ -14802,7 +14802,7 @@ msgid ""
 "threw me out dude!"
 msgstr ""
 "Эээ… Нет, не совсем. Когда-то я жил в Ко-Коро, но чувствовал себя чужим. Они меня "
-"прогнали, чувак!"
+"прогнали, {G}|gender(чувак, чувиха)!"
 
 #. Key:	DL_Pauri1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_Pauri1.Default__DL_Pauri1_C.DialogueText
@@ -15610,7 +15610,7 @@ msgid ""
 "maybe it's worth something?"
 msgstr ""
 "Эээ, а в обмен я могу дать вам... Эмм... Вот это! Нашёл это лежащим где-то недалеко от "
-"По-Коро, может оно что-то стоит?"
+"По-Коро. Быть может, оно чего-то стоит?"
 
 #. Key:	DL_SadKolhiiPlayerGiveHalf
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerGiveHalf.Default__DL_SadKolhiiPlayerGiveHalf_C.DialogueText
@@ -15620,8 +15620,8 @@ msgid ""
 "You'd do that for me? Here it is, that's all I have, feel free to keep the change if "
 "there is any."
 msgstr ""
-"Вы сделаете это... ради меня? Вот, здесь всё что у меня есть. Сдачу, если таковая будет, "
-"можете спокойно оставить себе."
+"Вы сделаете это... ради меня? Вот, здесь всё, что у меня есть. Сдачу, если таковая "
+"будет, можете спокойно оставить себе."
 
 #. Key:	DL_SadKolhiiPlayerNoMoney
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerNoMoney.Default__DL_SadKolhiiPlayerNoMoney_C.DialogueText
