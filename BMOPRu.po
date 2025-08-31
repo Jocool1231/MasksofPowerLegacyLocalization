@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-31 12:41+0300\n"
+"PO-Revision-Date: 2025-08-31 12:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13065,9 +13065,9 @@ msgid ""
 "moment… unless you were Lewa. Say, you probably know where he’s sneak-hiding, don’t you? "
 "Send him treebound- I’ve got something for him."
 msgstr ""
-"Всегда хочется новых опасных приключений, да? Ну, у меня ничего на данный момент нет. А "
-"вот если бы ты {G}|gender(был, была) Левой... Ты же наверняка знаешь, где он прячется, "
-"да? Отправь его к большому дереву – у меня для него кое-что есть."
+"Всегда хочется новых опасных приключений-злоключений, да? Ну, у меня ничего на данный "
+"момент нет. А вот если бы ты {G}|gender(был, была) Левой... Ты же наверняка знаешь, где "
+"он прячется-скрывается, да? Отправь его к большому дереву – у меня для него кое-что есть."
 
 #. Key:	DL_MatauKoroPostKini
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoroPostKini.Default__DL_MatauKoroPostKini_C.DialogueText
@@ -13078,7 +13078,7 @@ msgid ""
 "hearted! No worries, you didn't disturb me, I was just resting."
 msgstr ""
 "Сердечно приветствую тебя в Ле-Коро, Герой Тоа! Надеюсь, ты чувствуешь теплоту и доброту "
-"вокруг! Не волнуйся, ты меня не побеспокоил, я лишь отдыхал."
+"вокруг! Не волнуйся, ты меня не {G}|gender(побеспокоил, побеспокоила), я лишь отдыхал."
 
 #. Key:	DL_MatauOutofTree
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauOutofTree.Default__DL_MatauOutofTree_C.DialogueText
