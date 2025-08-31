@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-31 12:35+0300\n"
+"PO-Revision-Date: 2025-08-31 12:41+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12803,7 +12803,7 @@ msgid ""
 msgstr ""
 "Я, кагбе, ищу сокровище... Сокровище легендарной Чёрной Маски! По-видимому, Чёрная Маска "
 "закопала своё богатство в 4 разных местах Мата Нуи. Я думаю, что вот-вот найду первое... "
-"как только я восстановлю лодку в нормальный вид, м-да..."
+"как только я приведу свою лодку в нормальный вид, м-да..."
 
 #. Key:	DL_MarenBlackmask1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_MarenBlackmask1.Default__DL_MarenBlackmask1_C.DialogueText
