@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-08-29 14:13+0300\n"
+"PO-Revision-Date: 2025-08-31 12:35+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -21964,7 +21964,7 @@ msgstr "...Да?"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaReturn_Line1"
 msgid "Why must you persist? Can you not see how futile your struggle is?"
-msgstr "Почему вы упорствуете? Разве вы не видите насколько ваша борьба бесполезна?"
+msgstr "Почему вы упорствуете? Разве вы не видите, насколько ваша борьба бесполезна?"
 
 #. Key:	MakutaReturn_Line2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
