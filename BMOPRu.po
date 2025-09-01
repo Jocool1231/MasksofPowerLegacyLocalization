@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-01 11:09+0300\n"
+"PO-Revision-Date: 2025-09-01 22:41+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -410,7 +410,7 @@ msgid ""
 "on their own kind, ignoring you in the process."
 msgstr ""
 "Канохи Комау: Благородная Маска Контроля Разума. Эта маска позволит вам натравить Рахи "
-"против сородичей, таким образом отвлекая внимание от вас."
+"против своих сородичей, таким образом отвлекая внимание от вас."
 
 #. Key:	CodexPage_Kopaka2_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Kopaka2.Default__LocationEntry_Kopaka2_C.Location Description
