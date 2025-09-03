@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-03 13:53+0300\n"
+"PO-Revision-Date: 2025-09-03 13:56+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18779,8 +18779,7 @@ msgstr "Третья часть серии рассказов о Та-Коро, 
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteSmoke.Item_PoetNoteSmoke.Description
 msgctxt "InvItem_Description,Item_PoetNoteSmoke_Desc"
 msgid "Part two in a series written by Talok the Great Poet, about Ta-Koro."
-msgstr ""
-"Вторая часть рассказов серии рассказов о Та-Коро, написанных Великим поэтом Талоком."
+msgstr "Вторая часть серии рассказов о Та-Коро, написанных Великим поэтом Талоком."
 
 #. Key:	Item_Pots_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Pots.Item_Pots.Description
