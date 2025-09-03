@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-02 13:05+0300\n"
+"PO-Revision-Date: 2025-09-03 13:53+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18648,8 +18648,8 @@ msgid ""
 "Tea made from Mahai bark. It tastes very bitter, and quite earthy. The Matoran use this "
 "drink for a boost of energy. It would probably work on a Toa, too."
 msgstr ""
-"Чай, сделанный из коры Махаи. На вкус – очень горький и немного земляной. Матораны "
-"используют этот напиток для подзарядки энергией. Возможно, сработает и на Тоа."
+"Чай, сделанный из коры дерева Махаи. На вкус – очень горький и немного земляной. "
+"Матораны используют этот напиток для подзарядки энергией. Возможно, сработает и на Тоа."
 
 #. Key:	Item_MarenMap1_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap1.Item_MarenMap1.Description
@@ -18704,7 +18704,7 @@ msgid ""
 "$M."
 msgstr ""
 "Небольшое устройство, созданное Метону по чертежам Нупару, которое позволяет найти "
-"ближайшую маску $M."
+"ближайшую Канохи $M."
 
 #. Key:	Item_MaskLocator_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskLocator.Item_MaskLocator.Description
@@ -18715,7 +18715,7 @@ msgid ""
 "$M."
 msgstr ""
 "Небольшое устройство, созданное Метону по чертежам Нупару, которое позволяет найти "
-"ближайшую канохи $M."
+"ближайшую Канохи $M."
 
 #. Key:	Item_MetallicProtodermisIngots_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Description
