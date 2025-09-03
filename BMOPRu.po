@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-03 13:56+0300\n"
+"PO-Revision-Date: 2025-09-03 14:09+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -20762,7 +20762,7 @@ msgstr "Среди сожжённых деревьев"
 #: /Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.QuestName
 msgctxt "Quest_Name,Quest_CalmCave"
 msgid "A Calm Cave"
-msgstr "Пещера Спокойствия"
+msgstr "Тихая Пещера"
 
 #. Key:	Quest_Challange
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.QuestName
