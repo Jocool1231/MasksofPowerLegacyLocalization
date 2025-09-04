@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-04 09:34+0300\n"
+"PO-Revision-Date: 2025-09-04 09:50+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12390,7 +12390,7 @@ msgid ""
 "hurt to call a town meeting, to see what everyone wants to do."
 msgstr ""
 "Не совсем. Но я знаю, что Тафал хочет починить все дома, Кали сошла с ума, а Нумаи хочет "
-"вернуться обратно в Ко-Коро. Я думаю, что не будет лишним созвать городское собрание, "
+"вернуться обратно в Ко-Коро. Я думаю, что не будет лишним созвать собрание селения, "
 "чтобы узнать то, что каждый будет делать."
 
 #. Key:	DL_KoTownSellerFixing4
@@ -12398,7 +12398,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerFixing4.Default__DL_KoTownSellerFixing4_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownSellerFixing4"
 msgid "Hold on a minute toa! We may need you, if you have time to join?"
-msgstr "Постойте, Тоа! Вы нам сможете помочь, если сможете найти время присоединиться?"
+msgstr "Постойте, Тоа! Вы нам сможете помочь, если найдёте время присоединиться?"
 
 #. Key:	DL_KoTownSellerFixing5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerFixing5.Default__DL_KoTownSellerFixing5_C.DialogueText
@@ -17152,8 +17152,8 @@ msgid ""
 "Well, I'm the town's repair man of sorts - and everyone is counting on me to fill their "
 "requests. I don't want to let them down!"
 msgstr ""
-"Ну, я своего рода главный чинила в городе – все на меня рассчитывают в выполнении "
-"просьб. Я не хочу их подводить!"
+"Ну, я своего рода главный чинила селения – все на меня рассчитывают в выполнении просьб. "
+"Я не хочу их подводить!"
 
 #. Key:	DL_Taphal3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Taphal3.Default__DL_Taphal3_C.DialogueText
