@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-06 13:51+0300\n"
+"PO-Revision-Date: 2025-09-06 19:58+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && "
 "(n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.7\n"
 
 #. Key:	D542F6924EBA70E65249DC9508DD4D2C
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/WorldItem.WorldItem_C:ReturnPromptString [Script Bytecode]
@@ -13573,7 +13573,7 @@ msgid ""
 msgstr ""
 "Я попросил своего друга Нупару создать чертежи небольшого устройства, которое может "
 "искать энергетические сигналы масок силы! Ну, по крайней мере, на бумаге... Текущая "
-"версия пока может отслеживать лишь один тип масок. Если оно тебе нужно, мне потребуются "
+"версия пока может отслеживать лишь один тип масок. Если оно вам нужно, мне потребуются "
 "кое-какие редкие материалы, чтобы собрать его. Думаю, что для Тоа вроде вас это будет "
 "пустяком."
 
@@ -13599,7 +13599,7 @@ msgid ""
 "Excellent! I'll get to work on it immediately. Before I do though, What mask would you "
 "like to track?"
 msgstr ""
-"Отлично! Я займусь этим безотлагательно. Но перед этим, Какую маску хотелось бы "
+"Отлично! Я займусь этим безотлагательно. Но перед этим... Какую маску хотелось бы "
 "отследить?"
 
 #. Key:	DL_MetonuHuna
@@ -13685,7 +13685,7 @@ msgid ""
 "the thing now."
 msgstr ""
 "Миру! Левитация, конечно, круто, но я слышал, что она ещё даёт и ускорение к прыжку. "
-"Может её стоило переименовать во что-то типа... Маска Высоких Прыжков? Ну ладно, не "
+"Может, её стоило переименовать во что-то типа... Маска Высоких Прыжков? Ну ладно, не "
 "совсем так, но... Я лучше займусь делом."
 
 #. Key:	DL_MetonuOrig
@@ -22107,7 +22107,7 @@ msgid ""
 "How did he make it up there so fast? I should probably talk to him, maybe he knows a "
 "little more about what's going on here."
 msgstr ""
-"Как он так быстро туда добрался? Мне нужно поговорить с ним, быть может он хоть что-то "
+"Как он так быстро туда добрался? Мне нужно поговорить с ним. Быть может, он хоть что-то "
 "знает про то, что произошло."
 
 #. Key:	TarakavaOfFrost_Line1
@@ -22159,7 +22159,7 @@ msgid ""
 "There are other Matoran and Rahi that rely on this river, would you have them displaced "
 "from their homes just to keep your water?"
 msgstr ""
-"Есть Матораны и Рахи, которые сильно зависят от этой реки, вы смогли бы прогнать их из "
+"Есть Матораны и Рахи, которые сильно зависят от этой реки. Вы смогли бы прогнать их из "
 "их же домов только для сохранения воды?"
 
 #. Key:	TarakavaOfFrost_Line7
@@ -23256,7 +23256,7 @@ msgstr "Гали"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Grinch"
 msgid "Not Very Festive Ko-Matoran"
-msgstr "Не очень весёлый Ко-Маторан"
+msgstr "Не очень Весёлый Ко-Маторан"
 
 #. Key:	Names_GuardsmanIn-Training
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
