@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-09 11:26+0300\n"
+"PO-Revision-Date: 2025-09-09 12:04+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18530,7 +18530,7 @@ msgstr "Свеча, стоящая на верху резной фигурки �
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Comets.Item_Comets.Description
 msgctxt "InvItem_Description,Item_Comets_Desc"
 msgid "A specal, enhanced, Kolhii ball for increased performance."
-msgstr "Специальный, улучшенный мяч для Колхи, предназначен для более жёсткой игры."
+msgstr "Специальный, улучшенный мяч для Колхи. Предназначен для более жёсткой игры."
 
 #. Key:	Item_CookBook_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_CookBook.Item_CookBook.Description
