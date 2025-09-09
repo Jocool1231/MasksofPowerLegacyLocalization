@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-07 12:40+0300\n"
+"PO-Revision-Date: 2025-09-09 11:26+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5994,8 +5994,8 @@ msgctxt "Dialogue_Response,DL_Nuparu3_PlayerResponse_1"
 msgid ""
 "Oh maybe you know what these cylindrical brass machines are that I've found in the Koros."
 msgstr ""
-"О, может ты знаешь: что это за цилиндрические машины, которые я {G}|gender(обнаружил, "
-"обнаружила) в разных Коро?"
+"О, может ты знаешь: что это за цилиндрические машины, которые я {G}|gender(находил, "
+"находила) в разных Коро?"
 
 #. Key:	DL_Nuparu3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu3.Default__DL_Nuparu3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7802,7 +7802,7 @@ msgstr "*Уйти, не беспокоя его*"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroGetup.Default__DL_ShipperIntroGetup_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_ShipperIntroGetup_PlayerResponse_1"
 msgid "Alright, slow down. Tell me what happened."
-msgstr "Ладно, всё, успокойся. Расскажи мне что произошло."
+msgstr "Ладно, всё, успокойся. Расскажи мне, что произошло."
 
 #. Key:	DL_ShipperIntroGetup_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroGetup.Default__DL_ShipperIntroGetup_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7837,7 +7837,7 @@ msgstr "Тоа."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroRahi_Tarakava.Default__DL_ShipperIntroRahi_Tarakava_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_ShipperIntroRahi_Tarakava_PlayerResponse_1"
 msgid "Just a bit of fun, my friend. Why are you lying down here?"
-msgstr "Всего лишь немного веселья, друг мой. Почему ты здесь лежишь?"
+msgstr "Всего лишь веселья ради, друг мой. Почему ты здесь лежишь?"
 
 #. Key:	DL_ShipperIntroRahi_Toa_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroRahi_Toa.Default__DL_ShipperIntroRahi_Toa_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -16474,8 +16474,8 @@ msgid ""
 "ACK! Goodness Toa, You shouldn't sneak up on people like that, I'm working on a carving "
 "of the Great Toa of stone, Pohatu."
 msgstr ""
-"ЫК! Господи, Тоа, Вам не нужно вот так вот подкрадываться к людям! Я работаю над резной "
-"фигурой Великого Тоа Камня – Похату."
+"ЫК! Г-господи, Тоа, Вам не нужно вот так вот подкрадываться к людям! Я работаю над "
+"резной фигурой Великого Тоа Камня – Похату."
 
 #. Key:	DL_StatueCarverPohatu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_StatueCarverPohatu.Default__DL_StatueCarverPohatu_C.DialogueText
@@ -16503,7 +16503,7 @@ msgid ""
 "I knew you'd like it! Wait, Now that you're here, you could model for me! You'd just "
 "have to stand still for... A few hours... or days..."
 msgstr ""
-"Я знал, что вам понравится! Стоп, А пока вы здесь, вы можете стать моделью для меня! Вам "
+"Я знал, что вам понравится! Так, а пока вы здесь, вы можете стать моделью для меня! Вам "
 "лишь следует стоять неподвижно в течение... Нескольких часов... или дней..."
 
 #. Key:	DL_StatueSeller
@@ -16542,9 +16542,8 @@ msgid ""
 "Like I told you last time Tafall, I can't teach you right now! Plus Marka just asked me "
 "to start building a new boat, ontop of everything else I need to get finished already!"
 msgstr ""
-"Как я уже говорил ранее, Тафол, я сейчас не могу тебя учить! К тому же, Марка меня "
-"попросила начать строительство новой лодки, не говоря обо всём остальном, что нужно "
-"закончить!"
+"Как я уже говорил ранее, Тафол, я сейчас не могу тебя учить! К тому же, Марка попросила "
+"меня начать строительство новой лодки, не говоря обо всём остальном, что нужно закончить!"
 
 #. Key:	DL_TafallAbandoned3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned3.Default__DL_TafallAbandoned3_C.DialogueText
@@ -16653,7 +16652,7 @@ msgstr ""
 msgctxt "Dialogue_Text,DL_Tahu2"
 msgid "If any of you question our choice, or doubt our abilities, speak now."
 msgstr ""
-"Если кто-то из вас сомневается в нашем выборе или наших способностях, говорите сейчас."
+"Если кто-то из вас сомневается в нашем выборе или наших способностях – говорите сейчас."
 
 #. Key:	DL_Tahu3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Tahu3.Default__DL_Tahu3_C.DialogueText
@@ -24422,7 +24421,7 @@ msgstr ""
 "\r\n"
 "В каждом регионе есть квест, за выполнение которого вы получите фрагмент карты, который "
 "позволит увидеть тот или иной регион более детально.\r\n"
-"Сейчас нажмите <Key>{Action1}</>, чтобы закрыть карту."
+"Сейчас нажмите <Key>{Action1}</> для того, чтобы закрыть карту."
 
 #. Key:	Tut_MaskPickupUI
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_MaskPickupUI.Tut_MaskPickupUI.Text
