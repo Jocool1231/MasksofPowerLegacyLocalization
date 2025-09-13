@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-13 09:40+0300\n"
+"PO-Revision-Date: 2025-09-13 10:03+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12980,8 +12980,8 @@ msgid ""
 "chop-knock me out of here? I’m not terribly picky as to how you do it- I’m rather tired "
 "of being trap-stuck up here."
 msgstr ""
-"Ну... нет. Пока ты тут стоишь внизу, может придумал бы способ сбить-спустить меня "
-"отсюда? Мне неважно как именно ты это сделаешь. Мне просто надоело находиться в такой "
+"Ну... нет. Пока ты тут стоишь внизу, может, придумаешь способ сбить-спустить меня "
+"отсюда? Мне неважно как именно ты это сделаешь - мне просто надоело находиться в такой "
 "вот ловушке."
 
 #. Key:	DL_MatauInTreeHow
@@ -13037,8 +13037,9 @@ msgid ""
 "fight your way through."
 msgstr ""
 "Глубоко в лесу есть храм духов, зовётся он Ле-Кини. Там находится архиважный камень, "
-"который ты должен найти. Единственная проблема в том, что он кишит Рахи. Даже больше "
-"обычного. Это место полно опасностей, через которые тебе нужно будет пробиться."
+"который ты должен найти. Единственная задача-проблема в том, что он кишит Рахи. Даже "
+"больше обычного. Это место полно трудностей-опасностей, через которые тебе нужно будет "
+"пробиться."
 
 #. Key:	DL_MatauKoroLewa3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoroLewa3.Default__DL_MatauKoroLewa3_C.DialogueText
@@ -13054,7 +13055,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoroLewa4.Default__DL_MatauKoroLewa4_C.DialogueText
 msgctxt "Dialogue_Text,DL_MatauKoroLewa4"
 msgid "...Do be slow-careful, Lewa..."
-msgstr "...Будь крайне медленным и осторожным, Лева..."
+msgstr "...Будь крайне медленным и внимательно-осторожным, Лева..."
 
 #. Key:	DL_MatauKoroOtherToa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoroOtherToa.Default__DL_MatauKoroOtherToa_C.DialogueText
@@ -13096,9 +13097,10 @@ msgid ""
 "Matau! ...but I do think that when I get back I might take a good, long sleep-nap... or "
 "two. Wake me up afterwards- I’ve got a couple of other task-quests for you to do."
 msgstr ""
-"Тебе потребуется больше, чем сбить меня с дерева, чтобы помутнить сознание старины "
-"Матау! ...но я думаю, что как только я вернусь, то ненадолго вздремну... а может и "
-"надолго. Разбуди меня потом – у меня есть парочка заданий, чтобы занять тебя."
+"Тебе потребуется больше, чем сбить-столкнуть меня с дерева, чтобы помутнить сознание "
+"старины Матау! ...но я думаю, что как только я вернусь, то ненадолго лягу-вздремну... а "
+"может и надолго. Разбуди меня потом – у меня есть парочка просьб-заданий, чтобы занять "
+"тебя."
 
 #. Key:	DL_MatauOutofTreeWhere
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauOutofTreeWhere.Default__DL_MatauOutofTreeWhere_C.DialogueText
@@ -13109,7 +13111,7 @@ msgid ""
 "Wouldn’t have even happened if that old firespitter kept better track of his "
 "belongings..."
 msgstr ""
-"А... это. Не зацикливайся на этом! Я об этом и слова никому не скажу. Этого бы не "
+"А... это. Не зацикливайся на этом! Я об этом и слова-звука никому не скажу. Этого бы не "
 "случилось, если бы этот огненный плевака знал своё место..."
 
 #. Key:	DL_MatauOutofTreeWhere2
@@ -13120,8 +13122,8 @@ msgid ""
 "Agreed. I’m headed quick-back to Le-Koro. If you happen to swing by, give me a little "
 "quick-chat. I’ve got a few things for you."
 msgstr ""
-"Согласен. Я быстро возвращаюсь в Ле-Коро. Если будешь пролетать мимо, загляни ко мне. У "
-"меня есть кое-что для тебя."
+"Согласен. Я быстро бегу-возвращаюсь в Ле-Коро. Если будешь пролетать мимо, загляни-ка ко "
+"мне. У меня есть кое-что для тебя."
 
 #. Key:	DL_MatoranTransporter1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_MatoranTransporter1.Default__DL_MatoranTransporter1_C.DialogueText
