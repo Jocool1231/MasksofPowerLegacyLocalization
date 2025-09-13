@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-09 12:04+0300\n"
+"PO-Revision-Date: 2025-09-13 09:40+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -9592,7 +9592,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar4.Default__DL_Akamar4_C.DialogueText
 msgctxt "Dialogue_Text,DL_Akamar4"
 msgid "Yours... and your brothers, and Mata-Nui's... The future of everything."
-msgstr "Ваше... И ваших братьев, и Мата Нуи… Будущее всего."
+msgstr "Вашим... И ваших братьев с сёстрами, и Мата Нуи… Над будущим всего."
 
 #. Key:	DL_AkamarBuddy
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_AkamarBuddy.Default__DL_AkamarBuddy_C.DialogueText
