@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-17 18:51+0300\n"
+"PO-Revision-Date: 2025-09-17 18:56+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -24503,7 +24503,7 @@ msgstr "Нажмите <Key>{Action1}</>, чтобы Бежать"
 #: /Game/BluePrints/Classes/Tutorial/Tut_ToaSwitching.Tut_ToaSwitching.Text
 msgctxt "Tutorial_Text,Tut_ToaSwitching"
 msgid "Release <Key>{Action1}</> when hovered over your selection to switch toa"
-msgstr "Отпустите <Key>{Action1}</> после наведения курсора на Тоа, чтобы сменить его"
+msgstr "Отпустите <Key>{Action1}</> после наведения курсора, чтобы сменить Тоа"
 
 #. Key:	Tut_ToaSwitchingCorrupted
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Corrupted/Tut_ToaSwitchingCorrupted.Tut_ToaSwitchingCorrupted.Text
