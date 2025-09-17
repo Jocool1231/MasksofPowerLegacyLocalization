@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-13 10:06+0300\n"
+"PO-Revision-Date: 2025-09-17 13:15+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -1409,9 +1409,9 @@ msgid ""
 msgstr ""
 "Турага – старейшины поселений на Мата Нуи. Каждый из них наблюдает за одной из шести "
 "деревень, управляя ими и поддерживая порядок. Они являются мудрыми и, по-видимому, знают "
-"много вещей об острове и Маторанах, о которых предпочитают не говорить... включая даже "
-"то, где они были. Они недавно пропали без вести и вам, возможно, потребуется выручить их "
-"из не очень простого положения."
+"много вещей об острове и Маторанах, о которых предпочитают не говорить... даже о том, "
+"где они были. Они недавно пропали без вести и вам, возможно, потребуется выручить их из "
+"не очень простого положения."
 
 #. Key:	CodexPage_Ussal_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ussal.Default__LocationEntry_Ussal_C.Location Description
@@ -3779,7 +3779,7 @@ msgstr "А можно?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_KewaMaster.Default__DL_KewaMaster_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KewaMaster_PlayerResponse_1"
 msgid "What about this Kahu, can I ride him?"
-msgstr "Что насчёт этого Каху, я могу на нём прокатиться?"
+msgstr "Что насчёт этого Каху, могу ли я на нём прокатиться?"
 
 #. Key:	DL_KewaMaster_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_KewaMaster.Default__DL_KewaMaster_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -3970,7 +3970,7 @@ msgstr "Ты в порядке, Кали?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/TheFlagMaker/DL_KoFlagQuestFlagMaker1.Default__DL_KoFlagQuestFlagMaker1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KoFlagQuestFlagMaker1_PlayerResponse_1"
 msgid "That seems like a lot of work, supplying the entire island."
-msgstr "Звучит как огромный труд, поставлять весь остров."
+msgstr "Звучит как огромный труд, снабжать весь остров."
 
 #. Key:	DL_KoFlagQuestFlagMaker1_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/TheFlagMaker/DL_KoFlagQuestFlagMaker1.Default__DL_KoFlagQuestFlagMaker1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4255,7 +4255,7 @@ msgstr "Я постараюсь найти это для тебя. Ты же б�
 msgctxt "Dialogue_Response,DL_KoTownBuyerOnua_PlayerResponse_1"
 msgid "Interesting, do you have a lead on any other Protosteel tools? Perhaps I can help."
 msgstr ""
-"Интересно, есть ли у тебя зацепки на какие-то другие инструменты из Протостали? Может я "
+"Интересно, есть ли у тебя зацепки на какие-то другие инструменты из Протостали? Может, я "
 "смогу помочь..."
 
 #. Key:	DL_KoTownKohiProtosteel1_PlayerResponse_2
@@ -4602,7 +4602,7 @@ msgstr "Как у всех дела?"
 msgctxt "Dialogue_Response,DL_KoTownSellerFixedWall_PlayerResponse_2"
 msgid "Will it actually protect anyone? Can't the Rahi just jump over or go around?"
 msgstr ""
-"Защитит ли это кого-нибудь? Разве Рахи не смогут просто перепрыгнуть или обойти его?"
+"Защитит ли оно кого-нибудь? Разве Рахи не смогут просто перепрыгнуть или обойти это?"
 
 #. Key:	DL_KoTownSellerFixing1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerFixing1.Default__DL_KoTownSellerFixing1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -12650,14 +12650,14 @@ msgstr "Со мной всё будет хорошо, Тоа, не нужно в
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoThanks.Default__DL_LeQuestKumoThanks_C.DialogueText
 msgctxt "Dialogue_Text,DL_LeQuestKumoThanks"
 msgid "Hello again Toa, thank you for saving me!"
-msgstr "И снова здравствуй, Тоа. Спасибо, что спасли меня!"
+msgstr "Приветствую ещё раз, Тоа! Спасибо, что спасли меня!"
 
 #. Key:	DL_LightstoneCaveMaster1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster1.Default__DL_LightstoneCaveMaster1_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster1.Default__DL_LightstoneCaveMaster1_C.DialogueText
 msgctxt "Dialogue_Text,DL_LightstoneCaveMaster1"
 msgid "Ahh Toa $T, Welcome to the cavern of light!"
-msgstr "А, добро пожаловать в ущелье света, Тоа $T!"
+msgstr "А, Тоа $T! Добро пожаловать в ущелье света!"
 
 #. Key:	DL_LightstoneCaveMaster_DataPad
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster_DataPad.Default__DL_LightstoneCaveMaster_DataPad_C.DialogueText
