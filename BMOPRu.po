@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-24 11:18+0300\n"
+"PO-Revision-Date: 2025-09-24 13:01+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -14353,7 +14353,7 @@ msgstr "Эй, подождите!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu1.Default__DL_Nuparu1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Nuparu1"
 msgid "Ahh, Hello Toa! How are you? My name is Nuparu!"
-msgstr "А, здравствуй, Тоа! Как дела? Меня зовут Нупару!"
+msgstr "А, здравствуйте, Тоа! Как дела? Меня зовут Нупару!"
 
 #. Key:	DL_Nuparu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu2.Default__DL_Nuparu2_C.DialogueText
@@ -15532,7 +15532,7 @@ msgstr "*Вздох*"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayer1.Default__DL_SadKolhiiPlayer1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayer1"
 msgid "Huh? Oh, hello Toa... >snif<"
-msgstr "А? О, здравствуй, Тоа… >всхлип<"
+msgstr "А? О, приветствую, Тоа… >всхлип<"
 
 #. Key:	DL_SadKolhiiPlayer2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayer2.Default__DL_SadKolhiiPlayer2_C.DialogueText
@@ -18107,7 +18107,7 @@ msgstr "Да! Я сразу же примусь за дело!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_WhagnaVillager1.Default__DL_WhagnaVillager1_C.DialogueText
 msgctxt "Dialogue_Text,DL_WhagnaVillager1"
 msgid "Hello Toa $T, Welcome to Whagna Village."
-msgstr "Здравствуй, Тоа $T, добро пожаловать в деревню Вагна."
+msgstr "Приветствую, Тоа $T, добро пожаловать в деревню Вагна."
 
 #. Key:	DL_Whenua1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Whenua1.Default__DL_Whenua1_C.DialogueText
@@ -22248,7 +22248,7 @@ msgstr "До встречи..."
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,HelloToaElipsis"
 msgid "Hello Toa..."
-msgstr "Здравствуй, Тоа..."
+msgstr "Приветствую, Тоа..."
 
 #. Key:	ISee
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
