@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-24 13:01+0300\n"
+"PO-Revision-Date: 2025-09-24 17:59+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11207,7 +11207,7 @@ msgid ""
 "center is near the docks."
 msgstr ""
 "Идите на север от входа в Ону-Коро пока не доберётесь до песчаных краёв По-Вахи. Центр "
-"доставок расположен близ доков."
+"доставки расположен близ доков."
 
 #. Key:	DL_JobmasterReturn
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturn.Default__DL_JobmasterReturn_C.DialogueText
@@ -11298,7 +11298,7 @@ msgid ""
 "need to track them down."
 msgstr ""
 "Доставка опаздывает, она очень важна. Мне нужно, чтобы вы отправились в центр доставки "
-"грузов Ону-Коро и узнать почему они так долго этим занимаются. Если курьеры уже "
+"грузов в Ону-Коро и узнать почему они так долго этим занимаются. Если курьеры уже "
 "отправились в путь, вам нужно найти их."
 
 #. Key:	DL_JobmasterTuraga
@@ -13181,7 +13181,7 @@ msgstr "Приветствую, Тоа. Что вы тут делаете?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_MatoranTransporter4.Default__DL_MatoranTransporter4_C.DialogueText
 msgctxt "Dialogue_Text,DL_MatoranTransporter4"
 msgid "Why, I'm making a delivery to the Onu-Koro shipping center of course!"
-msgstr "Ну, я осуществляю доставку в центр доставок Ону-Коро, конечно же!"
+msgstr "Ну, я осуществляю доставку в центр доставки грузов Ону-Коро, конечно же!"
 
 #. Key:	DL_MatoranTransporter5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_MatoranTransporter5.Default__DL_MatoranTransporter5_C.DialogueText
@@ -21294,8 +21294,8 @@ msgid ""
 "Jobmaster Khalo told you to investigate the Onu-Koro shipping center and determine the "
 "status of his shipment."
 msgstr ""
-"Ремесленник Кало сказал вам осмотреть центр перевозок Ону-Коро и выяснить статус его "
-"груза."
+"Ремесленник Кало сказал вам отправиться в центр доставки грузов Ону-Коро и выяснить "
+"статус его груза."
 
 #. Key:	Quest_OnTheLine_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
