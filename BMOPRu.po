@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-24 11:10+0300\n"
+"PO-Revision-Date: 2025-09-24 11:18+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12341,7 +12341,7 @@ msgid ""
 "sure why though, perhaps you would speak to him?"
 msgstr ""
 "А, это потому, что Нумаи – единственный, кто не в настроении. Я до сих пор не уверен "
-"почему, быть может, вам удастся поговорить с ним?"
+"почему. Быть может, вам удастся поговорить с ним?"
 
 #. Key:	DL_KoTownSellerFixedWall
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerFixedWall.Default__DL_KoTownSellerFixedWall_C.DialogueText
@@ -12351,7 +12351,7 @@ msgid ""
 "Indeed, we decided it would be best to erect something that may protect us from future "
 "Rahi attacks."
 msgstr ""
-"Да, мы решили, что лучше воздвигнуть что-то, что сможет защитить нас от предстоящих атак "
+"Да. Мы решили, что лучше воздвигнуть что-то, что сможет защитить нас от предстоящих атак "
 "Рахи."
 
 #. Key:	DL_KoTownSellerFixedWall2
@@ -12376,8 +12376,8 @@ msgid ""
 "What's wrong? Take a look around, our village is in ruins! There's so much damage, is it "
 "even worth repairing?"
 msgstr ""
-"Что не так? Осмотритесь вокруг, наша деревня в руинах! Так много разрушений, что не "
-"ясно: стоит ли всё это восстанавливать?"
+"Что не так? Осмотритесь вокруг, наша деревня в руинах! Тут так много повреждений и "
+"разрушений, что не ясно: стоит ли всё это восстанавливать?"
 
 #. Key:	DL_KoTownSellerFixing3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerFixing3.Default__DL_KoTownSellerFixing3_C.DialogueText
@@ -12801,8 +12801,8 @@ msgid ""
 "close to finding the first... once I get my boat back in shape, that is."
 msgstr ""
 "Я, кагбе, ищу сокровище... Сокровище легендарной Чёрной Маски! По-видимому, Чёрная Маска "
-"закопала своё богатство в 4 разных местах Мата Нуи. Я думаю, что вот-вот найду первое... "
-"как только я приведу свою лодку в нормальный вид, м-да..."
+"закопала своё богатство в 4 разных местах на Мата Нуи. Я думаю, что вот-вот найду "
+"первое... как только я приведу свою лодку в нормальный вид, м-да..."
 
 #. Key:	DL_MarenBlackmask1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_MarenBlackmask1.Default__DL_MarenBlackmask1_C.DialogueText
