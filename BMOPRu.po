@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-24 18:52+0300\n"
+"PO-Revision-Date: 2025-09-25 10:08+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -21732,7 +21732,7 @@ msgstr "Ваше время вышло, Тоа."
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaExplode_Line16"
 msgid "Not anymore."
-msgstr "Не в этот раз."
+msgstr "Не в этот раз!"
 
 #. Key:	MakutaExplode_Line17
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -21820,7 +21820,7 @@ msgid ""
 "matoran."
 msgstr ""
 "Мы пришли, чтобы разрушить твой цикл разрушений и лжи! Ты не будешь управлять нами или "
-"Маторанами."
+"Маторанами!"
 
 #. Key:	MakutaIntro_Line11
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
