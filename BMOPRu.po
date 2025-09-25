@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-25 10:15+0300\n"
+"PO-Revision-Date: 2025-09-25 10:35+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11279,7 +11279,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentJob.Default__DL_JobmasterShipmentJob_C.DialogueText
 msgctxt "Dialogue_Text,DL_JobmasterShipmentJob"
 msgid "A collection of materials - for the carvers and the construction workers, you know."
-msgstr "Собрание материалов – всё для резчиков и строителей, сами понимаете."
+msgstr "Коллекция материалов – всё для резчиков и строителей, сами понимаете."
 
 #. Key:	DL_JobmasterShipmentQuest
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentQuest.Default__DL_JobmasterShipmentQuest_C.DialogueText
@@ -11400,8 +11400,8 @@ msgid ""
 "I'm practicing... Vakama says even though I am slower then all the others I may be "
 "faster than them if I practice."
 msgstr ""
-"Я практикуюсь... Вакама говорит, что хотя я и хожу медленнее всех остальных, я могу быть "
-"быстрее них, если буду практиковаться."
+"Я практикуюсь... Вакама говорит, что, хотя я и хожу медленнее всех остальных, я могу "
+"быть быстрее них, если буду практиковаться."
 
 #. Key:	DL_KapuraWhereGa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereGa.Default__DL_KapuraWhereGa_C.DialogueText
@@ -11411,8 +11411,8 @@ msgid ""
 "I like to travel... Ga-Wahi is very wet... Vakama says that by practicing my skill I can "
 "travel large distances in a short time."
 msgstr ""
-"Люблю путешествовать... Га-Вахи – очень мокрое место... Вакама говорит, что практикуясь "
-"я смогу преодолевать огромные расстояния за короткое время."
+"Люблю путешествовать... Га-Вахи – очень мокрое место... Вакама говорит, что, "
+"практикуясь, я смогу преодолевать огромные расстояния за короткое время."
 
 #. Key:	DL_KapuraWhereKo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereKo.Default__DL_KapuraWhereKo_C.DialogueText
@@ -11423,7 +11423,7 @@ msgid ""
 "that by practicing my skill I can travel large distances in a short time."
 msgstr ""
 "Люблю путешествовать... Ко-Вахи – спокойное место, но и весьма холодное для меня. Вакама "
-"говорит, что практикуясь я смогу преодолевать огромные расстояния за короткое время."
+"говорит, что, практикуясь, я смогу преодолевать огромные расстояния за короткое время."
 
 #. Key:	DL_KapuraWhereLe
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereLe.Default__DL_KapuraWhereLe_C.DialogueText
@@ -11433,7 +11433,7 @@ msgid ""
 "I like to travel... Le-Wahi is very pretty. Vakama says that by practicing my skill I "
 "can travel large distances in a short time."
 msgstr ""
-"Люблю путешествовать... Ле-Вахи – красивое место. Вакама говорит, что практикуясь я "
+"Люблю путешествовать... Ле-Вахи – красивое место. Вакама говорит, что, практикуясь, я "
 "смогу преодолевать огромные расстояния за короткое время."
 
 #. Key:	DL_KapuraWhereOnu
@@ -11557,9 +11557,9 @@ msgid ""
 "were nice, it really felt like a home."
 msgstr ""
 "Ну, я долгое время жил в Ле-Коро, но я там чувствовал себя чужаком... Надо мной всегда "
-"смеялись, потому что я не знаю как качаться на лиане или не умею прыгать по деревьям, "
-"как остальные. Однажды я ушёл... позже я забрёл в Вагну, там люди добрые, я почувствовал "
-"себя как дома."
+"смеялись, потому что я не знаю, как качаться на лиане или не умею прыгать по деревьям, "
+"как остальные. Однажды я ушёл... позже я забрёл в Вагну, там люди добрые, и я "
+"почувствовал себя как дома."
 
 #. Key:	DL_KoFishSeller4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoFishSeller4.Default__DL_KoFishSeller4_C.DialogueText
@@ -11709,8 +11709,8 @@ msgid ""
 "I've heard rumor of one in Le-Koro, goes by the name of 'Kumo' I belive... Likely "
 "inferior designs... "
 msgstr ""
-"Я слышал слух про одного из Ле-Коро. Зовут его, кажется, «Кумо»… С явно не очень хорошим "
-"дизайном... "
+"Я слышал слух про одного из Ле-Коро. Зовут его, кажется, «Кумо»… Дизайн наверняка так "
+"себе..."
 
 #. Key:	DL_KoFlagQuestRest
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/DL_KoFlagQuestRest.Default__DL_KoFlagQuestRest_C.DialogueText
@@ -11831,8 +11831,8 @@ msgid ""
 "Oh, yes! I need someone to go hunt-searching for Matau, our Turaga. It is a sorry-bad "
 "tale, but he has been lost-missing for some time now!"
 msgstr ""
-"Ах, да! Мне нужен кто-то, чтобы он начал поиски Матау, нашего Турага. Грустно-плохая "
-"история, конечно, но его нет уже некоторое время!"
+"Ах, да! Мне нужен кто-то, чтобы он начал поиски-розыски Матау, нашего Турага. Грустно-"
+"плохая история, конечно, но его нет уже некоторое время!"
 
 #. Key:	DL_KonguMap
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_KonguMap.Default__DL_KonguMap_C.DialogueText
@@ -11924,7 +11924,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_Kopeke3.Default__DL_Kopeke3_C.DialogueText
 msgctxt "Dialogue_Text,DL_Kopeke3"
 msgid "WHAT? Ahh not again!"
-msgstr "ЧТО? Ну вот, опять!"
+msgstr "ЧТО? Аааа, ну вот, опять!"
 
 #. Key:	DL_KoTempleMaster
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_KoTempleMaster.Default__DL_KoTempleMaster_C.DialogueText
@@ -12158,9 +12158,9 @@ msgid ""
 "said, it's a shame and I hope every one's alright, but there's no reason for you to be "
 "blaming me when I wasn't even there!"
 msgstr ""
-"Вы обвиняете меня, Тоа? *Хмпф* Нет, $T, я с этим никак не связан. Как я сказал, мне жаль "
-"и я надеюсь, что никто не пострадал, но это не значит, что меня можно обвинять! Особенно "
-"когда меня там не было!"
+"Вы обвиняете меня, Тоа? *Хмпф* Нет, $T, я с этим никак не связан. Как я сказал, мне "
+"жаль, и я надеюсь, что никто не пострадал, но это не значит, что меня можно обвинять! "
+"Особенно когда меня там не было!"
 
 #. Key:	DL_KoTownKohiProtosteelWaitingfor
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelWaitingfor.Default__DL_KoTownKohiProtosteelWaitingfor_C.DialogueText
@@ -12277,9 +12277,9 @@ msgid ""
 "Because I moved my shop here of course! Still moving my wares, albiet perhaps a little "
 "faster than before... Turns out people in Onu-Koro need pickaxes, who could've imagined."
 msgstr ""
-"Потому что я переехал вместе с лавкой, конечно же! Я всё ещё перевожу свои товары, но, "
-"может, чуточку быстрее, чем раньше... Как оказалось, жителям Ону-Коро нужны кирки, кто "
-"бы мог подумать."
+"Потому что я переехал вместе с лавкой, конечно же! Я всё ещё перевожу свои товары, хотя, "
+"наверное, чуточку быстрее, чем раньше... Как оказалось, жителям Ону-Коро нужны кирки, "
+"кто бы мог подумать."
 
 #. Key:	DL_KoTownSellerAbandonedLewa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerAbandonedLewa.Default__DL_KoTownSellerAbandonedLewa_C.DialogueText
