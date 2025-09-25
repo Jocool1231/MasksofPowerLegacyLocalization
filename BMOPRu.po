@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-25 10:35+0300\n"
+"PO-Revision-Date: 2025-09-25 10:39+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -22138,7 +22138,8 @@ msgstr "Я – дух этого озера. Вы ему не навредите
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line4"
 msgid "I'm not here to harm it, I just want to restore the flow of the river."
-msgstr "Я тут не для того, чтобы ему навредить. Я лишь хочу восстановить течение реки."
+msgstr ""
+"Я тут не для того, чтобы ему навредить. Я всего лишь хочу восстановить течение реки."
 
 #. Key:	TarakavaOfFrost_Line5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -22160,7 +22161,7 @@ msgid ""
 "from their homes just to keep your water?"
 msgstr ""
 "Есть Матораны и Рахи, которые сильно зависят от этой реки. Вы смогли бы прогнать их из "
-"их же домов только для сохранения воды?"
+"их же домов только ради сохранения воды?"
 
 #. Key:	TarakavaOfFrost_Line7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
