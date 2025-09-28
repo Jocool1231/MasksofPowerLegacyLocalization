@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-09-25 10:39+0300\n"
+"PO-Revision-Date: 2025-09-28 13:12+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12949,8 +12949,8 @@ msgid ""
 "the masks, and you return to where you came from... and you remember nothing."
 msgstr ""
 "И каждый раз, когда вы сталкиваетесь с Макутой, вас всех преследует одна и та же грустно-"
-"горькая участь. Камни, маски, затем вы возвращаетесь откуда пришли... и вы ничего не "
-"помните."
+"горькая участь. Камни, маски, затем вы возвращаетесь туда, откуда пришли... и вы ничего "
+"не помните."
 
 #. Key:	DL_MatauInTree
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauInTree.Default__DL_MatauInTree_C.DialogueText
@@ -12980,7 +12980,7 @@ msgid ""
 "of being trap-stuck up here."
 msgstr ""
 "Ну... нет. Пока ты тут стоишь внизу, может, придумаешь способ сбить-спустить меня "
-"отсюда? Мне неважно как именно ты это сделаешь – мне просто надоело находиться в такой "
+"отсюда? Без разницы как именно ты это сделаешь – мне просто надоело находиться в такой "
 "вот ловушке."
 
 #. Key:	DL_MatauInTreeHow
@@ -12991,8 +12991,8 @@ msgid ""
 "Well, I was headed home from... eh... something- when two Nui-Rama quick-snatched me and "
 "threw me up into this tree!"
 msgstr ""
-"Ну, я направлялся домой с... эм... чего-то там, как вдруг две Нуи-Рамы схватили меня и "
-"забросили на это дерево!"
+"Ну, я направлялся домой с... эм... чего-то там, как вдруг две Нуи-Рамы быстро схватили "
+"меня и забросили на это дерево!"
 
 #. Key:	DL_MatauKoro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoro.Default__DL_MatauKoro_C.DialogueText
@@ -13023,7 +13023,8 @@ msgctxt "Dialogue_Text,DL_MatauKoroLewa1"
 msgid ""
 "Ah, right. Definitely something. I’ve been meaning to chat-talk with you about this for "
 "a long-while now..."
-msgstr "Ах, да. Точно что-то было. Я давно горел желанием поговорить с тобой об этом..."
+msgstr ""
+"Ах, да. Точно что-то было. Я давно горел желанием поболтать-поговорить с тобой об этом..."
 
 #. Key:	DL_MatauKoroLewa2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoroLewa2.Default__DL_MatauKoroLewa2_C.DialogueText
@@ -13528,7 +13529,7 @@ msgid ""
 "Oh it's nothing... Well it was actually quite a feat - But nothing you need concern "
 "yourself with Toa."
 msgstr ""
-"Ой, ничего особенного. Ну, на самом деле это было нечто, но ничего такого, о чём нужно "
+"Ой, ничего особенного... Ну, на самом деле это было нечто, но ничего такого, о чём нужно "
 "беспокоиться, Тоа."
 
 #. Key:	DL_Metonu2
@@ -18216,7 +18217,7 @@ msgctxt "Dialogue_Text,DL_WhenuaOnua"
 msgid ""
 "Indeed I do. Now that I am safely underground, there is something which I must tell you."
 msgstr ""
-"Действительно. Теперь когда я в безопасности под землёй, мне нужно тебе кое-что "
+"Действительно. Теперь, когда я в безопасности под землёй, мне нужно тебе кое-что "
 "рассказать."
 
 #. Key:	DL_WhenuaOnua1
