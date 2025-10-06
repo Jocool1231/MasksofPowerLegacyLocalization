@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-06 21:51+0300\n"
+"PO-Revision-Date: 2025-10-06 22:03+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -9685,14 +9685,15 @@ msgstr ""
 msgctxt "Dialogue_Text,DL_Allknowingmatoran_Komaru_Reward"
 msgid "Wait! I found armor set during my travels, perhaps you could make use of it?"
 msgstr ""
-"Постойте! Я нашёл комплект брони во время путешествий. Быть может, вам она пригодится?"
+"Постойте! Я нашёл комплект брони во время моих странствий. Быть может, вам она "
+"пригодится?"
 
 #. Key:	DL_Allknowingmatoran_Komaru_Thanks
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Komaru_Thanks.Default__DL_Allknowingmatoran_Komaru_Thanks_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Komaru_Thanks.Default__DL_Allknowingmatoran_Komaru_Thanks_C.DialogueText
 msgctxt "Dialogue_Text,DL_Allknowingmatoran_Komaru_Thanks"
 msgid "Thank you for snaping me out of it Toa!"
-msgstr "Спасибо, что вывели меня оттуда, Тоа!"
+msgstr "Спасибо, что привели меня в чувство, Тоа!"
 
 #. Key:	DL_Allknowingmatoran_ThanksForSavingHim
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.DialogueText
