@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-06 22:46+0300\n"
+"PO-Revision-Date: 2025-10-07 17:47+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11652,8 +11652,8 @@ msgid ""
 "I like to see my shop from afar sometimes, also I've been thinking of some "
 "improvements... What about some sort of sign like Parhi's?"
 msgstr ""
-"Мне иногда нравится смотреть на свой магазинчик издалека... Ещё я подумал об "
-"улучшениях... Что насчёт надписи как у Пархи?"
+"Мне иногда нравится смотреть на свой магазинчик издалека... Ещё я подумывал об "
+"улучшениях... Что насчёт надписи, как у Пархи?"
 
 #. Key:	DL_KoFishSellerFixing
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoFishSellerFixing.Default__DL_KoFishSellerFixing_C.DialogueText
@@ -11699,7 +11699,7 @@ msgstr ""
 msgctxt "Dialogue_Text,DL_KoFlagQuestFlagMaker2"
 msgid "Yeah, It can be quite- eh, very, stressful at times, but I do enjoy it."
 msgstr ""
-"Да, она иногда может быть слегка... в смысле, очень, эээ... напряжённой, но мне она "
+"Да, она иногда может быть слегка... в смысле, очень... эээ... напряжённой, но мне она "
 "нравится."
 
 #. Key:	DL_KoFlagQuestOtherFlagmakers
@@ -15678,7 +15678,7 @@ msgid ""
 "maybe it's worth something?"
 msgstr ""
 "Эээ, возможно, я могу дать вам... Эмм... Вот это! Нашёл это лежащим где-то недалеко от "
-"По-Коро. Может, оно что-то стоит?"
+"По-Коро. Быть может, оно что-то стоит?"
 
 #. Key:	DL_ScaredConvo1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo1.Default__DL_ScaredConvo1_C.DialogueText
@@ -17278,7 +17278,7 @@ msgid ""
 "star pattern, that prophecy will be very near to coming true."
 msgstr ""
 "Есть созвездия в небе. Есть звёзды, которые формируют различные формы и рисунки. Когда "
-"Красная Звезда находится близко к ним, мы начинаем понимать что и когда случится. "
+"Красная Звезда находится близко к ним, мы начинаем понимать, что и когда случится. "
 "Расстояние от созвездия означает время. Когда Красная Звезда становится частью звёздного "
 "узора, это означает то, что пророчество близко к исполнению."
 
@@ -17889,7 +17889,7 @@ msgid ""
 "I still believe it's too dangerous to stay here, I'm heading back to Ko-Koro unless we "
 "decide otherwise."
 msgstr ""
-"Я всё ещё считаю, что тут опасно находиться, я отправляюсь обратно в Ко-Коро, пока не "
+"Я всё ещё считаю, что тут опасно находиться. Я возвращаюсь обратно в Ко-Коро, пока не "
 "будет решено обратное."
 
 #. Key:	DL_WhagnaMeeting_Numai2
