@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-09 14:48+0300\n"
+"PO-Revision-Date: 2025-10-09 14:55+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -285,9 +285,10 @@ msgid ""
 "groups when they do. If you find a group of them, make sure you’re prepared to deal with "
 "them all."
 msgstr ""
-"Скорпионоподобные Рахи, управляемые Макутой. Белую их разновидность можно найти в Ко-"
-"Вахи. Хотя они появляются не очень часто, они, как правило, появляются в достаточно "
-"больших стаях. Если вы увидели их стаю, будьте готовы разобраться с каждым из них."
+"Скорпионоподобные Рахи, управляемые Макутой. Белую их разновидность можно найти "
+"преимущественно в Ко-Вахи. Хотя они появляются не очень часто, они, как правило, "
+"появляются в достаточно больших стаях. Если вы увидели их стаю, будьте готовы "
+"разобраться с каждым из них."
 
 #. Key:	CodexPage_IceTarakava_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_IceTarakava.Default__LocationEntry_IceTarakava_C.Location Description
@@ -332,8 +333,8 @@ msgid ""
 msgstr ""
 "Бык Кане-Ра является одним из крупнейших Рахи Макуты. Их копыта, острые рога и "
 "удлиняющиеся шеи делают их опасным врагом для любого, кто встал на их пути. Эти Рахи "
-"являются свирепыми существами и могут напасть на любого, кто им не понравится... включая "
-"Тоа."
+"яростно охраняют свою территорию и могут напасть на любого, кто им не понравится... "
+"включая Тоа."
 
 #. Key:	CodexPage_Kaukau_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Kaukau.Default__LocationEntry_Kaukau_C.Location Description
