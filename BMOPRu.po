@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-07 17:47+0300\n"
+"PO-Revision-Date: 2025-10-09 14:48+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -533,7 +533,7 @@ msgstr ""
 "обеспечивает защиту от наземных Рахи, но она остаётся уязвимой к летающим Рахи, по типу "
 "Нуи-Рамы. Лифт, ведущий от деревни до озера Канае, обеспечивает доступ в деревню для "
 "других Маторанов. Весёлый и озорной дух Ле-Маторанов становится очевиден в процессе "
-"времяпрепровождения в их деревне, также с деревьев нередко доносится их музыка."
+"времяпрепровождения в их деревне. Также с деревьев нередко доносится их музыка."
 
 #. Key:	CodexPage_LeTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeTemple.Default__LocationEntry_LeTemple_C.Location Description
@@ -573,9 +573,9 @@ msgstr ""
 "самоуверен в своих способностях как Тоа, часто рискует, когда это не нужно, а также "
 "действует без раздумий. Видимо, ему ещё стоит много узнать о том, что значит быть "
 "героем, но это всё равно не мешает ему действовать так, как он считает нужным. Атака его "
-"стихии заключается в выстреле потоком воздуха, который далеко отталкивает врагов. Однако "
-"она не наносит много урона, поэтому она лучше всего подходит для удержания Рахи на "
-"расстоянии, чтобы не перегружать вас."
+"стихии заключается в выстреле потоком воздуха, который далеко отталкивает врагов. Хотя "
+"она не наносит много урона, она лучше всего подходит для удержания Рахи на расстоянии, "
+"чтобы не перегружать вас."
 
 #. Key:	CodexPage_LeWahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeWahi.Default__LocationEntry_LeWahi_C.Location Description
@@ -6777,7 +6777,7 @@ msgstr "Надеюсь на это."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerBacktoNormal.Default__DL_PotMakerBacktoNormal_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PotMakerBacktoNormal_PlayerResponse_1"
 msgid "I thought I'd check up on you, how are you doing?"
-msgstr "Я {G}|gender(решил, думала) проведать тебя. Как дела?"
+msgstr "Я {G}|gender(думал, думала) проведать тебя. Как дела?"
 
 #. Key:	DL_PotMakerBacktoNormal_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerBacktoNormal.Default__DL_PotMakerBacktoNormal_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7297,7 +7297,7 @@ msgstr "Почему эта разновидность Таракавы оказ
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo8.Default__DL_ScaredConvo8_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_ScaredConvo8_PlayerResponse_1"
 msgid "Was Khalo The Job master to recive this shipment?"
-msgstr "Мастер по работе Кало должен быть получателем данного груза?"
+msgstr "Данный груз предназначался для ремесленника Кало?"
 
 #. Key:	DL_ScaredConvo9_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo9.Default__DL_ScaredConvo9_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
