@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-10 12:38+0300\n"
+"PO-Revision-Date: 2025-10-10 14:58+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -1990,7 +1990,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akamar_PlayerResponse_3"
 msgid "About what you said before, who's... future, are you working on?"
-msgstr "Касательно того, о чём ты говорил ранее, над чьим... будущим ты работаешь?"
+msgstr "Касательно того, о чём ты говорил ранее: над чьим... будущим ты работаешь?"
 
 #. Key:	DL_AkamarBuddy2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_AkamarBuddy2.Default__DL_AkamarBuddy2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
