@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-10 09:59+0300\n"
+"PO-Revision-Date: 2025-10-10 11:50+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -1532,7 +1532,7 @@ msgstr "Га-Коро"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_GalisLanding"
 msgid "Gali’s Landing"
-msgstr "Канистра Гали"
+msgstr "Место посадки Гали"
 
 #. Key:	CodexPage_GaTemple
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaTemple.Default__LocationEntry_GaTemple_C.Location Name
@@ -1588,7 +1588,7 @@ msgstr "Ко-Коро"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_KopakasLanding"
 msgid "Kopaka’s Landing"
-msgstr "Канистра Копаки"
+msgstr "Место посадки Копаки"
 
 #. Key:	CodexPage_KoTower
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KoTower.Default__LocationEntry_KoTower_C.Location Name
@@ -1644,7 +1644,7 @@ msgstr "Ле-Вахи"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_LewasLanding"
 msgid "Lewa’s Landing"
-msgstr "Канистра Левы"
+msgstr "Место посадки Левы"
 
 #. Key:	CodexPage_Log
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Log.Default__LocationEntry_Log_C.Location Name
@@ -1692,7 +1692,7 @@ msgstr "Ону-Вахи"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_OnuasLanding"
 msgid "Onua’s Landing"
-msgstr "Канистра Онуа"
+msgstr "Место посадки Онуа"
 
 #. Key:	CodexPage_OnuKini
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuKini.Default__LocationEntry_OnuKini_C.Location Name
@@ -1724,7 +1724,7 @@ msgstr "Обзорная площадка"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_PohatusLanding"
 msgid "Pohatu’s Landing"
-msgstr "Канистра Похату"
+msgstr "Место посадки Похату"
 
 #. Key:	CodexPage_PoKini
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoKini.Default__LocationEntry_PoKini_C.Location Name
@@ -1788,7 +1788,7 @@ msgstr "Та-Вахи"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_TahusLanding"
 msgid "Tahu’s Landing"
-msgstr "Канистра Таху"
+msgstr "Место посадки Таху"
 
 #. Key:	CodexPage_TaKini
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TaKini.Default__LocationEntry_TaKini_C.Location Name
@@ -2323,7 +2323,7 @@ msgstr "Я ищу Маторана по имени Кохи. Мне сказал
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager2.Default__DL_BoatManager2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_BoatManager2_PlayerResponse_2"
 msgid "Your accent, it's quite different from others I've heard."
-msgstr "Твой говор, он отличается от тех, с которыми мне пришлось столкнуться ранее."
+msgstr "Твой говор... он отличается от того, с чем мне пришлось столкнуться ранее."
 
 #. Key:	DL_BoatManager3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager3.Default__DL_BoatManager3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
