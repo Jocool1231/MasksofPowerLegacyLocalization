@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-13 21:57+0300\n"
+"PO-Revision-Date: 2025-10-14 17:07+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -8870,7 +8870,7 @@ msgstr "Когда ты это закончишь?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_ThueiOutro.Default__DL_ThueiOutro_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_ThueiOutro_PlayerResponse_1"
 msgid "I'll leave you to it."
-msgstr "Я оставлю тебя в покое."
+msgstr "Я не буду тебе мешать."
 
 #. Key:	DL_Trader1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Trader1.Default__DL_Trader1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -17567,7 +17567,7 @@ msgstr "Выходите в свет, Тоа..."
 msgctxt "Dialogue_Text,DL_TutFinalDialouge_Where"
 msgid "A mere vision which I have created for you, Toa. A place you will soon leave."
 msgstr ""
-"Всего лишь видение, которое я создал для вас, Тоа. Место, которое вы скоро покинете."
+"Это всего лишь видение, которое я создал для вас, Тоа. Место, которое вы скоро покинете."
 
 #. Key:	DL_TutFinalDialouge_Who
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutFinalDialouge_Who.Default__DL_TutFinalDialouge_Who_C.DialogueText
@@ -17641,7 +17641,7 @@ msgid ""
 "Makuta has stolen a mask of power... one that allows him to bend time itself to his "
 "will. One that he has used to reset your memories time and time again."
 msgstr ""
-"Макута украл маску силы... ту, которая позволяет ему изменять сам ход времени в "
+"Макута украл маску силы... Ту, которая позволяет ему изменять сам ход времени в "
 "соответствии со своей волей. Ту, которую он использовал, чтобы стирать вашу память раз "
 "за разом."
 
