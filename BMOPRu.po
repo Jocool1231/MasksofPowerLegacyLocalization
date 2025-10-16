@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-16 21:49+0300\n"
+"PO-Revision-Date: 2025-10-16 21:55+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -20512,7 +20512,7 @@ msgid ""
 "You have gathered all your Masks of Power, head to the suva in Ko-koro to gain your "
 "golden mask."
 msgstr ""
-"Вы собрали все свои Маски Силы, отправляйтесь к Суве в Ко-Коро, чтобы получить свою "
+"Вы собрали все свои Маски Силы. Отправляйтесь к Суве в Ко-Коро, чтобы получить свою "
 "золотую маску."
 
 #. Key:	Quest_LeMakokiStone_Desc
@@ -20541,7 +20541,7 @@ msgid ""
 "You have gathered all your Masks of Power, head to the suva in Le-koro to gain your "
 "golden mask."
 msgstr ""
-"Вы собрали все свои Маски Силы, отправляйтесь к Суве в Ле-Коро, чтобы получить свою "
+"Вы собрали все свои Маски Силы. Отправляйтесь к Суве в Ле-Коро, чтобы получить свою "
 "золотую маску."
 
 #. Key:	Quest_LostResearch_Desc
@@ -20584,7 +20584,7 @@ msgid ""
 "You have gathered all your Masks of Power, head to the suva in Onu-koro to gain your "
 "golden mask."
 msgstr ""
-"Вы собрали все свои Маски Силы, отправляйтесь к Суве в Ону-Коро, чтобы получить свою "
+"Вы собрали все свои Маски Силы. Отправляйтесь к Суве в Ону-Коро, чтобы получить свою "
 "золотую маску."
 
 #. Key:	Quest_OnuMakokiStone_Desc
@@ -20606,7 +20606,7 @@ msgid ""
 "You have gathered all your Masks of Power, head to the suva in Po-koro to gain your "
 "golden mask."
 msgstr ""
-"Вы собрали все свои Маски Силы, отправляйтесь к Суве в По-Коро, чтобы получить свою "
+"Вы собрали все свои Маски Силы. Отправляйтесь к Суве в По-Коро, чтобы получить свою "
 "золотую маску."
 
 #. Key:	Quest_PoMakokiStone_Desc
@@ -20674,7 +20674,7 @@ msgid ""
 "You have gathered all your Masks of Power, head to the suva in Ta-koro to gain your "
 "golden mask."
 msgstr ""
-"Вы собрали все свои Маски Силы, отправляйтесь к Суве в Та-Коро, чтобы получить свою "
+"Вы собрали все свои Маски Силы. Отправляйтесь к Суве в Та-Коро, чтобы получить свою "
 "золотую маску."
 
 #. Key:	Quest_TaMakokiStone_Desc
