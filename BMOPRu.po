@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-14 17:07+0300\n"
+"PO-Revision-Date: 2025-10-16 21:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11762,7 +11762,7 @@ msgid ""
 msgstr ""
 "Ну, не особо много нового. Нуджу давно пропал... Последний раз его видели покупающим "
 "кучу флагов у создателя флагов из Га-Коро. Может, поэтому продажа флагов остановилась? "
-"Но кроме этого ничего особенного... "
+"Но кроме этого... ничего особенного. "
 
 #. Key:	DL_KokoroGuardProtodermis
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_KokoroGuardProtodermis.Default__DL_KokoroGuardProtodermis_C.DialogueText
@@ -18110,7 +18110,7 @@ msgstr "Да! Я сразу же примусь за дело!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_WhagnaVillager1.Default__DL_WhagnaVillager1_C.DialogueText
 msgctxt "Dialogue_Text,DL_WhagnaVillager1"
 msgid "Hello Toa $T, Welcome to Whagna Village."
-msgstr "Приветствую, Тоа $T, добро пожаловать в деревню Вагна."
+msgstr "Приветствую, Тоа $T! Добро пожаловать в деревню Вагна."
 
 #. Key:	DL_Whenua1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Whenua1.Default__DL_Whenua1_C.DialogueText
@@ -20461,7 +20461,7 @@ msgid ""
 "You have gathered all your Masks of Power, head to the suva in Ga-koro to gain your "
 "golden mask."
 msgstr ""
-"Вы собрали все свои Маски Силы, отправляйтесь к Суве в Га-Коро, чтобы получить свою "
+"Вы собрали все свои Маски Силы. Отправляйтесь к Суве в Га-Коро, чтобы получить свою "
 "золотую маску."
 
 #. Key:	Quest_GaMakokiStone_Desc
