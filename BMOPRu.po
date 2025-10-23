@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-22 11:31+0300\n"
+"PO-Revision-Date: 2025-10-23 15:52+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -19158,7 +19158,7 @@ msgstr "Особые рецепты от Маны"
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_DoorKeyNote.Item_DoorKeyNote.Name
 msgctxt "InvItem_Name,Item_DoorKeyNote"
 msgid "Door Icon Key"
-msgstr "Знаки на двери"
+msgstr "Записка со знаками на двери"
 
 #. Key:	Item_FirstMateLog1
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog1.Item_FirstMateLog1.Name
