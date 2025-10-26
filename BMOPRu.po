@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-23 22:12+0300\n"
+"PO-Revision-Date: 2025-10-26 19:06+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -460,11 +460,11 @@ msgid ""
 "outposts, making it one of the few hospitable places in Ko-Wahi that is outside of Ko-"
 "Koro."
 msgstr ""
-"Эта сторожевая башня в Ко-Вахи давно заброшена. Иронично, что это здание, созданное для "
-"защиты Маторанов, теперь является одним из самых опасных и недружелюбных мест острова, "
-"поскольку оно кишит Рахи. Когда-то стражники Ко-Матораны использовали её в качестве "
-"одного из форпостов, делая её одним из немногих обитаемых мест Ко-Вахи за пределами Ко-"
-"Коро."
+"Эта сторожевая башня в Ко-Вахи давно заброшена. Иронично, что это здание, некогда "
+"созданное для защиты Маторанов, теперь является одним из самых опасных и недружелюбных "
+"мест острова, поскольку оно кишит Рахи. Когда-то стражники Ко-Матораны использовали эту "
+"башню в качестве одного из форпостов, делая её одним из немногих обитаемых мест Ко-Вахи "
+"за пределами Ко-Коро."
 
 #. Key:	CodexPage_KoWahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KoWahi.Default__LocationEntry_KoWahi_C.Location Description
@@ -2138,7 +2138,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHim.Default__DL_Allknowingmatoran_WDYFFindHim_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFFindHim_PlayerResponse_1"
 msgid "Is there anything else I need to know?"
-msgstr "Нужно ли мне ещё что-то знать?"
+msgstr "Нужно ли мне знать что-то ещё?"
 
 #. Key:	DL_Allknowingmatoran_WDYFFindHimDoor_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHimDoor.Default__DL_Allknowingmatoran_WDYFFindHimDoor_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
