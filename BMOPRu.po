@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-29 22:34+0300\n"
+"PO-Revision-Date: 2025-10-29 22:52+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11208,7 +11208,7 @@ msgid ""
 "Go North of the Onu-Koro entrance until you hit the sandy edge of Po-Wahi. The shipping "
 "center is near the docks."
 msgstr ""
-"Идите на север от входа в Ону-Коро пока не доберётесь до песчаных краёв По-Вахи. Центр "
+"Идите на север от входа в Ону-Коро, пока не доберётесь до песчаных краёв По-Вахи. Центр "
 "доставки расположен близ доков."
 
 #. Key:	DL_JobmasterReturn
@@ -11597,7 +11597,7 @@ msgid ""
 "the map town was brave and adventurous. Little do they know I did it to get away from "
 "them..."
 msgstr ""
-"Ну... Немножко получше. Остальные считали, что отправиться и жить в месте, не "
+"Ну... Немножко получше. Остальные считали, что покинуть селение и жить в месте, не "
 "обозначенном на карте – очень смелый шаг. Они не знали, что я сделал это для того, чтобы "
 "уйти от них."
 
@@ -11618,7 +11618,8 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoFishSellerAbandonedSeen.Default__DL_KoFishSellerAbandonedSeen_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoFishSellerAbandonedSeen"
 msgid "No, none of them. Last one I saw was Parhi I think... In Onu-Koro?"
-msgstr "Нет, никого из них не видел. Последний раз я видел... кажется, Пархи… в Ону-Коро?"
+msgstr ""
+"Нет, я никого из них не видел. Последний раз я видел... кажется, Пархи… в Ону-Коро?"
 
 #. Key:	DL_KoFishSellerAbandonedSeen2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoFishSellerAbandonedSeen2.Default__DL_KoFishSellerAbandonedSeen2_C.DialogueText
@@ -11901,7 +11902,7 @@ msgid ""
 "same battle countless times?"
 msgstr ""
 "То есть, мы обречены на поражение, несмотря на то, сколько раз мы сталкивались с "
-"Макутой? Переживать одну и ту же битву бесчисленное множество раз?"
+"Макутой? Обречены переживать одну и ту же битву бесчисленное множество раз?"
 
 #. Key:	DL_Kopeke1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_Kopeke1.Default__DL_Kopeke1_C.DialogueText
