@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-30 09:24+0300\n"
+"PO-Revision-Date: 2025-10-30 09:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -688,7 +688,7 @@ msgstr ""
 "Остров Мата Нуи. Названный в честь Великого Духа Мата Нуи, этот райский остров является "
 "домом для Маторанов, Тураг и, с момента их прибытия, Тоа. Остров разделён на шесть "
 "регионов, в которых расположены шесть деревень Маторанов. Ваш долг в роли Тоа – найти "
-"спрятанные на острове Маски Силы и спасти Маторанов от зловещей тени Макуты."
+"все Маски Силы, спрятанные на острове, и спасти Маторанов от зловещей тени Макуты."
 
 #. Key:	CodexPage_Matatu_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matatu.Default__LocationEntry_Matatu_C.Location Description
@@ -1217,9 +1217,9 @@ msgid ""
 "very strong here. I would turn back if I were you..."
 msgstr ""
 "Странная пещера, появившаяся в стороне от вулкана Мангаи. Некий Ле-Маторан, по-видимому, "
-"знает про это место... но остальные считают, что никто не знает про существование данной "
-"пещеры. Всё, что можно сказать с точностью, так это то, что присутствие Макуты здесь "
-"очень, очень сильное. На вашем месте я бы развернулся и ушёл…"
+"знает про это место... но кажется, что никто, кроме него, не знает про существование "
+"данной пещеры. Всё, что можно сказать с точностью, так это то, что присутствие Макуты "
+"здесь очень, очень сильное. На вашем месте я бы развернулся и ушёл…"
 
 #. Key:	CodexPage_Ta-Wahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ta-Wahi.Default__LocationEntry_Ta-Wahi_C.Location Description
