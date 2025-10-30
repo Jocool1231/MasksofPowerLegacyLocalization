@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-30 09:57+0300\n"
+"PO-Revision-Date: 2025-10-30 19:08+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -24748,7 +24748,7 @@ msgstr ""
 "<Key>За создание замечательной франшизы.</>\r\n"
 "\r\n"
 "Discord-сервер Unreal Slackers\r\n"
-"<Key>За то, что они знают как работает Unreal Engine, когда этого никто не знает.</>\r\n"
+"<Key>За то, что они знают, как работает Unreal Engine, когда этого никто не знает.</>\r\n"
 "\r\n"
 "Сообщество Bionicle\r\n"
 "<Key>Ребята, вы САМЫЕ НАСТОЯЩИЕ молодцы.</>\r\n"
@@ -26384,7 +26384,7 @@ msgstr "Частота звучания музыки исследования."
 #: /Game/BluePrints/UI/Widget_PausedAudiosettings.Widget_PausedAudiosettings_C:WidgetTree.SFXSlider.ToolTipText
 msgctxt "UIText_ToolTip,PausedAudioSettings_SFX_ToolTip"
 msgid "The volume of sound effects IE Footsteps."
-msgstr "Громкость звуковых эффектов (напр. Шагов)"
+msgstr "Громкость звуковых эффектов (напр. Шагов)."
 
 #. Key:	PausedControls_AttackingEntersCombatTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.DefaultCheckBoxSetting.ToolTipText
@@ -26438,7 +26438,7 @@ msgid ""
 msgstr ""
 "Используя технологию FSR от AMD, увеличьте масштаб изображения для получения большего "
 "числа кадров в обмен на некоторое снижение качества.\r\n"
-"(Внимание: Вы должны понизить полоску процента разрешения, чтобы этот эффект сработал)"
+"(Внимание: Вы должны понизить полоску \"Процент разрешения\", чтобы этот эффект сработал)"
 
 #. Key:	PausedDisplaySettings_WindowMode_Tooltip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.BmopComboBoxSetting_Windowmode.ToolTipText
