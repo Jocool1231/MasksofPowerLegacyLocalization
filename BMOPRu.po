@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-10-30 19:08+0300\n"
+"PO-Revision-Date: 2025-11-05 11:15+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -6996,7 +6996,7 @@ msgid ""
 "him here, on the edge of the Po-Wahi desert? Are you always this cruel to your own "
 "Matoran?"
 msgstr ""
-"Сказать ему, что у тебя какая-то «архиважная» миссия, заставлять его ждать в По-Коро, а "
+"Сказать ему, что у тебя какая-то «архиважная» миссия, заставлять его ждать в Ко-Коро, а "
 "затем посылать его сюда, на окраину пустыни По-Вахи? Ты всегда так жестоко обращаешься "
 "со своими Маторанами?"
 
@@ -21082,7 +21082,7 @@ msgstr "Поговорите с Прячущимся матораном."
 #: /Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Challange_Objective_1"
 msgid "Speak to Podu at the tip of the Motara Desert."
-msgstr "Поговорите с Поду у окраины Пустыни Мотара."
+msgstr "Поговорите с Поду у окраины пустыни Мотара."
 
 #. Key:	Quest_Challange_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
