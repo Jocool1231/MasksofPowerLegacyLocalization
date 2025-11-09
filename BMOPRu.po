@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-09 20:32+0300\n"
+"PO-Revision-Date: 2025-11-09 20:46+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -26473,7 +26473,7 @@ msgstr ""
 "\r\n"
 "FXAA – Несколько сглаженные края\r\n"
 "\r\n"
-"TemporalAA – Сильно сглаженные края, но может привести к некоторому размытию пикселей"
+"Temporal AA – Сильно сглаженные края, но может привести к некоторому размытию пикселей"
 
 #. Key:	PausedGraphicsSettings_ColorBlindnessSeverity_ToolTip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.BlindSeveritySlider.ToolTipText
