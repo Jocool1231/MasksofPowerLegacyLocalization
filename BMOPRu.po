@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-13 18:01+0300\n"
+"PO-Revision-Date: 2025-11-13 21:21+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -9895,7 +9895,7 @@ msgstr "*ДУ-ДУ*"
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_Boat.Default__DL_Boat_C.DialogueText
 msgctxt "Dialogue_Text,DL_Boat"
 msgid "Hello Toa, Come to rent a Boat?"
-msgstr "Здравствуй, Тоа, хочешь арендовать лодку?"
+msgstr "Приветствую, Тоа. Хотите арендовать лодку?"
 
 #. Key:	DL_BoatManager
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager.Default__DL_BoatManager_C.DialogueText
@@ -9948,7 +9948,7 @@ msgstr "Ну месы, огромныя кучи камней, каторые р
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_BoatManagerQuest.Default__DL_BoatManagerQuest_C.DialogueText
 msgctxt "Dialogue_Text,DL_BoatManagerQuest"
 msgid "Hello Toa, Come to rent a Boat?"
-msgstr "Здравствуй, Тоа, хочешь арендовать лодку?"
+msgstr "Приветствую, Тоа. Хотите арендовать лодку?"
 
 #. Key:	DL_Buyer
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Buyer.Default__DL_Buyer_C.DialogueText
@@ -9984,7 +9984,7 @@ msgid ""
 "the shops here and in Onu-koro! But you didn't hear it from me!"
 msgstr ""
 "Ну, эээ… Это не... не то, о чём я могу говорить... *Шёпотом* Они владеют большей частью "
-"магазинов здесь и в Ону-Коро! Но вы это от меня не слышали!"
+"магазинов здесь и в Ону-Коро! Но вы этого от меня не слышали!"
 
 #. Key:	DL_CandleSeller
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_CandleSeller.Default__DL_CandleSeller_C.DialogueText
@@ -10016,7 +10016,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerIntro.Default__DL_CartographerIntro_C.DialogueText
 msgctxt "Dialogue_Text,DL_CartographerIntro"
 msgid "Greetings, Toa. Is there anything you need from me?"
-msgstr "Приветствую, Тоа. Есть ли что-то, с чем я могу помочь?"
+msgstr "Приветствую, Тоа! Чем я могу вам помочь?"
 
 #. Key:	DL_CartographerIntro_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerIntro_2.Default__DL_CartographerIntro_2_C.DialogueText
@@ -10123,7 +10123,7 @@ msgid ""
 "We're in the town of Po-Koro, in the Motara Desert. Nearby is Tiro Canyon and the Pillar-"
 "lands. We call this entire region Po-Wahi."
 msgstr ""
-"Мы в городке По-Коро, в районе пустыни Мотара. Недалеко отсюда расположены каньон Тиро и "
+"Мы в деревне По-Коро, в районе пустыни Мотара. Недалеко отсюда расположены каньон Тиро и "
 "Столбовые земли. Этот регион целиком мы называем По-Вахи."
 
 #. Key:	DL_CaveInMatoran
@@ -10135,7 +10135,8 @@ msgid ""
 "there's been a cave in, it may be a while yet before we can clear it out."
 msgstr ""
 "Хмм… О, приветствую, $T. Если вы хотите попасть в великую шахту, то я должен извиниться: "
-"как вы можете видеть, недавно произошёл обвал, мы длительное время будем его расчищать."
+"как вы можете видеть, недавно случился обвал. Мы в течение длительного времени будем его "
+"расчищать."
 
 #. Key:	DL_Cleaning
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_Cleaning.Default__DL_Cleaning_C.DialogueText
@@ -10171,7 +10172,7 @@ msgstr "Конечно, не буду вас задерживать Тоа. Уд
 msgctxt "Dialogue_Text,DL_DamemoLeave"
 msgid "Perhaps back to Onu, or Ko-Koro. Maybe I can even start a new town!"
 msgstr ""
-"Может вернусь обратно в Ону или Ко-Коро. Может я буду основателем нового поселения!"
+"Может, вернусь обратно в Ону- или Ко-Коро. Может, я буду основателем нового поселения!"
 
 #. Key:	DL_DamemoLose
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLose.Default__DL_DamemoLose_C.DialogueText
@@ -10283,9 +10284,9 @@ msgid ""
 "Koro... Eventually. I decided to take my time getting there and see the sights, like I "
 "used to before I started fishing."
 msgstr ""
-"Ну, поскольку вся эта афера с рыбой потерпела крах, я решил вернуться в Ко-Коро… В "
-"скором времени. А пока я иду туда, я решил насладиться видами, как я когда-то делал до "
-"того, как начал рыбачить."
+"Ну, поскольку вся эта афера с рыбой потерпела крах, я принял решение вернуться в Ко-"
+"Коро… В ближайшее время. А пока я иду туда, я решил насладиться видами, как я когда-то "
+"делал до того, как начал рыбачить."
 
 #. Key:	DL_DameoReturn
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DameoReturn.Default__DL_DameoReturn_C.DialogueText
