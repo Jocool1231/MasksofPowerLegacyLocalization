@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-14 18:37+0300\n"
+"PO-Revision-Date: 2025-11-16 14:20+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12585,8 +12585,8 @@ msgid ""
 "Thank you Toa! His name's Kumo, you may be able to seek-find him in the swamp. He's "
 "always going swim-fishing by the lake, It's the one with the huge-big rock in it!"
 msgstr ""
-"Спасибо, Тоа! Его зовут Кумо, вы можете найти-разыскать его у болот. Он часто ходит "
-"нырять-рыбачить у озера. Того, что с очень огромным булыжником в нём."
+"Спасибо, Тоа! Его зовут Кумо, вы можете найти-разыскать его у болот! Он часто ходит "
+"нырять-рыбачить у озера... Того, что с очень огромным булыжником в нём!"
 
 #. Key:	DL_LeQuestExpos
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestExpos.Default__DL_LeQuestExpos_C.DialogueText
@@ -19872,8 +19872,8 @@ msgstr ""
 "\r\n"
 "Мы боролись на склоне того обрыва, дождь заглушал звуки. Каким-то образом, некоторые "
 "члены команды побежали по холму к нам, чтобы защитить своего капитана. Она ударила меня "
-"несколько раз, а затем встала. «Тебе нужно было беспрекословно подчиняться! Также, как и "
-"всем остальным.»"
+"несколько раз, а затем встала. «Тебе нужно было беспрекословно подчиняться! Так же, как "
+"и всем остальным.»"
 
 #. Key:	Item_FirstMateLog6_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_FirstMateLog6.Item_FirstMateLog6.TextToDisplay
@@ -20630,7 +20630,7 @@ msgid ""
 "There's a strange temple in the desert, Explore it and see what might be hidden among "
 "it's tunnels."
 msgstr ""
-"В пустыне расположен странный храм, обследуйте его и найдите то, что может быть спрятано "
+"В пустыне расположен странный храм. Обследуйте его и найдите то, что может быть спрятано "
 "в его тоннелях."
 
 #. Key:	Quest_ProphetOfTheMakuta_Desc
@@ -20643,7 +20643,7 @@ msgid ""
 "careful."
 msgstr ""
 "Странный Маторан направил вас в сторону холодной и зловещей пещеры в южной части "
-"Мангайи. Он сказал, что видел как туда входит Тоа, но никогда не выходит; Лучше быть "
+"Мангайи. Он сказал, что видел, как туда входит Тоа, но никогда не выходит; Лучше быть "
 "осторожным."
 
 #. Key:	Quest_Protosteel_Desc
