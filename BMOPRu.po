@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-19 22:57+0300\n"
+"PO-Revision-Date: 2025-11-19 23:01+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10266,7 +10266,7 @@ msgid ""
 "enough."
 msgstr ""
 "Невероятно... Это точно войдёт в летописные хроники, {G}|gender(великий, великая) Тоа "
-"$T! Я не знаю как вас отблагодарить."
+"$T! Я не знаю, как вас отблагодарить..."
 
 #. Key:	DL_DameoCamping
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DameoCamping.Default__DL_DameoCamping_C.DialogueText
