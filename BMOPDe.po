@@ -5,15 +5,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPEn\n"
 "POT-Creation-Date: 2025-07-17 05:57\n"
-"PO-Revision-Date: 2025-08-04 21:50+0200\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2025-08-26 09:43+0200\n"
+"Last-Translator: Frederic Gottwald <fredfred1994@googlemail.com>\n"
 "Language-Team: \n"
 "Language: de_DE@formal\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.7\n"
 
 #. Key:	Loading
 #. SourceLocation:	Config/DefaultGame.ini:111
@@ -4962,202 +4962,177 @@ msgstr "Ich verstehe. Ich bin einfach nur froh, dass du unverletzt bist."
 #. Key:	DL_NokamaScary_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaScary.Default__DL_NokamaScary_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaScary.Default__DL_NokamaScary_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NokamaScary_PlayerResponse_1"
 msgid "Well that now you are safe. You should head back to Ga-Koro."
-msgstr "Well that now you are safe. You should head back to Ga-Koro."
+msgstr "Gut, dass du jetzt in Sicherheit bist. Du solltest zurück nach Ga-Koro gehen."
 
 #. Key:	DL_NujuCovo1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovo1.Default__DL_NujuCovo1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovo1.Default__DL_NujuCovo1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovo1_PlayerResponse_1"
 msgid "You have something for me?"
-msgstr "You have something for me?"
+msgstr "Hast du etwas für mich?"
 
 #. Key:	DL_NujuCovo1_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovo1.Default__DL_NujuCovo1_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovo1.Default__DL_NujuCovo1_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovo1_PlayerResponse_3"
 msgid "Has Ko-Koro been well?"
-msgstr "Has Ko-Koro been well?"
+msgstr "Ist es Ko-Koro gut ergangen?"
 
 #. Key:	DL_NujuCovoBlocked_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoBlocked.Default__DL_NujuCovoBlocked_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoBlocked.Default__DL_NujuCovoBlocked_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovoBlocked_PlayerResponse_1"
 msgid "Is something the matter, Turaga?"
-msgstr "Is something the matter, Turaga?"
+msgstr "Stimmt etwas nicht, Turaga?"
 
 #. Key:	DL_NujuCovoFinal1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoFinal1.Default__DL_NujuCovoFinal1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoFinal1.Default__DL_NujuCovoFinal1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovoFinal1_PlayerResponse_1"
 msgid "Do you have anything else for me to do?"
-msgstr "Do you have anything else for me to do?"
+msgstr "Hast du noch etwas anderes für mich zu tun?"
 
 #. Key:	DL_NujuCovoKiniReturn_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturn.Default__DL_NujuCovoKiniReturn_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturn.Default__DL_NujuCovoKiniReturn_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovoKiniReturn_PlayerResponse_1"
 msgid "Has Ko-Koro been well?"
-msgstr "Has Ko-Koro been well?"
+msgstr "Ist es Ko-Koro gut ergangen?"
 
 #. Key:	DL_NujuCovoKiniReturn_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturn.Default__DL_NujuCovoKiniReturn_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturn.Default__DL_NujuCovoKiniReturn_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovoKiniReturn_PlayerResponse_2"
 msgid "I’ve returned, Turaga."
-msgstr "I’ve returned, Turaga."
+msgstr "Ich bin zurückgekehrt, Turaga."
 
 #. Key:	DL_NujuCovoKiniReturnKopaka2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturnKopaka2.Default__DL_NujuCovoKiniReturnKopaka2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturnKopaka2.Default__DL_NujuCovoKiniReturnKopaka2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovoKiniReturnKopaka2_PlayerResponse_1"
 msgid "Fears about what, exactly?"
-msgstr "Fears about what, exactly?"
+msgstr "Ängste wovor genau?"
 
 #. Key:	DL_NujuCovoKiniReturnKopaka4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturnKopaka4.Default__DL_NujuCovoKiniReturnKopaka4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturnKopaka4.Default__DL_NujuCovoKiniReturnKopaka4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovoKiniReturnKopaka4_PlayerResponse_1"
 msgid "Thank you, Turaga."
-msgstr "Thank you, Turaga."
+msgstr "Vielen Dank, Turaga."
 
 #. Key:	DL_NujuCovoKiniReturnKopaka_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturnKopaka.Default__DL_NujuCovoKiniReturnKopaka_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturnKopaka.Default__DL_NujuCovoKiniReturnKopaka_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovoKiniReturnKopaka_PlayerResponse_1"
 msgid "You are not upset?"
-msgstr "You are not upset?"
+msgstr "Du bist nicht verärgert?"
 
 #. Key:	DL_NujuCovoKokoro_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKokoro.Default__DL_NujuCovoKokoro_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKokoro.Default__DL_NujuCovoKokoro_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovoKokoro_PlayerResponse_1"
 msgid "I’ve returned, Turaga."
-msgstr "I’ve returned, Turaga."
+msgstr "Ich bin zurückgekehrt, Turaga."
 
 #. Key:	DL_NujuCovoKopaka1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka1.Default__DL_NujuCovoKopaka1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka1.Default__DL_NujuCovoKopaka1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovoKopaka1_PlayerResponse_1"
 msgid "That’s what I’ve been doing... is something the matter?"
-msgstr "That’s what I’ve been doing... is something the matter?"
+msgstr "Genau das habe ich auch gemacht... ist etwas nicht in Ordnung?"
 
 #. Key:	DL_NujuCovoKopaka3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka3.Default__DL_NujuCovoKopaka3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka3.Default__DL_NujuCovoKopaka3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovoKopaka3_PlayerResponse_1"
 msgid "Hmph. Very well."
-msgstr "Hmph. Very well."
+msgstr "Hmpf. Na schön."
 
 #. Key:	DL_NujuCovoSafe_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoSafe.Default__DL_NujuCovoSafe_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoSafe.Default__DL_NujuCovoSafe_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuCovoSafe_PlayerResponse_1"
 msgid "You have something for me?"
-msgstr "You have something for me?"
+msgstr "Hast du etwas für mich?"
 
 #. Key:	DL_NujuKini1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuKini1.Default__DL_NujuKini1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuKini1.Default__DL_NujuKini1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuKini1_PlayerResponse_1"
 msgid "Is something the matter, Turaga?"
-msgstr "Is something the matter, Turaga?"
+msgstr "Stimmt etwas nicht, Turaga?"
 
 #. Key:	DL_NujuLost1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost1.Default__DL_NujuLost1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost1.Default__DL_NujuLost1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuLost1_PlayerResponse_1"
 msgid "Nuju! Are you safe?"
-msgstr "Nuju! Are you safe?"
+msgstr "Nuju! Bist du in Sicherheit?"
 
 #. Key:	DL_NujuLost2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost2.Default__DL_NujuLost2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost2.Default__DL_NujuLost2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuLost2_PlayerResponse_1"
 msgid "Are… you trying to tell me something?"
-msgstr "Are… you trying to tell me something?"
+msgstr "Willst du mir... etwas sagen?"
 
 #. Key:	DL_NujuLost4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost4.Default__DL_NujuLost4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost4.Default__DL_NujuLost4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuLost4_PlayerResponse_1"
 msgid "I’m glad you are safe."
-msgstr "I’m glad you are safe."
+msgstr "Ich bin froh dass es dir gut geht."
 
 #. Key:	DL_NujuLost4_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost4.Default__DL_NujuLost4_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost4.Default__DL_NujuLost4_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuLost4_PlayerResponse_2"
 msgid "Are... are you still trying to tell me something?"
-msgstr "Are... are you still trying to tell me something?"
+msgstr "Versuchst du... versuchst du immer noch, mir etwas zu sagen?"
 
 #. Key:	DL_NujuTelling_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuTelling.Default__DL_NujuTelling_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuTelling.Default__DL_NujuTelling_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NujuTelling_PlayerResponse_1"
 msgid "...Maybe we should get you back to Matoro."
-msgstr "...Maybe we should get you back to Matoro."
+msgstr "...Vielleicht sollten wir dich zurück nach Matoro bringen."
 
 #. Key:	DL_Numai1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Numai1.Default__DL_Numai1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Numai1.Default__DL_Numai1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Numai1_PlayerResponse_1"
 msgid "We haven't spoken much."
-msgstr "We haven't spoken much."
+msgstr "Wir haben nicht viel geredet."
 
 #. Key:	DL_Numai2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Numai2.Default__DL_Numai2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Numai2.Default__DL_Numai2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Numai2_PlayerResponse_1"
 msgid "Ko-koro, you're going back?"
-msgstr "Ko-koro, you're going back?"
+msgstr "Ko-koro, du kehrst um?"
 
 #. Key:	DL_Numai3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Numai3.Default__DL_Numai3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Numai3.Default__DL_Numai3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Numai3_PlayerResponse_1"
 msgid "I see, Good luck."
-msgstr "I see, Good luck."
+msgstr "Ich verstehe. Viel Glück!"
 
 #. Key:	DL_NumaiAbandoned1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_NumaiAbandoned1.Default__DL_NumaiAbandoned1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_NumaiAbandoned1.Default__DL_NumaiAbandoned1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NumaiAbandoned1_PlayerResponse_1"
 msgid "Numai, Enjoying Ko-Koro?"
-msgstr "Numai, Enjoying Ko-Koro?"
+msgstr "Numai, genießt du Ko-Koro?"
 
 #. Key:	DL_NumaiAbandoned2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_NumaiAbandoned2.Default__DL_NumaiAbandoned2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_NumaiAbandoned2.Default__DL_NumaiAbandoned2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_NumaiAbandoned2_PlayerResponse_1"
 msgid "Have you seen any of the others lately?"
-msgstr "Have you seen any of the others lately?"
+msgstr "Hast du in letzter Zeit einen der anderen gesehen?"
 
 #. Key:	DL_NumaiAbandonedSeen_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_NumaiAbandonedSeen.Default__DL_NumaiAbandonedSeen_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5337,87 +5312,76 @@ msgstr "Ahh, ich verstehe, kann ich irgendetwas tun, um mir die Zeit zu vertreib
 #. Key:	DL_Okin4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Okin4.Default__DL_Okin4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Okin4.Default__DL_Okin4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Okin4_PlayerResponse_1"
 msgid "Very well, I'll leave you to your dreaming little one."
-msgstr "Very well, I'll leave you to your dreaming little one."
+msgstr "Nun gut, dann lass ich dich mal weiter träumen, Kleines."
 
 #. Key:	DL_Onepu1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu1.Default__DL_Onepu1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu1.Default__DL_Onepu1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Onepu1_PlayerResponse_1"
 msgid "I don't believe we have met actually."
-msgstr "I don't believe we have met actually."
+msgstr "Ich glaube nicht, dass wir uns schon einmal getroffen haben."
 
 #. Key:	DL_Onepu2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu2.Default__DL_Onepu2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu2.Default__DL_Onepu2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Onepu2_PlayerResponse_1"
 msgid "Is there something I can help you with?"
-msgstr "Is there something I can help you with?"
+msgstr "Kann ich dir irgendwie helfen?"
 
 #. Key:	DL_Onepu3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu3.Default__DL_Onepu3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu3.Default__DL_Onepu3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Onepu3_PlayerResponse_1"
 msgid "You want me to look for him?"
-msgstr "You want me to look for him?"
+msgstr "Du willst, dass ich ihn suche?"
 
 #. Key:	DL_Onepu3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu3.Default__DL_Onepu3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu3.Default__DL_Onepu3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Onepu3_PlayerResponse_2"
 msgid "You want me to look for him?"
-msgstr "You want me to look for him?"
+msgstr "Du willst, dass ich ihn suche?"
 
 #. Key:	DL_Onepu4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu4.Default__DL_Onepu4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu4.Default__DL_Onepu4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Onepu4_PlayerResponse_1"
 msgid "Back from where?"
-msgstr "Back from where?"
+msgstr "Zurück von wo?"
 
 #. Key:	DL_Onepu_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu.Default__DL_Onepu_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Onepu.Default__DL_Onepu_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_Onepu_PlayerResponse_1"
 msgid "Hello Onepu..."
-msgstr "Hello Onepu..."
+msgstr "Hallo Onepu..."
 
 #. Key:	DL_OnepuGiveMap_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuGiveMap.Default__DL_OnepuGiveMap_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuGiveMap.Default__DL_OnepuGiveMap_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_OnepuGiveMap_PlayerResponse_1"
 msgid "Back from where?"
-msgstr "Back from where?"
+msgstr "Zurück von wo?"
 
 #. Key:	DL_OnepuReturn1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuReturn1.Default__DL_OnepuReturn1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuReturn1.Default__DL_OnepuReturn1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_OnepuReturn1_PlayerResponse_1"
 msgid "Not yet no."
-msgstr "Not yet no."
+msgstr "Bisher nicht, nein."
 
 #. Key:	DL_OnepuReturn_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuReturn.Default__DL_OnepuReturn_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuReturn.Default__DL_OnepuReturn_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_OnepuReturn_PlayerResponse_1"
 msgid "Alright I'll leave."
-msgstr "Alright I'll leave."
+msgstr "In Ordnung, ich gehe."
 
 #. Key:	DL_OnepuSaved1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuSaved1.Default__DL_OnepuSaved1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuSaved1.Default__DL_OnepuSaved1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_OnepuSaved1_PlayerResponse_1"
 msgid "Okay..."
 msgstr "Okay..."
@@ -5425,26 +5389,23 @@ msgstr "Okay..."
 #. Key:	DL_OnepuSaved_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuSaved.Default__DL_OnepuSaved_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuSaved.Default__DL_OnepuSaved_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_OnepuSaved_PlayerResponse_1"
 msgid "What do you mean? I saved Whenua."
-msgstr "What do you mean? I saved Whenua."
+msgstr "Wovon sprichst du? Ich habe Whenua gerettet."
 
 #. Key:	DL_OnewaHelpMe_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaHelpMe.Default__DL_OnewaHelpMe_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaHelpMe.Default__DL_OnewaHelpMe_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_OnewaHelpMe_PlayerResponse_1"
 msgid "How did you get trapped here?"
-msgstr "How did you get trapped here?"
+msgstr "Wie bist du hier reingeraten?"
 
 #. Key:	DL_OnewaHelpMe_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaHelpMe.Default__DL_OnewaHelpMe_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaHelpMe.Default__DL_OnewaHelpMe_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_OnewaHelpMe_PlayerResponse_2"
 msgid "How can I help?"
-msgstr "How can I help?"
+msgstr "Wie kann ich behilflich sein?"
 
 #. Key:	DL_OnewaHelpNow_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaHelpNow.Default__DL_OnewaHelpNow_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5456,10 +5417,9 @@ msgstr "Ich bin dabei."
 #. Key:	DL_OnewaHole_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaHole.Default__DL_OnewaHole_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaHole.Default__DL_OnewaHole_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
-#, fuzzy
 msgctxt "Dialogue_Response,DL_OnewaHole_PlayerResponse_1"
 msgid "What were you doing so far from Po-Koro?"
-msgstr "What were you doing so far from Po-Koro?"
+msgstr "Was hast du so weit weg von Po-Koro gemacht?"
 
 #. Key:	DL_OnewaHowToHelp_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaHowToHelp.Default__DL_OnewaHowToHelp_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
