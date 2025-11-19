@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-19 22:36+0300\n"
+"PO-Revision-Date: 2025-11-19 22:57+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10179,7 +10179,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLose.Default__DL_DamemoLose_C.DialogueText
 msgctxt "Dialogue_Text,DL_DamemoLose"
 msgid "Toa, you're back, and alive too!"
-msgstr "Тоа, вы вернулись! Ещё и живым!"
+msgstr "Тоа, вы вернулись! Ещё и {G}|gender(живым, живой)!"
 
 #. Key:	DL_DamemoLose1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLose1.Default__DL_DamemoLose1_C.DialogueText
@@ -10265,8 +10265,8 @@ msgid ""
 "Incredible, this is truely a story for the chronicles great Toa $T. I can't thank you "
 "enough."
 msgstr ""
-"Невероятно. Это точно войдёт в летописные хроники, {G}|gender(великий, великая) Тоа $T. "
-"Я не знаю как вас отблагодарить."
+"Невероятно... Это точно войдёт в летописные хроники, {G}|gender(великий, великая) Тоа "
+"$T! Я не знаю как вас отблагодарить."
 
 #. Key:	DL_DameoCamping
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DameoCamping.Default__DL_DameoCamping_C.DialogueText
@@ -10475,7 +10475,7 @@ msgstr "Ээ, Тоа $T? Зачем вы сюда пришли? Вы следи�
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak_2.Default__DL_ExilonSpeak_2_C.DialogueText
 msgctxt "Dialogue_Text,DL_ExilonSpeak_2"
 msgid "Don't worry about me Toa $T. I have my trusty throwing disc!"
-msgstr "Не волнуйтесь обо мне, Тоа $T. У меня есть мой верный метательный диск!"
+msgstr "Не волнуйтесь обо мне, Тоа $T. Ведь у меня есть мой верный метательный диск!"
 
 #. Key:	DL_ExilonSpeak_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak_3.Default__DL_ExilonSpeak_3_C.DialogueText
@@ -10485,7 +10485,8 @@ msgid ""
 "I enjoy watching the scenery from up here. Sometimes it's good to have a little quiet; "
 "away from the bustle of le-koro."
 msgstr ""
-"Я здесь наслаждаюсь пейзажем. Иногда хорошо побыть в тишине; вдали от суеты Ле-Коро."
+"Я здесь наверху наслаждаюсь пейзажем. Иногда хорошо побыть в тишине; вдали от суеты Ле-"
+"Коро."
 
 #. Key:	DL_Fish
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Fish.Default__DL_Fish_C.DialogueText
@@ -10640,7 +10641,7 @@ msgid ""
 "Me and my brother lived out here, away from the hustle and bustle of Onu-Koro. I still "
 "haven't forgiven him..."
 msgstr ""
-"Я и мой брат жили тут, вдали от всей суеты и суматохи По-Коро. Я так и не простил его..."
+"Я и мой брат жили тут, вдали от всей суеты и суматохи Ону-Коро. Я так и не простил его..."
 
 #. Key:	DL_GreavingMatoran3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran3.Default__DL_GreavingMatoran3_C.DialogueText
@@ -18318,8 +18319,9 @@ msgid ""
 "What is WRONG with you! I could have been hurt! ...But thank you for getting me down "
 "from there. That rock looks much taller from the top of it."
 msgstr ""
-"Да что с тобой НЕ ТАК?! Я мог бы пострадать! ...Но спасибо, что спустили меня отсюда. "
-"Эта скала кажется гораздо выше, если смотреть сверху вниз."
+"Да что с тобой НЕ ТАК?! Я мог бы пострадать! ...Но спасибо за то, что {G}|"
+"gender(спустил, спустила) меня оттуда. Эта скала кажется гораздо выше, если смотреть "
+"вниз с её вершины."
 
 #. Key:	DL_WhenuaSaved1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaSaved1.Default__DL_WhenuaSaved1_C.DialogueText
@@ -18363,7 +18365,7 @@ msgid ""
 "here, away from all the hustle and bustle of Po-Koro. "
 msgstr ""
 "Ну, я здесь, потому что сделал одолжение для Похату, но решил остаться. Здесь красиво, "
-"ещё и вдали от всей этой суеты сует По-Коро."
+"да ещё и вдали от всей этой суеты сует По-Коро."
 
 #. Key:	DL_WinRacePoduGeneral1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/WinRace/DL_WinRacePoduGeneral1.Default__DL_WinRacePoduGeneral1_C.DialogueText
