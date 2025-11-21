@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-21 21:04+0300\n"
+"PO-Revision-Date: 2025-11-21 21:18+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -9941,7 +9941,7 @@ msgstr "Агась, думаю, что да... Кажется, он что-то 
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManagerKohi3.Default__DL_BoatManagerKohi3_C.DialogueText
 msgctxt "Dialogue_Text,DL_BoatManagerKohi3"
 msgid "The mesas, the big ol' rocks sittin' right next to Po-Koro."
-msgstr "Ну месы, огромныя кучи камней, каторые расположены рядом с По-Коро."
+msgstr "Ну месы, огромныя кучи камней, каторыя расположены рядом с По-Коро."
 
 #. Key:	DL_BoatManagerQuest
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_BoatManagerQuest.Default__DL_BoatManagerQuest_C.DialogueText
