@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-19 23:01+0300\n"
+"PO-Revision-Date: 2025-11-21 21:04+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -2044,7 +2044,7 @@ msgstr "Видения? У тебя были видения будущего?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_3.Default__DL_Allknowingmatoran_3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_3_PlayerResponse_1"
 msgid "Me? I don't believe we've met."
-msgstr "Я? Не думаю, что мы встречались."
+msgstr "Меня? Не думаю, что мы встречались."
 
 #. Key:	DL_Allknowingmatoran_DidYouFindHim_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_DidYouFindHim.Default__DL_Allknowingmatoran_DidYouFindHim_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -20644,9 +20644,9 @@ msgid ""
 "side of the Mangia. He said he saw the toa enter, but never leave; It's best to be "
 "careful."
 msgstr ""
-"Странный Маторан направил вас в сторону холодной и зловещей пещеры в южной части "
-"Мангайи. Он сказал, что видел, как туда входит Тоа, но никогда не выходит; Лучше быть "
-"осторожным."
+"Странный Маторан направил вас в сторону холодной и зловещей пещеры на южном склоне "
+"вулкана Мангаи. Он сказал, что видел, как туда входит Тоа, но никогда не выходит; Лучше "
+"быть осторожным."
 
 #. Key:	Quest_Protosteel_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Protosteel.Default__Quest_Protosteel_C.Description
