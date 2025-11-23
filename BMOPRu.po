@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-23 10:26+0300\n"
+"PO-Revision-Date: 2025-11-23 10:33+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5831,7 +5831,7 @@ msgstr "Я {G}|gender(вернулся, вернулась), Турага."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturnKopaka2.Default__DL_NujuCovoKiniReturnKopaka2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NujuCovoKiniReturnKopaka2_PlayerResponse_1"
 msgid "Fears about what, exactly?"
-msgstr "Опасения перед чем именно?"
+msgstr "Опасения насчёт чего именно?"
 
 #. Key:	DL_NujuCovoKiniReturnKopaka4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKiniReturnKopaka4.Default__DL_NujuCovoKiniReturnKopaka4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
