@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-05 21:10+0300\n"
+"PO-Revision-Date: 2026-03-05 21:17+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -4004,7 +4004,7 @@ msgstr "Я извиняюсь. Можешь продолжить свою раб
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/DL_KoFlagQuestOtherFlagmakers.Default__DL_KoFlagQuestOtherFlagmakers_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KoFlagQuestOtherFlagmakers_PlayerResponse_1"
 msgid "Thank you, Flagmaker, Rest well."
-msgstr "Спасибо, cоздатель флагов. Отдохни как следует."
+msgstr "Спасибо, создатель флагов. Отдохни как следует."
 
 #. Key:	DL_KoFlagQuestRest_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/DL_KoFlagQuestRest.Default__DL_KoFlagQuestRest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -11722,7 +11722,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/DL_KoFlagQuestRest.Default__DL_KoFlagQuestRest_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoFlagQuestRest"
 msgid "You are right. Yes... Just... just one day..."
-msgstr "Вы правы. Да… Всего… всего лишь один денёк…"
+msgstr "Вы правы. Да… Всего… всего лишь на один денёк…"
 
 #. Key:	DL_KokoroGuardGreeting1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_KokoroGuardGreeting1.Default__DL_KokoroGuardGreeting1_C.DialogueText
