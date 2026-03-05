@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-05 15:57+0300\n"
+"PO-Revision-Date: 2026-03-05 21:10+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11722,7 +11722,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/DL_KoFlagQuestRest.Default__DL_KoFlagQuestRest_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoFlagQuestRest"
 msgid "You are right. Yes... Just... just one day..."
-msgstr "Вы правы. Да… В один… прекрасный день…"
+msgstr "Вы правы. Да… Всего… всего лишь один денёк…"
 
 #. Key:	DL_KokoroGuardGreeting1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_KokoroGuardGreeting1.Default__DL_KokoroGuardGreeting1_C.DialogueText
