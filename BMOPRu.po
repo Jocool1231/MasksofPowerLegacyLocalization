@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-05 22:37+0300\n"
+"PO-Revision-Date: 2026-03-06 11:04+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12941,9 +12941,9 @@ msgid ""
 "and... and well he's actually not that bad, but he is constantly up here against the "
 "rules. I would forcibly remove him if I could move from my post..."
 msgstr ""
-"Ой, не начинайте про этого чудака. Всё, что он делает, так это составляет забавные слова "
-"и… и… и они, честно сказать, не такие уж и плохие, но он часто находится наверху, "
-"нарушая правила. Я бы мог прогнать его, если бы я смог покинуть свой пост…"
+"Ой, не начинайте про этого чудака! Всё, что он делает, так это составляет забавные "
+"словечки и… и… и они, честно говоря, не такие уж и плохие. Но он часто находится "
+"наверху, нарушая правила. Я мог бы прогнать его, если бы я смог покинуть свой пост…"
 
 #. Key:	DL_Matau1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_Matau1.Default__DL_Matau1_C.DialogueText
@@ -13019,8 +13019,8 @@ msgid ""
 "Ah... don’t mind me. I’m just still a little crabby-tired. Nothing a little more deep-"
 "sleep won’t fix!"
 msgstr ""
-"А… не обращай внимания. Я лишь чутка устал. Нет ничего, чего не могут исправить лишние "
-"часы сна!"
+"А… не обращай внимания. Я лишь чутка утомился-устал. Нет ничего такого, чего не могут "
+"исправить лишние часы сна!"
 
 #. Key:	DL_MatauKoroLewa1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoroLewa1.Default__DL_MatauKoroLewa1_C.DialogueText
