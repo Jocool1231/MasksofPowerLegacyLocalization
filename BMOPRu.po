@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-06 11:06+0300\n"
+"PO-Revision-Date: 2026-03-08 10:58+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -4276,7 +4276,7 @@ msgstr "Ты знаешь, что на деревню Вагна напали?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteel2.Default__DL_KoTownKohiProtosteel2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KoTownKohiProtosteel2_PlayerResponse_1"
 msgid "Uhh no, Whagna village, the small port you were just at."
-msgstr "Эм… нет. Деревня Вагна, небольшой порт, где ты недавно был."
+msgstr "Эм… нет. Речь про деревню Вагна. Небольшой порт, где ты недавно был."
 
 #. Key:	DL_KoTownKohiProtosteel3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteel3.Default__DL_KoTownKohiProtosteel3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -12165,8 +12165,8 @@ msgid ""
 "blaming me when I wasn't even there!"
 msgstr ""
 "Вы обвиняете меня, Тоа? *Фыркает* Нет, $T, я тут ни при чём. Как я и сказал, ситуация "
-"печальная, и я надеюсь, что никто не пострадал… но это не значит, что меня можно "
-"обвинять! Особенно когда меня там не было!"
+"печальная, и я надеюсь, что никто не пострадал… но это не значит, что вы можете обвинять "
+"меня в этом! Особенно когда меня там не было!"
 
 #. Key:	DL_KoTownKohiProtosteelWaitingfor
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelWaitingfor.Default__DL_KoTownKohiProtosteelWaitingfor_C.DialogueText
