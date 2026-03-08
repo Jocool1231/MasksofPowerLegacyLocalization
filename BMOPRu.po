@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-08 10:58+0300\n"
+"PO-Revision-Date: 2026-03-08 13:56+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -7396,7 +7396,7 @@ msgstr "Если я могу спросить… Что ты за Маторан
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran3.Default__DL_SellerConsumablesHewtiniiGamatoran3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran3_PlayerResponse_1"
 msgid "Words such as...?"
-msgstr "Такие слова, как… ?"
+msgstr "Такие слова, как…?"
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran4.Default__DL_SellerConsumablesHewtiniiGamatoran4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
