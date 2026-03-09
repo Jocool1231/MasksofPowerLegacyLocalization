@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-09 11:24+0300\n"
+"PO-Revision-Date: 2026-03-09 16:15+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -90,9 +90,9 @@ msgid ""
 "which are known to attack travellers who make their way through. Make sure to exercise "
 "caution if you choose to make your way through."
 msgstr ""
-"Снежные барханы Ко-Вахи – один из самых суровых и опасных районов этого региона. Сильный "
-"ветер и обильный снег снижают видимость практически до нуля. Некоторые матораны "
-"используют флаги для того, чтобы проложить маршрут через заснеженные районы. Но даже в "
+"Снежные барханы Ко-Вахи – один из самых суровых и опасных районов этого Вахи. Сильный "
+"ветер и обильный снег снижают видимость практически до нуля. Некоторые Матораны "
+"используют флаги для того, чтобы проложить маршрут через заснеженные пустоши. Но даже в "
 "таком случае вам нужно остерегаться Рахи, которые могут напасть на неудачливых "
 "путешественников, проходящих через этот район. Если вы всё же отважитесь пройти, будьте "
 "очень внимательны."
@@ -6546,7 +6546,7 @@ msgstr "Просто держись… Я уверен, что Копака бу
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRace2.Default__DL_PoduRace2_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PoduRace2_PlayerResponse_3"
 msgid "What’s a Matoran like you doing all the way out here?"
-msgstr "Что Маторан вроде тебя делает здесь?"
+msgstr "Что Маторан вроде тебя делает в этих краях?"
 
 #. Key:	DL_PoduRaceGeneral2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRaceGeneral2.Default__DL_PoduRaceGeneral2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6582,7 +6582,7 @@ msgstr "Кто тебя послал сюда?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopaka2.Default__DL_PoduRaceKopaka2_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PoduRaceKopaka2_PlayerResponse_3"
 msgid "Very well. I’ll be there as soon as I can."
-msgstr "Ну что ж. Я буду там, как только появится возможность."
+msgstr "Ну что же... Я буду там, если будет возможность."
 
 #. Key:	DL_PoduRaceKopaka_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopaka.Default__DL_PoduRaceKopaka_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6610,7 +6610,7 @@ msgstr "Кто тебя послал сюда?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWhat.Default__DL_PoduRaceKopakaWhat_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PoduRaceKopakaWhat_PlayerResponse_2"
 msgid "Very well. I’ll be there as soon as I can."
-msgstr "Ну что же. Я буду там, если будет возможность."
+msgstr "Ну что же... Я буду там при первой возможности."
 
 #. Key:	DL_PoduRaceKopakaWho2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWho2.Default__DL_PoduRaceKopakaWho2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6624,7 +6624,7 @@ msgstr "Что я там найду?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWho2.Default__DL_PoduRaceKopakaWho2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PoduRaceKopakaWho2_PlayerResponse_2"
 msgid "Very well. I’ll be there as soon as I can."
-msgstr "Ну что же. Я постараюсь прийти туда как можно скорее."
+msgstr "Ну что же... Я буду там при первой возможности."
 
 #. Key:	DL_PoduRaceKopakaWho_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWho.Default__DL_PoduRaceKopakaWho_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6645,7 +6645,7 @@ msgstr "Что я там найду?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWho.Default__DL_PoduRaceKopakaWho_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PoduRaceKopakaWho_PlayerResponse_3"
 msgid "Very well. I’ll be there as soon as I can."
-msgstr "Хорошо. Я буду там при первой возможности."
+msgstr "Ну что же... Я буду там при первой возможности."
 
 #. Key:	DL_PoduRacePohatu2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRacePohatu2.Default__DL_PoduRacePohatu2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6680,7 +6680,7 @@ msgstr "Копака уже вернулся?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/DeclineReturn/DL_PoduRaceReturn1.Default__DL_PoduRaceReturn1_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PoduRaceReturn1_PlayerResponse_3"
 msgid "What’s a Matoran like you doing all the way out here?"
-msgstr "Что Маторан в твоём лице делает здесь?"
+msgstr "Что Маторан вроде тебя делает в этих краях?"
 
 #. Key:	DL_PoduRaceReturnKopakaPohatu1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/DeclineReturn/DL_PoduRaceReturnKopakaPohatu1.Default__DL_PoduRaceReturnKopakaPohatu1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9392,7 +9392,7 @@ msgstr "…Знаешь, ты можешь вернуться в По-Коро."
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/WinRace/DL_WinRacePodu.Default__DL_WinRacePodu_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_WinRacePodu_PlayerResponse_3"
 msgid "What’s a Matoran like you doing all the way out here?"
-msgstr "Что Маторан вроде тебя делает в такой дали?"
+msgstr "Что Маторан вроде тебя делает в этих краях?"
 
 #. Key:	DL_WinRacePoduGeneral_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/WinRace/DL_WinRacePoduGeneral.Default__DL_WinRacePoduGeneral_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
