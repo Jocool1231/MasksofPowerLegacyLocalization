@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-09 11:02+0300\n"
+"PO-Revision-Date: 2026-03-09 11:10+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -16704,7 +16704,7 @@ msgstr "Тоа! Давайте завершим дело, которое нам 
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_TahuNoGold.Default__DL_TahuNoGold_C.DialogueText
 msgctxt "Dialogue_Text,DL_TahuNoGold"
 msgid "*Humpf* It appears we are not all ready, go collect all your golden masks."
-msgstr "*Хмпф* Похоже, что мы ещё не все готовы. Соберите свои золотые маски."
+msgstr "Хмм… Похоже, что не все из нас ещё готовы. Соберите свои золотые маски."
 
 #. Key:	DL_TahuNoGold1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_TahuNoGold1.Default__DL_TahuNoGold1_C.DialogueText
