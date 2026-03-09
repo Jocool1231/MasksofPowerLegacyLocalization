@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-08 13:56+0300\n"
+"PO-Revision-Date: 2026-03-09 11:02+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11113,7 +11113,7 @@ msgctxt "Dialogue_Text,DL_JalaReport"
 msgid ""
 "*Huff* I don't report to you Toa, you are entirely superfluous to our operation here!"
 msgstr ""
-"*Хмпф* Я не обязан отчитываться перед вами, Тоа! Вы – абсолютно лишнее звено в нашей "
+"*Фыркает* Я не обязан отчитываться перед вами, Тоа! Вы – абсолютно лишнее звено в нашей "
 "операции!"
 
 #. Key:	DL_JalaReport1
@@ -16627,8 +16627,8 @@ msgid ""
 "Huff - Of course I knew that! You... You really shouldn't sneak up on someone like that "
 "Toa."
 msgstr ""
-"*Хмпф* Конечно я знала об этом! Вам… Вам действительно не стоит вот так подкрадываться к "
-"другим, Тоа."
+"*Фыркает* Конечно я знала об этом! Вам… Вам действительно не стоит вот так "
+"подкрадываться к другим, Тоа."
 
 #. Key:	DL_TafallQuestion
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallQuestion.Default__DL_TafallQuestion_C.DialogueText
