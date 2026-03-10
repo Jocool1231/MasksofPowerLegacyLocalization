@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-10 09:49+0300\n"
+"PO-Revision-Date: 2026-03-10 18:25+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5698,7 +5698,7 @@ msgstr "Как вы умудрились оказаться здесь?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaHeadBack2.Default__DL_NokamaHeadBack2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NokamaHeadBack2_PlayerResponse_2"
 msgid "Before you go, you mentioned a meeting, what sort of meeting?"
-msgstr "Перед тем, как вы вернётесь… вы упоминали о собрании. Что это за собрание?"
+msgstr "Прежде чем вы уйдёте… вы упоминали о собрании. Что это за собрание?"
 
 #. Key:	DL_NokamaHeadBack_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaHeadBack.Default__DL_NokamaHeadBack_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5994,7 +5994,7 @@ msgctxt "Dialogue_Response,DL_Nuparu3_PlayerResponse_1"
 msgid ""
 "Oh maybe you know what these cylindrical brass machines are that I've found in the Koros."
 msgstr ""
-"О, может ты знаешь: что это за цилиндрические машины, которые я {G}|gender(находил, "
+"О! Может, ты знаешь… что это за цилиндрические машины, которые я {G}|gender(находил, "
 "находила) в разных Коро?"
 
 #. Key:	DL_Nuparu3_PlayerResponse_2
@@ -6539,7 +6539,7 @@ msgstr "Опять ты? Что всё это значит?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRace2.Default__DL_PoduRace2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PoduRace2_PlayerResponse_2"
 msgid "Just hang in there… I’m sure Kopaka will be here any minute now!"
-msgstr "Просто держись… Я уверен, что Копака будет здесь с минуты на минуту!"
+msgstr "Просто держись… Я уверен: Копака будет здесь с минуты на минуту!"
 
 #. Key:	DL_PoduRace2_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRace2.Default__DL_PoduRace2_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8598,7 +8598,7 @@ msgstr "Лишь вы вдвоём?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed4.Default__DL_TaphalFixed4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_TaphalFixed4_PlayerResponse_1"
 msgid "Tafall is your apprentice now?"
-msgstr "Тафол стала твоя ученицей?"
+msgstr "Тафол стала твоей ученицей?"
 
 #. Key:	DL_TaphalFixed6_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixed6.Default__DL_TaphalFixed6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -14161,7 +14161,7 @@ msgctxt "Dialogue_Text,DL_NujuCovoKopaka1"
 msgid ""
 "Er...Turaga Nuju says he does not… and asks only that you continue to search for your "
 "masks..."
-msgstr "Эм… Турага Нуджу говорит, что нет… и просит лишь продолжение поисков ваших масок…"
+msgstr "Эм… Турага Нуджу говорит, что нет… и просит лишь продолжить поиски ваших масок…"
 
 #. Key:	DL_NujuCovoKopaka2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka2.Default__DL_NujuCovoKopaka2_C.DialogueText
@@ -15426,7 +15426,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuLeave.Default__DL_RacePohatuLeave_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuLeave"
 msgid "Very well... just let Podu here know WHEN you change your mind."
-msgstr "Ну, ладно… только сообщи сидящему здесь Поду, КОГДА ты передумаешь."
+msgstr "Ну, ладно… только КОГДА передумаешь, не забудь оповестить сидящему здесь Поду."
 
 #. Key:	DL_RacePohatuPodu1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuPodu1.Default__DL_RacePohatuPodu1_C.DialogueText
@@ -16179,7 +16179,7 @@ msgid ""
 "Ack! Wait, I was supposed to be reorginising my books. If I don't finish now then I'll "
 "forget how I was doing it! Rain check on that story Toa!"
 msgstr ""
-"Ой! Погоди-ка, я же должен заниматься книгами. Если я не закончу сейчас, то я забуду как "
+"Ой! Погоди-ка, я же должна заниматься книгами. Если я не закончу сейчас, то я забуду как "
 "мне это делать! Поговорим в другой раз, Тоа!"
 
 #. Key:	DL_ShipperCleanUp
@@ -18629,7 +18629,7 @@ msgid ""
 "These masks seem to be under a strange power from Makuta. Perhaps they are worth some "
 "widgets?"
 msgstr ""
-"Кажется, эти маски имеют странную силу Макуты. Возможно, они могут принести вам "
+"Кажется, эти маски наделены странной силой Макуты. Возможно, они могут принести вам "
 "несколько виджетов?"
 
 #. Key:	Item_KakamaUnpowered_Desc
@@ -20332,8 +20332,8 @@ msgid ""
 "Meditation Stones Heal all Toa on interaction, there's no need to actually meditate for "
 "this effect."
 msgstr ""
-"Камни Медитации исцелят всех Тоа при взаимодействии с ним, для достижения этого эффекта "
-"не нужно специально медитировать у него."
+"Камни Медитации исцелят всех Тоа при взаимодействии с ними, для достижения этого эффекта "
+"не нужно специально медитировать у них."
 
 #. Key:	Tip_MeditationStonesInteract
 #. SourceLocation:	Config/DefaultGame.ini:113
@@ -21082,7 +21082,7 @@ msgstr "Одолейте всех Рахи."
 #: /Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_CalmCave_Objective_2"
 msgid "Talk to the Hiding matoran."
-msgstr "Поговорите с прячущимся матораном."
+msgstr "Поговорите с прячущимся Матораном."
 
 #. Key:	Quest_Challange_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
