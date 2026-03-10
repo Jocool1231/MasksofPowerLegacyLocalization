@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-10 18:25+0300\n"
+"PO-Revision-Date: 2026-03-10 18:30+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -15426,7 +15426,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuLeave.Default__DL_RacePohatuLeave_C.DialogueText
 msgctxt "Dialogue_Text,DL_RacePohatuLeave"
 msgid "Very well... just let Podu here know WHEN you change your mind."
-msgstr "Ну, ладно… только КОГДА передумаешь, не забудь оповестить сидящему здесь Поду."
+msgstr "Ну, ладно… только КОГДА передумаешь, не забудь оповестить сидящего здесь Поду."
 
 #. Key:	DL_RacePohatuPodu1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuPodu1.Default__DL_RacePohatuPodu1_C.DialogueText
