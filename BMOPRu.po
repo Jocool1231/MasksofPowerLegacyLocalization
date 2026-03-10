@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-10 18:30+0300\n"
+"PO-Revision-Date: 2026-03-10 18:34+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -20210,7 +20210,7 @@ msgstr ""
 "правду. Я чувствую, что я на пути к просветлению – хотя некоторые могут подумать, что "
 "этот путь опасен или глуп… У меня, как это ни странно, есть хорошее предчувствие.\r\n"
 "\r\n"
-"(Примечание: Как оказалось, произношение «Пахту» является верным. Странно….)"
+"(Примечание: Как оказалось, произношение «Пахту» является верным. Странно…)"
 
 #. Key:	Item_SwordStatuesNotePart3_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SwordStatuesNotePart3.Item_SwordStatuesNotePart3.TextToDisplay
