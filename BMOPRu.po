@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-15 22:27+0300\n"
+"PO-Revision-Date: 2026-03-15 22:33+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -16954,7 +16954,7 @@ msgstr "Я могу рассчитывать на повышение?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok1.Default__DL_Talok1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Talok1"
 msgid "Hmm, what should go next. Ta-Koro the great... That's nothing."
-msgstr "Что же должно быть дальше? Та-Коро великий… Нет, не так."
+msgstr "Так… Что же должно быть дальше? Та-Коро великий… Нет, не так."
 
 #. Key:	DL_Talok10
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok10.Default__DL_Talok10_C.DialogueText
@@ -16997,8 +16997,8 @@ msgid ""
 "Your poems don't even rhyme, and don't start telling again me about those- Uhh, the- "
 "Hai... Haikus! Yeah, Don't start telling me about how \"Haikus\" don't have to rhyme!"
 msgstr ""
-"В твоих поэмах нет ни одной рифмы. И не начинай мне рассказывать про эти… Эмм… Ха… "
-"Хай... Хайку! Да, не рассказывай мне про то, что «Хайку» не должны рифмоваться!"
+"В твоих поэмах нет ни одной рифмы. И не начинай мне рассказывать про эти… Эмм… Ха… Хай… "
+"Хайку! Да, не рассказывай мне про то, что «Хайку» не должны рифмоваться!"
 
 #. Key:	DL_Talok4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok4.Default__DL_Talok4_C.DialogueText
@@ -17068,7 +17068,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokBurns.Default__DL_TalokBurns_C.DialogueText
 msgctxt "Dialogue_Text,DL_TalokBurns"
 msgid "Oooo, I like it. You're not a half bad poet toa, Here's your copy!"
-msgstr "Оооо, мне это нравится. Вы не такой уж и плохой поэт, Тоа. Держите свою копию!"
+msgstr "Оооо, мне это нравится. А вы не такой уж и плохой поэт, Тоа. Держите свою копию!"
 
 #. Key:	DL_TalokDone
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokDone.Default__DL_TalokDone_C.DialogueText
@@ -17292,7 +17292,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeManUse.Default__DL_TelescopeManUse_C.DialogueText
 msgctxt "Dialogue_Text,DL_TelescopeManUse"
 msgid "Why of course, it is free for anyone to use!"
-msgstr "Конечно, всем можно использовать его бесплатно!"
+msgstr "Да, конечно! Все могут воспользоваться им совершенно бесплатно!"
 
 #. Key:	DL_TelescopeManWhich
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeManWhich.Default__DL_TelescopeManWhich_C.DialogueText
@@ -17309,7 +17309,7 @@ msgstr ""
 "Затем идёт это. </><Matoran>Амнезия… Они сражаются против самих себя, а не против общего "
 "врага</><Key> Не совсем уверен насчёт этого, но я знаю про то, которое сбылось. </"
 "><Matoran>Шестеро потеряны, шестеро похищены, шестеро в ловушке. Всё это – часть плана</"
-"><Key> Мне кажется, что это отсылка к пропаже Тураг."
+"><Key> Мне кажется, что оно отсылает к пропаже Тураг."
 
 #. Key:	DL_TempleMasterOtherTemples
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TempleMasterOtherTemples.Default__DL_TempleMasterOtherTemples_C.DialogueText
