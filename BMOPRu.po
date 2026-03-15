@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-11 19:54+0300\n"
+"PO-Revision-Date: 2026-03-15 22:26+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && "
 "(n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 3.8\n"
+"X-Generator: Poedit 3.9\n"
 
 #. Key:	D542F6924EBA70E65249DC9508DD4D2C
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/WorldItem.WorldItem_C:ReturnPromptString [Script Bytecode]
@@ -16870,9 +16870,9 @@ msgid ""
 "sort of panicked and threw them all when I first found my way in... but thanks for "
 "clearing the way out so I can leave!"
 msgstr ""
-"Я начал бежать до тех пор, пока не наткнулся на эту комнату. У меня были остатки фруктов "
-"Маду, но я чутка запаниковал и выбросил их, когда я впервые нашёл путь внутрь… но "
-"спасибо за расчистку, ведь теперь я смогу уйти!"
+"Я начал бежать до тех пор, пока не наткнулся на эту комнату. У меня была парочка фруктов "
+"Маду, но я чутка запаниковал и выбросил их, как только нашёл путь внутрь… но спасибо за "
+"расчистку, ведь теперь я смогу выбраться отсюда!"
 
 #. Key:	DL_Takua4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_Takua4.Default__DL_Takua4_C.DialogueText
@@ -16900,8 +16900,8 @@ msgid ""
 "Without all the Rahi, it shouldn’t be too much of an issue. Thanks for your help! I’ll "
 "make sure to tell Vakama that he can stop worrying about me."
 msgstr ""
-"Без всех этих Рахи, это не будет серьёзной проблемой. Спасибо за помощь! Я скажу Вакаме, "
-"чтобы он перестал за меня волноваться."
+"Без всех этих Рахи, это не будет какой-то большой проблемой. Спасибо за помощь! Я "
+"обязательно скажу Вакаме, чтобы он перестал за меня волноваться."
 
 #. Key:	DL_TakuaMask
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaMask.Default__DL_TakuaMask_C.DialogueText
@@ -16912,9 +16912,9 @@ msgid ""
 "“Va-hee” is. Didn’t see any masks in here anyway. Whatever Vakama’s looking for is "
 "somewhere else."
 msgstr ""
-"Не совсем – но опять же, я не уверен в том, что именно я искал… не уверен в том, что это "
-"за «Ва-хи». В любом случае, никаких масок я тут не видел. То, что ищет Вакама, наверняка "
-"находится в другом месте."
+"Не совсем – но опять же, я не до конца уверен в том, что именно я искал… не знаю точно, "
+"что это за «Ва-хи». В любом случае, никаких масок я тут не видел. То, что ищет Вакама, "
+"наверняка находится в другом месте."
 
 #. Key:	DL_TakuaSaved
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_TakuaSaved.Default__DL_TakuaSaved_C.DialogueText
@@ -16997,8 +16997,8 @@ msgid ""
 "Your poems don't even rhyme, and don't start telling again me about those- Uhh, the- "
 "Hai... Haikus! Yeah, Don't start telling me about how \"Haikus\" don't have to rhyme!"
 msgstr ""
-"Твои поэмы даже не имеют рифмы, не нужно мне говорить про… Эмм… Ха… Хайку! Да, не "
-"рассказывай мне про то, что «Хайку» не должны рифмоваться!"
+"В твоих поэмах нет одной рифмы. И не начинай мне рассказывать про эти… Эмм… Ха… Хай... "
+"Хайку! Да, не рассказывай мне про то, что «Хайку» не должны рифмоваться!"
 
 #. Key:	DL_Talok4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok4.Default__DL_Talok4_C.DialogueText
@@ -17020,7 +17020,8 @@ msgid ""
 "vocabulary as me. I am Talok, the great poet. Or the Poet-Nui if you prefer."
 msgstr ""
 "Эээ… Я, эм, извиняюсь… Я иногда забываю, что у большинства нет такого богатого "
-"словарного запаса, как у меня. Я Талок, великий поэт. Или Поэт-Нуи, если будет удобно."
+"словарного запаса, как у меня. Я Талок, великий поэт. Или Поэт-Нуи, если вам будет "
+"удобно."
 
 #. Key:	DL_Talok6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok6.Default__DL_Talok6_C.DialogueText
