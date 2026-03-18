@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-18 22:27+0300\n"
+"PO-Revision-Date: 2026-03-18 22:31+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -6890,7 +6890,7 @@ msgstr "Ты о продавце посохов? Нет, ещё нет."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster5.Default__DL_QuarterMaster5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_QuarterMaster5_PlayerResponse_1"
 msgid "Yes... How did you know?"
-msgstr "Да… Как вы узнали?"
+msgstr "Да… Как ты узнал?"
 
 #. Key:	DL_QuarterMaster6_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_QuarterMaster6.Default__DL_QuarterMaster6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
