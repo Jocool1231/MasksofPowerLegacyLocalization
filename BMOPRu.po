@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-18 22:19+0300\n"
+"PO-Revision-Date: 2026-03-18 22:27+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12698,8 +12698,8 @@ msgid ""
 msgstr ""
 "Спасибо за предложение, $T, но мы и так неплохо справляемся. Хотя… Есть кое-какие "
 "странные зелёные кристаллы, которые мы недавно обнаружили. Что бы мы ни делали, ни у "
-"кого нет достаточно сил, чтобы достать их! Но с вашей Пакари, вы наверняка сможете "
-"убрать их с нашей дороги! Если у вас всё получится, вы можете оставить кристаллы себе!"
+"кого нет достаточно сил, чтобы достать их! Но с вашей Пакари вы наверняка сможете убрать "
+"их с нашей дороги! Если у вас всё получится, вы можете спокойно оставить кристаллы себе!"
 
 #. Key:	DL_Lockedout
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Lockedout.Default__DL_Lockedout_C.DialogueText
@@ -12759,7 +12759,7 @@ msgid ""
 "*Nervous laughter* What on Mata-Nui do you mean? We're not- He's not- *sigh* Am I really "
 "that obvious?"
 msgstr ""
-"*Нервный смешок* О чём во имя Мата Нуи вы говорите? Мы не… Он не… *вздох* Неужели я "
+"*Нервный смешок* О чём во имя Мата Нуи вы говорите? Мы не… Он не… *вздыхает* Неужели я "
 "настолько предсказуема?"
 
 #. Key:	DL_MackuHuki2
