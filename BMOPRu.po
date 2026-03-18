@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-18 22:31+0300\n"
+"PO-Revision-Date: 2026-03-18 22:46+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -22714,7 +22714,7 @@ msgstr "Правый Аналоговый Стик"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIAutoSave"
 msgid "Auto Save"
-msgstr "Автосохранение"
+msgstr "Автосохр."
 
 #. Key:	UIBack
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22966,7 +22966,7 @@ msgstr "Задача"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIPlayerSave"
 msgid "Player Save"
-msgstr "Сохранение игрока"
+msgstr "Ручн. сохр."
 
 #. Key:	UIPowerMask
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -25810,7 +25810,7 @@ msgstr "Гель Вахе Мата:"
 #: /Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.Text
 msgctxt "UIText_Description,SaveGame_NameInput"
 msgid "Player Save"
-msgstr "Ручное сохранение"
+msgstr "Ручн. сохр."
 
 #. Key:	SaveGame_NameInputHint
 #. SourceLocation:	/Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.HintText
@@ -25825,7 +25825,7 @@ msgstr "Введите тут название сохранения"
 #: Value).DisplayNameMap
 msgctxt "UIText_Description,Saves_Auto"
 msgid "Auto Save"
-msgstr "Автосохранение"
+msgstr "Автосохр."
 
 #. Key:	Saves_Manual
 #. SourceLocation:	/Game/BluePrints/Classes/Saving/TypeSave.TypeSave.DisplayNameMap(1 - Value).DisplayNameMap
