@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-19 18:19+0300\n"
+"PO-Revision-Date: 2026-03-19 18:22+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -378,9 +378,9 @@ msgid ""
 "needed to access the lair of Makuta. Only Nuju and his translator, Matoro, know the "
 "secret to unlocking it."
 msgstr ""
-"Ко-Кини – храм Льда. Он расположен вдали от Ко-Коро и добраться туда не очень просто. В "
-"храме хранится камень Макоки – фрагмент ключа, необходимого для доступа в логово Макуты. "
-"Только Нуджу и его переводчик Маторо знают, как его открыть."
+"Ко-Кини – храм Льда. Он расположен вдали от Ко-Коро и добраться туда не очень просто. "
+"Стены храма скрывают камень Макоки – фрагмент ключа, необходимого для доступа в логово "
+"Макуты. Только Нуджу и его переводчик Маторо знают, как его открыть."
 
 #. Key:	CodexPage_Kokoro_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Kokoro.Default__LocationEntry_Kokoro_C.Location Description
@@ -514,8 +514,8 @@ msgid ""
 "Stone- a fragment of a key needed to access the lair of Makuta."
 msgstr ""
 "Ле-Кини – храм Воздуха. Известно, что Рахи часто атакуют этот удалённый храм, отпугивая "
-"Маторанов от посещения этой святыни. Храм скрывает камень Макоки – фрагмент ключа, "
-"необходимого для доступа в логово Макуты."
+"Маторанов от посещения этой святыни. Стены храма скрывают камень Макоки – фрагмент "
+"ключа, необходимого для доступа в логово Макуты."
 
 #. Key:	CodexPage_Lekoro_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Lekoro.Default__LocationEntry_Lekoro_C.Location Description
@@ -1285,9 +1285,9 @@ msgid ""
 "intrigued by the mysteries the temple holds."
 msgstr ""
 "Та-Кини – храм Огня. Он располагается на склоне вулкана Мангаи, рядом с лавой, которая "
-"поддерживает и питает его. В храме хранится камень Макоки – фрагмент ключа, необходимого "
-"для доступа в логово Макуты. Немногие Матораны решаются посетить его, но есть те, кого "
-"завораживают тайны, хранимые в стенах храма."
+"поддерживает и питает его. Стены храма скрывают камень Макоки – фрагмент ключа, "
+"необходимого для доступа в логово Макуты. Немногие Матораны решаются посетить его… но "
+"есть те, кого завораживают тайны, хранимые в стенах храма."
 
 #. Key:	CodexPage_Takoro_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Takoro.Default__LocationEntry_Takoro_C.Location Description
