@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-18 22:46+0300\n"
+"PO-Revision-Date: 2026-03-19 12:46+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10620,7 +10620,7 @@ msgstr "Держите, $T!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran1.Default__DL_GreavingMatoran1_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran1"
 msgid "...I'm meditating, is there anything you need Toa?"
-msgstr "…Я медитирую, вам что-то нужно, Тоа?"
+msgstr "…Я медитирую. Вам что-то нужно, Тоа?"
 
 #. Key:	DL_GreavingMatoran10
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran10.Default__DL_GreavingMatoran10_C.DialogueText
