@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-19 13:10+0300\n"
+"PO-Revision-Date: 2026-03-19 18:11+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5705,7 +5705,7 @@ msgstr "Прежде чем вы уйдёте… вы упоминали о со
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaHeadBack.Default__DL_NokamaHeadBack_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NokamaHeadBack_PlayerResponse_2"
 msgid "Before you go, you mentioned a meeting, what sort of meeting?"
-msgstr "Перед тем, как вы вернётесь… вы упоминали о собрании. Что это за собрание?"
+msgstr "Прежде чем вы уйдёте… вы упоминали о собрании. Что это за собрание?"
 
 #. Key:	DL_NokamaKoro_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaKoro.Default__DL_NokamaKoro_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -11903,8 +11903,8 @@ msgid ""
 "So we are doomed to fail no matter how many times we confront Makuta? To relive this "
 "same battle countless times?"
 msgstr ""
-"То есть… мы обречены на поражение, несмотря на то, что мы много раз сталкивались с "
-"Макутой? Обречены переживать одну и ту же битву бесчисленное множество раз?"
+"То есть… мы обречены на поражение, несмотря на то, что много раз сталкивались с Макутой? "
+"Мы обречены переживать одну и ту же битву бесчисленное множество раз?"
 
 #. Key:	DL_Kopeke1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_Kopeke1.Default__DL_Kopeke1_C.DialogueText
@@ -12028,7 +12028,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteel1.Default__DL_KoTownKohiProtosteel1_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownKohiProtosteel1"
 msgid "Ahh Hello $T, come to help me free this thing?"
-msgstr "А, приветствую, Тоа $T. Пришли помочь мне достать эту штуку?"
+msgstr "А, приветствую, Тоа $T. Вы пришли помочь мне достать эту штуку?"
 
 #. Key:	DL_KoTownKohiProtosteel2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteel2.Default__DL_KoTownKohiProtosteel2_C.DialogueText
@@ -12045,8 +12045,8 @@ msgid ""
 "Oh, you gave me a fright Toa! Whagna isn't my home, I was mearly there following up on a "
 "lead to find this. Shame they got attacked though, I hope no one was hurt."
 msgstr ""
-"Ух… вы меня напугали, Тоа! Вагна – не мой дом, я лишь искал там зацепки, чтобы найти "
-"это. Жаль, конечно, что на них напали. Я надеюсь, что никто не пострадал."
+"Ух… вы меня напугали, Тоа! Вагна – не мой дом. Я всего лишь искал там зацепки, чтобы "
+"найти это. Жаль, конечно, что на них напали. Я надеюсь, что никто не пострадал."
 
 #. Key:	DL_KoTownKohiProtosteelDiscovered
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelDiscovered.Default__DL_KoTownKohiProtosteelDiscovered_C.DialogueText
