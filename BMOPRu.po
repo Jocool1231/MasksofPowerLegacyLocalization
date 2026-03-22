@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-22 20:01+0300\n"
+"PO-Revision-Date: 2026-03-22 23:08+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -363,7 +363,7 @@ msgid ""
 "hidden in the other Kinis across the island."
 msgstr ""
 "Кини-Нуи – великий храм Мата Нуи. Он считается особым и священным местом, хранящим "
-"высокую духовную ценность для маторанов. Но он также имеет и более злое предназначение, "
+"высокую духовную ценность для Маторанов. Но он также имеет и более злое предназначение, "
 "служа входом в Мангайю – логово Макуты. Вход в Мангайю можно открыть только при наличии "
 "всех шести камней Макоки, спрятанных в других Кини по всему острову."
 
@@ -396,7 +396,7 @@ msgid ""
 "sacred building which houses prophecies as well as those who seek to decipher them."
 msgstr ""
 "Ко-Коро – деревня Льда. Жёсткий климат и удалённое расположение делают её "
-"труднодосягаемой даже для самых отважных маторанов. Но тех, кто всё же решится на её "
+"труднодосягаемой даже для самых отважных Маторанов. Но тех, кто всё же решится на её "
 "покорение, ждёт не очень много достопримечательностей. Тихий, созерцательный характер Ко-"
 "Маторанов проявляется и в скудности их деревни. Им нужно немного для собственного "
 "благополучия, а своё уединение они используют для размышлений о воле Великого Духа в "
@@ -689,8 +689,9 @@ msgid ""
 msgstr ""
 "Остров Мата Нуи. Названный в честь Великого Духа Мата Нуи, этот райский остров является "
 "домом для Маторанов, Тураг и, с момента их прибытия, Тоа. Остров разделён на шесть "
-"регионов, в которых расположены шесть деревень Маторанов. Ваш долг в роли Тоа – найти "
-"все Маски Силы, спрятанные на острове, и спасти Маторанов от зловещей тени Макуты."
+"регионов, каждый из которых соответствует одной из шести стихий. В каждом регионе есть "
+"своя деревня Маторанов. Ваш долг в роли Тоа – найти все Маски Силы, спрятанные на "
+"острове, и спасти Маторанов от зловещей тени Макуты."
 
 #. Key:	CodexPage_Matatu_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matatu.Default__LocationEntry_Matatu_C.Location Description
@@ -967,8 +968,8 @@ msgstr ""
 "Этот храм хотя и был построен Ону-Маторанами, расположен над землёй в По-Вахи. Он был "
 "сконструирован очень, очень давно, ещё до окончания строительства тоннелей Ону-Вахи. "
 "Многие Ону-Матораны по-прежнему предпочитают пересекать трудный путь по жёсткой и "
-"светлой пустыне. Всё чтобы отдать дань уважения Мата Нуи – в качестве знака их веры и "
-"преданности."
+"светлой пустыне. Всё для того, чтобы отдать дань уважения Мата Нуи – в качестве знака их "
+"веры и преданности."
 
 #. Key:	CodexPage_Overlook_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Overlook.Default__LocationEntry_Overlook_C.Location Description
@@ -21542,7 +21543,7 @@ msgstr "Одолейте «Таракаву Холода»."
 #: /Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheLakeOfFrost_Objective_3"
 msgid "Speak to the matoran."
-msgstr "Поговорите с матораном."
+msgstr "Поговорите с Матораном."
 
 #. Key:	Quest_TheLakeOfFrost_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_TheLakeOfFrost.Default__Quest_TheLakeOfFrost_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -26259,7 +26260,7 @@ msgid ""
 "A Protosteel mask forged by Kohi, the first matoran on Mata Nui known able to manipulate "
 "Protosteel. Before his mysterious disappearance."
 msgstr ""
-"Маска из Протостали, созданная Кохи – первым матораном на Мата Нуи, который смог "
+"Маска из Протостали, созданная Кохи – первым Матораном на Мата Нуи, который смог "
 "овладеть этим материалом. До своего таинственного исчезновения."
 
 #. Key:	Cosmetics_VeryCoolHat_Description
