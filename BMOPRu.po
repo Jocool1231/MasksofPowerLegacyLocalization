@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-21 22:21+0300\n"
+"PO-Revision-Date: 2026-03-22 09:21+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13615,7 +13615,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/Masks/DL_MetonuHuna.Default__DL_MetonuHuna_C.DialogueText
 msgctxt "Dialogue_Text,DL_MetonuHuna"
 msgid "The Huna! Very sneaky Toa... I'll get to work then!"
-msgstr "Хуна! Очень хитро, Тоа… Я займусь этим!"
+msgstr "Хуна! Очень хитро и малозаметно, Тоа… Я займусь этим!"
 
 #. Key:	DL_MetonuKakama
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/Masks/DL_MetonuKakama.Default__DL_MetonuKakama_C.DialogueText
@@ -13661,7 +13661,7 @@ msgctxt "Dialogue_Text,DL_MetonuMatatu"
 msgid ""
 "The Matatu! Huh, never really saw the use in Telekinesis, but alright I'll get to work!"
 msgstr ""
-"Матату! Хм, никогда не видел смысла в способности Телекинеза, но ладно, примусь за дело!"
+"Матату! Хм, никогда не видел смысла в способности Телекинеза… но ладно, примусь за дело!"
 
 #. Key:	DL_MetonuMaterials
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuMaterials.Default__DL_MetonuMaterials_C.DialogueText
@@ -13692,9 +13692,9 @@ msgid ""
 "should be renamed to like... The Mask of High Jump! Okay, not that but... I'll just make "
 "the thing now."
 msgstr ""
-"Миру! Левитация, конечно, круто, но я слышал, что она ещё даёт и ускорение к прыжку. "
-"Может, её стоило переименовать во что-то типа… Маска Высоких Прыжков? Ну ладно, не "
-"совсем так, но… Я лучше займусь делом."
+"Миру! Левитация – конечно, круто, но я также слышал, что она ещё даёт и ускорение к "
+"прыжку. Может, её стоило переименовать во что-то типа… Маска Высоких Прыжков? Ну, может "
+"не совсем так, но… Ладно, я лучше займусь делом."
 
 #. Key:	DL_MetonuOrig
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuOrig.Default__DL_MetonuOrig_C.DialogueText
@@ -13723,7 +13723,8 @@ msgid ""
 "The Rau! Translation, not super useful but I can see the appeal... I'll get right to "
 "work then!"
 msgstr ""
-"Рау! Перевод, не особо полезный навык, но я вижу на него спрос… Примусь-ка за дело!"
+"Рау! Перевод… не особо полезный навык, но, с другой стороны, я вижу на него спрос… "
+"Примусь-ка за дело!"
 
 #. Key:	DL_MetonuReturn
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Metonu/DL_MetonuReturn.Default__DL_MetonuReturn_C.DialogueText
@@ -13740,8 +13741,8 @@ msgid ""
 "The Ruru! I hope this may shed some light on it's location... That was bad, I'll just "
 "get to work."
 msgstr ""
-"Руру! Надеюсь, это поможет пролить свет на её местоположение… М-да, плохая шутка, я "
-"лучше примусь за дело."
+"Руру! Надеюсь, это поможет пролить свет на её местоположение… М-да, шутка вышла так "
+"себе. Я лучше примусь за дело."
 
 #. Key:	DL_Midak1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Midak1.Default__DL_Midak1_C.DialogueText
