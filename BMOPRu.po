@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-22 23:08+0300\n"
+"PO-Revision-Date: 2026-03-23 13:35+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -8900,7 +8900,7 @@ msgstr "Прекрати это безумие, Макута!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutCorruptedMakuta2.Default__DL_TutCorruptedMakuta2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_TutCorruptedMakuta2_PlayerResponse_1"
 msgid "It’s your control over us that has ended!"
-msgstr "Твой контроль над нами закончился!"
+msgstr "Что действительно подошло к концу, так это твой контроль над нами!"
 
 #. Key:	DL_TutFinalDialouge2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutFinalDialouge2.Default__DL_TutFinalDialouge2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
