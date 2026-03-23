@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-23 13:50+0300\n"
+"PO-Revision-Date: 2026-03-23 14:05+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -4355,7 +4355,7 @@ msgstr "Очень стильно, спасибо."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelGift.Default__DL_KoTownKohiProtosteelGift_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KoTownKohiProtosteelGift_PlayerResponse_1"
 msgid "Thank you! What are you going to make?"
-msgstr "Спасибо! Что ты будешь делать?"
+msgstr "Спасибо! Что ты хочешь сделать?"
 
 #. Key:	DL_KoTownKohiProtosteelGive1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelGive1.Default__DL_KoTownKohiProtosteelGive1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
