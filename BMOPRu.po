@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-29 11:48+0300\n"
+"PO-Revision-Date: 2026-04-01 10:45+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -3484,7 +3484,7 @@ msgstr "Твой груз?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterIntro_2.Default__DL_JobmasterIntro_2_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_JobmasterIntro_2_PlayerResponse_3"
 msgid "Reka said you would have a job for me."
-msgstr "Река сказал, что у тебя может быть работёнка для меня."
+msgstr "Река сказал, что у тебя есть какая-то работёнка для меня."
 
 #. Key:	DL_JobmasterIntro_2_PlayerResponse_4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterIntro_2.Default__DL_JobmasterIntro_2_C.Responses(3).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -3533,7 +3533,7 @@ msgstr "Что за груз?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterJobSneak.Default__DL_JobmasterJobSneak_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_JobmasterJobSneak_PlayerResponse_1"
 msgid "He said you might have a job for me."
-msgstr "Он сказал, что у тебя может быть работа для меня."
+msgstr "Река сказал, что у тебя может найтись какая-то работёнка для меня."
 
 #. Key:	DL_JobmasterJobSneak_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterJobSneak.Default__DL_JobmasterJobSneak_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -3744,21 +3744,21 @@ msgstr "Ладно, до встречи…"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereGa.Default__DL_KapuraWhereGa_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KapuraWhereGa_PlayerResponse_1"
 msgid "If you came all the way from Ta-Wahi, then It seems he was right."
-msgstr "Если ты прошёл весь этот путь из Та-Вахи, то он, видимо, был прав."
+msgstr "Если ты прошёл весь этот путь из Та-Вахи… то он, видимо, был прав."
 
 #. Key:	DL_KapuraWhereKo_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereKo.Default__DL_KapuraWhereKo_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereKo.Default__DL_KapuraWhereKo_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KapuraWhereKo_PlayerResponse_1"
 msgid "If you managed to come all the way from Ta-Wahi, then It seems he was right."
-msgstr "Если ты умудрился пройти весь этот путь из Та-Вахи, то он, видимо, был прав."
+msgstr "Если ты умудрился пройти весь этот путь из Та-Вахи… то он, видимо, был прав."
 
 #. Key:	DL_KapuraWhereLe_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereLe.Default__DL_KapuraWhereLe_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereLe.Default__DL_KapuraWhereLe_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KapuraWhereLe_PlayerResponse_1"
 msgid "If you came all the way from Ta-Wahi, then It seems he was right."
-msgstr "Если ты прошёл весь этот путь из Та-Вахи, то он, видимо, был прав."
+msgstr "Если ты прошёл весь этот путь из Та-Вахи… то он, видимо, был прав."
 
 #. Key:	DL_KapuraWhereOnu_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Kapura/DL_KapuraWhereOnu.Default__DL_KapuraWhereOnu_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -16234,8 +16234,8 @@ msgid ""
 "They're gone? *He gets up, being cautious.* Oh, good. There were... two, maybe three? Or "
 "was it six? A bunch of Tarakava came in and wrecked the place! "
 msgstr ""
-"Они ушли? *Встаёт, соблюдая осторожность.* О, хорошо. Их было… двое, может даже трое? "
-"Или шестеро? Куча Таракав пришла и разгромила это место! "
+"Они ушли? *Встаёт, соблюдая осторожность.* Ох, это хорошо. Их было… двое, может даже "
+"трое? Или шестеро? Куча Таракав пришла и разгромила это место! "
 
 #. Key:	DL_ShipperIntroRahi
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroRahi.Default__DL_ShipperIntroRahi_C.DialogueText
@@ -16286,7 +16286,7 @@ msgid ""
 "T-Toa? *He opens his eyes.* Toa $T! It's good to see you... Ouch. It's a bit bright. "
 "I've had my eyes closed for a while now..."
 msgstr ""
-"Т-Тоа? *Открывает глаза.* Тоа $T! Рад вас видеть… Ай! Немножко ярковато. Мои глаза были "
+"Т-Тоа? *Открывает глаза.* Тоа $T! Рад вас видеть… Ай! Немножко ярковато… Мои глаза были "
 "закрыты длительное время…"
 
 #. Key:	DL_ShipperIntroToa_2
@@ -16406,8 +16406,8 @@ msgid ""
 "correct that straight away... Hmm, perhaps you would be willing to bring the class two's "
 "back for me?"
 msgstr ""
-"Балин! Я так и знал, что перепутаю их рано или поздно, они же выглядят совершенно "
-"одинаково! Я исправлю это незамедлительно… Хмм, может тогда вы вернёте мне обратно "
+"Балин! Я так и знал, что перепутаю их рано или поздно – они же выглядят совершенно "
+"одинаково! Я незамедлительно это исправлю… Хмм… может, тогда вы вернёте мне обратно "
 "посохи класса два?"
 
 #. Key:	DL_StaffSellerQuartermaster3
@@ -16415,7 +16415,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster3.Default__DL_StaffSellerQuartermaster3_C.DialogueText
 msgctxt "Dialogue_Text,DL_StaffSellerQuartermaster3"
 msgid "Excellent I'll get right on that then!"
-msgstr "Отлично, я этим займусь безотлагательно!"
+msgstr "Отлично, я сейчас же этим займусь!"
 
 #. Key:	DL_StaffSellerQuartermaster4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster4.Default__DL_StaffSellerQuartermaster4_C.DialogueText
@@ -17458,7 +17458,7 @@ msgid ""
 "Oh... wouldn't it be cool if Onua was riding the Muaka instead? Maybe you're there too..."
 msgstr ""
 "Скоро. Очень скоро. Мне просто нужно поменять кое-что и всё будет прекрасно. Ох… было бы "
-"круто, если бы Онуа сидел верхом на Муаке. Может и вместе с вами…"
+"круто, если бы Онуа сидел верхом на Муаке. Может, и вместе с вами…"
 
 #. Key:	DL_ThueiFinishOnua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_ThueiFinishOnua.Default__DL_ThueiFinishOnua_C.DialogueText
@@ -17469,7 +17469,7 @@ msgid ""
 "Oh... wouldn't it be cool if you were riding the Muaka instead? Maybe Lewa's there too..."
 msgstr ""
 "Скоро. Очень скоро. Мне просто нужно поменять кое-что и всё будет прекрасно. Ох… было бы "
-"круто, если бы вы сидели верхом на Муаке. Может и вместе с Левой…"
+"круто, если бы вы сидели верхом на Муаке. Может, и вместе с Левой…"
 
 #. Key:	DL_ThueiFun
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_ThueiFun.Default__DL_ThueiFun_C.DialogueText
@@ -18807,7 +18807,7 @@ msgstr "Искуссно сделанный горшок ручной работ
 msgctxt "InvItem_Description,Item_ProtoCell_Desc"
 msgid "A small capsule filled with Protodermis, can be crushed to absorb it's power."
 msgstr ""
-"Небольшая капсула, заполненная Протодермисом, может быть разрушена для поглощения её "
+"Небольшая капсула, заполненная Протодермисом. Может быть разрушена для поглощения её "
 "энергии."
 
 #. Key:	Item_ProtoCharge_Desc
@@ -18817,7 +18817,7 @@ msgctxt "InvItem_Description,Item_ProtoCharge_Desc"
 msgid ""
 "A large tank filled with a great sum of Protodermis, can be smashed to absorb it's power."
 msgstr ""
-"Большая канистра, заполненная большим объёмом Протодермиса, может быть разрушена для "
+"Большая канистра, заполненная большим объёмом Протодермиса. Может быть разрушена для "
 "поглощения её энергии."
 
 #. Key:	Item_ResearchNotes_Desc
