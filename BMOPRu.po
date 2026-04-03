@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-04-03 09:57+0300\n"
+"PO-Revision-Date: 2026-04-03 10:00+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -20924,7 +20924,7 @@ msgstr "Логово Макуты"
 #: /Game/BluePrints/Classes/Quests/Quest_OnTheLine.Default__Quest_OnTheLine_C.QuestName
 msgctxt "Quest_Name,Quest_OnTheLine"
 msgid "On The Line"
-msgstr "Перевозчики"
+msgstr "С доставкой на дом"
 
 #. Key:	Quest_Onua
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Onua.Default__Quest_Onua_C.QuestName
