@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-04-03 23:08+0300\n"
+"PO-Revision-Date: 2026-04-09 11:43+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -1151,10 +1151,10 @@ msgid ""
 "the island of Mata Nui. Or, you could try deciphering the Matoran text on your own if "
 "you know it well enough."
 msgstr ""
-"Канохи Рау: Благородная Маска Перевода. Эта маска позволит вам понять любой письменный "
+"Канохи Рау: Благородная Маска Перевода. Эта маска поможет вам понять любой письменный "
 "язык. Вы можете воспользоваться ей для перевода Маторанских текстов по всему острову "
-"Мата Нуи. Или вы можете попробовать расшифровать Маторанские тексты самостоятельно, если "
-"вы сами хорошо знаете язык."
+"Мата Нуи… Или вы можете попробовать расшифровать Маторанские тексты самостоятельно, если "
+"вы сами хорошо им владеете."
 
 #. Key:	CodexPage_Ruki_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Ruki.Default__LocationEntry_Ruki_C.Location Description
@@ -18632,8 +18632,8 @@ msgid ""
 "These masks seem to be under a strange power from Makuta. Perhaps they are worth some "
 "widgets?"
 msgstr ""
-"Кажется, эти маски наделены странной силой Макуты. Возможно, они могут принести вам "
-"несколько виджетов?"
+"Кажется, эти маски наделены странной силой Макуты. Возможно, за них получится выручить "
+"парочку виджетов?"
 
 #. Key:	Item_KakamaUnpowered_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/UnpoweredMasks/Item_KakamaUnpowered.Item_KakamaUnpowered.Description
