@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-04-10 10:13+0300\n"
+"PO-Revision-Date: 2026-04-10 10:26+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25122,14 +25122,14 @@ msgstr "НАЖМИТЕ КЛАВИШУ ДЛЯ ПРИВЯЗКИ"
 #: /Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock_56.Text
 msgctxt "UIText_Description,Map_MarkerOpacity"
 msgid "Marker Opacity"
-msgstr "Прозрачность значков"
+msgstr "Прозрачность Значков"
 
 #. Key:	Map_MarkerSize
 #. SourceLocation:	/Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock.Text
 #: /Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock.Text
 msgctxt "UIText_Description,Map_MarkerSize"
 msgid "Marker Size"
-msgstr "Размер значков"
+msgstr "Размер Значков"
 
 #. Key:	MapCtrlsWidget_IconSize
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.IconSizeBaseText
@@ -25819,7 +25819,7 @@ msgstr "Ручн. сохр."
 #: /Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.HintText
 msgctxt "UIText_Description,SaveGame_NameInputHint"
 msgid "Enter Save Name Here"
-msgstr "Введите тут название сохранения"
+msgstr "Введите Здесь Имя Сохранения"
 
 #. Key:	Saves_Auto
 #. SourceLocation:	/Game/BluePrints/Classes/Saving/TypeSave.TypeSave.DisplayNameMap(0 - Value).DisplayNameMap
