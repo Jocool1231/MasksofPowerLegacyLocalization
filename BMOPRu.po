@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-04-10 10:07+0300\n"
+"PO-Revision-Date: 2026-04-10 10:13+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25122,14 +25122,14 @@ msgstr "НАЖМИТЕ КЛАВИШУ ДЛЯ ПРИВЯЗКИ"
 #: /Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock_56.Text
 msgctxt "UIText_Description,Map_MarkerOpacity"
 msgid "Marker Opacity"
-msgstr "Прозрачность Маркера"
+msgstr "Прозрачность значков"
 
 #. Key:	Map_MarkerSize
 #. SourceLocation:	/Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock.Text
 #: /Game/BluePrints/UI/Widget_WorldMap.Widget_WorldMap_C:WidgetTree.TextBlock.Text
 msgctxt "UIText_Description,Map_MarkerSize"
 msgid "Marker Size"
-msgstr "Размер Маркера"
+msgstr "Размер значков"
 
 #. Key:	MapCtrlsWidget_IconSize
 #. SourceLocation:	/Game/BluePrints/UI/ControlSchemes_MapWidget.Default__ControlSchemes_MapWidget_C.IconSizeBaseText
