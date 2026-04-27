@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-04-12 14:35+0300\n"
+"PO-Revision-Date: 2026-04-27 09:21+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -4812,14 +4812,18 @@ msgstr "Нет."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGood.Default__DL_LeQuestKumoGood_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_LeQuestKumoGood_PlayerResponse_1"
 msgid "South, but wouldn't you like me to take you there? There are Rahi about!"
-msgstr "На юге. Но не хотел бы ты, чтобы я отвёл тебя туда? Вокруг много Рахи!"
+msgstr ""
+"На юге. Но не хотел бы ты, чтобы я {G}|gender(отвёл, отвела) тебя туда? Вокруг много "
+"Рахи!"
 
 #. Key:	DL_LeQuestKumoGoodAddQuest_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGoodAddQuest.Default__DL_LeQuestKumoGoodAddQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGoodAddQuest.Default__DL_LeQuestKumoGoodAddQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_LeQuestKumoGoodAddQuest_PlayerResponse_1"
 msgid "South, but wouldn't you like me to take you there? There are Rahi about!"
-msgstr "На юге. Но не хотел бы ты, чтобы я отвёл тебя туда? Вокруг много Рахи!"
+msgstr ""
+"На юге. Но не хотел бы ты, чтобы я {G}|gender(отвёл, отвела) тебя туда? Вокруг много "
+"Рахи!"
 
 #. Key:	DL_LeQuestKumoHelp_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoHelp.Default__DL_LeQuestKumoHelp_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5902,7 +5906,7 @@ msgstr "Вы… пытаетесь что-то мне сказать?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost4.Default__DL_NujuLost4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NujuLost4_PlayerResponse_1"
 msgid "I’m glad you are safe."
-msgstr "Я рад, что вы в порядке."
+msgstr "Я  {G}|gender(рад, рада), что вы в порядке."
 
 #. Key:	DL_NujuLost4_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost4.Default__DL_NujuLost4_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5916,7 +5920,7 @@ msgstr "Вы… вы по-прежнему пытаетесь что-то мне
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuTelling.Default__DL_NujuTelling_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NujuTelling_PlayerResponse_1"
 msgid "...Maybe we should get you back to Matoro."
-msgstr "…Может, нам стоит вернуть вас к Маторо."
+msgstr "…Возможно, нам стоит вернуть вас к Маторо."
 
 #. Key:	DL_Numai1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Numai1.Default__DL_Numai1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6540,7 +6544,8 @@ msgstr "Опять ты? Что всё это значит?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRace2.Default__DL_PoduRace2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PoduRace2_PlayerResponse_2"
 msgid "Just hang in there… I’m sure Kopaka will be here any minute now!"
-msgstr "Просто держись… Я уверен: Копака будет здесь с минуты на минуту!"
+msgstr ""
+"Просто держись… Я {G}|gender(уверен, уверена): Копака будет здесь с минуты на минуту!"
 
 #. Key:	DL_PoduRace2_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRace2.Default__DL_PoduRace2_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8627,7 +8632,7 @@ msgstr "Ты в порядке, Тафал?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixing2.Default__DL_TaphalFixing2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_TaphalFixing2_PlayerResponse_1"
 msgid "I'm sure you will, good luck."
-msgstr "Я уверен, что ты справишься. Удачи тебе."
+msgstr "Я  {G}|gender(уверен, уверена), что ты справишься. Удачи тебе."
 
 #. Key:	DL_TaphalQuestion_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalQuestion.Default__DL_TaphalQuestion_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9557,7 +9562,7 @@ msgid ""
 msgstr ""
 "Ну, ты же наверняка {G}|gender(слышал, слышала)! На мои Кометы сейчас очень высокий "
 "спрос. Они продаются настолько быстро, что мне пришлось поднять на них цены, пока я жду "
-"запасы!"
+"запасные!"
 
 #. Key:	DL_Akamar
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.DialogueText
@@ -17600,7 +17605,7 @@ msgstr "О, отлично…"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ukkar2.Default__DL_Ukkar2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Ukkar2"
 msgid "Hah, Howdy Toa! Have you been in Po-Koro long?"
-msgstr "А, здоровеньки булы, Тоа! Как давно вы были По-Коро?"
+msgstr "А, здоровеньки булы, Тоа! Как давно вы были в По-Коро?"
 
 #. Key:	DL_Ukkar3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ukkar3.Default__DL_Ukkar3_C.DialogueText
