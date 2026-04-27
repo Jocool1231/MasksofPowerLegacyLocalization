@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-04-26 21:13+0300\n"
+"PO-Revision-Date: 2026-04-27 09:21+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5906,7 +5906,7 @@ msgstr "Вы… пытаетесь что-то мне сказать?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost4.Default__DL_NujuLost4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NujuLost4_PlayerResponse_1"
 msgid "I’m glad you are safe."
-msgstr "Я рад, что вы в порядке."
+msgstr "Я  {G}|gender(рад, рада), что вы в порядке."
 
 #. Key:	DL_NujuLost4_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost4.Default__DL_NujuLost4_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6544,7 +6544,8 @@ msgstr "Опять ты? Что всё это значит?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRace2.Default__DL_PoduRace2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_PoduRace2_PlayerResponse_2"
 msgid "Just hang in there… I’m sure Kopaka will be here any minute now!"
-msgstr "Просто держись… Я уверен: Копака будет здесь с минуты на минуту!"
+msgstr ""
+"Просто держись… Я {G}|gender(уверен, уверена): Копака будет здесь с минуты на минуту!"
 
 #. Key:	DL_PoduRace2_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRace2.Default__DL_PoduRace2_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8631,7 +8632,7 @@ msgstr "Ты в порядке, Тафал?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalFixing2.Default__DL_TaphalFixing2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_TaphalFixing2_PlayerResponse_1"
 msgid "I'm sure you will, good luck."
-msgstr "Я уверен, что ты справишься. Удачи тебе."
+msgstr "Я  {G}|gender(уверен, уверена), что ты справишься. Удачи тебе."
 
 #. Key:	DL_TaphalQuestion_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TaphalQuestion.Default__DL_TaphalQuestion_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
