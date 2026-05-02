@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-05-02 14:21+0300\n"
+"PO-Revision-Date: 2026-05-02 18:28+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5906,7 +5906,7 @@ msgstr "Вы… пытаетесь что-то мне сказать?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost4.Default__DL_NujuLost4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NujuLost4_PlayerResponse_1"
 msgid "I’m glad you are safe."
-msgstr "Я  {G}|gender(рад, рада), что вы в порядке."
+msgstr "Я {G}|gender(рад, рада), что вы в порядке."
 
 #. Key:	DL_NujuLost4_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_NujuLost4.Default__DL_NujuLost4_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
