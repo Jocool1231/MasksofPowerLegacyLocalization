@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-05-02 18:28+0300\n"
+"PO-Revision-Date: 2026-05-03 20:12+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10411,7 +10411,7 @@ msgctxt "Dialogue_Text,DL_DamQuestIntro2"
 msgid "Oh hello Toa, sorry I didn't see you there. Yeah not many fish left... >snif<"
 msgstr ""
 "Ох, приветствую, Тоа. Извините, я вас не заметил. Да, осталось не так много рыб… "
-"<шмыгает носом>"
+"*Шмыгает носом*"
 
 #. Key:	DL_DamQuestIntro3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamQuestIntro3.Default__DL_DamQuestIntro3_C.DialogueText
