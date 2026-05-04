@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-05-03 20:12+0300\n"
+"PO-Revision-Date: 2026-05-04 22:45+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -17277,7 +17277,7 @@ msgid ""
 "stars, one can create very accurate depictions of the future and the past."
 msgstr ""
 "Да, их довольно много. Наблюдая за Красной Звездой и её положением относительно других "
-"звёзд, возможно создать очень точные прогнозы будущего и прошлого."
+"звёзд, можно создать очень точные прогнозы прошлого и будущего."
 
 #. Key:	DL_TelescopeManHow
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TelescopeManHow.Default__DL_TelescopeManHow_C.DialogueText
@@ -17430,7 +17430,7 @@ msgstr "Большое спасибо, что спасли Кумо! Вы и п�
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei2.Default__DL_Thuei2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Thuei2"
 msgid "No, no no! Toa, you're not supposed to see this yet! I'm still working on it!"
-msgstr "Нет, нет, нет! Тоа, вы ещё не должны это видеть! Я всё ещё работаю над этим!"
+msgstr "Нет, нет, НЕТ! Тоа, вы ещё не должны это видеть! Я всё ещё работаю над этим!"
 
 #. Key:	DL_Thuei3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei3.Default__DL_Thuei3_C.DialogueText
