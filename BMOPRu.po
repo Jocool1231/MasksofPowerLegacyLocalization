@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-05-04 22:50+0300\n"
+"PO-Revision-Date: 2026-05-06 11:55+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -14970,8 +14970,8 @@ msgid ""
 "I wasn’t told much, only that it was urgent for you to hear this. You must travel to the "
 "very northern tip of Po-Wahi, past the old Temple."
 msgstr ""
-"Мне сказали не особо много: всего лишь то, что это нечто важное для вас. Вам нужно "
-"отправиться на самую северную оконечность По-Вахи, близ старого храма."
+"Мне сказали не особо много: всего лишь то, что это нечто важное исрочное для вас. Вам "
+"нужно отправиться на самую северную оконечность По-Вахи, близ старого храма."
 
 #. Key:	DL_PoduRaceKopakaCutscene
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRaceKopakaCutscene.Default__DL_PoduRaceKopakaCutscene_C.DialogueText
@@ -14989,7 +14989,7 @@ msgid ""
 "you have one. Some legends say there’s one in the hidden Temple..."
 msgstr ""
 "Спасибо, Копака. Да, и ещё: мне сказали, что вам лучше принести с собой Какаму, если она "
-"у вас есть. Какие-то легенды говорят, что её можно найти в спрятанном Храме…"
+"у вас есть. Какие-то легенды говорят, что её можно найти в скрытом Храме…"
 
 #. Key:	DL_PoduRaceKopakaWhat
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWhat.Default__DL_PoduRaceKopakaWhat_C.DialogueText
@@ -14999,8 +14999,9 @@ msgid ""
 "I’m… not quite sure honestly. All I know is that it’s urgent. There isn’t much past the "
 "hidden Temple, so your guess is as good as mine."
 msgstr ""
-"Я… честно говоря, не до конца уверен. Всё, что мне сказали, так это то, что это срочно. "
-"Кроме спрятанного храма особенного ничего нет, поэтому ваши догадки будут на уровне моих."
+"Я… честно говоря, не до конца уверен. Всё, что мне сказали, так это то, что это "
+"архисрочно. Кроме скрытого храма особенного ничего нет, поэтому ваши догадки будут на "
+"уровне моих."
 
 #. Key:	DL_PoduRaceKopakaWho
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWho.Default__DL_PoduRaceKopakaWho_C.DialogueText
@@ -15057,7 +15058,7 @@ msgstr "Эх…"
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/DeclineReturn/DL_PoduRaceReturnKopaka.Default__DL_PoduRaceReturnKopaka_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRaceReturnKopaka"
 msgid "Finally! Now if only Pohatu were to show up..."
-msgstr "Наконец-то! Теперь бы ещё дождаться Похату…"
+msgstr "Ну наконец-то! Теперь бы ещё дождаться Похату…"
 
 #. Key:	DL_PoduRaceReturnKopakaPohatu1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/DeclineReturn/DL_PoduRaceReturnKopakaPohatu1.Default__DL_PoduRaceReturnKopakaPohatu1_C.DialogueText
@@ -17383,7 +17384,7 @@ msgid ""
 "The closest one should be the Ta-Wahi Temple, it's south of here, hidden among the burnt "
 "trees."
 msgstr ""
-"Самым ближайшим должен быть храм Та-Вахи. Он расположен к югу отсюда и спрятан среди "
+"Самым ближайшим должен быть храм Та-Вахи. Он расположен к югу отсюда и скрыт среди "
 "сожжённых деревьев."
 
 #. Key:	DL_TempleMatoranQuestIntro
