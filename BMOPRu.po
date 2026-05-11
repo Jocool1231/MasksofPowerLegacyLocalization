@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-05-06 11:55+0300\n"
+"PO-Revision-Date: 2026-05-11 15:43+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -643,8 +643,8 @@ msgstr ""
 "Разновидность медленных ручных Рахи, внешне похожих на коз и обитающих преимущественно в "
 "По-Вахи. Они были одомашнены и обучены По-Маторанами для использования в качестве "
 "домашнего скота, а также тяглового животного, помогающего везти повозки с тяжёлыми "
-"камнями в город для дальнейшей обработки. Они считаются ценными среди Маторанов, поэтому "
-"их нередко приводят в город для продажи на Базаре По-Коро."
+"камнями в селение для дальнейшей обработки. Они считаются ценными среди Маторанов, "
+"поэтому их нередко приводят в город для продажи на Базаре По-Коро."
 
 #. Key:	CodexPage_Mahiki_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Mahiki.Default__LocationEntry_Mahiki_C.Location Description
@@ -16972,7 +16972,7 @@ msgid ""
 "So once again, \"Ahh Ta-koro, what a wonderful city. From the Lava, to the fires of the "
 "torches,\" Just finish that sentence best you can."
 msgstr ""
-"Ещё раз: «Ах, Та-Коро, какой чудесный город. От лавы и до огней факелов,». Просто "
+"Ещё раз: «Ах, Та-Коро, какое чудесное место. От лавы и до огней факелов,». Просто "
 "закончите предложение так, как вам кажется лучше."
 
 #. Key:	DL_Talok2
@@ -17057,7 +17057,7 @@ msgid ""
 "Alright lets see, where was I... Oh yes- \"Ahh Ta-Koro, what a wonderful city. From the "
 "Lava, to the fires of the torches,\"... Dahh..."
 msgstr ""
-"Так, на чём я остановился… А, точно – «Ах, Та-Коро, какой чудесный город. От лавы и до "
+"Так, на чём я остановился… А, точно – «Ах, Та-Коро, какое чудесное место. От лавы и до "
 "огней факелов,»… Ээмм…"
 
 #. Key:	DL_Talok9
@@ -20119,10 +20119,10 @@ msgid ""
 "-200 Widgets"
 msgstr ""
 "Требуется:\r\n"
-"-10 Слитков Металлического Протодермиса\r\n"
-"-10 Кристаллов Света\r\n"
-"-50 единиц Геля Вахе-Мата\r\n"
-"-200 Виджетов"
+"–10 Слитков Металлического Протодермиса\r\n"
+"–10 Кристаллов Света\r\n"
+"–50 единиц Геля Вахе-Мата\r\n"
+"–200 Виджетов"
 
 #. Key:	Item_SouthernTipNote_NoteDisplay
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_SouthernTipNote.Item_SouthernTipNote.TextToDisplay
